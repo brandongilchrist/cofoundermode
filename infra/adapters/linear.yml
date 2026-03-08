@@ -1,0 +1,37 @@
+# Linear Integration Config
+
+adapter: linear
+version: "1.0"
+
+connection:
+  api_key: "${LINEAR_API_KEY}"
+  workspace_id: "${LINEAR_WORKSPACE_ID}"
+
+defaults:
+  default_team: "CoFounderMode"
+  default_project: "General"
+
+label_mapping:
+  engineering: "Engineering"
+  product: "Product"
+  security: "Security"
+  marketing: "Marketing"
+  operations: "Operations"
+  rd: "R&D"
+  it: "IT"
+  finance: "Finance"
+
+sync:
+  direction: bidirectional
+  interval_seconds: 60
+  sync_comments: true
+  sync_attachments: false
+
+webhooks:
+  enabled: true
+  events:
+    - issue.created
+    - issue.updated
+    - issue.deleted
+    - comment.created
+    - project.updated

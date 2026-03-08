@@ -1,0 +1,11 @@
+# Paperclip Organization Config
+# Full configuration will be written in Phase 4.
+# See /governance/ for policy definitions and /agents/ for agent definitions.
+
+organization:
+  name: CoFounderMode
+  parent: Gilchrist Research
+  description: Autonomous company infrastructure platform
+
+# Agent definitions, budgets, heartbeats, and governance rules
+# will be populated in Phase 4.

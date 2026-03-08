@@ -1,0 +1,43 @@
+# GitHub Integration Config
+
+adapter: github
+version: "1.0"
+
+connection:
+  api_key: "${GITHUB_API_KEY}"
+  org: "brandongilchrist"
+
+defaults:
+  default_repo: "cofoundermode"
+  default_branch: "main"
+
+repositories:
+  - name: cofoundermode
+    description: "Company operating system and agent definitions"
+    auto_review: true
+  - name: lobsterboard
+    description: "Mission control dashboard"
+    auto_review: true
+
+pr_rules:
+  require_reviews: 2
+  reviewers:
+    engineering: ["cto"]
+    security: ["cso"]
+  auto_assign_security_review:
+    paths:
+      - "governance/**"
+      - "infra/**"
+      - "agents/*/TOOLS.md"
+      - "**/auth/**"
+      - "**/secrets/**"
+
+webhooks:
+  enabled: true
+  events:
+    - pull_request.opened
+    - pull_request.synchronize
+    - pull_request.merged
+    - push
+    - issues.opened
+    - issues.closed
