@@ -1,0 +1,298 @@
+{
+  "date": "2026-03-09",
+  "generated_at": "2026-03-09T04:07:50.883Z",
+  "curated_by": "CSO Sentinel + CRO Horizon",
+  "pipeline_version": "1.0.0",
+  "sources_checked": 6,
+  "sources_failed": 1,
+  "items_found": 68,
+  "items_curated": 20,
+  "items": [
+    {
+      "title": "Chainalysis Upgrades Support for Stellar with Automatic Token Support",
+      "summary": "Chainalysis is excited to announce upgraded support for Stellar, one of the longest-running blockchains in the ecosystem. Founded in 2014,… The post Chainalysis Upgrades Support for Stellar with Automatic Token Support appeared first on Chainalysis.",
+      "type": "analysis",
+      "severity": "high",
+      "tags": [
+        "exploit"
+      ],
+      "chain": "Polygon",
+      "loss_usd": 0,
+      "source": "Chainalysis",
+      "url": "https://www.chainalysis.com/blog/stellar-automatic-token-support-february-2026/",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "Oil futures surge 20% past $110 as war fears hammer Asian stocks, bitcoin steady near $67K",
+      "summary": "Nikkei drops more than 6%, and Kospi slides about 8% as traders price supply disruption risk, while prediction markets show strong odds of $120 crude.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 67000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/09/oil-futures-surge-20-past-usd110-as-war-fears-hammer-asian-stocks-bitcoin-steady-near-usd67k",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Bitcoin preps fresh trend line showdown as weekly close sparks $60K target",
+      "summary": "Bitcoin price weakness brought back the risk of cementing its 200-week exponential moving average trend line as new resistance.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 60000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-fresh-trend-line-showdown-weekly-close-60k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "US lawmakers warn temporary CBDC ban isn’t enough, demand 'permanent' block",
+      "summary": "US lawmakers said any ban on issuing a US CBDC must “be permanent,” warning that creating one would be “inherently anti-American.”",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/united-states-cbdc-federal-reserve-lawmakers-dispute-letter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Bitcoin ‘bull trap’ forming as bear market enters middle phase: Willy Woo",
+      "summary": "On-chain analyst Willy Woo said Bitcoin’s current price range likely hasn’t bottomed yet, warning that the market could see further downside before a true cycle low forms.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-bull-trap-bear-market-phase-middle-willy-woo-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "The Multibillion-dollar shift turning prediction markets into a professional hedging tool",
+      "summary": "Traders are moving beyond sports bets and elections to price \"unpriceable\" geopolitical and policy risks that standard financial tools can’t handle.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/03/07/the-multibillion-dollar-shift-turning-prediction-markets-into-a-professional-hedging-tool",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Kalshi, Polymarket eye $20B valuations in potential fundraising: WSJ",
+      "summary": "Lawmakers are pushing new regulation for prediction markets after suspiciously timed Polymarket bets on US and Israeli strikes on Iran raised insider-trading concerns.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 20000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kalshi-polymarket-20b-valuation-fundraising-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Odds of Bitcoin price drop to $65K rise as private credit woes, US war rattle markets",
+      "summary": "A new war, private credit market weakness and spiking commodities prices add tail risk to Bitcoin’s price. Is $65,000 BTC’s next stop?",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 65000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/odds-of-bitcoin-price-drop-to-65k-rise-as-private-credit-woes-us-war-rattle-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "Bitcoin correlation with tech stocks overblown: NYDIG",
+      "summary": "NYDIG’s Greg Cipolaro says that Bitcoin and tech stocks aren’t converging and are likely just reacting to macroeconomic conditions rather than trading in tandem.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-correlation-tech-stocks-overblown-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Crypto regulatory clarity matters more for banks, ex-CFTC chief says",
+      "summary": "If the CLARITY Act fails to pass, Giancarlo said he expects Paul Atkins at the SEC and Mike Selig at the CFTC will likely write rules to create clarity for the industry.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-banks-need-crypto-regulatory-clarity-giancarlo-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Bitcoin tumbles below $66,000 as oil prices explode nearly 20% higher",
+      "summary": "There was little sign over the weekend of any de-escalation in the war against Iran.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 66000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-tumbles-below-usd66-000-as-oil-prices-explode-higher",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Crypto’s Rock ’n’ Roll Era Is Over",
+      "summary": "As crypto passes into mainstream use, it’s losing its rebel soul. It may still express rebellion, but won’t be rebellion anymore, says Callon-Butler.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/03/08/crypto-s-rock-n-roll-era-is-over",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Bitcoin is still a great way to diversify portfolio even if it trades like a tech stock, analyst says",
+      "summary": "The central debate has shifted from whether bitcoin can survive to if it can function as a sovereign reserve asset, as critics assess it by institutional standards.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-is-still-a-great-way-to-diversify-portfolio-even-if-it-trades-like-a-tech-stock-analyst-says",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Market structure state of play: State of Crypto",
+      "summary": "Hopes are rising that the Clarity Act may soon see some forward motion.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/03/01/market-structure-state-of-play-state-of-crypto",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Oil leaving Middle East trades over $100 a barrel. Here’s how it could affect bitcoin",
+      "summary": "Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/08/some-middle-east-oil-is-now-over-usd100-a-barrel-here-s-how-it-could-affect-bitcoin",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Tokenized assets exceed $25 billion after nearly quadrupling in a year",
+      "summary": "Treasurys, private credit, and commodities are driving growth, but most tokenized assets remain isolated from DeFi markets.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 25000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/08/tokenized-assets-exceed-usd25-billion-after-nearly-quadrupling-in-a-year",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Canton’s Yuval Rooz says smart contract blockchains face a reckoning over value gap",
+      "summary": "The network's co-founder says many blockchains pitching financial rails lack the activity to justify their valuations, and stablecoins still lack true product-market fit.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/03/08/canton-s-yuval-rooz-says-smart-contract-blockchains-face-a-reckoning-over-value-gap",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Bitcoin dip may not be over as whales sell into retail buying — a bearish signal",
+      "summary": "The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "XRP slips as traders watch $1.35 support",
+      "summary": "Traders are watching whether the $1.35 support zone holds after high-volume selling earlier in the session.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/08/xrp-slips-as-traders-watch-usd1-35-support",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Bitcoin drops 2% as oil prices surge on energy shortage fears",
+      "summary": "Bitcoin’s price has now fallen over four consecutive days to $66,272 after initially climbing on the US-Israel strikes on Iran.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 66272,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-falls-oil-rises-middle-eastern-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-08"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Halborn",
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 8918\nChar: &"
+    }
+  ]
+}

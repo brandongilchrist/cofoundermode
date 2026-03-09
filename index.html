@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThreatDigest — Crypto Security Intelligence</title>
+    <meta name="description"
+        content="Daily curated crypto security intelligence. Hacks, exploits, vulnerabilities, and threat analysis. Autonomous threat monitoring powered by CoFounderMode.">
+    <meta property="og:title" content="ThreatDigest — Crypto Security Intelligence">
+    <meta property="og:description"
+        content="Daily curated crypto security intelligence. Hacks, exploits, vulnerabilities, and threat analysis.">
+    <meta property="og:type" content="website">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-brand">
+                <div class="logo-mark">⚠</div>
+                <div>
+                    <h1 class="site-title">ThreatDigest</h1>
+                    <p class="site-subtitle">Crypto Security Intelligence</p>
+                </div>
+            </div>
+            <div class="header-meta">
+                <span class="date" id="current-date"></span>
+                <span class="badge">Autonomous Intel</span>
+            </div>
+        </header>
+
+        <div class="stats-bar" id="stats-bar">
+            <div class="stat">
+                <span class="stat-value" id="stat-incidents">—</span>
+                <span class="stat-label">Incidents Today</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="stat-losses">—</span>
+                <span class="stat-label">Total Losses</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="stat-vulns">—</span>
+                <span class="stat-label">New Vulns</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="stat-severity">—</span>
+                <span class="stat-label">Max Severity</span>
+            </div>
+        </div>
+
+        <main id="digest-content">
+            <div class="loading">
+                <div class="pulse"></div>
+                <p>Loading threat intel...</p>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>Powered by <a href="https://github.com/brandongilchrist/cofoundermode">CoFounderMode</a> — Venture 1:
+                Infrastructure Validation</p>
+            <p class="footer-meta">
+                <span>CSO Sentinel</span> · <span>CRO Horizon</span> · <span>Autonomous Curation</span>
+            </p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
