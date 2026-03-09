@@ -1,31 +1,27 @@
 # CoFounderMode — Linear Backlog
 
-> Mirror of planned Linear issues. Sync to Linear once API key is configured.
+> Synced to Linear project: [CoFounderMode Infrastructure](https://linear.app/gilchrist-research/project/cofoundermode-infrastructure-a05fa4d6520e)
+> Team: Gilchrist Research (GIL)
 
 ## ✅ Done
 
 | ID | Title | Priority | Labels |
 |----|-------|----------|--------|
-| CFM-1 | Phase 1: Scaffold Data Layer (86 files) | 🔴 Urgent | `phase-1` |
-
-## 🔄 In Progress
-
-| ID | Title | Priority | Labels |
-|----|-------|----------|--------|
-| CFM-2 | Phase 2: CEO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
-| CFM-3 | Phase 2: CTO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
-| CFM-4 | Phase 2: CSO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
-| CFM-5 | Phase 2: CPO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
-| CFM-6 | Phase 2: CMO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
-| CFM-7 | Phase 2: COO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
-| CFM-8 | Phase 2: CRO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
-| CFM-9 | Phase 2: CIO Agent SOUL.md | 🟠 High | `phase-2`, `soul` |
+| GIL-12 | Phase 1: Scaffold Data Layer (86 files) | 🔴 Urgent | — |
+| GIL-13 | Phase 2: CEO Agent SOUL.md (Atlas) | 🟠 High | `soul` |
+| GIL-14 | Phase 2: CTO Agent SOUL.md (Forge) | 🟠 High | `soul` |
+| GIL-15 | Phase 2: CSO Agent SOUL.md (Sentinel) | 🟠 High | `soul` |
+| GIL-16 | Phase 2: CPO Agent SOUL.md (Prism) | 🟠 High | `soul` |
+| GIL-17 | Phase 2: CMO Agent SOUL.md (Beacon) | 🟠 High | `soul` |
+| GIL-18 | Phase 2: COO Agent SOUL.md (Nexus) | 🟠 High | `soul` |
+| GIL-19 | Phase 2: CRO Agent SOUL.md (Horizon) | 🟠 High | `soul` |
+| GIL-20 | Phase 2: CIO Agent SOUL.md (Bedrock) | 🟠 High | `soul` |
 
 ## 📋 Backlog
 
 | ID | Title | Priority | Labels |
 |----|-------|----------|--------|
-| CFM-10 | Phase 3: All Agent SKILLS.md | 🟡 Medium | `phase-3`, `skills` |
-| CFM-11 | Phase 4: Paperclip Full Config | 🟡 Medium | `phase-4`, `infra` |
-| CFM-12 | Phase 5: Global Workflows | 🟡 Medium | `phase-5`, `infra` |
-| CFM-13 | Phase 6: Final Architecture Artifact | 🔵 Low | `phase-6` |
+| GIL-21 | Phase 3: All Agent SKILLS.md | 🟡 Medium | `skills` |
+| GIL-22 | Phase 4: Paperclip Full Config | 🟡 Medium | `infra` |
+| GIL-23 | Phase 5: Global Workflows | 🟡 Medium | `infra` |
+| GIL-24 | Phase 6: Final Architecture Artifact | 🔵 Low | — |
