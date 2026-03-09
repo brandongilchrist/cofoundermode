@@ -6,68 +6,68 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ThreatDigest — Crypto Security Intelligence</title>
     <meta name="description"
-        content="Daily curated crypto security intelligence. Hacks, exploits, vulnerabilities, and threat analysis. Autonomous threat monitoring powered by CoFounderMode.">
-    <meta property="og:title" content="ThreatDigest — Crypto Security Intelligence">
-    <meta property="og:description"
-        content="Daily curated crypto security intelligence. Hacks, exploits, vulnerabilities, and threat analysis.">
-    <meta property="og:type" content="website">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
-        rel="stylesheet">
+        content="Real-time crypto threat intelligence. Exploits, vulnerabilities, and on-chain security incidents — curated autonomously.">
     <link rel="stylesheet" href="style.css">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚠</text></svg>">
 </head>
 
 <body>
-    <div class="container">
-        <header class="header">
-            <div class="header-brand">
-                <div class="logo-mark">⚠</div>
-                <div>
-                    <h1 class="site-title">ThreatDigest</h1>
-                    <p class="site-subtitle">Crypto Security Intelligence</p>
-                </div>
-            </div>
-            <div class="header-meta">
-                <span class="date" id="current-date"></span>
-                <span class="badge">Autonomous Intel</span>
-            </div>
-        </header>
 
-        <div class="stats-bar" id="stats-bar">
-            <div class="stat">
-                <span class="stat-value" id="stat-incidents">—</span>
-                <span class="stat-label">Incidents Today</span>
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="header-left">
+            <div class="logo">
+                <span class="logo-bracket">[</span>threat<span class="logo-separator">/</span>digest<span
+                    class="logo-bracket">]</span>
             </div>
-            <div class="stat">
-                <span class="stat-value" id="stat-losses">—</span>
-                <span class="stat-label">Total Losses</span>
-            </div>
-            <div class="stat">
-                <span class="stat-value" id="stat-vulns">—</span>
-                <span class="stat-label">New Vulns</span>
-            </div>
-            <div class="stat">
-                <span class="stat-value" id="stat-severity">—</span>
-                <span class="stat-label">Max Severity</span>
-            </div>
+            <span class="logo-sub">crypto security intelligence</span>
         </div>
+        <div class="header-right">
+            <time class="header-date" id="current-date"></time>
+            <span class="status-pill">
+                <span class="status-dot"></span>
+                LIVE FEED
+            </span>
+        </div>
+    </header>
 
-        <main id="digest-content">
-            <div class="loading">
-                <div class="pulse"></div>
-                <p>Loading threat intel...</p>
-            </div>
-        </main>
-
-        <footer class="footer">
-            <p>Powered by <a href="https://github.com/brandongilchrist/cofoundermode">CoFounderMode</a> — Venture 1:
-                Infrastructure Validation</p>
-            <p class="footer-meta">
-                <span>CSO Sentinel</span> · <span>CRO Horizon</span> · <span>Autonomous Curation</span>
-            </p>
-        </footer>
+    <!-- Stats Bar -->
+    <div class="stats-bar" id="stats-bar" role="region" aria-label="Today's statistics">
+        <div class="stat-cell">
+            <div class="stat-value critical" id="stat-incidents">—</div>
+            <div class="stat-label">incidents</div>
+        </div>
+        <div class="stat-cell">
+            <div class="stat-value high" id="stat-losses">—</div>
+            <div class="stat-label">total losses</div>
+        </div>
+        <div class="stat-cell">
+            <div class="stat-value medium" id="stat-vulns">—</div>
+            <div class="stat-label">new vulns</div>
+        </div>
+        <div class="stat-cell">
+            <div class="stat-value" id="stat-severity" style="color: var(--color-text-muted);">—</div>
+            <div class="stat-label">max severity</div>
+        </div>
     </div>
+
+    <!-- Main Feed -->
+    <main class="container" id="feed-container">
+        <div class="loading-state">
+            <span class="loading-dots">loading feed</span>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <span class="footer-text">curated by CSO Sentinel + CRO Horizon</span>
+            <span class="footer-text">
+                pipeline v1.0<span class="footer-cursor"></span>
+            </span>
+        </div>
+    </footer>
 
     <script src="app.js"></script>
 </body>
