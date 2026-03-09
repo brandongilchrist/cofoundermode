@@ -1,11 +1,472 @@
-# Paperclip Organization Config
-# Full configuration will be written in Phase 4.
-# See /governance/ for policy definitions and /agents/ for agent definitions.
+# ╔══════════════════════════════════════════════════════════════════════╗
+# ║                    PAPERCLIP ORGANIZATION CONFIG                    ║
+# ║               CoFounderMode — Autonomous Company OS                 ║
+# ╚══════════════════════════════════════════════════════════════════════╝
+#
+# This is the orchestration spine for the entire company.
+# Paperclip reads this config to know which agents exist,
+# what tools they can access, how they communicate, and
+# when they should wake up.
 
+# ─────────────────────────────────────────────────────────────────────
+# ORGANIZATION
+# ─────────────────────────────────────────────────────────────────────
 organization:
   name: CoFounderMode
   parent: Gilchrist Research
-  description: Autonomous company infrastructure platform
+  description: >
+    The operating system for autonomous companies — enabling a single
+    founder to run a company with the operational capacity of 50 employees
+    using AI agents.
+  domain: autonomous-company-infrastructure
+  chairman: Brandon Gilchrist
+  timezone: UTC
 
-# Agent definitions, budgets, heartbeats, and governance rules
-# will be populated in Phase 4.
+# ─────────────────────────────────────────────────────────────────────
+# GOVERNANCE
+# ─────────────────────────────────────────────────────────────────────
+governance:
+  approval_thresholds:
+    single_action_spend: 500       # USD — escalate to Chairman above this
+    budget_reallocation: 0.20      # 20% — escalate if reallocation exceeds
+    code_merge_reviewers: 1        # min reviewers (2 for auth/infra)
+    infra_change_approvers:        # Board + CSO required
+      - chairman
+      - cso
+    agent_lifecycle_approvers:     # Board required for spawn/retire
+      - chairman
+      - ceo
+
+  security:
+    secret_rotation_days: 90
+    data_tiers:
+      public: all_agents
+      internal: authenticated_agents
+      restricted: [cso, chairman]
+    emergency_override_agents: [cso]  # Can freeze deploys without prior approval
+
+  budget:
+    monthly_total: 2500            # USD — entire org
+    soft_warning_threshold: 0.80   # 80% of allocation
+    hard_stop_threshold: 1.00      # 100% — hard stop, escalate immediately
+
+# ─────────────────────────────────────────────────────────────────────
+# AGENTS
+# ─────────────────────────────────────────────────────────────────────
+agents:
+
+  # ── CEO ──────────────────────────────────────────────────────────
+  ceo:
+    name: Atlas
+    soul: agents/ceo/SOUL.md
+    skills: agents/ceo/SKILLS.md
+    tools: agents/ceo/TOOLS.md
+    memory: agents/ceo/MEMORY.md
+    department: executive
+    model: claude-opus
+    budget_monthly: 500
+    heartbeat:
+      interval_minutes: 60
+      actions:
+        - check_promotion_metrics
+        - review_department_health
+        - check_budget_burn
+        - draft_or_review_content
+        - strategic_reflection
+    reports_to: chairman
+    escalation_targets: [chairman]
+    permissions:
+      - read:all_departments
+      - write:executive
+      - approve:cross_department
+      - invoke:all_agents
+
+  # ── CTO ──────────────────────────────────────────────────────────
+  cto:
+    name: Forge
+    soul: agents/cto/SOUL.md
+    skills: agents/cto/SKILLS.md
+    tools: agents/cto/TOOLS.md
+    memory: agents/cto/MEMORY.md
+    department: engineering
+    model: claude-opus
+    budget_monthly: 400
+    heartbeat:
+      interval_minutes: 30
+      actions:
+        - check_ci_status
+        - review_open_prs
+        - scan_tech_debt
+        - check_deployment_health
+        - update_memory
+    reports_to: ceo
+    escalation_targets: [ceo, cso]
+    permissions:
+      - read:all_repos
+      - write:engineering
+      - deploy:staging
+      - deploy:production  # requires CI green + 1 reviewer
+      - invoke:cso         # security review handoff
+      - invoke:cio         # infra requests
+
+  # ── CSO ──────────────────────────────────────────────────────────
+  cso:
+    name: Sentinel
+    soul: agents/cso/SOUL.md
+    skills: agents/cso/SKILLS.md
+    tools: agents/cso/TOOLS.md
+    memory: agents/cso/MEMORY.md
+    department: security
+    model: claude-opus
+    budget_monthly: 350
+    heartbeat:
+      interval_minutes: 15       # Highest frequency — always-on sentinel
+      actions:
+        - cve_scan
+        - dependency_audit
+        - access_log_review
+        - secret_rotation_check
+        - log_heartbeat
+    reports_to: ceo
+    escalation_targets: [ceo, chairman]
+    emergency_override: true      # Can freeze deploys, revoke tokens
+    permissions:
+      - read:all_departments
+      - read:all_repos
+      - read:access_logs
+      - write:security
+      - revoke:agent_tokens      # Emergency only
+      - freeze:deployments       # Emergency only
+      - invoke:cto               # Joint PR review
+      - invoke:cio               # Infra security
+
+  # ── CPO ──────────────────────────────────────────────────────────
+  cpo:
+    name: Prism
+    soul: agents/cpo/SOUL.md
+    skills: agents/cpo/SKILLS.md
+    tools: agents/cpo/TOOLS.md
+    memory: agents/cpo/MEMORY.md
+    department: product
+    model: claude-sonnet
+    budget_monthly: 250
+    heartbeat:
+      interval_minutes: 60
+      actions:
+        - review_user_feedback
+        - check_spec_pipeline
+        - competitive_scan
+        - update_roadmap
+        - log_observations
+    reports_to: ceo
+    escalation_targets: [ceo]
+    permissions:
+      - read:all_departments
+      - write:product
+      - write:projects
+      - invoke:cto               # Spec handoff
+      - invoke:cmo               # Launch coordination
+      - invoke:cro               # Research requests
+
+  # ── CMO ──────────────────────────────────────────────────────────
+  cmo:
+    name: Beacon
+    soul: agents/cmo/SOUL.md
+    skills: agents/cmo/SKILLS.md
+    tools: agents/cmo/TOOLS.md
+    memory: agents/cmo/MEMORY.md
+    department: marketing
+    model: claude-sonnet
+    budget_monthly: 250
+    heartbeat:
+      interval_minutes: 60
+      actions:
+        - check_content_pipeline
+        - monitor_mentions
+        - engage_community
+        - review_metrics
+        - draft_content
+    reports_to: ceo
+    escalation_targets: [ceo]
+    permissions:
+      - read:all_departments
+      - write:marketing
+      - read:analytics
+      - invoke:cpo               # Product context for content
+      - invoke:cro               # Market intelligence
+
+  # ── COO ──────────────────────────────────────────────────────────
+  coo:
+    name: Nexus
+    soul: agents/coo/SOUL.md
+    skills: agents/coo/SKILLS.md
+    tools: agents/coo/TOOLS.md
+    memory: agents/coo/MEMORY.md
+    department: operations
+    model: claude-sonnet
+    budget_monthly: 250
+    heartbeat:
+      interval_minutes: 60
+      actions:
+        - agent_health_check
+        - budget_check
+        - sla_review
+        - dashboard_update
+        - throughput_scan
+    reports_to: ceo
+    escalation_targets: [ceo]
+    permissions:
+      - read:all_departments
+      - read:all_agent_memory
+      - write:operations
+      - invoke:all_agents        # Cross-department coordination
+
+  # ── CRO ──────────────────────────────────────────────────────────
+  cro:
+    name: Horizon
+    soul: agents/cro/SOUL.md
+    skills: agents/cro/SKILLS.md
+    tools: agents/cro/TOOLS.md
+    memory: agents/cro/MEMORY.md
+    department: rd
+    model: claude-opus
+    budget_monthly: 250
+    heartbeat:
+      interval_minutes: 60
+      actions:
+        - scan_news_feeds
+        - update_technology_radar
+        - check_competitive_landscape
+        - log_insights
+        - draft_research_notes
+    reports_to: ceo
+    escalation_targets: [ceo]
+    permissions:
+      - read:all_departments
+      - write:rd
+      - read:external_feeds
+      - invoke:cto               # Tech eval handoff
+      - invoke:cpo               # Market intel delivery
+
+  # ── CIO ──────────────────────────────────────────────────────────
+  cio:
+    name: Bedrock
+    soul: agents/cio/SOUL.md
+    skills: agents/cio/SKILLS.md
+    tools: agents/cio/TOOLS.md
+    memory: agents/cio/MEMORY.md
+    department: it
+    model: claude-sonnet
+    budget_monthly: 250
+    heartbeat:
+      interval_minutes: 60
+      actions:
+        - system_health_check
+        - database_health
+        - ci_cd_status
+        - backup_verification
+        - cost_check
+    reports_to: ceo
+    escalation_targets: [ceo, cso]
+    permissions:
+      - read:all_departments
+      - write:it
+      - manage:infrastructure
+      - manage:ci_cd
+      - manage:databases
+      - manage:backups
+      - invoke:cso               # Infra security reviews
+
+# ─────────────────────────────────────────────────────────────────────
+# DEPARTMENTS
+# ─────────────────────────────────────────────────────────────────────
+departments:
+  engineering:
+    head: cto
+    readme: departments/engineering/README.md
+    workflows: departments/engineering/WORKFLOWS.md
+  product:
+    head: cpo
+    readme: departments/product/README.md
+    workflows: departments/product/WORKFLOWS.md
+  security:
+    head: cso
+    readme: departments/security/README.md
+    workflows: departments/security/WORKFLOWS.md
+  marketing:
+    head: cmo
+    readme: departments/marketing/README.md
+    workflows: departments/marketing/WORKFLOWS.md
+  operations:
+    head: coo
+    readme: departments/operations/README.md
+    workflows: departments/operations/WORKFLOWS.md
+  rd:
+    head: cro
+    readme: departments/rd/README.md
+    workflows: departments/rd/WORKFLOWS.md
+  it:
+    head: cio
+    readme: departments/it/README.md
+    workflows: departments/it/WORKFLOWS.md
+  finance:
+    acting_head: ceo   # CEO acts as CFO until revenue scales
+    readme: departments/finance/README.md
+    workflows: departments/finance/WORKFLOWS.md
+
+# ─────────────────────────────────────────────────────────────────────
+# ADAPTERS (External Integrations)
+# ─────────────────────────────────────────────────────────────────────
+adapters:
+  github:
+    config: infra/adapters/github.yml
+    events:
+      - pr_opened       → [cto, cso]      # Route PR events to CTO + CSO
+      - pr_merged        → [cto, cio]     # Deploy pipeline trigger
+      - issue_created    → [cpo]          # Product triage
+      - security_alert   → [cso]          # Immediate security review
+    permissions:
+      - repo:read
+      - repo:write
+      - actions:read
+      - actions:write
+
+  linear:
+    config: infra/adapters/linear.yml
+    events:
+      - issue_created    → [coo]          # Ops tracking
+      - issue_assigned   → [target_agent] # Route to assigned agent
+      - project_updated  → [ceo]          # Strategic visibility
+    api_key_env: LINEAR_API_KEY
+
+  slack:
+    config: infra/adapters/slack.yml
+    channels:
+      general:       [all_agents]
+      engineering:   [cto, cio]
+      security:      [cso, cto, cio]
+      marketing:     [cmo, ceo]
+      leadership:    [ceo, cto, cso, cpo, cmo, coo, cro, cio]
+      incidents:     [cso, cto, cio, ceo]
+
+# ─────────────────────────────────────────────────────────────────────
+# CRON SCHEDULES (Automated Tasks)
+# ─────────────────────────────────────────────────────────────────────
+cron:
+
+  # Every 15 minutes — CSO heartbeat
+  security_heartbeat:
+    schedule: "*/15 * * * *"
+    agent: cso
+    skill: security_heartbeat
+
+  # Every 30 minutes — CTO heartbeat
+  engineering_heartbeat:
+    schedule: "*/30 * * * *"
+    agent: cto
+    skill: heartbeat
+
+  # Every 60 minutes — all other agents
+  hourly_heartbeats:
+    schedule: "0 * * * *"
+    agents: [ceo, cpo, cmo, coo, cro, cio]
+    skill: heartbeat
+
+  # Daily 08:00 UTC — COO standup aggregation
+  daily_standup_aggregation:
+    schedule: "0 8 * * *"
+    agent: coo
+    skill: daily_standup_aggregation
+
+  # Daily 09:00 UTC — CEO standup compilation
+  daily_standup_compilation:
+    schedule: "0 9 * * *"
+    agent: ceo
+    skill: daily_standup_compilation
+
+  # Friday 15:00 UTC — COO weekly pre-report
+  weekly_prereport:
+    schedule: "0 15 * * 5"
+    agent: coo
+    skill: weekly_report
+
+  # Friday 17:00 UTC — CEO weekly report
+  weekly_report:
+    schedule: "0 17 * * 5"
+    agent: ceo
+    skill: weekly_report
+
+  # Weekly — dependency audit
+  weekly_dependency_audit:
+    schedule: "0 6 * * 1"     # Monday 06:00 UTC
+    agent: cto
+    skill: dependency_audit
+
+  # Weekly — access audit
+  weekly_access_audit:
+    schedule: "0 7 * * 1"     # Monday 07:00 UTC
+    agent: cso
+    skill: access_audit
+
+  # Daily 02:00 UTC — database backup
+  daily_backup:
+    schedule: "0 2 * * *"
+    agent: cio
+    skill: backup_verification
+
+# ─────────────────────────────────────────────────────────────────────
+# RUNTIMES (Agent Execution Environments)
+# ─────────────────────────────────────────────────────────────────────
+runtimes:
+  primary:
+    engine: openclaw
+    description: Primary agent runtime for C-suite agents
+    model_default: claude-sonnet
+    model_override:
+      opus: [ceo, cto, cso, cro]   # Strategic/security roles get opus
+  lightweight:
+    engine: nanoclaw
+    description: Lightweight runtime for sub-agents and one-shot tasks
+    model_default: claude-haiku
+  development:
+    engine: claude-code
+    description: CLI-based development tasks
+    model_default: claude-sonnet
+  research:
+    engine: perplexity-computer
+    description: Web research and deep analysis tasks
+    model_default: perplexity-pro
+
+# ─────────────────────────────────────────────────────────────────────
+# MEMORY LAYER
+# ─────────────────────────────────────────────────────────────────────
+memory:
+  primary:
+    type: git-markdown
+    path: ./                        # This repo is the memory layer
+    format: append-only
+    versioned: true
+  knowledge_graph:
+    type: obsidian
+    vault_path: ./obsidian-vault    # Future: Obsidian knowledge graph
+    enabled: false                  # Not yet configured
+  vector:
+    type: pgvector
+    connection_env: DATABASE_URL
+    embedding_model: text-embedding-3-small
+    enabled: false                  # Not yet provisioned
+
+# ─────────────────────────────────────────────────────────────────────
+# ENVIRONMENT
+# ─────────────────────────────────────────────────────────────────────
+environment:
+  required_env_vars:
+    - ANTHROPIC_API_KEY            # Claude access
+    - LINEAR_API_KEY               # Linear project management
+    - GITHUB_TOKEN                 # GitHub API access
+  optional_env_vars:
+    - DATABASE_URL                 # Postgres + pgvector (future)
+    - SLACK_BOT_TOKEN              # Slack integration (future)
+    - SLACK_SIGNING_SECRET         # Slack webhook verification
+    - PERPLEXITY_API_KEY           # Perplexity research (future)
+    - TELEGRAM_BOT_TOKEN           # Alert notifications (future)
