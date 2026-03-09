@@ -1,1 +1,4 @@
 .linear
+
+node_modules/
+ventures/daily-digest/node_modules/
