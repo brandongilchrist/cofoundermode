@@ -1,6 +1,6 @@
 {
-  "date": "2026-03-09",
-  "generated_at": "2026-03-09T04:07:50.883Z",
+  "date": "2026-03-10",
+  "generated_at": "2026-03-10T07:21:32.788Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,6 +8,20 @@
   "items_found": 68,
   "items_curated": 20,
   "items": [
+    {
+      "title": "AI firm Anthropic sues Trump admin over ‘supply chain risk’ label",
+      "summary": "Anthropic is the first US company the Pentagon has labeled a risk to the military, with the AI company calling it “unprecedented and unlawful.”",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ai-firm-anthropic-sues-trump-admin-over-supply-chain-risk-label?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
+    },
     {
       "title": "Chainalysis Upgrades Support for Stellar with Automatic Token Support",
       "summary": "Chainalysis is excited to announce upgraded support for Stellar, one of the longest-running blockchains in the ecosystem. Founded in 2014,… The post Chainalysis Upgrades Support for Stellar with Automatic Token Support appeared first on Chainalysis.",
@@ -23,162 +37,190 @@
       "date": "2026-02-11"
     },
     {
-      "title": "Oil futures surge 20% past $110 as war fears hammer Asian stocks, bitcoin steady near $67K",
-      "summary": "Nikkei drops more than 6%, and Kospi slides about 8% as traders price supply disruption risk, while prediction markets show strong odds of $120 crude.",
+      "title": "Ether, solana, XRP jump higher as Trump signals Iran war nearing end",
+      "summary": "Major altcoins bounced alongside risk assets on Tuesday after the president said U.S. military objectives were \"pretty well complete.\"",
       "type": "news",
       "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/10/ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "Bitcoin rises to $69,000, stocks reverse big early losses, as crude oil sinks back below $100",
+      "summary": "WTI crude oil, which soared nearly 30% to $120 per barrel overnight, has pulled back to $95, easing pressure on risk assets.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 69000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/09/bitcoin-rises-to-usd69-000-stocks-reverse-big-early-losses-as-crude-oil-sinks-back-below-usd100",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Bithumb faces possible six-month partial suspension in South Korea",
+      "summary": "Crypto exchange Bithumb risks a partial business suspension for negligence around money laundering and customer verification practices, according to local media reports.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bithumb-faces-partial-suspension-south-korea-aml-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Bitcoiners celebrate as the network produces its 20 millionth coin",
+      "summary": "“A digital money system with transparent, predictable, and ultimately scarce supply... has rising appeal in today’s economy due to fiat currency tail risks,\" said Grayscale.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Bitmine moves roughly 9,600 ETH worth $19.5 million to Coinbase Prime as ether treasury firm shuffles holdings",
+      "summary": "The largest public ether holder sent two transfers totaling $19.5 million to Coinbase Prime hot wallets on Tuesday, though the moves don't necessarily signal selling.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 19500000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/10/bitmine-moves-roughly-9-600-eth-worth-usd19-5-million-to-coinbase-prime-as-ether-treasury-firm-shuffles-holdings",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "Pudgy Penguins launches its 'Club Penguin' moment, and the game doesn't feel like crypto at all",
+      "summary": "Pudgy World went live with 12 towns, plot-based quests, and mini-games in what the team calls \"one of the most technically advanced browser-based games ever created.\" The PENGU token jumped 9% on the news.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/03/10/pudgy-penguins-launches-its-club-penguin-moment-and-the-game-doesn-t-feel-like-crypto-at-all",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "Here's how traders and big buyers stepped in to keep bitcoin steady during the oil shock",
+      "summary": "Several market participants, including MSTR and OTC traders, kept demand steady, helping BTC stay resilient.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/10/here-s-how-traders-and-big-buyers-stepped-in-to-keep-bitcoin-steady-during-the-oil-shock",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "AI tokens rally after Nvidia open-source agent plan, beat CoinDesk 20",
+      "summary": "The AI-linked cryptocurrencies moved higher after a report from Wired said Nvidia is planning an open-source platform for autonomous AI agents.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 67000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/09/oil-futures-surge-20-past-usd110-as-war-fears-hammer-asian-stocks-bitcoin-steady-near-usd67k",
-      "date": "2026-03-09"
+      "url": "https://www.coindesk.com/markets/2026/03/10/ai-tokens-rally-after-nvidia-open-source-agent-plan-beating-coindesk-20",
+      "date": "2026-03-10"
     },
     {
-      "title": "Bitcoin preps fresh trend line showdown as weekly close sparks $60K target",
-      "summary": "Bitcoin price weakness brought back the risk of cementing its 200-week exponential moving average trend line as new resistance.",
+      "title": "Bhutan sells $42.5 Million of bitcoin in 2026 as national stack drops 58% from peak",
+      "summary": "The Himalayan kingdom moved another 175 BTC on Monday, continuing a drawdown that has taken its holdings from a peak of roughly 13,000 BTC to under 5,400 in just over a year.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 42500000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/10/bhutan-s-bitcoin-stack-drops-below-5-400-btc-as-sovereign-seller-quietly-unloads-usd42-5-million-in-2026",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "Bitcoin jumps past $70,000 as war volatility fades ",
+      "summary": "BTC rebounded from about $65,000 as crude oil retreated and institutional flows helped stabilize the market.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 60000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-fresh-trend-line-showdown-weekly-close-60k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-08"
+      "loss_usd": 70000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/10/bitcoin-jumps-past-usd70-000-as-war-volatility-fades",
+      "date": "2026-03-10"
     },
     {
-      "title": "US lawmakers warn temporary CBDC ban isn’t enough, demand 'permanent' block",
-      "summary": "US lawmakers said any ban on issuing a US CBDC must “be permanent,” warning that creating one would be “inherently anti-American.”",
+      "title": "Trump's threat to block Congress over voter-ID law leaves crypto bill on shakier ground",
+      "summary": "At a Republican event, the U.S. president delivered a speech that doubled down on recent comments he won't sign anything else until he gets the voting bill.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/united-states-cbdc-federal-reserve-lawmakers-dispute-letter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-08"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/03/09/trump-s-threat-to-block-congress-over-voter-id-law-leaves-crypto-bill-on-shakier-ground",
+      "date": "2026-03-10"
     },
     {
-      "title": "Bitcoin ‘bull trap’ forming as bear market enters middle phase: Willy Woo",
-      "summary": "On-chain analyst Willy Woo said Bitcoin’s current price range likely hasn’t bottomed yet, warning that the market could see further downside before a true cycle low forms.",
+      "title": "Tron joins Agentic AI Foundation as founder sees future in AI",
+      "summary": "Tron has joined the Linux Foundation’s Agentic AI Foundation to collaborate on building open infrastructure for agentic AI, joining Circle and JPMorgan.",
       "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-bull-trap-bear-market-phase-middle-willy-woo-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-08"
-    },
-    {
-      "title": "The Multibillion-dollar shift turning prediction markets into a professional hedging tool",
-      "summary": "Traders are moving beyond sports bets and elections to price \"unpriceable\" geopolitical and policy risks that standard financial tools can’t handle.",
-      "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/03/07/the-multibillion-dollar-shift-turning-prediction-markets-into-a-professional-hedging-tool",
-      "date": "2026-03-07"
-    },
-    {
-      "title": "Kalshi, Polymarket eye $20B valuations in potential fundraising: WSJ",
-      "summary": "Lawmakers are pushing new regulation for prediction markets after suspiciously timed Polymarket bets on US and Israeli strikes on Iran raised insider-trading concerns.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 20000000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-polymarket-20b-valuation-fundraising-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-07"
+      "url": "https://cointelegraph.com/news/tron-joins-agentic-ai-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
     },
     {
-      "title": "Odds of Bitcoin price drop to $65K rise as private credit woes, US war rattle markets",
-      "summary": "A new war, private credit market weakness and spiking commodities prices add tail risk to Bitcoin’s price. Is $65,000 BTC’s next stop?",
+      "title": "Bhutan moves $11.8M in BTC from its national stash: Arkham",
+      "summary": "Bhutan has accumulated around 13,000 Bitcoin since launching state-backed mining operations in 2019, primarily fueled by hydroelectric energy.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 65000,
+      "loss_usd": 11800000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/odds-of-bitcoin-price-drop-to-65k-rise-as-private-credit-woes-us-war-rattle-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-06"
+      "url": "https://cointelegraph.com/news/bhutan-moves-11-8m-btc-from-national-stash-arkham?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
     },
     {
-      "title": "Bitcoin correlation with tech stocks overblown: NYDIG",
-      "summary": "NYDIG’s Greg Cipolaro says that Bitcoin and tech stocks aren’t converging and are likely just reacting to macroeconomic conditions rather than trading in tandem.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-correlation-tech-stocks-overblown-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-09"
-    },
-    {
-      "title": "Crypto regulatory clarity matters more for banks, ex-CFTC chief says",
-      "summary": "If the CLARITY Act fails to pass, Giancarlo said he expects Paul Atkins at the SEC and Mike Selig at the CFTC will likely write rules to create clarity for the industry.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-banks-need-crypto-regulatory-clarity-giancarlo-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-09"
-    },
-    {
-      "title": "Bitcoin tumbles below $66,000 as oil prices explode nearly 20% higher",
-      "summary": "There was little sign over the weekend of any de-escalation in the war against Iran.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 66000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-tumbles-below-usd66-000-as-oil-prices-explode-higher",
-      "date": "2026-03-08"
-    },
-    {
-      "title": "Crypto’s Rock ’n’ Roll Era Is Over",
-      "summary": "As crypto passes into mainstream use, it’s losing its rebel soul. It may still express rebellion, but won’t be rebellion anymore, says Callon-Butler.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/03/08/crypto-s-rock-n-roll-era-is-over",
-      "date": "2026-03-08"
-    },
-    {
-      "title": "Bitcoin is still a great way to diversify portfolio even if it trades like a tech stock, analyst says",
-      "summary": "The central debate has shifted from whether bitcoin can survive to if it can function as a sovereign reserve asset, as critics assess it by institutional standards.",
+      "title": "Vitalik Buterin envisions ‘one-click’ Ether staking for institutions",
+      "summary": "“We want the authority over staking nodes to be highly distributed, and the first step to doing this is to make it easy,” said Ethereum co-founder Vitalik Buterin.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -186,27 +228,13 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-is-still-a-great-way-to-diversify-portfolio-even-if-it-trades-like-a-tech-stock-analyst-says",
-      "date": "2026-03-08"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/vitalik-distributed-validator-technology-lite-simplify-institutional-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
     },
     {
-      "title": "Market structure state of play: State of Crypto",
-      "summary": "Hopes are rising that the Clarity Act may soon see some forward motion.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/03/01/market-structure-state-of-play-state-of-crypto",
-      "date": "2026-03-08"
-    },
-    {
-      "title": "Oil leaving Middle East trades over $100 a barrel. Here’s how it could affect bitcoin",
-      "summary": "Murban crude, a key benchmark for barrels that can bypass the Strait of Hormuz, now trades at $103 per barrel.",
+      "title": "US prosecutors seek Roman Storm retrial after mixed verdict",
+      "summary": "Manhattan US Attorney Jay Clayton has asked for a date in early October to retry Tornado Cash's Roman Storm on two charges on which a jury previously failed to reach a decision.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -214,27 +242,41 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/08/some-middle-east-oil-is-now-over-usd100-a-barrel-here-s-how-it-could-affect-bitcoin",
-      "date": "2026-03-08"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-prosecutors-seek-retrial-tornado-cash-roman-storm-after-mixed-verdict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
     },
     {
-      "title": "Tokenized assets exceed $25 billion after nearly quadrupling in a year",
-      "summary": "Treasurys, private credit, and commodities are driving growth, but most tokenized assets remain isolated from DeFi markets.",
+      "title": "Wall Street funneled $540M into US Solana ETFs in Q4: Bloomberg",
+      "summary": "Investment advisors were the biggest buyers of the US-based spot Solana ETFs at over $270 million, while hedge fund managers came in next at $186 million.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 25000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/08/tokenized-assets-exceed-usd25-billion-after-nearly-quadrupling-in-a-year",
-      "date": "2026-03-08"
+      "loss_usd": 540000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/financial-institutions-bought-540m-solana-etfs-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
     },
     {
-      "title": "Canton’s Yuval Rooz says smart contract blockchains face a reckoning over value gap",
-      "summary": "The network's co-founder says many blockchains pitching financial rails lack the activity to justify their valuations, and stablecoins still lack true product-market fit.",
+      "title": "Sharplink reports $735M loss in 2025 as Ethereum dived",
+      "summary": "Sharplink says it will continue to acquire Ether despite a brutal crypto market sell-off last year that led to a $616.2 million paper loss on its ETH holdings.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 735000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sharplink-reports-734m-loss-2025-as-ethereum-dived?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "Oil tumbles, crypto gains as Trump sends mixed signals over Iran war",
+      "summary": "“I think the war is very complete, pretty much,” Donald Trump told reporters before posting on his social media platform later that “Death, Fire, and Fury” will reign upon Iran.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -242,51 +284,9 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/03/08/canton-s-yuval-rooz-says-smart-contract-blockchains-face-a-reckoning-over-value-gap",
-      "date": "2026-03-08"
-    },
-    {
-      "title": "Bitcoin dip may not be over as whales sell into retail buying — a bearish signal",
-      "summary": "The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal",
-      "date": "2026-03-08"
-    },
-    {
-      "title": "XRP slips as traders watch $1.35 support",
-      "summary": "Traders are watching whether the $1.35 support zone holds after high-volume selling earlier in the session.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/08/xrp-slips-as-traders-watch-usd1-35-support",
-      "date": "2026-03-08"
-    },
-    {
-      "title": "Bitcoin drops 2% as oil prices surge on energy shortage fears",
-      "summary": "Bitcoin’s price has now fallen over four consecutive days to $66,272 after initially climbing on the US-Israel strikes on Iran.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 66272,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-falls-oil-rises-middle-eastern-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-08"
+      "url": "https://cointelegraph.com/news/iran-war-confusion-sends-oil-tumbling-as-crypto-posts-modest-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-10"
     }
   ],
   "errors": [

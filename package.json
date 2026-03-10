@@ -1,0 +1,15 @@
+{
+    "name": "threatdigest-pipeline",
+    "version": "1.0.0",
+    "description": "Autonomous crypto threat intel curation pipeline for ThreatDigest",
+    "type": "module",
+    "scripts": {
+        "curate": "node pipeline/curate.js",
+        "build": "node pipeline/build.js",
+        "pipeline": "npm run curate && npm run build",
+        "serve": "npx serve . -p 3000"
+    },
+    "dependencies": {
+        "rss-parser": "^3.13.0"
+    }
+}
