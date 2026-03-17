@@ -1,6 +1,6 @@
 {
-  "date": "2026-03-14",
-  "generated_at": "2026-03-14T07:18:56.609Z",
+  "date": "2026-03-17",
+  "generated_at": "2026-03-17T07:28:11.741Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,50 +9,36 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Bitcoin holds $71,000 despite Trump warning of strikes on Iran's oil-rich Kharg Island",
-      "summary": "The largest cryptocurrency is up 4.2% on the week despite Friday's reversal, with attention now turning to the Fed meeting on March 17-18 and whether oil above $100 forces a shift in rate expectations.",
+      "title": "U.S., UK, Canada start Operation Atlantic to disrupt crypto approval-phishing scams",
+      "summary": "International law enforcement effort targets approval-phishing schemes tied to crypto investment fraud.",
       "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 71000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes",
-      "date": "2026-03-14"
-    },
-    {
-      "title": "Bitcoin quickly drops 3.5% as fresh Iran escalation short-circuits crypto rally",
-      "summary": "Surging to a near one-month high of $74,000, bitcoin reversed back to just above $71,000 as news of U.S. military movements in the Middle East rattled risk assets.",
-      "type": "news",
-      "severity": "medium",
+      "severity": "high",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 74000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-quickly-drops-3-5-as-fresh-iran-escalation-short-circuits-crypto-rally",
-      "date": "2026-03-13"
+      "url": "https://www.coindesk.com/business/2026/03/16/u-s-uk-canada-start-operation-atlantic-to-disrupt-crypto-approval-phishing-scams",
+      "date": "2026-03-16"
     },
     {
-      "title": "Bitcoin's recent crash to $60,000 warned stocks first – now they're following",
-      "summary": "Bitcoin has once again acted as a leading indicator for risk assets, plunging sharply before the ongoing global stock market swoon.",
+      "title": "US, UK, Canada launch joint operation to disrupt crypto fraud",
+      "summary": "Dubbed “Operation Atlantic,“ the effort involves law enforcement agencies from the three countries and is aimed at preventing phishing attacks involving cryptocurrencies.",
       "type": "news",
-      "severity": "medium",
+      "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 60000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-crashed-first-now-stocks-follow-cementing-btc-s-lead-indicator-cred",
-      "date": "2026-03-13"
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-uk-canada-enforcement-operation-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-16"
     },
     {
-      "title": "Pi rallies more than 30% after Kraken announces listing",
-      "summary": "Bybit previously declined to list the mobile crypto mining platform, with CEO Ben Zhou citing warnings from Chinese police that the project is a scam.",
+      "title": "Polymarket bettors threatened journalist over Iran missile report",
+      "summary": "Critics have been warning that prediction markets tied to wars could incentivize insider trading, which lawmakers in the US and abroad have moved to regulate.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -60,13 +46,13 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/pi-rallies-more-than-30-after-kraken-announces-listing",
-      "date": "2026-03-13"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/polymarket-users-threaten-journalist-change-iran-missile-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
     },
     {
-      "title": "Bitcoin price eyes $74K rematch as US PCE inflation boosts crypto, stocks",
-      "summary": "Bitcoin bulls squeezed the market toward $74,000 again as promising US inflation data buoyed risk assets, but BTC price forecasts stayed mixed.",
+      "title": "Altcoins jump as bitcoin inches toward potential $74,000 breakout",
+      "summary": "The bitcoin price is approaching a key technical level while PEPE and other memecoins jump more than 10% in a sign of rising appetite for risk.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -74,13 +60,111 @@
       ],
       "chain": "",
       "loss_usd": 74000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-price-eyes-74k-rematch-us-pce-inflation-boosts-crypto-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-13"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/16/altcoins-jump-as-bitcoin-inches-toward-potential-usd74-000-breakout",
+      "date": "2026-03-16"
     },
     {
-      "title": "Bitcoin can survive 72% of the world's submarine cables being cut, but a targeted attack on five hosting providers could cripple it",
-      "summary": "A Cambridge study spanning 11 years and 68 verified cable failures found that Bitcoin's physical infrastructure is far more resilient than previously understood, with TOR adoption actually strengthening the network.",
+      "title": "Bitcoin’s push toward $75K revives debate over what drives capital flows",
+      "summary": "Bitcoin chases $75,000 as the return of aggressive spot BTC ETF inflows, billion-dollar buys from Strategy and an improvement in investors’ risk appetite propel the crypto market.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 75000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-s-push-toward-75k-revives-debate-over-what-drives-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Bitcoin nears $75K as trader says BTC price squeeze ‘changes nothing’",
+      "summary": "Bitcoin achieved new six-week highs at the week's first Wall Street open, but analysis stayed risk-off, arguing that the long-term BTC price downtrend was still in place.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 75000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-approaches-75k-trader-says-btc-price-squeeze-changes-nothing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "How a 2.85% price error triggered $27M in liquidations on Aave",
+      "summary": "A small pricing error in wstETH collateral caused $27 million in Aave liquidations, highlighting the critical role of price oracles and automated risk systems in DeFi.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 27000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/how-a-2-85-price-error-triggered-27m-in-liquidations-on-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "XRP flips BNB as open interest builds back toward pre-crash levels",
+      "summary": "The token broke through $1.50 resistance on a 125% volume spike, pushing its market cap to $93.4 billion. Binance futures open interest has climbed 59% since October even as the price remains 58% below its high.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "BSC",
+      "loss_usd": 93400000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/17/xrp-flips-bnb-as-open-interest-builds-back-toward-pre-crash-levels",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "Crypto majors post double-digit weekly gains as bitcoin tests $75,000 ahead of Fed decision",
+      "summary": "Ether jumped 13%, XRP surged 11%, and solana gained 9.7% over seven days as $767 million in ETF inflows and ceasefire speculation fueled the broadest rally since before the war.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 767000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/17/crypto-majors-post-double-digit-weekly-gains-as-bitcoin-tests-usd75-000-ahead-of-fed-decision",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "Bitcoin’s derivatives-led rally is already unraveling. Prices are back below $75,000",
+      "summary": "Bitcoin briefly surged to a six-week high above $75,000 before quickly retreating, underscoring the fragility of the latest rally.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 75000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-s-derivatives-led-rally-is-already-unraveling-prices-are-back-below-usd75-000",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "Bitcoin just surged past $75,000. Derivatives seem to be driving the rally. ",
+      "summary": "Bitcoin's move, led by unwinding of shorts, has lifted the broader crypto market, with the CoinDesk 20 Index up 5%.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 75000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "DeFi lobby drops airdrop lawsuit against SEC, citing crypto shift",
+      "summary": "The voluntary dismissal was filed without prejudice, meaning Beba and the DeFi Education Fund could refile the same case at a later date.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -88,13 +172,55 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-can-survive-72-of-the-world-s-submarine-cables-being-cut-but-a-targeted-attack-on-five-hosting-providers-could-cripple-it",
-      "date": "2026-03-14"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/defi-education-fund-withdraws-sec-lawsuit-crypto-airdrops-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
     },
     {
-      "title": "BlackRock says 'exotic' crypto ETFs not part of its strategy",
-      "summary": "BlackRock launched a staked Ether exchange-traded fund on Thursday, expanding its crypto offerings beyond its flagship spot Bitcoin and Ether ETFs that launched in 2024.",
+      "title": "Ex-LA cop gets 5 years prison for helping crypto ‘Godfather’ extort victims",
+      "summary": "Michael Coberg was sentenced to 63 months in prison for his role in helping the so-called crypto \"Godfather\" with a sham drug bust and the extortion of a victim for $127,000.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 127000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ex-la-cop-5-years-prison-helping-crypto-godfather-extortion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "Messari’s new CEO is doubling down on AI as firm cuts staff",
+      "summary": "“We’re doubling down on Messari as an AI-first company serving institutions through research and AI products,\" said Messari's new CEO, Diran Li on Monday.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/messari-ceo-eric-turner-steps-down-amid-pivot-ai-staff-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "US Bitcoin ETFs post 6-day inflow streak as crypto rallies",
+      "summary": "US-listed spot Bitcoin ETFs have tallied nearly $1 billion worth of inflows since March 9, with Bitcoin rising more than 12% to $74,250 in that time.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-record-6-day-inflow-streak-longest-since-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "SEC seeks comment on crypto handling in OTC broker-dealer rule",
+      "summary": "The SEC has proposed narrowing Rule 15c2-11 to equity securities only, and is now seeking comment on whether it should apply to certain crypto assets, among other questions.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -103,12 +229,12 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/blackrock-wont-consider-exotic-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-14"
+      "url": "https://cointelegraph.com/news/sec-rule-broker-dealer-amendment-will-it-affect-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
     },
     {
-      "title": "Stablecoins could form backbone of global payments in 10 years: Billionaire",
-      "summary": "Stanley Druckenmiller said stablecoins are more efficient, faster and cheaper than fiat running on traditional banking infrastructure.",
+      "title": "Trump ups pressure for Fed chair Powell to cut rates ‘right now’",
+      "summary": "“What’s a better time to cut interest rates than now? A third-grade student would know that,” said US President Donald Trump.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -117,40 +243,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/stablecoins-power-global-payments-10-years-stanley-druckenmiller?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-14"
+      "url": "https://cointelegraph.com/news/fed-should-hold-special-meeting-cut-rates-now-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
     },
     {
-      "title": "Bitcoin nearly overtakes $74K, as data suggests bear market is not over",
-      "summary": "Bitcoin showed remarkable strength throughout the week, but BTC’s correlation to tech stocks and its reactive spot ETF flows suggest the bear market isn’t over yet.",
+      "title": "Wife used CCTV to steal $176M of husband’s crypto, UK court told",
+      "summary": "Justice Cotter said in his judgment that the husband in the case has a high chance of succeeding, given the available evidence and recommended an early trial.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 74000,
+      "loss_usd": 176000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-nearly-overtakes-dollar74k-as-data-suggests-bear-market-is-not-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-14"
+      "url": "https://cointelegraph.com/news/uk-wife-accused-stealing-176m-bitcoin-cctv-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
     },
     {
-      "title": "A huge gap between network use and token value is the most important thing happening in XRP right now",
-      "summary": "Daily payments on XRPL surged to 2.7 million, AMM pools exploded to 27,000, and tokenized asset value jumped 35% in 30 days. XRP is down 26% this year.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/dnp-xrp-ledger-activity-is-hitting-records-but-why-are-xrp-prices-down-62-from-peak",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "Court closes Custodia fight with Federal Reserve just as Fed opens master-account door",
-      "summary": "Just days after the Federal Reserve granted a limited master account to Kraken, crypto bank Custodia's years-long court battle with the Fed concludes in a loss.",
+      "title": "OpenSea postpones SEA token launch, citing ‘challenging’ conditions",
+      "summary": "OpenSea's SEA token was first announced last October, when the platform revealed it would be transitioning from an NFT marketplace to one that can \"trade everything.\"",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -158,135 +270,23 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/03/13/court-closes-custodia-fight-with-federal-reserve-just-as-fed-opens-master-account-door",
-      "date": "2026-03-13"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/opensea-postpones-sea-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-17"
     },
     {
-      "title": "Circle overtakes BlackRock in tokenized Treasuries as market hits record $11 billion",
-      "summary": "Circle’s USYC tokenized U.S. Treasury fund has grown to $2.2 billion, surpassing BlackRock’s BUIDL fund as investors increasingly seek onchain yield and collateral.",
-      "type": "news",
+      "title": "OFAC が北朝鮮 IT 労働者の暗号資産ネットワークを制裁指定、WMD 資金調達スキームの全容",
+      "summary": "※この記事は自動翻訳されています。正確な内容につきましては原文をご参照ください。 要約 OFAC は、2024 年に約 8 億ドルを生み出し北朝鮮の兵器開発に資金を供給した北朝鮮 IT 労働者スキームを仲介した 6 人の個人と 2 つの団体を指定しました。 主要な仲介者は、2023 年半ばから 2025 年半ばにかけて、北朝鮮 IT 労働者のために約 250… The post OFAC が北朝鮮 IT 労働者の暗号資産ネットワークを制裁指定、WMD 資金調達スキームの全容 appeared first on Chainalysis.",
+      "type": "analysis",
       "severity": "low",
       "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 11000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/circle-overtakes-blackrock-in-tokenized-treasuries-as-market-hits-record-usd11-billion",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "Arthur Hayes: Strong Revenue and Real Trading Could Send HYPE to $150",
-      "summary": "Hayes said Hyperliquid’s strong revenue, real trading activity and disciplined token supply could push the token to new highs.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
+        "exploit"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/arthur-hayes-says-hyperliquid-s-hype-token-could-reach-usd150-by-2026",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "One mysterious investor made $2.5 million profit in hours by betting big on the latest Trump gala news",
-      "summary": "A dormant crypto whale just bet $7 million on the Trump memecoin after a new Mar-a-Lago gala was announced, sparking a 60% rally for the struggling token.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 2500000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/one-mysterious-investor-made-usd2-5-million-profit-in-hours-by-betting-big-on-the-latest-trump-gala-news",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "MoonPay introduces Ledger-secured AI crypto agents to address wallet key risks",
-      "summary": "The feature allows users to verify and sign every transaction generated by an AI agent using a Ledger hardware device, ensuring private keys never leave the hardware signer.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/03/13/moonpay-introduces-ledger-secured-ai-crypto-agents-to-address-wallet-key-risks",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "Ethereum Foundation publishes new mandate defining its role, core principles",
-      "summary": "The document comes at a point of transition for the organization, following shifts in the blockchain's technical roadmap and the resignation of a co-executive director.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/03/13/ethereum-foundation-publishes-new-mandate-defining-its-role-core-principles",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "Stablecoins, bitcoin could reshape finance, Stanley Druckenmiller says",
-      "summary": "The billionaire investor said stablecoins could become the whole payment system in 10-15 years, and reiterated that crypto might replace the U.S. dollar as the global reserve currency.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/03/13/stablecoins-bitcoin-could-reshape-finance-stanley-druckenmiller-says",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "Circle's USDC volumes top Tether's USDT for first time since 2019, prompting sell-side price target hike",
-      "summary": "Japanese investment bank Mizuho remains neutral on Circle, but lifted it price target to $120 from $100.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/circle-s-usdc-volumes-top-tether-s-usdt-for-first-time-since-2019-prompting-sell-side-price-target-hike",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "Bitcoin rises to one-month high of $73,800, continuing to outperform since start of Iran war",
-      "summary": "Falling oil prices are helping, but a bounce seemed in the cards after some of the worst sentiment in bitcoin's history.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 73800,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-rises-to-usd73-300-continuing-to-outperform-since-iran-war-and-taking-aim-at-one-month-high",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "U.S. sanctions 6 people, 2 companies that laundered $800 million in crypto for North Korea",
-      "summary": "The Treasury Department said North Korea infiltrated IT workers into U.S. businesses and channeled their wages back to the country to fund weapons of mass destruction programs.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 800000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea",
-      "date": "2026-03-13"
+      "source": "Chainalysis",
+      "url": "https://www.chainalysis.com/blog/ofac-targets-north-korean-it-workers-crypto-march-2026-japanese/",
+      "date": "2026-03-17"
     }
   ],
   "errors": [
