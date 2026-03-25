@@ -1,44 +1,44 @@
 {
-  "date": "2026-03-24",
-  "generated_at": "2026-03-24T07:27:58.467Z",
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T07:27:18.513Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 67,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
     {
-      "title": "How a ‘Wrong Number’ message turned into a $3.4M crypto scam",
-      "summary": "A simple “wrong number” message led to a $3.4 million crypto scam, exposing social engineering tactics, fake investments and fund laundering methods.",
+      "title": "Ripple taps Singapore's central bank sandbox to test stablecoin-powered trade finance with RLUSD",
+      "summary": "The pilot with supply chain firm Unloq under MAS's BLOOM initiative would trigger cross-border payments automatically when shipment conditions are verified, a use case that connects Ripple's stablecoin ambitions to a concrete commercial application.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 3400000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/wrong-number-text-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-23"
-    },
-    {
-      "title": "Polymarket traders bet on Iran ceasefire even as oil shock concerns persist",
-      "summary": "Your day-ahead look for March 23, 2026",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
+      "chain": "Polygon",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/03/23/polymarket-traders-bet-on-iran-ceasefire-even-oil-shock-concerns-persist",
-      "date": "2026-03-23"
+      "url": "https://www.coindesk.com/business/2026/03/25/ripple-taps-singapore-s-central-bank-sandbox-to-test-stablecoin-powered-trade-finance-with-rlusd",
+      "date": "2026-03-25"
     },
     {
-      "title": "Bitcoin’s battle for $70K continues as data shows traders avoiding bullish positioning",
-      "summary": "Rising inflation concerns weigh on Bitcoin’s breakout as traders refuse to take on bullish positions, despite Monday’s 4% price bounce.",
+      "title": "Spotting issues in DeFi with dimensional analysis",
+      "summary": "Using dimensional analysis, you can categorically rule out a whole category of logic and arithmetic bugs that plague DeFi formulas. No code changes required, just better reasoning! One of the first lessons in physics is learning to think in terms of dimensions. Physicists can oft",
+      "type": "analysis",
+      "severity": "high",
+      "tags": [
+        "audit"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/03/24/spotting-issues-in-defi-with-dimensional-analysis/",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "Bitcoin slips below $70,000, Circle's 16% slide leads crypto stock sell-off",
+      "summary": "Market participants are now pricing in rate hikes, and it could be weighing on risk assets.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -46,13 +46,55 @@
       ],
       "chain": "",
       "loss_usd": 70000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-s-battle-for-70k-continues-as-data-shows-traders-avoiding-bullish-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-23"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-slips-below-usd70-000-circle-s-16-slide-leading-crypto-stock-sell-off",
+      "date": "2026-03-24"
     },
     {
-      "title": "Senator Warren questions whether MrBeast will market crypto to kids",
-      "summary": "A letter to the influencer and the CEO of his holding company expressed concerns about whether the two will allow minors to trade crypto through a recently acquired banking app.",
+      "title": "Tether hires a 'Big Four' firm for a full audit of USDT reserves",
+      "summary": "The audit aims to address long-standing questions over USDT reserves and push new disclosure standards.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/03/24/tether-hires-a-big-four-firm-for-a-full-audit-of-usdt-reserves",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "Bitcoin may have already bottomed out near $60,000. Here’s why.",
+      "summary": "Implied volatility indicators DVOL and BVIV suggest peak fear has passed, with crypto leading traditional markets in pricing risk.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 60000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-volatility-signals-a-bottom-as-tradfi-reels-in-uncertainty",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "Rising US Treasury yields, war in Iran, rising inflation risk pressure Bitcoin price",
+      "summary": "Falling tech stock prices and rising bond yields have forced a rush for cash, preventing Bitcoin from gaining any bullish momentum.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/rising-us-treasury-yields-war-in-iran-rising-inflation-risk-pressure-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "Tether says ‘Big Four‘ firm to handle first full audit of USDT reserves",
+      "summary": "The long-anticipated audit could address years of scrutiny over Tether’s reserve disclosures, though the company has not named the accounting firm.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,12 +103,12 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/senator-warren-mrbeast-crypto-children?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-23"
+      "url": "https://cointelegraph.com/news/tether-big-four-audit-usdt-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-24"
     },
     {
-      "title": "Polymarket tightens rules to curb manipulation, insider trading risks",
-      "summary": "Polymarket introduced stricter trading safeguards and market limits as it responds to concerns over manipulation, insider trading and market fairness.",
+      "title": "FSB flags dollar stablecoins as bigger risk for emerging markets in annual report",
+      "summary": "US dollar-denominated stablecoins may expose emerging economies to external macro shocks and financial stability risks, according to the Financial Stability Board.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -75,96 +117,96 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polymarket-rules-update-manipulation-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-23"
+      "url": "https://cointelegraph.com/news/fsb-dollar-stablecoins-risk-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-24"
     },
     {
-      "title": "Siren token surges 340% in 7 days, draws scrutiny over concentrated supply",
-      "summary": "Arkham data shows a wallet cluster holding 644 million SIREN, about 88% of the 728 million circulating supply, raising manipulation concerns.",
+      "title": "What happens to Bitcoin if US bond yields soar above 5%?",
+      "summary": "Past oil-war shocks lifted inflation and hurt risk appetite, which raises the risk of Bitcoin falling below $50,000 in 2026.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 50000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/siren-token-340-percent-surge-wallet-concentration-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-23"
-    },
-    {
-      "title": "Balancer Labs will shut down as corporate entity became 'a liability' after $110 million exploit",
-      "summary": "Co-founder Fernando Martinelli said he considered winding down the entire protocol but decided the team deserved a chance to restructure, with the DAO targeting zero emissions, fee restructuring, and a BAL buyback to offer holders a fair exit.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 110000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/03/24/balancer-labs-will-shut-down-as-corporate-entity-became-a-liability-after-usd110-million-exploit",
+      "url": "https://cointelegraph.com/news/what-happens-bitcoin-bond-yields-above-5percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-03-24"
     },
     {
-      "title": "Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war",
-      "summary": "Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Bitcoin's mining concentration just showed up in a rare 2-block reorg",
-      "summary": "A 2-block reorg at height 941,881 saw Foundry's chain overwrite blocks from AntPool and ViaBTC, coming days after mining difficulty dropped nearly 8%.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/03/24/bitcoin-s-mining-concentration-just-showed-up-in-a-rare-2-block-reorg",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "SEC’s top enforcer clashed over Trump cases before quitting: Report",
-      "summary": "The SEC’s handling of cases involving Justin Sun and Elon Musk was among the factors that caused the agency’s top enforcement official to quit, according to sources.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-top-enforcer-clashed-over-trump-cases-before-quitting-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Major Australian pension fund mulls crypto offerings amid growing demand",
-      "summary": "Hostplus is the third-largest super fund in Australia by members, with 2.2 million, and the fifth-largest by assets under management, with over $139 billion in assets.",
+      "title": "Crypto giant debuts oil trading, but it's a different model to Hyperliquid's perps",
+      "summary": "Leading crypto market maker Wintermute debuts WTI crude oil CFDs – an OTC derivative that lets traders speculate on oil prices 24/7.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 139000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hostplus-considers-crypto-options-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/25/crypto-giant-debuts-oil-trading-but-it-s-a-different-model-to-hyperliquid-s-perps",
+      "date": "2026-03-25"
     },
     {
-      "title": "Circle asks EU to ease crypto thresholds in proposed markets framework",
-      "summary": "Circle said no euro-denominated \"e-money token,\" including its EURC stablecoin, has reached the framework's proposed market cap threshold for use in settlement.",
+      "title": "Retail traders fare worse on prediction markets than sportsbooks",
+      "summary": "A new report from Citizens JMP says median losses are deeper on prediction platforms as retail traders face sharper, better-capitalized counterparties",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/25/retail-traders-fare-worse-on-prediction-markets-than-sportsbooks",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "Bitcoin steadies above $71,000 as oil falls below $100 after U.S. drafts 15‑point Iran peace plan",
+      "summary": "Brent crude fell 4.7% and Asian equities rallied 1.9% as Washington delivered a ceasefire proposal to Tehran via Pakistan, fueling the most sustained optimism since the conflict began a month ago.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 71000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/25/bitcoin-steadies-above-usd71-000-as-oil-drops-below-usd100-on-u-s-15-point-plan-to-end-iran-war",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "Cardano price indicator that once preceded a 300% rally is back",
+      "summary": "Two historically contrarian indicators are flashing simultaneously for ADA, with average holders deeply underwater and derivatives traders piling into the most aggressive short positioning in nearly three years.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/25/cardano-price-indicator-that-once-preceded-a-300-rally-is-back",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "XRP holds near $1.41 as range tightens, breakout setup builds",
+      "summary": "Traders are watching $1.38 support and $1.42 resistance as compression points to a potential move.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/25/xrp-holds-near-usd1-41-as-range-tightens-breakout-setup-builds",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "Irish police open Bitcoin wallet years after keys were apparently lost",
+      "summary": "A crypto wallet tied to a convicted drug dealer thought to have lost his wallet keys transferred 500 Bitcoin to Coinbase on Tuesday.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -173,120 +215,78 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-provides-feedback-eu-market-integration-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
+      "url": "https://cointelegraph.com/news/irish-police-recover-bitcoin-wallet-clifton-collins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-25"
     },
     {
-      "title": "TRON DAO expands AI fund to $1B as agentic economy race heats up",
-      "summary": "The $1 billion AI fund targets investments in stablecoin rails, agent identity, tokenized RWAs and developer tooling for autonomous AI systems.",
+      "title": "Bitcoin exchange outflows show ‘genuine accumulation by investors’: Analyst",
+      "summary": "Ongoing accumulation of Bitcoin is likely one of the factors behind why the cryptocurrency is trading in a tight range, say crypto analysts.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/persistent-btc-exchange-outflow-suggests-genuine-accumulation-by-investors-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "Pharma firm Enlivex raises $21M for prediction market Rain token treasury",
+      "summary": "Enlivex says it acquired 3 billion Rain tokens at a discount and extended its option to purchase billions more discounted tokens until late next year.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 21000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/enlivex-health-firm-raise-debt-buy-tokens-rain-predictions-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "Robinhood announces $1.5B share buyback as stock struggles in 2026",
+      "summary": "Shares in Robinhood fell to their lowest level this year on Tuesday as crypto and tech stocks are battered by geopolitical headwinds.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 1500000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/robinhood-approves-share-buyback-stock-struggles-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "OpenAI kills off AI video app Sora after 6 months",
+      "summary": "OpenAI CEO Sam Altman reportedly said all its text-to-video models would be shuttered, and a $1 billion investment from Disney has also been cancelled.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 1000000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tron-dao-expands-ai-fund-1b-agentic-economy-race-heats-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
+      "url": "https://cointelegraph.com/news/openai-sora-video-app-shutdown-six-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-25"
     },
     {
-      "title": "Delaware to regulate stablecoins under banking framework in new bill",
-      "summary": "The stablecoin bill introduced in Delaware aims to create a licensing framework for stablecoin issuers as part of the state's first major banking code update since 1981.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/delaware-regulate-stablecoins-under-banking-framework-new-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Bitmine chair sees ‘mini-crypto winter’ thaw for ETH as it hits 77% of goal",
-      "summary": "Bitmine Immersion Technologies bought another $139 million in Ether last week, bringing its ETH holdings to 4.6 million.",
+      "title": "Ethereum devs up security efforts with new ‘Post-Quantum’ team",
+      "summary": "The Ethereum Foundation-linked Post-Quantum team says while the quantum threat isn’t imminent, deploying a full solution without disrupting the network will take years.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 139000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tom-lee-bitmine-ether-77-percent-crypto-winter-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Balancer Labs shuts down 4 months after $100M+ exploit, protocol to continue",
-      "summary": "Executives at Balancer Labs are now pushing for the protocol to be managed by the Balancer Foundation and Balancer’s DAO.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 100000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/balancer-labs-shuts-down-protocol-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Kalshi joins Polymarket in sweeping user bans to head off insider trading",
-      "summary": "Kalshi and Polymarket have moved to restrict insider trading on the same day lawmakers introduced a bipartisan bill to ban popular sports event contracts.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-joins-polymarket-user-bans-head-off-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Eyecare biotech jumps 19% after stablecoin-focused rebrand",
-      "summary": "NovaBay Pharmaceuticals was founded in 2000 as a biopharmaceutical company developing eye care products and is now betting big on the Sky protocol and stablecoins.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eyecare-biotech-jumps-19-after-stablecoin-focused-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Strategy shares $44.1B plan to buy more Bitcoin amid market downturn",
-      "summary": "Strategy is increasingly turning to perpetual preferred stocks to fund its Bitcoin strategy, with the company adding 90,000 BTC to its balance sheet so far this year.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 44100000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-44-billion-plan-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-24"
-    },
-    {
-      "title": "Stablecoin yield in crypto Clarity Act won't allow rewards on balances, latest text says",
-      "summary": "The crypto industry got a first look at legislative language that won't allow rewards on stablecoin balances, and the approach is seen as restrictive.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/03/23/stablecoin-yield-in-crypto-clarity-act-won-t-allow-rewards-on-balances-latest-text-says",
-      "date": "2026-03-23"
+      "url": "https://cointelegraph.com/news/ethereum-devs-up-security-efforts-post-quantum-team?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-03-25"
     }
   ],
   "errors": [
