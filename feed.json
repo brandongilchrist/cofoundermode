@@ -1,26 +1,26 @@
 {
-  "date": "2026-03-26",
-  "generated_at": "2026-03-26T07:31:51.431Z",
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T07:35:13.187Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 69,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
     {
-      "title": "Australia's central bank backs tokenization as pilot finds $16.7B upside",
-      "summary": "Tokenized finance and related infrastructure upgrades will be “revolutionary,” said Reserve Bank of Australia Assistant Governor Brad Jones.",
-      "type": "news",
+      "title": "Mutation testing for the agentic era",
+      "summary": "Code coverage is one of the most dangerous quality metrics in software testing. Many developers fail to realize that code coverage lies by omission: it measures execution, not verification. Test suites with high coverage can obfuscate the fact that critical functionality is untes",
+      "type": "analysis",
       "severity": "high",
       "tags": [
-        "defi"
+        "audit"
       ],
-      "chain": "",
-      "loss_usd": 16700000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/australian-central-bank-backs-rwa-tokenisation-explores-digital-finance-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-26"
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/04/01/mutation-testing-for-the-agentic-era/",
+      "date": "2026-04-01"
     },
     {
       "title": "Try our new dimensional analysis Claude plugin",
@@ -34,20 +34,6 @@
       "loss_usd": 0,
       "source": "Trail of Bits",
       "url": "https://blog.trailofbits.com/2026/03/25/try-our-new-dimensional-analysis-claude-plugin/",
-      "date": "2026-03-25"
-    },
-    {
-      "title": "Startale raises $50M from SBI to complete $63M Series A",
-      "summary": "Startale said SBI invested $50 million to complete its Series A, with the firms working on tokenized securities, stablecoins and consumer onchain products in Japan.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 50000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/startale-sbi-50m-series-a-close-japan-onchain-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-03-25"
     },
     {
@@ -65,8 +51,8 @@
       "date": "2026-03-24"
     },
     {
-      "title": "Crypto Long & Short: Prediction Markets Don’t Just Forecast Power - They Reshape It",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Ryan Kirkley writes on how crypto prediction markets can risk incentivizing manipulation and amplify misinformation at scale.",
+      "title": "Bitcoin traders keep chasing Trump’s Iran noise. The real signals are elsewhere.",
+      "summary": "Bitcoin and other risk assets have been whipsawed by President Donald J. Trump’s shifting rhetoric on Iran. Here are some indicators that help cut through the noise.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -75,40 +61,68 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-long-and-short-prediction-markets-don-t-just-forecast-power-they-reshape-it",
-      "date": "2026-03-25"
+      "url": "https://www.coindesk.com/markets/2026/04/02/bitcoin-traders-keep-chasing-trump-s-iran-noise-the-real-signals-are-elsewhere",
+      "date": "2026-04-02"
     },
     {
-      "title": "UK political crypto donations banned by Starmer government",
-      "summary": "The government halted crypto political donations over concerns about foreign interference, as the Rycroft review warns that anonymity risks undermine democratic transparency.",
+      "title": "Crypto Long & Short: Governance is the real Layer 1",
+      "summary": "In this week’s Crypto Long & Short Newsletter, Nilmini Rubin writes on the challenge facing crypto and traditional markets to create a hybrid, shared governance structure. Then, Meredith Fitzpatrick covers how financial institutions must fundamentally rethink AML risk as crypto a",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/01/crypto-long-and-short-governance-is-the-real-layer-1",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "Cango raises capital as it faces NYSE delisting risk with shares below $1",
+      "summary": "The bitcoin miner issued a $10 million convertible note and closed a $65 million insider-led round while racing to regain compliance with exchange rules.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 10000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/03/25/keir-starmer-takes-aim-at-nigel-farage-while-announcing-an-immediate-ban-on-crypto-funding",
-      "date": "2026-03-25"
+      "url": "https://www.coindesk.com/business/2026/04/01/cango-raises-capital-as-it-faces-nyse-delisting-risk-with-shares-below-usd1",
+      "date": "2026-04-01"
     },
     {
-      "title": "Bitcoin’s refusal to fall signals crypto's underlying strength even as war risks linger",
-      "summary": "Your day-ahead look for March 25, 2026",
+      "title": "Uniswap Foundation held $85.8M at year-end, committed $26M in grants during 2025",
+      "summary": "Unaudited financials show the DeFi protocol's foundation had runway through January 2027 before the UNIfication governance overhaul passed in late December.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 85800000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/04/01/uniswap-foundation-held-usd85-8m-at-year-end-committed-usd26m-in-grants-during-2025",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "Warren Buffett bought $17B in US T-bills: A bad omen for Bitcoin price?",
+      "summary": "Buffett called the recent US stock market dip “nothing” versus past 50% crashes, signaling more downside for risk assets like Bitcoin in 2026.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/03/25/bitcoin-s-refusal-to-fall-signals-crypto-s-underlying-strength-even-as-war-risks-linger",
-      "date": "2026-03-25"
+      "loss_usd": 17000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/warren-buffett-bought-17b-in-us-t-bills-a-bad-omen-for-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-01"
     },
     {
-      "title": "US lawmakers hash out tokenized securities concerns in latest hearing",
-      "summary": "Industry executives told US lawmakers that existing investor protection and financial surveillance regulations should apply to tokenized securities.",
+      "title": "Naoris launches post-quantum blockchain as quantum security risks gain attention",
+      "summary": "Naoris Protocol said it has launched its mainnet, introducing a layer-1 blockchain that uses post-quantum cryptography for transaction validation and network security.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -117,82 +131,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-lawmakers-tokenized-securities-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-25"
+      "url": "https://cointelegraph.com/news/naoris-post-quantum-blockchain-quantum-security-risks-gain-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-01"
     },
     {
-      "title": "Why Argentina is blocking Polymarket despite its global growth",
-      "summary": "Why Argentina is blocking Polymarket despite global growth, focusing on gambling laws, user protection concerns and regulatory pressure on prediction markets.",
+      "title": "Gen Z turns Bitcoin into a solid portfolio diversifier",
+      "summary": "Gen Z embraces Bitcoin despite acknowledged volatility. Younger investors treat crypto risk as portfolio diversification rather than pure speculation.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/argentina-polymarket-ban-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-25"
+      "url": "https://cointelegraph.com/news/gen-z-bitcoin-portfolio-diversifier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-01"
     },
     {
-      "title": "Marshall Islands basic income effort gains crypto-connected backers",
-      "summary": "Despite an IMF warning regarding the potential risks, the Marshall Islands is proceeding with a partnership which could expand its digital sovereign bond to institutional markets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/company-marshall-islands-digital-sovereign-bond-ubi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-25"
-    },
-    {
-      "title": "UK review recommends crypto donation pause over foreign interference risk",
-      "summary": "A UK review led by Philip Rycroft recommended a temporary moratorium on crypto political donations until stronger safeguards and statutory guidance are in place.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-crypto-donation-pause-foreign-interference-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-25"
-    },
-    {
-      "title": "Some bitcoin indicators are still going the wrong way, challenging the bullish $70,000 holdout story",
-      "summary": "Key indicators such as ETF inflows cloud the bullish $70,000 holdout story",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 70000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/26/some-bitcoin-indicators-are-still-going-the-wrong-way-challenging-the-bullish-usd70-000-holdout-story",
-      "date": "2026-03-26"
-    },
-    {
-      "title": "Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million",
-      "summary": "The Royal Government of Bhutan transferred 519.707 BTC on Wednesday, the latest in a series of increasingly large moves that have taken its holdings from a peak of roughly 13,000 BTC to 4,453.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 150000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/26/bhutan-moves-another-500-bitcoin-to-exchanges-as-2026-outflows-top-usd150-million",
-      "date": "2026-03-26"
-    },
-    {
-      "title": "XRP volatility hits cycle lows as $1.40 support comes into focus",
-      "summary": "Tight range and fading momentum suggest a breakout is near, with direction hinging on $1.40 hold.",
+      "title": "Ripple Treasury puts XRP and RLUSD inside corporate finance for the first time ",
+      "summary": "The treasury management system, built on Ripple's 2025 acquisition of GTreasury, lets CFOs view and manage digital assets alongside fiat in a single dashboard without separate custody or wallet infrastructure.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -201,54 +159,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/26/xrp-volatility-hits-cycle-lows-as-usd1-40-support-comes-into-focus",
-      "date": "2026-03-26"
+      "url": "https://www.coindesk.com/business/2026/04/02/ripple-treasury-puts-xrp-and-rlusd-inside-corporate-finance-for-the-first-time",
+      "date": "2026-04-02"
     },
     {
-      "title": "UK pushes ahead with temporary ban on political crypto donations",
-      "summary": "The government plans to implement the ban by amending the Representation of the People Bill, with changes taking \"retrospective effect\" from March 25.",
+      "title": "Oil trader takes $17 million hit as tokenized crude rivals bitcoin liquidations",
+      "summary": "Brent crude futures on Hyperliquid recorded $46.6 million in liquidations, behind only ether and bitcoin. The single largest liquidation was a $17.17 million oil position.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-forges-ahead-political-crypto-donations-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-26"
+      "chain": "Ethereum",
+      "loss_usd": 17000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/02/oil-trader-takes-usd17m-hit-as-tokenized-crude-rivals-bitcoin-liquidations",
+      "date": "2026-04-02"
     },
     {
-      "title": "Coinbase opposes latest crypto bill stablecoin compromise: Report",
-      "summary": "Coinbase is reportedly still pushing back against stablecoin yield provisions in the Senate’s crypto market structure bill, which has derailed past efforts to advance the legislation.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-opposes-latest-crypto-bill-stablecoin-compromise-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-26"
-    },
-    {
-      "title": "Proposed bill seeks to ban US president, Congress from prediction markets",
-      "summary": "The bill adds to a wave of recent legislative and state-level actions targeting prediction markets as scrutiny over sports betting, war contracts and alleged insider trading builds.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/lawmakers-introduce-bill-banning-congress-president-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-26"
-    },
-    {
-      "title": "Bitcoin’s quantum-resistance lag may become Ethereum’s bull case: Nic Carter",
-      "summary": "Crypto entrepreneur Nic Carter claims that Bitcoin developers still have their \"head in the sand\" when it comes to making Bitcoin quantum-resistant, compared to Ethereum.",
+      "title": "Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'",
+      "summary": "Crypto and equities sold off after the president's national address undermined a two-day rally built on expectations the war was ending. Oil jumped 5% to above $106.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -256,27 +186,41 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-rigidity-becomes-ethereum-s-biggest-bull-case-nic-carter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-26"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/02/bitcoin-ether-solana-slide-further-as-trump-threatens-to-hit-iran-extremely-hard",
+      "date": "2026-04-02"
     },
     {
-      "title": "Swan Bitcoin seeks to subpoena Cantor Fitzgerald, ex-CEO in ex-staff dispute",
-      "summary": "Swan Bitcoin claims that Howard Lutnick likely knew about its failed Tether mining venture, after which employees allegedly stole documents, resigned and launched a rival firm.",
+      "title": "Former FTX head of engineering fined $3.7M to resolve CFTC lawsuit",
+      "summary": "Singh faced legal action from the SEC, CFTC and US Department of Justice after FTX collapsed in November 2022 but avoided significant prison time by cooperating with authorities.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
+      "chain": "Solana",
+      "loss_usd": 3700000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/swan-bitcoin-subpoena-howard-lutnick-cantor-fitzgerald-tether-mining-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-26"
+      "url": "https://cointelegraph.com/news/ftx-nishad-singh-cftc-fine-trading-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-02"
     },
     {
-      "title": "Bitcoin Depot picks ex-MoneyGram boss as CEO as state actions mount",
-      "summary": "Former MoneyGram veteran Alex Holmes is now leading Bitcoin Depot, as crypto ATM operators face mounting legal scrutiny in multiple US states.",
+      "title": "Alabama becomes second US state to grant DAOs legal status under DUNA",
+      "summary": "The legislation “embraces innovation, protects participants, and empowers internet-native communities to compete with big tech incumbents,” said a16z’s Miles Jennings.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/alabama-enacts-duna-act-grant-daos-legal-status?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Crypto VC Paradigm is developing a prediction market terminal: Fortune",
+      "summary": "As part of the offering, Paradigm is also exploring an internal market-making desk for prediction market trading and a prediction market index.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,14 +229,70 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-depot-ex-moneygram-boss-as-ceo-state-actions-mount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-03-26"
+      "url": "https://cointelegraph.com/news/crypto-vc-paradigm-building-prediction-market-terminal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Genius Group liquidates Bitcoin treasury to pay $8.5M of debt",
+      "summary": "The AI and crypto company has added to a pattern of Bitcoin treasuries offloading this year, with Michael Saylor's Strategy bucking that trend.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 8500000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/genius-group-triples-revenue-but-liquidates-entire-bitcoin-stash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Alleged Huione money laundering boss extradited to China",
+      "summary": "Huione Group allegedly helped launder funds from Southeast Asian scam networks behind “pig butchering” schemes and other crypto scams.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-scam-leader-extradited-to-china-fraud-money-laundering-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Taiwan should reconsider Bitcoin reserve in case of war, says think tank",
+      "summary": "Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Justice holds 210 Bitcoins, worth $14 million, confiscated during criminal investigations.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 14000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Bitcoin dips, oil rises as Trump addresses nation on war in Iran",
+      "summary": "US President Donald Trump said the military is \"very close\" to finishing its war in Iran in a speech that saw oil and Bitcoin prices move.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-is-going-to-give-a-key-address-about-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-02"
     }
   ],
   "errors": [
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 8918\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 9327\nChar: &"
     }
   ]
 }
