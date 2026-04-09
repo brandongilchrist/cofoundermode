@@ -1,13 +1,55 @@
 {
-  "date": "2026-04-02",
-  "generated_at": "2026-04-02T07:35:13.187Z",
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T07:37:44.066Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 70,
+  "items_found": 72,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Bitcoin gets its first working prototype of quantum-resistant wallet rescue tool",
+      "summary": "Lightning Labs CTO Olaoluwa Osuntokun demos a prototype that could prevent millions of wallets from being frozen under a future quantum-defense upgrade",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/09/bitcoin-gets-first-working-prototype-of-quantum-resistant-wallet-rescue-tool",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Anthropic loses first round in fight over Pentagon's 'supply chain risk' label",
+      "summary": "“In our view, the equitable balance here cuts in favor of the government,” said a panel of judges from the District of Columbia Court of Appeals.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/anthropic-loses-bid-pause-pentagon-supply-chain-risk-designation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Quantum threat to Bitcoin is real, but manageable, according to Wall Street broker Bernstein ",
+      "summary": "The broker said advances in quantum computing are accelerating the timeline for crypto risk, but argued Bitcoin faces a multi-year upgrade cycle, not an existential crisis.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/08/quantum-threat-to-bitcoin-is-real-but-manageable-according-to-wall-street-broker-bernstein",
+      "date": "2026-04-08"
+    },
     {
       "title": "Mutation testing for the agentic era",
       "summary": "Code coverage is one of the most dangerous quality metrics in software testing. Many developers fail to realize that code coverage lies by omission: it measures execution, not verification. Test suites with high coverage can obfuscate the fact that critical functionality is untes",
@@ -51,8 +93,8 @@
       "date": "2026-03-24"
     },
     {
-      "title": "Bitcoin traders keep chasing Trump’s Iran noise. The real signals are elsewhere.",
-      "summary": "Bitcoin and other risk assets have been whipsawed by President Donald J. Trump’s shifting rhetoric on Iran. Here are some indicators that help cut through the noise.",
+      "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
+      "summary": "Speaking at a Mizuho event, the Strategy (MSTR) executive chairman said the formation of banking credit pairing with digital credit will be the catalyst for the next bull market.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,68 +103,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/02/bitcoin-traders-keep-chasing-trump-s-iran-noise-the-real-signals-are-elsewhere",
-      "date": "2026-04-02"
+      "url": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
+      "date": "2026-04-08"
     },
     {
-      "title": "Crypto Long & Short: Governance is the real Layer 1",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Nilmini Rubin writes on the challenge facing crypto and traditional markets to create a hybrid, shared governance structure. Then, Meredith Fitzpatrick covers how financial institutions must fundamentally rethink AML risk as crypto a",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/01/crypto-long-and-short-governance-is-the-real-layer-1",
-      "date": "2026-04-01"
-    },
-    {
-      "title": "Cango raises capital as it faces NYSE delisting risk with shares below $1",
-      "summary": "The bitcoin miner issued a $10 million convertible note and closed a $65 million insider-led round while racing to regain compliance with exchange rules.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 10000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/01/cango-raises-capital-as-it-faces-nyse-delisting-risk-with-shares-below-usd1",
-      "date": "2026-04-01"
-    },
-    {
-      "title": "Uniswap Foundation held $85.8M at year-end, committed $26M in grants during 2025",
-      "summary": "Unaudited financials show the DeFi protocol's foundation had runway through January 2027 before the UNIfication governance overhaul passed in late December.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 85800000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/01/uniswap-foundation-held-usd85-8m-at-year-end-committed-usd26m-in-grants-during-2025",
-      "date": "2026-04-01"
-    },
-    {
-      "title": "Warren Buffett bought $17B in US T-bills: A bad omen for Bitcoin price?",
-      "summary": "Buffett called the recent US stock market dip “nothing” versus past 50% crashes, signaling more downside for risk assets like Bitcoin in 2026.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 17000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/warren-buffett-bought-17b-in-us-t-bills-a-bad-omen-for-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-01"
-    },
-    {
-      "title": "Naoris launches post-quantum blockchain as quantum security risks gain attention",
-      "summary": "Naoris Protocol said it has launched its mainnet, introducing a layer-1 blockchain that uses post-quantum cryptography for transaction validation and network security.",
+      "title": "Bitcoin has 3–5 years to prepare for quantum risk, says Bernstein",
+      "summary": "Bitcoin faces a future quantum threat, but Bernstein analysts say risks are concentrated in older wallets and exposed keys, and unlikely to cause existential disruption.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -131,82 +117,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/naoris-post-quantum-blockchain-quantum-security-risks-gain-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-01"
+      "url": "https://cointelegraph.com/news/bitcoin-quantum-risk-3-5-years-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-08"
     },
     {
-      "title": "Gen Z turns Bitcoin into a solid portfolio diversifier",
-      "summary": "Gen Z embraces Bitcoin despite acknowledged volatility. Younger investors treat crypto risk as portfolio diversification rather than pure speculation.",
+      "title": "Bitcoin fades three-week highs as BTC price shrugs off Iran war ceasefire",
+      "summary": "Bitcoin briefly reclaimed $72,000 on ceasefire news, but fading momentum, resistance and macro risks leave traders questioning the strength of the breakout.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/gen-z-bitcoin-portfolio-diversifier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-01"
-    },
-    {
-      "title": "Ripple Treasury puts XRP and RLUSD inside corporate finance for the first time ",
-      "summary": "The treasury management system, built on Ripple's 2025 acquisition of GTreasury, lets CFOs view and manage digital assets alongside fiat in a single dashboard without separate custody or wallet infrastructure.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/02/ripple-treasury-puts-xrp-and-rlusd-inside-corporate-finance-for-the-first-time",
-      "date": "2026-04-02"
+      "loss_usd": 72000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-fades-three-week-highs-btc-price-shrugs-off-iran-war-ceasefire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-08"
     },
     {
-      "title": "Oil trader takes $17 million hit as tokenized crude rivals bitcoin liquidations",
-      "summary": "Brent crude futures on Hyperliquid recorded $46.6 million in liquidations, behind only ether and bitcoin. The single largest liquidation was a $17.17 million oil position.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 17000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/02/oil-trader-takes-usd17m-hit-as-tokenized-crude-rivals-bitcoin-liquidations",
-      "date": "2026-04-02"
-    },
-    {
-      "title": "Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'",
-      "summary": "Crypto and equities sold off after the president's national address undermined a two-day rally built on expectations the war was ending. Oil jumped 5% to above $106.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/02/bitcoin-ether-solana-slide-further-as-trump-threatens-to-hit-iran-extremely-hard",
-      "date": "2026-04-02"
-    },
-    {
-      "title": "Former FTX head of engineering fined $3.7M to resolve CFTC lawsuit",
-      "summary": "Singh faced legal action from the SEC, CFTC and US Department of Justice after FTX collapsed in November 2022 but avoided significant prison time by cooperating with authorities.",
+      "title": "CFTC presses case that sports betting is finance, seeks to block Arizona enforcement",
+      "summary": "Federal lawsuit argues event contracts are swaps under U.S. law, not state-level gaming law, deepening a split with states that view the products as illegal gambling",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 3700000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ftx-nishad-singh-cftc-fine-trading-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-02"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/04/09/cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcement",
+      "date": "2026-04-09"
     },
     {
-      "title": "Alabama becomes second US state to grant DAOs legal status under DUNA",
-      "summary": "The legislation “embraces innovation, protects participants, and empowers internet-native communities to compete with big tech incumbents,” said a16z’s Miles Jennings.",
+      "title": "XRP slips 4% as selling pressure builds despite ETF inflows",
+      "summary": "Elevated volume and modest institutional buying fail to support price, with sellers continuing to dominate near resistance.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -214,13 +158,41 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/alabama-enacts-duna-act-grant-daos-legal-status?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-02"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/09/xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows",
+      "date": "2026-04-09"
     },
     {
-      "title": "Crypto VC Paradigm is developing a prediction market terminal: Fortune",
-      "summary": "As part of the offering, Paradigm is also exploring an internal market-making desk for prediction market trading and a prediction market index.",
+      "title": "Bitcoin's next big move hinges on oil, and right now it's a total coin flip",
+      "summary": "Analysts say a sustained 15%–16% decline in crude could revive Fed rate cut bets, sending BTC higher.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-s-next-big-move-hinges-on-oil-and-right-now-it-s-a-total-coin-flip",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed",
+      "summary": "Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 71000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Yuga Labs settles lawsuit against artists accused of copying its NFTs",
+      "summary": "Yuga Labs first filed a lawsuit in June 2022, accusing Ripps and Cahen of copying its Bored Ape Yacht Club cartoon ape images and selling lookalike NFTs.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,26 +201,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-vc-paradigm-building-prediction-market-terminal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-02"
+      "url": "https://cointelegraph.com/news/yuga-labs-settles-bayc-nft-lawsuit-ripps-cahen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
     },
     {
-      "title": "Genius Group liquidates Bitcoin treasury to pay $8.5M of debt",
-      "summary": "The AI and crypto company has added to a pattern of Bitcoin treasuries offloading this year, with Michael Saylor's Strategy bucking that trend.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 8500000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/genius-group-triples-revenue-but-liquidates-entire-bitcoin-stash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-02"
-    },
-    {
-      "title": "Alleged Huione money laundering boss extradited to China",
-      "summary": "Huione Group allegedly helped launder funds from Southeast Asian scam networks behind “pig butchering” schemes and other crypto scams.",
+      "title": "Canary Capital submits application for US-based spot PEPE ETF",
+      "summary": "Canary Capital is preparing to launch an ETF tracking Pepe’s price, despite the token trading 85% below its December 2024 all-time high.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,26 +215,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-scam-leader-extradited-to-china-fraud-money-laundering-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-02"
+      "url": "https://cointelegraph.com/news/canary-capital-pepe-us-etf-crypto-altcoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
     },
     {
-      "title": "Taiwan should reconsider Bitcoin reserve in case of war, says think tank",
-      "summary": "Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Justice holds 210 Bitcoins, worth $14 million, confiscated during criminal investigations.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 14000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-02"
-    },
-    {
-      "title": "Bitcoin dips, oil rises as Trump addresses nation on war in Iran",
-      "summary": "US President Donald Trump said the military is \"very close\" to finishing its war in Iran in a speech that saw oil and Bitcoin prices move.",
+      "title": "99.99% of Polymarket traders shouldn't quit their day jobs, data suggests",
+      "summary": "While nearly 16% of Polymarket users are in profit, only a tiny fraction have made gains large and consistent enough to entertain walking away from their day job.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,14 +229,70 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-is-going-to-give-a-key-address-about-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-02"
+      "url": "https://cointelegraph.com/news/should-you-quit-your-job-trade-full-time-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Chainalysis claims stablecoin volumes could hit over a quadrillion by 2035",
+      "summary": "Adjusted stablecoin volume could reach $719 trillion by 2035, but the projection could be far higher if two macro catalysts come to pass, said Chainalysis.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/stablecoin-volumes-1-5-quadrillion-2035-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Fed minutes open door to further rate cuts amid Iran war",
+      "summary": "Some officials cautiously eyed a year-end rate cut, but others warned that upward adjustments might be needed if inflation remains above target levels.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/many-officials-still-see-rate-cuts-coming-in-2026-despite-war-risks-fed-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Visa unveils commerce platform enabling autonomous AI shopping",
+      "summary": "Visa is rolling out a platform that helps merchants make their product inventories discoverable and purchasable by AI agents.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/visa-launches-ai-commerce-platform-to-power-autonomous-agent-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Counterhacker exposes DPRK unit that made $1M a month working IT jobs",
+      "summary": "The North Korean IT workers coordinated crypto payments through a server using a shared, easy-to-guess password “123456.”",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/north-korea-it-worker-hacked-exposing-fraud-scam-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
     }
   ],
   "errors": [
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 9327\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7425\nChar: &"
     }
   ]
 }
