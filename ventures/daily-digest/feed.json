@@ -1,16 +1,30 @@
 {
-  "date": "2026-04-09",
-  "generated_at": "2026-04-09T07:37:44.066Z",
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T07:38:18.107Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 72,
+  "items_found": 73,
   "items_curated": 20,
   "items": [
     {
-      "title": "Bitcoin gets its first working prototype of quantum-resistant wallet rescue tool",
-      "summary": "Lightning Labs CTO Olaoluwa Osuntokun demos a prototype that could prevent millions of wallets from being frozen under a future quantum-defense upgrade",
+      "title": "Quantum-safe bitcoin now possible without a soft fork, but costs $200 a pop, new research shows",
+      "summary": "A new scheme from a StarkWare researcher works under existing consensus rules, offering an emergency fallback while BIP-360 awaits activation.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/10/quantum-safe-bitcoin-now-possible-without-a-soft-fork-but-costs-usd200-a-pop",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "x402 protocol adds usage-based pricing for AI compute requests",
+      "summary": "The upgrade from flat fees to variable pricing is designed to support the use of AI agents for LLM inference, compute and data queries.",
       "type": "news",
       "severity": "high",
       "tags": [
@@ -18,13 +32,27 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/09/bitcoin-gets-first-working-prototype-of-quantum-resistant-wallet-rescue-tool",
-      "date": "2026-04-09"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-x402-rolls-out-usage-based-pricing-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-10"
     },
     {
-      "title": "Anthropic loses first round in fight over Pentagon's 'supply chain risk' label",
-      "summary": "“In our view, the equitable balance here cuts in favor of the government,” said a panel of judges from the District of Columbia Court of Appeals.",
+      "title": "Bitcoin can be made quantum-safe without a protocol upgrade: Researcher",
+      "summary": "However, it could cost users between $75 and $150 per transaction in GPU computing power, limiting its practical use.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/researchers-say-bitcoin-can-be-made-quantum-safe-without-protocol-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "TON blockchain claims sub-second finality with Catchain 2.0 upgrade",
+      "summary": "Transactions on the Open Network layer-1 blockchain protocol previously took about 10 seconds to settle before the Catchain 2.0 consensus upgrade.",
       "type": "news",
       "severity": "high",
       "tags": [
@@ -33,22 +61,22 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-loses-bid-pause-pentagon-supply-chain-risk-designation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/ton-sub-second-finality-catchain-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-04-09"
     },
     {
-      "title": "Quantum threat to Bitcoin is real, but manageable, according to Wall Street broker Bernstein ",
-      "summary": "The broker said advances in quantum computing are accelerating the timeline for crypto risk, but argued Bitcoin faces a multi-year upgrade cycle, not an existential crisis.",
+      "title": "UK-led Operation Atlantic freezes $12M tied to crypto scams",
+      "summary": "Operation Atlantic, a joint US, UK and Canadian operation, froze more than $12 million tied to crypto approval phishing scams and identified over 20,000 victims.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/08/quantum-threat-to-bitcoin-is-real-but-manageable-according-to-wall-street-broker-bernstein",
-      "date": "2026-04-08"
+      "chain": "Optimism",
+      "loss_usd": 12000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/operation-atlantic-crypto-approval-phishing-freezes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-09"
     },
     {
       "title": "Mutation testing for the agentic era",
@@ -93,22 +121,8 @@
       "date": "2026-03-24"
     },
     {
-      "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
-      "summary": "Speaking at a Mizuho event, the Strategy (MSTR) executive chairman said the formation of banking credit pairing with digital credit will be the catalyst for the next bull market.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
-      "date": "2026-04-08"
-    },
-    {
-      "title": "Bitcoin has 3–5 years to prepare for quantum risk, says Bernstein",
-      "summary": "Bitcoin faces a future quantum threat, but Bernstein analysts say risks are concentrated in older wallets and exposed keys, and unlikely to cause existential disruption.",
+      "title": "Japan approves bill to classify crypto as financial instruments",
+      "summary": "The Japanese Cabinet reclassified crypto as a financial instrument and will enforce insider trading bans and annual disclosure mandates for issuers.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -117,54 +131,54 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-risk-3-5-years-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-08"
+      "url": "https://cointelegraph.com/news/japan-approves-bill-classify-cryptocurrencies-financial-instruments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-10"
     },
     {
-      "title": "Bitcoin fades three-week highs as BTC price shrugs off Iran war ceasefire",
-      "summary": "Bitcoin briefly reclaimed $72,000 on ceasefire news, but fading momentum, resistance and macro risks leave traders questioning the strength of the breakout.",
+      "title": "Banks are treading carefully on stablecoins despite market growth, S&P Global says",
+      "summary": "Most U.S. lenders remain in a wait-and-see mode as deposit risks, regulatory shifts and new competition complicate strategy, according to the report.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 72000,
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/04/09/banks-are-treading-carefully-on-stablecoins-despite-market-growth-s-and-p-global-says",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Bitcoin rally extends toward $73K despite concerning US economic data",
+      "summary": "Bitcoin continues to show strength even as US recession risks rise and the fragile ceasefire with Iran begins to show cracks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 73000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-fades-three-week-highs-btc-price-shrugs-off-iran-war-ceasefire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-08"
-    },
-    {
-      "title": "CFTC presses case that sports betting is finance, seeks to block Arizona enforcement",
-      "summary": "Federal lawsuit argues event contracts are swaps under U.S. law, not state-level gaming law, deepening a split with states that view the products as illegal gambling",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/09/cftc-presses-case-that-sports-betting-is-finance-seeks-to-block-arizona-enforcement",
+      "url": "https://cointelegraph.com/news/bitcoin-rally-extends-toward-73k-despite-concerning-us-economic-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-04-09"
     },
     {
-      "title": "XRP slips 4% as selling pressure builds despite ETF inflows",
-      "summary": "Elevated volume and modest institutional buying fail to support price, with sellers continuing to dominate near resistance.",
+      "title": "Crypto exchanges chase TradFi commodities market as pricing gaps persist",
+      "summary": "Crypto exchanges are seeking market share of TradFi trading venues, but tokenized commodities adoption is limited by pricing and liquidity concerns.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/09/xrp-slips-4-as-selling-pressure-builds-despite-etf-inflows",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-exchanges-tradfi-precious-metals-pricing-liquidity-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-04-09"
     },
     {
-      "title": "Bitcoin's next big move hinges on oil, and right now it's a total coin flip",
-      "summary": "Analysts say a sustained 15%–16% decline in crude could revive Fed rate cut bets, sending BTC higher.",
+      "title": "XRP may be less exposed to quantum computer threats than bitcoin, experts say",
+      "summary": "XRP’s design leaves a smaller share of its supply exposed to future quantum attacks than Bitcoin’s, experts said, pointing to additional XRPL features that stand out.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -173,126 +187,112 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-s-next-big-move-hinges-on-oil-and-right-now-it-s-a-total-coin-flip",
-      "date": "2026-04-09"
+      "url": "https://www.coindesk.com/tech/2026/04/10/xrp-may-be-less-exposed-to-quantum-threats-than-bitcoin-experts-say",
+      "date": "2026-04-10"
     },
     {
-      "title": "Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed",
-      "summary": "Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.",
+      "title": "XRP edges higher to $1.35 on breakout, but bullish momentum still lacks",
+      "summary": "Strong volume pushed price above $1.34, though weak fundamentals and overhead resistance continue to cap follow-through.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/10/xrp-edges-higher-to-usd1-35-on-breakout-but-bullish-momentum-still-lacks",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire",
+      "summary": "The level that has capped every rally during the six-week war remains intact, with analysts saying $75,000 needs to break before the market enters a genuine bullish phase.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 71000,
+      "loss_usd": 73000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed",
-      "date": "2026-04-09"
+      "url": "https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire",
+      "date": "2026-04-10"
     },
     {
-      "title": "Yuga Labs settles lawsuit against artists accused of copying its NFTs",
-      "summary": "Yuga Labs first filed a lawsuit in June 2022, accusing Ripps and Cahen of copying its Bored Ape Yacht Club cartoon ape images and selling lookalike NFTs.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/yuga-labs-settles-bayc-nft-lawsuit-ripps-cahen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-09"
-    },
-    {
-      "title": "Canary Capital submits application for US-based spot PEPE ETF",
-      "summary": "Canary Capital is preparing to launch an ETF tracking Pepe’s price, despite the token trading 85% below its December 2024 all-time high.",
+      "title": "OKX and HashKey invest in new Vietnam exchange ahead of crypto licensing push",
+      "summary": "The partnership will help the exchange meet Vietnam's $380 million capital requirement to enter a government pilot program aimed at licensing local platforms and curbing offshore trading.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/canary-capital-pepe-us-etf-crypto-altcoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-09"
+      "loss_usd": 380000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/10/okx-hashkey-back-usd380-million-vietnam-crypto-push-as-new-rules-near-rollout",
+      "date": "2026-04-10"
     },
     {
-      "title": "99.99% of Polymarket traders shouldn't quit their day jobs, data suggests",
-      "summary": "While nearly 16% of Polymarket users are in profit, only a tiny fraction have made gains large and consistent enough to entertain walking away from their day job.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/should-you-quit-your-job-trade-full-time-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-09"
-    },
-    {
-      "title": "Chainalysis claims stablecoin volumes could hit over a quadrillion by 2035",
-      "summary": "Adjusted stablecoin volume could reach $719 trillion by 2035, but the projection could be far higher if two macro catalysts come to pass, said Chainalysis.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/stablecoin-volumes-1-5-quadrillion-2035-how?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-09"
-    },
-    {
-      "title": "Fed minutes open door to further rate cuts amid Iran war",
-      "summary": "Some officials cautiously eyed a year-end rate cut, but others warned that upward adjustments might be needed if inflation remains above target levels.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/many-officials-still-see-rate-cuts-coming-in-2026-despite-war-risks-fed-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-09"
-    },
-    {
-      "title": "Visa unveils commerce platform enabling autonomous AI shopping",
-      "summary": "Visa is rolling out a platform that helps merchants make their product inventories discoverable and purchasable by AI agents.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/visa-launches-ai-commerce-platform-to-power-autonomous-agent-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-09"
-    },
-    {
-      "title": "Counterhacker exposes DPRK unit that made $1M a month working IT jobs",
-      "summary": "The North Korean IT workers coordinated crypto payments through a server using a shared, easy-to-guess password “123456.”",
+      "title": "Mythos AI threat prompts Bessent, Powell to convene bank CEOs for urgent talks",
+      "summary": "Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 1000000,
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/10/mythos-ai-threat-sees-bessent-powell-call-urgent-meeting-with-bank-ceos",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "CZ hopes in 5 years people stop talking about crypto and just use it",
+      "summary": "Some industry insiders speculate the crypto sector may be just one market cycle away from full-scale mainstream adoption.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/north-korea-it-worker-hacked-exposing-fraud-scam-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-09"
+      "url": "https://cointelegraph.com/news/cz-crypto-invisible-mainstream-adoption-ai-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "BlackRock’s Bitcoin ETF inflows $269M, marking a 5-week high",
+      "summary": "Fidelity and Morgan Stanley’s Bitcoin ETFs also saw a combined $68.2 million in inflows, while four other Bitcoin ETFs also tallied inflows on Thursday.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 269000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/blackrock-biggest-btc-etf-inflow-in-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "Elon Musk’s xAI sues Colorado arguing its AI rules restrict speech",
+      "summary": "The AI company argued that such rules would force it to feed its AI chatbot Grok with data aligned with Colorado’s political views rather than striving to be “maximally truth seeking.”",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/xai-sues-colorado-over-ai-law-restricting-free-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-10"
     }
   ],
   "errors": [
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 7425\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7473\nChar: &"
     }
   ]
 }
