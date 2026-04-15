@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-12",
-  "generated_at": "2026-04-12T07:34:54.615Z",
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T07:38:29.691Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,6 +8,34 @@
   "items_found": 72,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Crypto users targeted in ‘elaborate’ scam using popular notes app",
+      "summary": "Elastic Security Labs says a multi-step social engineering scam is aimed at those in crypto and finance, using a community plugin feature on a note-taking app to spread malicious device-controlling software.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-users-targeted-elaborate-scam-popular-notes-app-obsidian?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Bitcoiners propose freezing quantum-vulnerable coins in BIP-361",
+      "summary": "The authors described it as a “private incentive to upgrade” because lost or frozen coins will make everyone else’s coins worth slightly more.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-devs-and-researchers-propose-freezing-quantum-vulnerable-coins-bip-361?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-15"
+    },
     {
       "title": "Mutation testing for the agentic era",
       "summary": "Code coverage is one of the most dangerous quality metrics in software testing. Many developers fail to realize that code coverage lies by omission: it measures execution, not verification. Test suites with high coverage can obfuscate the fact that critical functionality is untes",
@@ -51,36 +79,8 @@
       "date": "2026-03-24"
     },
     {
-      "title": "Paying Iran in crypto could put shippers at sanctions risk: Chainalysis",
-      "summary": "Crypto’s transparent ledger makes sanctions evasion easier to trace, allowing authorities to track and potentially freeze illicit flows.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/paying-iran-crypto-shippers-sanctions-risk-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-11"
-    },
-    {
-      "title": "Trump-linked WLFI hits new low as token-backed loan triggers concern",
-      "summary": "WLFI fell to a record low after it was revealed that the project used billions of its own tokens as collateral to borrow $75 million in stablecoins.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 75000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-linked-wlfi-hits-new-low-token-backed-loan-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-11"
-    },
-    {
-      "title": "Bittensor's TAO risks 45% dip amid 'decentralization theater' accusation",
-      "summary": "TAO drops 30% from its weekly high, confirming fractal setups that projected deeper downside targets for the token in the past.",
+      "title": "Crypto, banks continue Senate bill spat with new proposal concerns: Report",
+      "summary": "Senator Thom Tillis will publicly share an agreement to end a crypto and banking clash over stablecoin yields, but both sides are resisting the proposal, Politico reports.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -89,12 +89,68 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bittensor-s-tao-risks-45percent-dip-amid-decentralization-theater-accusation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-10"
+      "url": "https://cointelegraph.com/news/crypto-banks-continue-senate-bill-spat-with-new-proposal-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-15"
     },
     {
-      "title": "White House warns staff as Iran bets add to growing insider trading concerns",
-      "summary": "Reuters reported that White House staff were warned against using confidential information after suspicious Iran-linked oil futures bets and fresh scrutiny of prediction markets.",
+      "title": "The next Fed chair has crypto exposure in his portfolio. Here are the details",
+      "summary": "Kevin Warsh's financial disclosure reveals stakes in DeFi protocols, Ethereum scaling networks, a Bitcoin Lightning startup, and prediction markets — all of which he's promised to sell.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders",
+      "summary": "The new initiative aims to address a persistent challenge in crypto development—the high cost of smart contract security audits.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 1000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Bitcoin climbs to highest level since Feb. 5 crash that sent price plunging to $60,000",
+      "summary": "Optimism over developments in the Middle East sparked a sharp decline in oil prices and rallies across risk markets.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 60000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/14/bitcoin-climbs-to-highest-level-since-feb-5-crash-that-sent-price-plunging-to-usd60-000",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "JPMorgan CFO warns stablecoins risk becoming ‘regulatory arbitrage’ play",
+      "summary": "During the bank's earnings call on Tuesday, JPMorgan CFO Jeremy Barnum warned that stablecoins could become a tool for regulatory arbitrage unless they are held to the same strict oversight and consumer protection standards as traditional bank deposits.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Arbitrum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/04/14/jpmorgan-cfo-warns-stablecoins-risk-becoming-regulatory-arbitrage-play",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "Federal Reserve chair nominee's disclosure includes crypto and AI holdings",
+      "summary": "Kevin Warsh did not include the value of several crypto and AI investments among his disclosures as he awaits his confirmation hearing before the Senate Banking Committee.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -103,82 +159,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/white-house-insider-trading-warning-oil-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-10"
+      "url": "https://cointelegraph.com/news/federal-reserve-chair-nominee-discloses-holdings-in-crypto-and-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-14"
     },
     {
-      "title": "XRP drops to $1.33 as bitcoin weakness pulls down majors",
-      "summary": "Sudden selloff triggered liquidation-style move, with weak recovery reinforcing bearish structure despite compressed volatility setup.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/12/xrp-drops-to-usd1-33-as-bitcoin-weakness-pulls-down-majors",
-      "date": "2026-04-12"
-    },
-    {
-      "title": "Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution",
-      "summary": "U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan, sending crypto prices down between 1.5% and 2%.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution",
-      "date": "2026-04-12"
-    },
-    {
-      "title": "Bitcoin, Ether near levels that could signal trend reversal: Analyst",
-      "summary": "Bitcoin and Ether are each less than 10% away from price levels that could signal a potential reversal in the crypto market, according to a macro analyst.",
+      "title": "Ethereum treasury firm Bitmine reports $3.8 billion Q1 loss in latest filing",
+      "summary": "The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-ether-crypto-market-trend-reversal-macro-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-12"
-    },
-    {
-      "title": "Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI",
-      "summary": "Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 5000000000,
+      "loss_usd": 3800000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai",
-      "date": "2026-04-11"
+      "url": "https://www.coindesk.com/markets/2026/04/15/ethereum-treasury-firm-bitmine-reports-usd3-8-billion-q1-loss-in-latest-filing",
+      "date": "2026-04-15"
     },
     {
-      "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
-      "summary": "On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline",
-      "date": "2026-04-11"
-    },
-    {
-      "title": "The crypto honeymoon is over for now as analysts warn of a major first-quarter profit squeeze",
-      "summary": "Several major investment firms have preemptively downgraded Coinbase and other platforms as a sharp drop in trading activity and falling token prices threaten to derail upcoming first-quarter earnings results.",
+      "title": "Bitcoin developers are trying to build quantum defenses. Your coins could pay the price.",
+      "summary": "A proposal has been updated on Bitcoin's official repository, calling for freezing of quantum-vulnerable coins.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -187,106 +187,106 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/11/the-crypto-honeymoon-is-over-for-now-as-analysts-warn-of-a-major-first-quarter-profit-squeeze",
-      "date": "2026-04-11"
+      "url": "https://www.coindesk.com/tech/2026/04/15/bitcoin-developers-are-trying-to-build-quantum-defenses-your-coins-could-pay-the-price",
+      "date": "2026-04-15"
     },
     {
-      "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
-      "summary": "The Ether Machine, an ether treasury firm, currently has more than $1 billion in ether in its treasury.",
+      "title": "XRP climbs toward $1.38 as Japan's Rakuten integrates token for payments",
+      "summary": "Breakout backed by institutional flows and whale buying, with Japan adoption adding a fresh demand narrative.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/15/xrp-climbs-toward-usd1-38-as-japan-s-rakuten-integrates-token-into-payments",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Ether-bitcoin ratio bounces from 2026 lows, signaling broader crypto recovery",
+      "summary": "The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 1600000000,
+      "loss_usd": 180000000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
-      "date": "2026-04-11"
+      "url": "https://www.coindesk.com/markets/2026/04/15/ether-bitcoin-ratio-bounces-from-2026-lows-in-signs-of-broader-crypto-recovery",
+      "date": "2026-04-15"
     },
     {
-      "title": "Bitcoin, broader market flat as U.S.-Iran negotiations begin",
-      "summary": "The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 430000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin",
-      "date": "2026-04-11"
-    },
-    {
-      "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play ",
-      "summary": "As oil shocks revive investor anxiety, stablecoins solved payments, but not purchasing power, says Michael Ashton, who's USDi token aims to fix that.",
+      "title": "SOL, ADA, DOGE pullback, bitcoin holds above $74,000 as Asia recoups Iran war losses",
+      "summary": "China's CSI 300 joins Taiwan and Singapore in erasing war-related declines as US-Iran talk optimism keeps oil below $100; spot ETFs posted $471 million in single-day inflows last week.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 0,
+      "loss_usd": 471000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
-      "date": "2026-04-11"
+      "url": "https://www.coindesk.com/markets/2026/04/15/sol-ada-doge-pullback-bitcoin-holds-above-usd74-000-as-asia-recoups-iran-war-losses",
+      "date": "2026-04-15"
     },
     {
-      "title": "Crypto perpetuals predict the direction of Wall Street’s Monday open with 89% accuracy, data shows",
-      "summary": "Over half (57%) of Monday market opens is s already reflected in crypto markets' perpetual futures products.",
+      "title": "North Korean hackers used AI-enabled social engineering in Zerion attack",
+      "summary": "It is the second long-term social-engineering attack this month, after the $280 million exploit of the Drift Protocol.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 280000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/north-korean-hackers-use-ai-enabled-social-engineering-latest-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "X rolls out smart cashtags in US, Canada in step toward ‘everything app’",
+      "summary": "Tat Thang, a partner at the prediction platform Polymarket, suggests X is building a Web3 equivalent of the Chinese WeChat Pay citing its recent moves to scrub crypto bots.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/x-smart-cashtags-us-trading-canada-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Apple removes fake Ledger app that stole $9.5M from crypto investors",
+      "summary": "Apple told Cointelegraph that the fake Ledger Live app was removed and that the developer was terminated from its app store.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/11/crypto-perpetuals-predict-the-direction-of-wall-street-s-monday-open-with-89-accuracy-data-shows",
-      "date": "2026-04-11"
+      "loss_usd": 9500000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/apple-removes-fake-ledger-app-stole-9-million-from-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-15"
     },
     {
-      "title": "Crypto Clarity bill has 30% chance of passing this year, Wintermute’s Hammond says",
-      "summary": "Wintermute’s head of policy Ron Hammond pegs chances at 30%, citing political friction, stalled negotiations and shifting timelines despite signs of progress.",
+      "title": "Switzerland’s Crypto Valley funding rose 37% in 2025 as TON led deals",
+      "summary": "Crypto Valley raised $728 million across 31 deals in 2025, outpacing global blockchain funding growth as a $400 million TON deal lifted totals.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/11/crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermute-s-hammond-says",
-      "date": "2026-04-11"
-    },
-    {
-      "title": "Bitwise files updated S-1 for Hyperliquid ETF as HYPE fund race heats up",
-      "summary": "HYPE has surged around 200% over the last 12 months. Other asset managers including Grayscale, 21Shares, and VanEck are also eyeing  HYPE-linked ETFs.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/11/bitwise-files-updated-s-1-for-hyperliquid-etf-as-hype-fund-race-heats-up",
-      "date": "2026-04-11"
-    },
-    {
-      "title": "The bitcoin market is splitting in two. Here's who is buying and selling amid the war",
-      "summary": "Six weeks of war have revealed that bitcoin's floor depends entirely on a handful of mandated buyers absorbing what everyone else is trying to get rid of.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/10/the-bitcoin-market-is-splitting-in-two-here-s-who-is-buying-and-selling-amid-the-war",
-      "date": "2026-04-11"
+      "loss_usd": 728000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/switzerland-crypto-valley-funding-rose-37-percent-2025-ton-led-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-15"
     }
   ],
   "errors": [
