@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-16",
-  "generated_at": "2026-04-16T07:38:07.197Z",
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T07:38:22.658Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -20,20 +20,6 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-s-quantum-debate-splits-as-adam-back-pushes-optional-upgrades-over-forced-freeze",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "Bitcoin should prepare now, even if quantum is a 'lab experiment’: Adam Back",
-      "summary": "Back said the safest approach is to build optional upgrades that would allow Bitcoin to migrate to quantum-resistant cryptography once it's needed.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoiners-should-prepare-quantum-now-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-04-16"
     },
     {
@@ -79,8 +65,22 @@
       "date": "2026-03-24"
     },
     {
-      "title": "Bitcoin steady as S&P 500 hits record, but options market isn't buying the peace trade",
-      "summary": "Crypto's derivatives desks still want downside protection, QCP says, and long-end yields and gold aren't confirming the risk-on move.",
+      "title": "Bitcoin bulls target $125,000 as U.S.-Iran peace talks trigger risk-on mood",
+      "summary": "Funding rates at 2023 lows signal the market is heavily short against bitcoin, ZeroStack's Daniel Reis-Faria says, setting up conditions for a forced unwind if prices push higher.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 125000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/17/bitcoin-bulls-target-usd125-000-as-u-s-iran-peace-talks-trigger-risk-on-mood",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Crypto for Advisors: Tokenization’s evolution",
+      "summary": "Tokenized assets are moving from concept to portfolio allocation. Learn how compliance architecture and institutional movement are redefining risk and opportunity for advisors.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -89,68 +89,26 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-steady-as-s-and-p-500-hits-record-but-options-market-isn-t-buying-the-peace-trade",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/15/crypto-for-advisors-tokenization-s-evolution",
       "date": "2026-04-16"
     },
     {
-      "title": "Beyond ‘digital gold,’ Iran conflict forces a rethink of the nature of bitcoin",
-      "summary": "Bitcoin's 12% gain since the Iran war began isn't a risk-on trade. It's the market repricing bitcoin's role as a neutral settlement layer, Bitwise's CIO argues.",
+      "title": "South Korea to test blockchain deposit tokens for government spending in Q4",
+      "summary": "Token-based payments can be programmed with spending limits and which industries can use them, reducing audits and lowering transaction fees by removing intermediaries.",
       "type": "news",
       "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-s-war-rally-is-forcing-a-rethink-beyond-digital-gold",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "Only 4% of Danish citizens hold crypto, far below other European countries",
-      "summary": "Only 4% of Danish citizens own crypto, far below other European countries, as banks, taxes and risk fears limit adoption, according to a new staff paper from the country's central bank.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/denmark-crypto-ownership-4-percent-nationalbank-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-15"
-    },
-    {
-      "title": "Bitcoin is testing a level that capped its rally in January, CryptoQuant says",
-      "summary": "Macro-driven ETF inflows have lifted prices, but CryptoQuant data signals large holders are positioning to sell near a key breakeven zone",
-      "type": "news",
-      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-is-testing-a-level-that-capped-its-rally-in-january",
+      "url": "https://www.coindesk.com/policy/2026/04/16/south-korea-to-test-blockchain-deposit-tokens-for-government-spending-in-q4",
       "date": "2026-04-16"
     },
     {
-      "title": "Bitcoin rally is taking a breather near $75,000. Onchain data shows why",
-      "summary": "BTC is up 10% for the month, but the bull run has stalled near $75,000 in the past 48 hours. Here's why.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 75000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-rally-is-taking-a-breather-near-usd75-000-onchain-data-shows-why",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "Dogecoin jumps 4.5% to nearly 10-cents, outperforming bitcoin and ether",
-      "summary": "Breakout backed by heavy participation and late-session buying, though weak on-chain activity raises questions over durability.",
+      "title": "Ethereum just had its busiest quarter ever, capping a three-year comeback",
+      "summary": "Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,140 +117,182 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/16/dogecoin-jumps-4-5-to-nearly-10-cents-outperforming-bitcoin-and-ether",
-      "date": "2026-04-16"
+      "url": "https://www.coindesk.com/tech/2026/04/17/ethereum-just-had-its-busiest-quarter-ever-completing-a-three-year-comeback-on-chain",
+      "date": "2026-04-17"
     },
     {
-      "title": "Ripple partners with Korea's Kyobo Life to tokenize government bond settlement",
-      "summary": "The deal is Ripple's first with a Korean insurer and targets near real-time settlement of Korean treasuries, though the release stops short of committing to a live volume or timeline.",
+      "title": "This simple indicator has called every bottom since 2015. It hasn't triggered yet",
+      "summary": "A bitcoin indicator based on key moving averages has accurately marked every bear market bottom since 2015. That signal hasn't fired yet.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/16/ripple-partners-with-korea-s-kyobo-life-to-tokenize-government-bond-settlement",
-      "date": "2026-04-16"
+      "url": "https://www.coindesk.com/markets/2026/04/17/this-simple-indicator-has-called-every-bottom-since-2015-it-hasn-t-triggered-yet",
+      "date": "2026-04-17"
     },
     {
-      "title": "Bitcoin devs bet a quantum attacker will play nice with a ‘wait and react’ plan",
-      "summary": "BitMEX Research proposes a canary system that pays a bounty to the first quantum attacker and activates a network-wide freeze, offering an alternative to a fixed five-year timeline.",
+      "title": "The U.S. government moves $606,000 in bitcoin linked to the 2016 Bitfinex hack to Coinbase",
+      "summary": "Bitfinex plans to use the returned coins to redeem all Recovery Right Tokens and devote at least 80 percent of remaining net proceeds to repurchasing and burning its UNUS SED LEO token.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 606000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/17/the-u-s-government-moves-usd606-000-in-bitcoin-linked-to-the-2016-bitfinex-hack-to-coinbase",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "XRP leads bitcoin and ether on weekly gains, but muted volume keeps breakout in check",
+      "summary": "Token outperforms bitcoin and ether over seven days, though thinning participation signals consolidation rather than conviction.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-devs-float-quantum-tripwire-that-triggers-coin-freeze-only-if-attack-is-proven",
-      "date": "2026-04-16"
+      "url": "https://www.coindesk.com/markets/2026/04/17/xrp-leads-bitcoin-and-ether-on-weekly-gains-but-muted-volume-keeps-breakout-in-check",
+      "date": "2026-04-17"
     },
     {
-      "title": "US should scrap crypto capital gains tax to fuel competition: Cato",
-      "summary": "Crypto users in the US are required to pay capital gains taxes on cryptocurrencies, stifling their usefulness as a currency, argued a Washingon DC-based think tank.",
+      "title": "Texas man in $20M Meta-1 Coin fraud sentenced to 23 years in prison",
+      "summary": "Meta-1 Coin was sold and marketed from 2018 to 2023 as an investment backed by $44 billion in gold and $1 billion in artworks, which turned out to be fictional.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 0,
+      "chain": "Solana",
+      "loss_usd": 44000000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/congress-remove-bitcoin-capital-gains-tax-currency-competition-cato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-16"
+      "url": "https://cointelegraph.com/news/meta-1-coin-fraud-robert-dunlap-23-years-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
     },
     {
-      "title": "Trump’s World Liberty under fire for ‘absurd’ token unlock plan",
-      "summary": "Major World Liberty Financial investor Justin Sun called a plan to lock tokens for up to four years “the most absurd governance scams I have ever seen.”",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-world-liberty-under-fire-token-unlock-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "Morgan Stanley’s Bitcoin fund overtakes WisdomTree after 6 trading days",
-      "summary": "The Morgan Stanley Bitcoin Trust is also within striking distance of overtaking three other US spot Bitcoin ETFs that launched in January 2024.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-sees-sixth-straight-inflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "China already has the compute to train its own Mythos-like AI: Nvidia CEO",
-      "summary": "The amount of capacity and the type of compute it was trained on is “abundantly available in China,” said the Nvidia CEO.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/china-has-compute-train-its-own-mythos-ai-nvidia-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "Tech stocks push Nasdaq, S&P 500 to record highs as Bitcoin taps $75K ",
-      "summary": "Tech stocks helped drive the Nasdaq to 24,016 and the S&P 500 to 7,022 as Bitcoin climbed nearly 10% over the past two weeks.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 75000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tech-stocks-push-nasdaq-sp500-record-highs-as-bitcoin-taps-75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "CFTC probes oil futures trades tied to Trump's moves in Iran: Report",
-      "summary": "The CFTC is investigating trades that took place before the US delayed strikes on Iranian energy infrastructure on March 23 and agreed to a ceasefire with Iran on April 7.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-probes-oil-futures-trades-ahead-trump-iran-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "BitMEX pitches ‘canary fund’ alternative to Bitcoin quantum coin freeze",
-      "summary": "It may be appropriate to attempt to mitigate the extent of the freeze as much as possible, even at the cost of greater complexity, said BitMEX.",
+      "title": "Crypto in sustained winter as CEX volumes drop 39% in Q1: CoinGecko",
+      "summary": "March was the “weakest month\" with $800 billion in centralized crypto exchange trading volume, the lowest since November 2023.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
+      "loss_usd": 800000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-sustained-winter-q1-cex-volumes-drop-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Cybersecurity researcher uncovers fake Ledger sold on Chinese marketplace",
+      "summary": "The researcher said they examined the fake Ledger device’s firmware and found signs pointing to a Chinese semiconductor company named Espressif Systems.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmex-pitches-bitcoin-canary-fund-instead-of-quantum-coin-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-16"
+      "url": "https://cointelegraph.com/news/fake-ledger-device-sold-chinese-market-place?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Ethereum Foundation-funded program exposes 100 DPRK workers in crypto",
+      "summary": "The Ketman Project, funded by an Ethereum Foundation stipend, identified 100 North Korean IT workers and alerted about 53 projects employing DPRK operatives.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/eth-rangers-program-exposed-100-north-korean-operatives-infiltrating-web3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "At least a dozen crypto entities attacked since Drift Protocol hack",
+      "summary": "Rhea Finance and the Russia-linked Grinex exchange were hacked for a combined $21 million over the past two days.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 21000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/12-crypto-protocol-entities-attacked-since-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Zanzibar police probe crypto exec Joe McCann after fiancée’s death",
+      "summary": "Zanzibar police are reportedly holding Asymmetric founder Joe McCann for questioning after the death of his fiancée, Ashly Robinson.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zanzibar-police-probe-crypto-exec-joe-mccann-after-fiancee-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Russia-linked crypto exchange Grinex halts trading after $14M hack",
+      "summary": "Grinex has been accused by US authorities of assisting Russia and other entities in evading sanctions and laundering funds for Russia-linked hackers.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 14000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/grinex-hack-14m-crypto-exchange-suspends-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Ex-Treasury chief warns of US bond crash, calls for contingency plan",
+      "summary": "“When we hit it, it will be vicious, so we have to prepare for that eventuality,” said former Treasury Secretary Henry Paulson on a potential US Treasury market crisis.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Three things Bitcoin must do to hold highs above $76K: Analysts",
+      "summary": "Analysts say reclaiming $76,000, sustained spot market buy volume and consistent inflows to the Bitcoin ETFs are the necessary components required for a rally to new highs.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 76000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/three-things-bitcoin-must-do-to-hold-highs-above-dollar76k-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
     }
   ],
   "errors": [
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 7473\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7583\nChar: &"
     }
   ]
 }
