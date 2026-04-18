@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-17",
-  "generated_at": "2026-04-17T07:38:22.658Z",
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T07:30:49.928Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 72,
+  "items_found": 73,
   "items_curated": 20,
   "items": [
     {
-      "title": "Bitcoin's quantum debate splits as Adam Back pushes optional upgrades over forced freeze",
-      "summary": "The Blockstream CEO told Paris Blockchain Week that Bitcoin should build quantum-resistant upgrades now, a day after Jameson Lopp proposed freezing vulnerable coins instead.",
+      "title": "Sam Altman’s World project launches major upgrade to fight deepfakes and bots",
+      "summary": "The project is also expanding its partnerships with Tinder, Zoom and Docusign.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-s-quantum-debate-splits-as-adam-back-pushes-optional-upgrades-over-forced-freeze",
-      "date": "2026-04-16"
+      "url": "https://www.coindesk.com/tech/2026/04/17/sam-altman-s-world-project-launches-major-upgrade-to-fight-deepfakes-and-bots",
+      "date": "2026-04-17"
     },
     {
       "title": "Mutation testing for the agentic era",
@@ -79,6 +79,20 @@
       "date": "2026-04-17"
     },
     {
+      "title": "US Senator asks for Binance monitor update amid scrutiny of Iran sanctions",
+      "summary": "A letter from US Senator Richard Blumenthal said he was concerned about “mounting allegations of dangerously lax anti-money laundering prevention by Binance.”",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-senator-binance-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-17"
+    },
+    {
       "title": "Crypto for Advisors: Tokenization’s evolution",
       "summary": "Tokenized assets are moving from concept to portfolio allocation. Learn how compliance architecture and institutional movement are redefining risk and opportunity for advisors.",
       "type": "news",
@@ -93,22 +107,8 @@
       "date": "2026-04-16"
     },
     {
-      "title": "South Korea to test blockchain deposit tokens for government spending in Q4",
-      "summary": "Token-based payments can be programmed with spending limits and which industries can use them, reducing audits and lowering transaction fees by removing intermediaries.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/16/south-korea-to-test-blockchain-deposit-tokens-for-government-spending-in-q4",
-      "date": "2026-04-16"
-    },
-    {
-      "title": "Ethereum just had its busiest quarter ever, capping a three-year comeback",
-      "summary": "Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.",
+      "title": "XRP leads majors with 8% weekly outperformance, what next after breakout",
+      "summary": "Token edges ahead of bitcoin and ether over seven days, though thinning participation keeps the move in consolidation territory.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -117,12 +117,12 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/17/ethereum-just-had-its-busiest-quarter-ever-completing-a-three-year-comeback-on-chain",
-      "date": "2026-04-17"
+      "url": "https://www.coindesk.com/markets/2026/04/18/xrp-leads-majors-with-8-weekly-outperformance-what-next-after-breakout",
+      "date": "2026-04-18"
     },
     {
-      "title": "This simple indicator has called every bottom since 2015. It hasn't triggered yet",
-      "summary": "A bitcoin indicator based on key moving averages has accurately marked every bear market bottom since 2015. That signal hasn't fired yet.",
+      "title": "How a quantum computer can be used to actually steal your bitcoin in '9 minutes'",
+      "summary": "Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,110 +131,96 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/17/this-simple-indicator-has-called-every-bottom-since-2015-it-hasn-t-triggered-yet",
-      "date": "2026-04-17"
+      "url": "https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes",
+      "date": "2026-04-18"
     },
     {
-      "title": "The U.S. government moves $606,000 in bitcoin linked to the 2016 Bitfinex hack to Coinbase",
-      "summary": "Bitfinex plans to use the returned coins to redeem all Recovery Right Tokens and devote at least 80 percent of remaining net proceeds to repurchasing and burning its UNUS SED LEO token.",
+      "title": "Circle unveils USDC Bridge for native cross-chain stablecoin transfers",
+      "summary": "The USDC Bridge adds to Circle's Cross-Chain Transfer Protocol, which often sees over $500 million worth of USDC transfers each day.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Multi-chain",
+      "loss_usd": 500000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/circle-launches-usdc-bridge-native-cross-chain-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "X's new Cashtags feature drives $1B trading volume in first two days",
+      "summary": "X’s Cashtags feature has been integrated into Canadian-based online brokerage Wealthsimple, but has not yet been adopted by a US trading platform.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 606000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/17/the-u-s-government-moves-usd606-000-in-bitcoin-linked-to-the-2016-bitfinex-hack-to-coinbase",
-      "date": "2026-04-17"
+      "chain": "Optimism",
+      "loss_usd": 1000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/x-cashtags-feature-drives-1-billion-trading-volume-first-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-18"
     },
     {
-      "title": "XRP leads bitcoin and ether on weekly gains, but muted volume keeps breakout in check",
-      "summary": "Token outperforms bitcoin and ether over seven days, though thinning participation signals consolidation rather than conviction.",
+      "title": "Worldcoin tanks 13% as World’s iris-scanning tech expands to Zoom, Docusign",
+      "summary": "Most of the integrations are aimed at fighting deepfakes as the rise of AI-generated content makes it increasingly difficult to distinguish humans from AI.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/worldcoin-falls-13-percent-as-world-iris-scanning-expands-zoom-docusign-tinder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "We beat Google’s zero-knowledge proof of quantum cryptanalysis",
+      "summary": "Two weeks ago, Google’s Quantum AI group published a zero-knowledge proof of a quantum circuit so optimized, they concluded that first-generation quantum computers will break elliptic curve cryptography keys in as little as 9 minutes. Today, Trail of Bits is publishing our own ze",
+      "type": "analysis",
+      "severity": "critical",
+      "tags": [
+        "audit"
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/17/xrp-leads-bitcoin-and-ether-on-weekly-gains-but-muted-volume-keeps-breakout-in-check",
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/",
       "date": "2026-04-17"
     },
     {
-      "title": "Texas man in $20M Meta-1 Coin fraud sentenced to 23 years in prison",
-      "summary": "Meta-1 Coin was sold and marketed from 2018 to 2023 as an investment backed by $44 billion in gold and $1 billion in artworks, which turned out to be fictional.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 44000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/meta-1-coin-fraud-robert-dunlap-23-years-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "Crypto in sustained winter as CEX volumes drop 39% in Q1: CoinGecko",
-      "summary": "March was the “weakest month\" with $800 billion in centralized crypto exchange trading volume, the lowest since November 2023.",
+      "title": "Strategy proposes semi-monthly dividends on its popular STRC preferred stock",
+      "summary": "\"[The] proposed changes are intended to stabilize price, dampen cyclicality, drive liquidity, and grow demand,\" said Executive Chairman Michael Saylor.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 800000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-sustained-winter-q1-cex-volumes-drop-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/17/strategy-proposes-semi-monthly-dividends-on-its-popular-strc-preferred-stock",
       "date": "2026-04-17"
     },
     {
-      "title": "Cybersecurity researcher uncovers fake Ledger sold on Chinese marketplace",
-      "summary": "The researcher said they examined the fake Ledger device’s firmware and found signs pointing to a Chinese semiconductor company named Espressif Systems.",
+      "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
+      "summary": "Oil prices slumped as Trump said Iran committed to open the Strait of Hormuz and the U.S. plans to acquire that country's enriched uranium as part of a deal.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fake-ledger-device-sold-chinese-market-place?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "chain": "Optimism",
+      "loss_usd": 78000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000",
       "date": "2026-04-17"
     },
     {
-      "title": "Ethereum Foundation-funded program exposes 100 DPRK workers in crypto",
-      "summary": "The Ketman Project, funded by an Ethereum Foundation stipend, identified 100 North Korean IT workers and alerted about 53 projects employing DPRK operatives.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eth-rangers-program-exposed-100-north-korean-operatives-infiltrating-web3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "At least a dozen crypto entities attacked since Drift Protocol hack",
-      "summary": "Rhea Finance and the Russia-linked Grinex exchange were hacked for a combined $21 million over the past two days.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 21000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/12-crypto-protocol-entities-attacked-since-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "Zanzibar police probe crypto exec Joe McCann after fiancée’s death",
-      "summary": "Zanzibar police are reportedly holding Asymmetric founder Joe McCann for questioning after the death of his fiancée, Ashly Robinson.",
+      "title": "Don’t get AI agents and stablecoin transfers? Enroll in CoinDesk University",
+      "summary": "CoinDesk University’s School of Stablecoin and Agentic Commerce will give you the tools to move beyond understanding to action.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -242,50 +228,64 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zanzibar-police-probe-crypto-exec-joe-mccann-after-fiancee-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
       "date": "2026-04-17"
     },
     {
-      "title": "Russia-linked crypto exchange Grinex halts trading after $14M hack",
-      "summary": "Grinex has been accused by US authorities of assisting Russia and other entities in evading sanctions and laundering funds for Russia-linked hackers.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 14000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/grinex-hack-14m-crypto-exchange-suspends-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "Ex-Treasury chief warns of US bond crash, calls for contingency plan",
-      "summary": "“When we hit it, it will be vicious, so we have to prepare for that eventuality,” said former Treasury Secretary Henry Paulson on a potential US Treasury market crisis.",
+      "title": "Back in the black: Strategy surges 8% as bitcoin's rise to $77,000 puts holdings in profit",
+      "summary": "Bitcoin climbed above its 100-day moving average, while Strategy moves back above its 200-week trend level.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
+      "loss_usd": 77000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/17/strategy-back-in-profit-as-bitcoin-hits-two-and-a-half-month-high-above-usd76-300",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "CoinDesk 20 performance update: Stellar (XLM) gains 1.5%, leading index higher",
+      "summary": "Hedera (HBAR) joined Stellar (XLM) as a top performer, rising 1.4% from Thursday.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/17/coindesk-20-performance-update-stellar-xlm-gains-1-5-leading-index-higher",
       "date": "2026-04-17"
     },
     {
-      "title": "Three things Bitcoin must do to hold highs above $76K: Analysts",
-      "summary": "Analysts say reclaiming $76,000, sustained spot market buy volume and consistent inflows to the Bitcoin ETFs are the necessary components required for a rally to new highs.",
+      "title": "Bitcoin rises past $76,000, aiming at major breakout as oil plunges on Iran cooldown",
+      "summary": "Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 76000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/three-things-bitcoin-must-do-to-hold-highs-above-dollar76k-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/17/bitcoin-rises-past-usd76-000-aiming-at-major-breakout-as-oil-plunges-on-iran-cooldown",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "France's finance minister calls for more euro stablecoins in sign of government policy shift",
+      "summary": "The statements signal a potential shift in stance within the French government and its central bank.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/04/17/french-government-pivots-from-slamming-privately-issued-stablecoins-to-supporting-them",
       "date": "2026-04-17"
     }
   ],
