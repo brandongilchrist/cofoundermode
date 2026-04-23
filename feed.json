@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-22",
-  "generated_at": "2026-04-22T07:38:33.012Z",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T07:39:37.675Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,34 +8,6 @@
   "items_found": 73,
   "items_curated": 20,
   "items": [
-    {
-      "title": "Coinbase highlights Algorand, Aptos' work to mitigate quantum threat",
-      "summary": "Coinbase’s quantum advisory board says quantum computing isn’t yet a threat, but has urged for upgrade work to begin, with some blockchains being less prepared than others.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-says-algorand-aptos-better-prepped-for-quantum-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-22"
-    },
-    {
-      "title": "Cut the red tape: 39 financial giants demand an emergency fast-track for Europe's blockchain pilot",
-      "summary": "The firms requested separating the DLT pilot regime from a larger package of 18 financial laws to allow for quicker updates and build real markets.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/21/cut-the-red-tape-39-financial-giants-demand-an-emergency-fast-track-for-europe-s-blockchain-pilot",
-      "date": "2026-04-21"
-    },
     {
       "title": "Mutation testing for the agentic era",
       "summary": "Code coverage is one of the most dangerous quality metrics in software testing. Many developers fail to realize that code coverage lies by omission: it measures execution, not verification. Test suites with high coverage can obfuscate the fact that critical functionality is untes",
@@ -79,92 +51,148 @@
       "date": "2026-03-24"
     },
     {
-      "title": "European banks are at risk of losing customers to rivals with better crypto tools",
-      "summary": "A new study found that while European investors find crypto complex, they are increasingly willing to switch banks to find a trusted partner that offers secure and regulated digital asset services.",
+      "title": "Bitcoin's bull score index just left bear territory. There's a warning attached. ",
+      "summary": "The index has returned to neutral territory, a rare milestone that has historically marked market turning points, but not always correctly.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/21/european-banks-are-at-risk-of-losing-customers-to-rivals-with-better-crypto-tools",
-      "date": "2026-04-21"
+      "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-s-bull-score-index-just-left-bear-territory-there-s-a-warning-attached",
+      "date": "2026-04-23"
     },
     {
-      "title": "Fed chair nominee pressed on potential conflicts of interest, independence",
-      "summary": "Kevin Warsh faced intense questions from Senator Elizabeth Warren and other lawmakers over his more than $100 million financial disclosure ahead of a confirmation hearing.",
+      "title": "Four reasons why the crypto market is rallying today: Will bulls maintain control?",
+      "summary": "Bitcoin and Ether surged as US liquidity measures and record spot ETF inflows offset investors’ recession fears and their concerns over the war in Iran.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 100000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kevin-warsh-fed-hearing-conflicts-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-21"
-    },
-    {
-      "title": "Group of 39 firms urge EU to fast-track DLT rules, warn of lagging US",
-      "summary": "A 39-member coalition including Nasdaq urged the EU to fast-track DLT pilot changes, warning Europe could lose ground to the US in tokenized finance.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-finance-firms-dlt-rules-fast-track-us-tokenization-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-21"
+      "url": "https://cointelegraph.com/news/four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
     },
     {
-      "title": "VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?",
-      "summary": "A falling VIX signals improving risk appetite, boosting Bitcoin’s chances of attracting fresh demand and breaking above the $80,000 level.",
+      "title": "The London P2P sweep: UK FCA raids eight illegal peer-to-peer trading hubs",
+      "summary": "The sites were targeted for facilitating P2P trading without required registration or anti-money laundering controls, posing a financial crime risk.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/04/22/uk-fca-carries-out-coordinated-crackdown-on-illegal-peer-to-peer-crypto-trading",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Bitcoin tests $78,000 resistance as short-squeeze risks mount, altcoins rally",
+      "summary": "BTC hovers at key $78,000 level with $180 million liquidations at stake, while altcoins and memecoins surge as risk-on sentiment returns.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 180000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tests-usd78-000-resistance-as-short-squeeze-risks-mount-altcoins-rally",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Ethereum risks 10% decline versus Bitcoin despite record ETH staking",
+      "summary": "Ethereum’s record 32.33% staking ratio is shrinking liquid supply, reducing sell pressure and potentially supporting an ETH price recovery over time.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-decline-10percent-versus-bitcoin-despite-record-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "FTX sold its Cursor stake for $200,000 in 2023. It would be worth $3 billion today",
+      "summary": "SpaceX's agreement to acquire AI coding startup Cursor at a $60 billion valuation has retroactively turned a routine bankruptcy asset sale by FTX's estate into one of the largest missed recoveries in crypto history.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 3000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/04/23/ftx-sold-its-cursor-stake-for-usd200-000-in-2023-it-would-be-worth-usd3-billion-today",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "Cardano builder seeks smaller funding slice of $46.8 million for scaling and Bitcoin DeFi",
+      "summary": "The engineering organization behind Cardano submitted nine proposals totaling $46.8 million for the 2026 voting cycle, down from $97.5 million last year.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
       "chain": "Optimism",
+      "loss_usd": 46800000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/23/input-output-seeks-usd46-8-million-to-bring-bitcoin-defi-scaling-upgrade-to-cardano",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "Bitcoin loses grip near $80,000 as ETH, SOL, DOGE fade on profit-taking",
+      "summary": "Bitcoin traded at $77,794 on Thursday morning, up 0.4% over 24 hours but well off the $79,388 high hit Wednesday evening, with ether, XRP and Solana all closing red.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
       "loss_usd": 80000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-loses-grip-near-usd80-000-as-eth-sol-doge-fade-on-profit-taking",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "World Liberty accuses Justin Sun of 'misconduct' in response to Tron founder's defamation claims",
+      "summary": "Co-founder Eric Trump went further, saying the only thing more 'ridiculous' than Sun's lawsuit is a $6 million banana duct-taped to a wall.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 6000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/23/world-liberty-accuses-justin-sun-of-misconduct-in-response-to-tron-founder-s-defamation-claims",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "Crypto sentiment index soars to a 3-month high as Bitcoin holds $77K",
+      "summary": "Despite the rise, the Crypto Fear & Greed Index score remains stuck in the “Fear” zone, where it has been since Jan. 18.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 77000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/vix-drops-45-precent-three-weeks-btc-price-retake-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-21"
+      "url": "https://cointelegraph.com/news/crypto-market-sentiment-hits-3-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
     },
     {
-      "title": "Bitcoin's 'Coinbase premium' just posted its longest bullish streak since October's record high of $126,000",
-      "summary": "Bitcoin's Coinbase premium has been positive for 14 straight days, the longest bullish streak since BTC hit its all time high of $126,000 in October.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 126000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-s-coinbase-premium-just-posted-its-longest-bullish-streak-since-october-s-record-high-of-usd126-000",
-      "date": "2026-04-22"
-    },
-    {
-      "title": "Bitcoin climbs to $78,100 on Trump ceasefire extension, Strategy's $2.5 billion buy",
-      "summary": "Bitcoin traded at $77,541 on Wednesday morning, up 2.2% over 24 hours and 4.3% on the week, after Trump extended the Iran ceasefire and Strategy disclosed its largest BTC purchase in 17 months.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 2500000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-climbs-to-usd77-500-on-trump-ceasefire-extension-strategy-s-usd2-5-billion-buy",
-      "date": "2026-04-22"
-    },
-    {
-      "title": "Tron's Justin Sun sues Trump-linked World Liberty Financial over frozen assets",
-      "summary": "World Liberty unfairly froze Sun's $WLFI tokens and threatened him, the lawsuit alleged.",
+      "title": "Apple fixes bug that allowed FBI to read deleted Signal messages",
+      "summary": "FBI used the flaw to extract readable previews of Signal messages from an iPhone's notification database even after the app was deleted.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -172,55 +200,69 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/21/tron-s-justin-sun-sues-trump-linked-world-liberty-financial-over-frozen-assets",
-      "date": "2026-04-22"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/apple-fixes-bug-fbi-read-encrypted-messages-signal-via-notifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
     },
     {
-      "title": "Chinese crypto mogul Li Lin’s private trading arm is set to move into a Hong Kong-listed wealth firm",
-      "summary": "The transfer effectively moves part of Li’s private trading operation into a public company where he is the largest shareholder.",
+      "title": "Blockchain Capital is raising $700M for 2 new funds: Report",
+      "summary": "The new funding rounds are expected to be completed in the next six months, but the firm has already begun deploying some of the new capital, according to a person familiar with the matter.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/22/chinese-crypto-mogul-li-lin-s-private-trading-arm-is-set-to-move-into-a-hong-kong-listed-wealth-firm",
-      "date": "2026-04-22"
+      "chain": "",
+      "loss_usd": 700000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/blockchain-capital-raises-700-million-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
     },
     {
-      "title": "AI drives surge in ‘bug bounty’ reports, but the ‘slop’ is rising too",
-      "summary": "HackerOne, one of the largest bug bounty platforms in the world, reported there were 85,000 valid bounty submissions in 2025, up 7% from the previous year.",
+      "title": "Ether taker volume rises by 72% as traders target ETH liquidity gap at $2.6K",
+      "summary": "ETH derivatives show strong buyer dominance, leading traders to target $2,500 to $2,600 as the next crucial rally.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 2600,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ether-taker-volume-rises-by-72percent-as-traders-target-eth-liquidity-gap-at-dollar2-6k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "Market maker GSR launches first ETF tracking Bitcoin, Ether and Solana",
+      "summary": "The GSR Crypto Core3 ETF is GSR's first crypto exchange-traded product, giving investors access to the top three largest cryptocurrencies by market capitalization.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-market-maker-gsr-launched-multi-asset-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "Phishing, deepfakes, supply chain attacks to fuel 2026's biggest crypto hacks: CertiK",
+      "summary": "CertiK has urged crypto users not to overlook basic security practices as major crypto hacks spiked in April.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ai-crypto-bug-bounty-submissions-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-22"
+      "url": "https://cointelegraph.com/news/phishing-deepfakes-supply-chain-attacks-to-fuel-2026-s-biggest-crypto-hacks-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
     },
     {
-      "title": "Privacy protocol Umbra shuts front end to stifle Kelp exploiters",
-      "summary": "Umbra has shut down its front end to stop hackers, but says it can’t stop the use of its smart contracts or another version of its open-source front end.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/privacy-protocol-umbra-shuts-front-end-in-attempt-to-stifle-kelp-exploiters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-22"
-    },
-    {
-      "title": "US law firm apologizes after AI hallucinations made it to a legal filing",
-      "summary": "Sullivan & Cromwell’s Andrew Dietderich said the company has AI policies to prevent incorrect citations and other errors, but procedures weren’t followed on this occasion.",
+      "title": "Kalshi bans 3 US politicians for betting on their own election races",
+      "summary": "Matt Klein, a sitting member of the Minnesota State Senate, said he made a bet out of curiosity, while Mark Moran claimed he wanted to see how Kalshi responds to insider trading activity.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,64 +271,22 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-law-firm-apologizes-ai-hallucinations-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-22"
+      "url": "https://cointelegraph.com/news/kalshi-bans-us-candidates-election-betting-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
     },
     {
-      "title": "Justin Sun sues World Liberty Financial over token lockup",
-      "summary": "Sun said the suit is to protect his rights as a token holder, but he remains a supporter of President Donald Trump and his administration’s efforts to make the US crypto-friendly.",
+      "title": "New York, Illinois sign EOs banning state employees from prediction markets",
+      "summary": "New York Governor Kathy Hochul criticized the Trump administration for not implementing any “meaningful ethical standards” to curb insider trading in prediction markets.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/justin-sun-sues-world-liberty-financial-token-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-22"
-    },
-    {
-      "title": "Inside the MAS Sandbox: How Ripple is testing RLUSD for real trade settlements",
-      "summary": "How Ripple is testing RLUSD in Singapore’s MAS sandbox to enable conditional trade settlements, and why this does not amount to full regulatory approval.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/explained/rlusd-mas-bloom-pilot-trade-finance-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-22"
-    },
-    {
-      "title": "US admiral calls Bitcoin an instrument for US ‘power projection’",
-      "summary": "US Navy Admiral Samuel Paparo said Bitcoin’s proof-of-work technology has \"really important\" computer science applications when it comes to cybersecurity.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-admiral-calls-bitcoin-instrument-us-power-projection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-22"
-    },
-    {
-      "title": "Crypto's great hope in Senate's Clarity Act still has a path to survive tight calendar",
-      "summary": "A sideshow stablecoin yield debate has dragged the market structure bill through months of delay, even as the Senate's available floor time diminishes for 2026.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/04/21/crypto-s-great-hope-in-senate-s-clarity-act-still-has-a-path-to-survive-tight-calendar",
-      "date": "2026-04-21"
+      "url": "https://cointelegraph.com/news/new-york-illinois-sign-executive-order-banning-official-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-23"
     }
   ],
   "errors": [
