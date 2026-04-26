@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-25",
-  "generated_at": "2026-04-25T07:34:38.168Z",
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T07:36:06.631Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -121,32 +121,144 @@
       "date": "2026-04-23"
     },
     {
-      "title": "The market repriced DeFi in just 48 hours",
-      "summary": "Di Bartolomeo argues that last weekend the market achieved – in real time – a notable feat that no regulator, auditor or commentator has ever done.",
+      "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
+      "summary": "Alchemy CEO Nikil Viswanathan argues the global financial system was designed for humans, but the next wave of commerce will be driven by AI agents that operate natively in crypto.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/04/23/the-market-repriced-defi-in-just-48-hours",
-      "date": "2026-04-23"
+      "url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
+      "date": "2026-04-25"
     },
     {
-      "title": "Crypto for Advisors: AI Agents Using Crypto",
-      "summary": "AI agents are executing transactions, forming “agentic finance.” Crypto is the financial backend for these autonomous systems. Learn use cases, risks, and what experts say.",
+      "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
+      "summary": "President Donald Trump, at a Mar-a-Lago gathering of investors in his self-branded memecoin, said crypto is mainstream and banks should back off the industry's bill.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
+      "summary": "IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
+      "summary": "DeFi leaders say that AI will arm both attackers and defenders, and widen the gap between projects that prioritize security and those that do not.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/25/how-anthropic-s-mythos-model-is-forcing-the-crypto-industry-to-rethink-everything-about-security",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+      "summary": "Trump is expected to speak at his crypto conference in Palm Beach shortly.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/22/crypto-for-advisors-ai-agents-using-crypto",
-      "date": "2026-04-23"
+      "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+      "summary": "The event, at which Trump himself is scheduled to speak, gathers top-tier holders of the $TRUMP meme coin.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Bitcoin at $40,000 would be 'near-unprecedented' statistical outcome, analyst says",
+      "summary": "Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 40000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Europe’s banks are going all in on crypto",
+      "summary": "Brahimi explores the impact of European banks' integration of digital assets into their existing brokerage and payments infrastructure in the wake of MiCA.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/04/25/europe-s-banks-are-going-all-in-on-crypto",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments ",
+      "summary": "Pollak, who will be speaking at Consensus Miami 2026 next month, also sees the open-source protocol x402 as a key part of that wave.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+      "summary": "Can a network without formal governance coordinate the biggest cryptographic migration in its history?",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+      "date": "2026-04-25"
     },
     {
       "title": "Ripple-linked XRP stalls near $1.44 as 'triangle squeeze' nears breakout",
@@ -163,130 +275,18 @@
       "date": "2026-04-25"
     },
     {
-      "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
-      "summary": "A Hyperliquid whale holds large short positions against Bitcoin and several altcoins. Does the position provide any signal on the markets’ future outcomes?",
+      "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
+      "summary": "The group spent tens of millions of dollars on luxury items and real estate, using funds stolen from crypto users in social engineering scams.",
       "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 38000000,
+      "loss_usd": 263000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-04-25"
-    },
-    {
-      "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
-      "summary": "The federal regulator has been suing states that seek to curtail prediction markets activity and claim it should be deemed state-regulated gaming.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. is seeking to choke off \"all financial lifelines\" for the regime.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 344000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Trump's DOJ drops probe that stood in way of president's pick to run Federal Reserve",
-      "summary": "The Justice Department passed an investigation of Fed Chair Jerome Powell to the Fed's own inspector, which could clear a confirmation path for Kevin Warsh.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Jane Street asks court to reject Terraform claims tied to UST-LUNA crash",
-      "summary": "A filing Thursday said the lawsuit rehashes events already settled in court and seeks damages for losses caused by internal misconduct.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Bitmine to buy 10,000 ether for $23.9 million from the Ethereum Foundation ",
-      "summary": "The transaction brings the firm’s holdings closer to its 5% of ETH target.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 23900000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Researcher wins 1 bitcoin bounty for 'largest quantum attack' on underlying tech",
-      "summary": "Independent researcher Giancarlo Lelli broke a 15-bit elliptic curve key on publicly accessible quantum hardware, 512 times larger than the previous public demonstration in September 2025.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/24/researcher-wins-1-bitcoin-bounty-for-largest-quantum-attack-on-underlying-tech",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
-      "summary": "SpaceX, OpenAI and Anthropic are set to raise more than $240 billion combined from June through year-end, a capital pull larger than every venture-backed US IPO since 2000 combined, and crypto sits in the same liquidity pool.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 75000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/24/spacex-s-usd75-billion-ipo-could-drain-the-liquidity-that-s-been-lifting-bitcoin-and-crypto",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "CoinDesk 20 performance update: Aptos (APT) gains 3.5%, leading index higher",
-      "summary": "Aave (AAVE), up 3.2% from Thursday, was also a top performer.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/24/coindesk-20-performance-update-aptos-apt-gains-3-5-leading-index-higher",
-      "date": "2026-04-24"
     }
   ],
   "errors": [
