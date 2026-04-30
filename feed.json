@@ -1,13 +1,27 @@
 {
-  "date": "2026-04-29",
-  "generated_at": "2026-04-29T07:47:23.514Z",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T07:49:22.580Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 72,
+  "items_found": 73,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Celsius founder Alex Mashinsky settles FTC case with $10M payment",
+      "summary": "The FTC order ties Mashinsky’s $10 million payment to a mostly suspended $4.72 billion judgment that can be revived over asset disclosures.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 4720000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/celsius-founder-settlement-includes-10m-payment-suspended-47b-judgment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-29"
+    },
     {
       "title": "Mutation testing for the agentic era",
       "summary": "Code coverage is one of the most dangerous quality metrics in software testing. Many developers fail to realize that code coverage lies by omission: it measures execution, not verification. Test suites with high coverage can obfuscate the fact that critical functionality is untes",
@@ -23,50 +37,8 @@
       "date": "2026-04-01"
     },
     {
-      "title": "New wallet offers way to tackle Bitcoin’s quantum risk without a fork",
-      "summary": "The Postquant Labs project uses Arch Network to deliver post-quantum signature protection without a Bitcoin soft fork, sidestepping both Jameson Lopp's freeze proposal and Paul Sztorc's hard fork.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/28/emb-2-pm-utc-new-wallet-offers-way-to-tackle-bitcoin-s-quantum-risk-without-a-fork",
-      "date": "2026-04-28"
-    },
-    {
-      "title": "Crypto traders turn cautious as bitcoin loses steam below $80,000",
-      "summary": "Bitcoin drops after repeated resistance at $80,000, taking ether with it, while derivatives and macro signals point to reduced risk appetite and subdued volatility.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 80000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/28/crypto-traders-turn-cautious-as-bitcoin-loses-steam-below-usd80-000",
-      "date": "2026-04-28"
-    },
-    {
-      "title": "A digital shekel is here: Israel approves its first regulated stablecoin",
-      "summary": "BILS was developed in collaboration with the Solana network and crypto custodian heavyweights Fireblocks with auditing oversight provided by Big Four consultancy firm EY.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
-      "date": "2026-04-28"
-    },
-    {
-      "title": "Bitcoin price hits one-week low as $100 oil sparks fresh Asia crisis fears",
-      "summary": "Bitcoin price downside returned to send BTC to one-week lows thanks to renewed concerns over global oil supplies focused on the Strait of Hormuz blockade.",
+      "title": "Crypto Long & Short: Guide, deliver, repeat: the hidden driver of token performance",
+      "summary": "In this week’s Crypto Long & Short Newsletter, Jordan Brewer writes on the missing piece in token markets: institutional-grade investor relations. Then, Martin Burgherr breaks down how crypto markets are maturing, becoming more efficient and lower risk for institutions.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -74,41 +46,41 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-one-week-low-as-100-oil-sparks-fresh-asia-crisis-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-28"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/29/crypto-long-and-short-guide-deliver-repeat-the-hidden-driver-of-token-performance",
+      "date": "2026-04-29"
     },
     {
-      "title": "AML crackdown eclipses securities enforcement as crypto’s top regulatory risk: Report",
-      "summary": "US Anti-Money Laundering fines hit $900 million in the first half of 2025 as enforcement shifted from securities cases, while Basel rules and mandatory audits reshape crypto compliance, according to CertiK.",
+      "title": "Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East",
+      "summary": "Bitcoin dropped under $75,000 after FOMC minutes showed the US Federal Reserve holding interest rates and expressing slight concerns over inflation and the war in Iran.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 900000000,
+      "loss_usd": 75000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-28"
+      "url": "https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-29"
     },
     {
-      "title": "Can Bitcoin hit $250K this year? Traders say it may be time to ‘sell in May’",
-      "summary": "Veteran trader Peter Brandt and other analysts question the $250,000 Bitcoin target, warning the current bear phase may not be over.",
+      "title": "Bitcoin falls as traders cut risk ahead of FOMC: Will TradFi, spot ETF volumes bolster $70K support?",
+      "summary": "Bitcoin price volatility tends to spike before and after the FOMC, a pattern that is playing out this week. Will institutional investor BTC buying protect the $70,000 support?",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 250000,
+      "loss_usd": 70000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/can-bitcoin-hit-250k-this-year-top-btc-chart-watchers-weigh?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-28"
+      "url": "https://cointelegraph.com/markets/bitcoin-stalls-under-76k-as-traders-risk-off-ahead-of-fomc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-29"
     },
     {
-      "title": "Japan tells real estate and crypto sectors to tighten AML checks on property deals",
-      "summary": "Four Japanese government agencies have warned against the AML risks posed by crypto in real estate transactions, instructing industry bodies to enforce stricter compliance.",
+      "title": "Canada proposes crypto ATM ban over scams and money laundering",
+      "summary": "Ottawa says Bitcoin ATMs have become a key tool for scammers, as regulators move to tighten oversight of high-risk parts of the crypto sector.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -117,12 +89,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-28"
+      "url": "https://cointelegraph.com/news/canada-proposes-crypto-atm-ban-over-scams-and-money-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-29"
     },
     {
-      "title": "Startale to add Privacy Boost transfers to Sony-linked Soneium app",
-      "summary": "Startale plans to integrate Sunnyside Labs’ Privacy Boost into its Soneium app, adding private transfers with audit-friendly compliance controls.",
+      "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+      "summary": "Bitcoin fell after each new Federal Reserve chair began work, data showed, while Kevin Warsh gave mixed signals over policy for risk assets.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -131,8 +103,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/startale-app-taps-privacy-boost-for-private-transfers-on-soneium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-28"
+      "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-29"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -149,8 +121,162 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Canada proposes ban on crypto ATMs as fraud cases mount",
-      "summary": "Canada's Liberal government calls machines a “primary method” for scams as data and law enforcement link them to rising losses",
+      "title": "Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price",
+      "summary": "Hawkish dissent within the Federal Reserve, elevated oil prices and rising long-term inflation expectations are pushing bond yields higher.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high",
+      "summary": "Crypto sold off across the board with bitcoin down 2.1% and ether off 3.4% as Brent crude surged 7.1% to $126 a barrel on reports President Trump is being briefed on military options for Iran.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 75000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says",
+      "summary": "HIP-4 could become a dominant prediction-market venue because Hyperliquid users can get economic exposure to platform usage through HYPE, unlike users of Polymarket or Kalshi.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Meta rolls out stablecoin payouts for creators in Philippines, Colombia",
+      "summary": "The latest stablecoin move comes years after Meta first dipped its toes into stablecoins through Libra in 2019, before scrapping the plans in 2022 due to regulatory pushback.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/meta-re-enters-stablecoin-market-rolls-out-usdc-payouts-for-select-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "US Senator Tillis to push Senate Banking vote on stalled crypto bill",
+      "summary": "Republican Senator Thom Tillis says the Senate’s version of the CLARITY Act has “made a lot of progress,” and it was time for lawmakers to vote on advancing the bill.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/tillis-will-push-senate-banking-to-vote-on-stalled-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "WLFI drops 14% as controversial token unlock goes to vote",
+      "summary": "The proposal to unlock more than 62 billion WLFI tokens over four to five years has 99.95% approval but is still facing backlash on X.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Twenty One Capital rises on proposed merger with Strike and Elektron",
+      "summary": "Tether proposed that Elektron founder and CEO Raphael Zagury serve as president of the proposed merged company, while Strike's Jack Mallers would also serve in an executive role.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/twenty-one-capital-proposed-merger-strike-elektron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "US, UAE and China joint effort dismantles 9 crypto scam centers",
+      "summary": "In another police action, European police arrested 10 people and took down three scam centers, estimated to have stolen over $58 million from victims around the world.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 58000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/fbi-dubai-and-china-make-mass-arrests-dismantle-crypto-scam-centres?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Bitcoin futures signal caution as long-to-short ratio signals positioning shift",
+      "summary": "Bitcoin derivatives highlight traders’ nervous view as the Federal Reserve holds interest rates and BTC struggles to trade above its range highs. Are the bears back?",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-futures-signal-caution-long-to-short-ratio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Extending Ruzzy with LibAFL",
+      "summary": "LibAFL is all the rage in the fuzzing community these days, especially with LLVM’s libFuzzer being placed in maintenance mode. Written in Rust, LibAFL claims improved performance, modularity, state-of-the-art fuzzing techniques, and libFuzzer compatibility. For these reasons, I s",
+      "type": "analysis",
+      "severity": "critical",
+      "tags": [
+        "audit"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/04/29/extending-ruzzy-with-libafl/",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger",
+      "summary": "Tether has moved to combine bitcoin treasury, mining, and financial services under one roof.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,133 +285,7 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "XRP falls to $1.38 after breaking below $1.40 on rising selling pressure",
-      "summary": "High-volume move flips support into resistance, leaving price stuck at a key decision level.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/29/xrp-falls-to-usd1-38-after-breaking-below-usd1-40-on-rising-selling-pressure",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
-      "summary": "Bitcoin is sitting almost still while the rest of the majors give back gains and oil pushes above $111 on reports of an extended U.S. naval blockade against Iran.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 77000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think",
-      "summary": "The legendary cryptographer discusses institutional money flows into bitcoin.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/29/institutional-money-is-coming-for-bitcoin-but-adam-back-says-it-moves-slower-than-you-think",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "Polymarket denies data breach, says hacker is selling public data",
-      "summary": "The apparent hacker claimed to have breached other prediction markets and planned to release the data in the next few days.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polymarket-says-hacker-is-selling-publicly-available-data-while-claiming-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "Aptos says its new privacy coin seeks to fix one of crypto’s biggest trade-offs",
-      "summary": "Aptos said its new privacy coin could be used to enable businesses to transact onchain without competitors tracking treasury moves and trading strategies.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aptos-says-its-new-privacy-coin-prevents-wallet-profiling-targeted-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "CFTC pulls Wisconsin into fight over prediction market jurisdiction",
-      "summary": "The US Commodity Futures Trading Commission has sued Wisconsin in the agency’s fifth lawsuit against a US state to assert jurisdiction over prediction markets.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-sues-wisconsin-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "Robinhood dips as Q1 earnings miss and crypto revenue, volume fall nearly 50%",
-      "summary": "Robinhood’s Q1 earnings per share and revenue figures missed industry expectations, sending the company’s shares down nearly 10%.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/robinhoods-prediction-market-drives-q1-revenue-as-crypto-takes-a-back-seat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan",
-      "summary": "While Bitcoin exchange-traded funds and whale buying have contributed to the recent Bitcoin rally, the key driver has been consistent buying by Michael Saylor's treasury firm, Strategy, according to Bitwise's chief investment officer.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/recent-btc-rally-fueled-by-strategy-btc-purchases-bitwise-cio-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-04-29"
-    },
-    {
-      "title": "Judge rejects new trial for former FTX CEO Sam Bankman-Fried",
-      "summary": "A federal judge slammed Sam Bankman-Fried’s request for a new trial as seemingly “a plan to rescue his reputation,” denying the former FTX boss’s request.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/judge-denies-new-trial-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger",
       "date": "2026-04-29"
     }
   ],
