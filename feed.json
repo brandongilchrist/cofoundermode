@@ -1,96 +1,82 @@
 {
-  "date": "2026-05-05",
-  "generated_at": "2026-05-05T07:43:42.293Z",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T07:51:22.801Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 70,
+  "items_found": 71,
   "items_curated": 20,
   "items": [
     {
-      "title": "Aave files emergency motion to lift restraining notice on frozen ETH",
-      "summary": "Aave argued that a thief doesn’t gain lawful ownership of property by stealing it and that Gerstein Harrow’s legal argument “defies logic, common sense and the law.”",
+      "title": "Solana’s 'Alpenglow' upgrade could arrive next quarter, co-founder Yakovenko says",
+      "summary": "Speaking at Consensus Miami 2026, the Solana co-founder said that he is excited to see 'Alpenglow' upgrade go live later this year, which could come as early as next quarter.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "Solana",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aave-asks-court-to-lift-restraining-notice-on-frozen-kelp-exploit-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/05/solana-s-alpenglow-upgrade-could-arrive-next-quarter-co-founder-yakovenko-says",
       "date": "2026-05-05"
     },
     {
-      "title": "Polygon rolls out private stablecoin payments targeting institutions",
-      "summary": "The new wallet feature hides senders, receivers and amounts onchain while maintaining compliance through know your transaction screening and auditable files.",
+      "title": "Citi exec says fragmented crypto systems risk repeating old banking problems",
+      "summary": "Tokenized money efforts face limits as corporate clients demand real-time payments that work seamlessly across banks, Citi’s Ryan Rugg said at Consensus in Miami.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Polygon",
+      "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polygon-rolls-out-private-payments-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/05/citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems",
       "date": "2026-05-05"
     },
     {
-      "title": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?",
-      "summary": "Bitcoin’s recent rally to $80,000 amid improving BTC miner and options markets metrics could create a clear path to $85,000.",
+      "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
+      "summary": "Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 85000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-turns-risk-on-as-stocks-hit-new-highs-and-miner-profits-rise-is-85k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-04"
+      "loss_usd": 81500,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
+      "date": "2026-05-05"
     },
     {
-      "title": "Bitcoin bounces around $80K as Iran strike unsettles crypto, risk assets",
-      "summary": "Bitcoin faced new volatility and a new struggle to reclaim $80,000 as Iran events added pressure to crypto and risk assets.",
+      "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
+      "summary": "Investors back a model that moves insurance risk and capital flows onto blockchain rails, as onchain reinsurance looks to attract institutional participation.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-around-80k-as-iran-strike-unsettles-crypto-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "SEC delays prediction market ETFs over mechanics and risk concerns: Report",
-      "summary": "The regulator reportedly requested more information from Roundhill, GraniteShares and Bitwise about how the event contract funds would work.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
+      "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/prediction-market-etf-sec-delay-mechanics-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-04"
+      "url": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-05"
     },
     {
-      "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
-      "summary": "New York AG Letitia James secured a $5 million settlement from Uphold for promoting CredEarn, a crypto savings product that misled users about its risks.",
+      "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
+      "summary": "Spot Bitcoin ETFs pulled in over $532 million on Monday as BTC surged past $80,000 amid improved risk sentiment following the US-Iran ceasefire.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 5000000,
+      "loss_usd": 532000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-04"
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-05"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -107,8 +93,64 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Bitcoin used to hate inflation. Now it might be the opposite",
-      "summary": "Bitcoin is rallying alongside inflation signals, defying the traditional macro playbook.",
+      "title": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
+      "summary": "Crypto and traditional finance are converging fast, with perpetual futures emerging as the strongest bridge between the two.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Multi-chain",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "North Korea terror victims escalate fight to seize $71 million from Aave hack ",
+      "summary": "In a 30-page response filed Tuesday, attorneys for victims of three North Korea terrorism cases reframed the April 18 Aave hack as fraud rather than theft — a distinction that could give the attackers legal title to the borrowed crypto.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 71000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
+      "summary": "Price compression near $1.42 comes as analysts point to a repeating bull flag structure and thinning liquidity conditions.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
+      "summary": "Strategy executive chairman Michael Saylor signalling a potential bitcoin sale to cover $1.5 billion in annual dividend obligations sent MSTR down 4% after hours and BTC briefly below $81,000.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 1500000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity",
+      "summary": "Anchorage’s new product enables AI agents to have compliant access to capital across traditional finance and crypto payment rails.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -116,41 +158,41 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-used-to-hate-inflation-now-it-might-be-the-opposite",
-      "date": "2026-05-05"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/anchorage-google-cloud-launch-agentic-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-06"
     },
     {
-      "title": "Ripple to share North Korean threat intelligence with crypto firms",
-      "summary": "Ripple said April's $285 million Drift breach revealed a new pattern of long-cycle social engineering replacing traditional smart contract exploits.",
+      "title": "Colombian president says Bitcoin mining could transform country's Caribbean coast ",
+      "summary": "The Colombian president pointed to the impact Bitcoin mining has had in Paraguay, which is now the fourth-largest Bitcoin mining country by hashrate.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 285000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms",
-      "date": "2026-05-05"
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-06"
     },
     {
-      "title": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
-      "summary": "Bitcoin is back above $80,000 after Monday's brief reversal on the disputed Iran missile claim, with options markets quietly setting up for a breakout even as skew still favors downside protection.",
+      "title": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues",
+      "summary": "Bryan Pellegrino, co-founder and CEO of LayerZero, disputed Kelp DAO’s accusations and said a postmortem by external security firms will be published soon.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 81000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-crosses-usd81-000-eth-sol-doge-steady-as-options-desks-bid-on-further-price-jump",
-      "date": "2026-05-05"
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kelp-dao-to-migrate-rseth-to-chainlink-as-it-continues-to-blame-layerzero-infrastructure-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-06"
     },
     {
-      "title": "XRP slips below $1.40 on heavy volume, tightening range puts breakout in focus",
-      "summary": "High-volume breakdown reset positioning, but compression between $1.38–$1.44 now points to a larger move.",
+      "title": "Iggy Azalea faces class lawsuit over MOTHER memecoin",
+      "summary": "A class-action group has accused rapper Iggy Azalea of not following through on delivering utility and business integrations for her memecoin, Mother Iggy.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -158,55 +200,13 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/05/xrp-slips-below-usd1-40-on-heavy-volume-tightening-range-puts-breakout-in-focus",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "Bitcoin tests $80,000 as Asia’s bid fades and Hong Kong AI IPOs surge",
-      "summary": "Western desks are carrying the bitcoin rally alone, with Friday’s jobs report the next test.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tests-usd80-000-as-asia-s-bid-fades-and-hong-kong-ai-ipos-surge",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
-      "summary": "US Senator Thom Tillis said the current text of the CLARITY Act offers a compromise for the crypto industry and banks and provides a bipartisan path for the bill’s passage.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-05"
+      "url": "https://cointelegraph.com/news/iggy-azalea-class-action-lawsuit-mother-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-06"
     },
     {
-      "title": "Haun Ventures raises $1B, adding AI to crypto focus",
-      "summary": "Haun Ventures founder Katie Haun said AI will “increasingly begin to conduct economic activity on our behalf,\" and services will need to adapt for that world.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/haun-ventures-raises-1b-crypto-ai-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "Western Union begins USDPT stablecoin rollout on Solana",
-      "summary": "Western Union is one of several remittance companies that announced stablecoin plans after the US passed the stablecoin-friendly GENIUS Act in July.",
+      "title": "Strategy could sell Bitcoin ‘to inoculate the market,’ Michael Saylor says",
+      "summary": "It marks the first time that Saylor’s company has floated the idea of selling Bitcoin, parting ways with his long-held view that Bitcoin shouldn’t be sold.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -215,78 +215,78 @@
       "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/western-union-officially-launches-usdpt-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Bitcoin holds $81K amid flat derivatives markets: Is rally sustainable?",
+      "summary": "Bitcoin carved a path toward $82,000, but derivatives metrics need another push from bulls to sustain the rally.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 81000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "C/C++ checklist challenges, solved",
+      "summary": "We recently added a C/C++ security checklist to the Testing Handbook and challenged readers to spot the bugs in two code samples: a deceptively simple Linux ping program and a Windows driver registry handler. If you found the inet_ntoa global buffer gotcha or the missing RTL_QUER",
+      "type": "analysis",
+      "severity": "critical",
+      "tags": [
+        "audit"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/05/05/c/c-checklist-challenges-solved/",
       "date": "2026-05-05"
     },
     {
-      "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
-      "summary": "The video game retailer’s proposed acquisition plan revives question on whether its $368 million bitcoin stash could be sold to fund the expansion.",
+      "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations ",
+      "summary": "Michael Saylor proposes using bitcoin sales to support dividends, as Strategy reported a $12.54 billion Q1 loss.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 12540000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
+      "summary": "Speakers point to complexity, poor user experience and lack of transparency as key obstacles for mainstream users.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
+      "summary": "The Consensys CEO and founder said tokenization can be traced back to Ethereum, the blockchain he helped co-found.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 55500000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
-      "summary": "A new $200 million, 364-day bitcoin-backed facility replaces the Coinbase Credit arrangement, cutting debt costs by 200 basis points.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 200000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "Circle, Coinbase lead crypto stocks rally amid Clarity Act progress, bitcoin hitting $80,000",
-      "summary": "The market is starting to price in potential winners as stablecoin yield compromise opens path for passing key U.S. digital asset regulation, one analyst said.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 80000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/04/circle-coinbase-lead-crypto-stock-rally-amid-clarity-act-progress-bitcoin-above-usd80-000",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "The government should promote innovation, not punish it ",
-      "summary": "District Attorney of Sacramento County, Ho argues that ambiguous rules and enforcement practices, such as those for crypto, lead to confusion, rather than seeking clarity in the law to further growth.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/05/04/the-government-should-promote-innovation-not-punish-it",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "Shopify and National Bank of Canada are among backers of a new digital currency built to settle trades 24/7",
-      "summary": "Tetra Trust's new stablecoin, CADD, is aimed at institutional use for 24/7 cross-border settlement, real-time corporate treasury, and direct fintech transfers, replacing legacy batch systems.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/04/shopify-and-national-bank-of-canada-are-among-backers-of-a-new-digital-currency-built-to-settle-trades-24-7",
-      "date": "2026-05-04"
+      "url": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
+      "date": "2026-05-05"
     }
   ],
   "errors": [
