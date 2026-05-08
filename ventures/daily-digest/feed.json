@@ -1,82 +1,54 @@
 {
-  "date": "2026-05-06",
-  "generated_at": "2026-05-06T07:51:22.801Z",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T07:37:16.982Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 71,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
     {
-      "title": "Solana’s 'Alpenglow' upgrade could arrive next quarter, co-founder Yakovenko says",
-      "summary": "Speaking at Consensus Miami 2026, the Solana co-founder said that he is excited to see 'Alpenglow' upgrade go live later this year, which could come as early as next quarter.",
+      "title": "Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future",
+      "summary": "The Aptos Foundation said building infrastructure that enables sub-second finality without the need for human intervention is a key to supporting the next wave of AI agent adoption.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/05/solana-s-alpenglow-upgrade-could-arrive-next-quarter-co-founder-yakovenko-says",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "Citi exec says fragmented crypto systems risk repeating old banking problems",
-      "summary": "Tokenized money efforts face limits as corporate clients demand real-time payments that work seamlessly across banks, Citi’s Ryan Rugg said at Consensus in Miami.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/05/citi-exec-says-fragmented-crypto-systems-risk-repeating-old-banking-problems",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
-      "summary": "Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
       "chain": "Optimism",
-      "loss_usd": 81500,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
-      "date": "2026-05-05"
+      "loss_usd": 50000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-08"
     },
     {
-      "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
-      "summary": "Investors back a model that moves insurance risk and capital flows onto blockchain rails, as onchain reinsurance looks to attract institutional participation.",
+      "title": "Polygon reduces block time to 1.75 seconds as payments push accelerates",
+      "summary": "Polygon delivered its first block time reduction upgrade since genesis, as the network seeks to position for more high-frequency applications such as private stablecoin payments.",
       "type": "news",
-      "severity": "medium",
+      "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
+      "chain": "Polygon",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-05"
+      "url": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-07"
     },
     {
-      "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
-      "summary": "Spot Bitcoin ETFs pulled in over $532 million on Monday as BTC surged past $80,000 amid improved risk sentiment following the US-Iran ceasefire.",
+      "title": "Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors",
+      "summary": "Panelists at Consensus Miami said institutional investors are still largely absent from perp DEXs, citing security risks and KYC friction as key barriers.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 532000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-05"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
+      "date": "2026-05-08"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -93,120 +65,8 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
-      "summary": "Crypto and traditional finance are converging fast, with perpetual futures emerging as the strongest bridge between the two.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Multi-chain",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "North Korea terror victims escalate fight to seize $71 million from Aave hack ",
-      "summary": "In a 30-page response filed Tuesday, attorneys for victims of three North Korea terrorism cases reframed the April 18 Aave hack as fraud rather than theft — a distinction that could give the attackers legal title to the borrowed crypto.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 71000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
-      "summary": "Price compression near $1.42 comes as analysts point to a repeating bull flag structure and thinning liquidity conditions.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
-      "summary": "Strategy executive chairman Michael Saylor signalling a potential bitcoin sale to cover $1.5 billion in annual dividend obligations sent MSTR down 4% after hours and BTC briefly below $81,000.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 1500000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity",
-      "summary": "Anchorage’s new product enables AI agents to have compliant access to capital across traditional finance and crypto payment rails.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anchorage-google-cloud-launch-agentic-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Colombian president says Bitcoin mining could transform country's Caribbean coast ",
-      "summary": "The Colombian president pointed to the impact Bitcoin mining has had in Paraguay, which is now the fourth-largest Bitcoin mining country by hashrate.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues",
-      "summary": "Bryan Pellegrino, co-founder and CEO of LayerZero, disputed Kelp DAO’s accusations and said a postmortem by external security firms will be published soon.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kelp-dao-to-migrate-rseth-to-chainlink-as-it-continues-to-blame-layerzero-infrastructure-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Iggy Azalea faces class lawsuit over MOTHER memecoin",
-      "summary": "A class-action group has accused rapper Iggy Azalea of not following through on delivering utility and business integrations for her memecoin, Mother Iggy.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/iggy-azalea-class-action-lawsuit-mother-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "Strategy could sell Bitcoin ‘to inoculate the market,’ Michael Saylor says",
-      "summary": "It marks the first time that Saylor’s company has floated the idea of selling Bitcoin, parting ways with his long-held view that Bitcoin shouldn’t be sold.",
+      "title": "AI agents could solve crypto’s user problem",
+      "summary": "Chappy Asel says autonomous software may be more natural users of wallets and stablecoins than humans, though agentic payments remain mostly theoretical.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -214,55 +74,111 @@
       ],
       "chain": "Solana",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-06"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem",
+      "date": "2026-05-08"
     },
     {
-      "title": "Bitcoin holds $81K amid flat derivatives markets: Is rally sustainable?",
-      "summary": "Bitcoin carved a path toward $82,000, but derivatives metrics need another push from bulls to sustain the rally.",
+      "title": "Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record",
+      "summary": "Bitcoin pulled back from this week's $81,500 high after U.S. forces fired on Iranian targets, while crypto futures markets logged their 67th straight day of negative funding rates, the longest streak in a decade per K33 Research.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 81000,
+      "loss_usd": 79000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-slips-to-usd79-000-doge-leads-majors-losses-as-negative-funding-rates-set-10-year-record",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "AWS Northern Virginia data center overheats, impacting Coinbase",
+      "summary": "Coinbase said on Friday its markets are being placed in “cancel only” mode but will begin to re-enable trading “shortly.”",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-06"
+      "url": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-08"
     },
     {
-      "title": "C/C++ checklist challenges, solved",
-      "summary": "We recently added a C/C++ security checklist to the Testing Handbook and challenged readers to spot the bugs in two code samples: a deceptively simple Linux ping program and a Windows driver registry handler. If you found the inet_ntoa global buffer gotcha or the missing RTL_QUER",
-      "type": "analysis",
-      "severity": "critical",
+      "title": "Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack",
+      "summary": "Chaos Labs said on Thursday it has rotated all keys since the attempted attack over the weekend and hasn't detected any suspicious activity since.",
+      "type": "news",
+      "severity": "low",
       "tags": [
-        "audit"
+        "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "",
       "loss_usd": 0,
-      "source": "Trail of Bits",
-      "url": "https://blog.trailofbits.com/2026/05/05/c/c-checklist-challenges-solved/",
-      "date": "2026-05-05"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-08"
     },
     {
-      "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations ",
-      "summary": "Michael Saylor proposes using bitcoin sales to support dividends, as Strategy reported a $12.54 billion Q1 loss.",
+      "title": "Coinbase shares slide on $400M Q1 loss, revenue miss",
+      "summary": "Coinbase financial chief Alesia Haas said “macro conditions were genuinely tough,” while CEO Brian Armstrong highlighted a plan to diversify beyond spot trading.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 400000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-shares-slide-q1-loss-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Block Inc rises 8% as Q1 gives ‘earnings surprise’ despite Bitcoin dip ",
+      "summary": "Block’s Q1 earnings beat estimates despite Bitcoin revenue falling 26% on changing Bitcoin “trading dynamics” and reducing fees on Cash App transactions.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/blocks-rises-8-percent-after-q1-earnings-surprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance",
+      "summary": "Coinbax took the top spot at Consensus Miami with software built to add compliance controls to onchain payments.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 12540000000,
+      "loss_usd": 20000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
-      "date": "2026-05-05"
+      "url": "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance",
+      "date": "2026-05-07"
     },
     {
-      "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
-      "summary": "Speakers point to complexity, poor user experience and lack of transparency as key obstacles for mainstream users.",
+      "title": "Privacy and accountability can coexist onchain, say panelists at Consensus Miami",
+      "summary": "Public blockchains make transactions traceable, but that transparency can come at the expense of user privacy. Speakers from Moody’s Ratings and ChangeNOW said that hybrid blockchain architecture and address-level monitoring can help solve both problems simultaneously.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "AI agents and large corporates will lead the next stablecoin boom, executives say",
+      "summary": "Stablecoins are entering a new phase of adoption, with large corporations using them for cross-border treasury flows while AI agents begin using blockchain rails for autonomous payments, Bridge and Deus X Capital executives said at Consensus 2026.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -271,12 +187,40 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
-      "date": "2026-05-05"
+      "url": "https://www.coindesk.com/business/2026/05/07/ai-agents-and-large-corporates-will-lead-the-next-stablecoin-boom-executives-say",
+      "date": "2026-05-07"
     },
     {
-      "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
-      "summary": "The Consensys CEO and founder said tokenization can be traced back to Ethereum, the blockchain he helped co-found.",
+      "title": "Coinbase stock declines 5% after missing Q1 estimates on crypto slowdown",
+      "summary": "The crypto platform missed on the top and bottom lines as falling digital asset prices weighed on trading activity and investor sentiment.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/07/coinbase-stock-drops-4-after-surprise-1q-miss-as-crypto-trading-slows",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "CZ floats Binance.US revival to give U.S. users access to global crypto liquidity",
+      "summary": "The Binance founder said BNB Chain is the optimal payments rail for automated transactions between AI agents, noting that U.S. crypto policies are improving.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "BSC",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/07/cz-floats-binance-us-revival-to-give-u-s-users-access-to-global-crypto-liquidity",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Tether executive warns the 2026 midterms could have 'seismic impact' on crypto industry",
+      "summary": "Jesse Spiro, Head of Government Affairs at Tether, said at Consensus Miami 2026 that the midterms will be a key test for whether crypto’s recent policy gains in Washington can survive politically.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,14 +229,70 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
-      "date": "2026-05-05"
+      "url": "https://www.coindesk.com/policy/2026/05/07/tether-executive-warns-the-2026-midterms-could-have-seismic-impact-on-crypto-industry",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Bitmine to slow down ether purchases as it nears accumulation goal, Tom Lee says",
+      "summary": "At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "'DeFi is not dead,' it’s going mainstream with AI agents, crypto executives agree",
+      "summary": "DeFi and its underlying technology have already proved themselves at scale, said eToro CEO Yoni Assia.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/07/defi-is-not-dead-it-s-going-mainstream-with-ai-agents-crypto-executives-say",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Donald Trump Jr. denies rumors World Liberty Financial is falling apart",
+      "summary": "World Liberty Financial co-founder Donald Trump Jr. and co-founder and CEO Zach Witkoff pushed back on recent online rumors as the crypto firm battles Justin Sun in court.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/07/donald-trump-jr-denies-rumors-world-liberty-financial-is-falling-apart",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "Amazon’s new AI wallet: AWS, Coinbase, and Stripe build payment rails for bots",
+      "summary": "Amazon said AI agents for now will be allowed to buy APIs, web content and other online services, but that future versions would enable hotel bookings, travel reservations and payments to merchants.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/07/amazon-rolls-out-ai-agent-stablecoin-payments-platform-with-coinbase-and-stripe",
+      "date": "2026-05-07"
     }
   ],
   "errors": [
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 7473\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7583\nChar: &"
     }
   ]
 }
