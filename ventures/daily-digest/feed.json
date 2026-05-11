@@ -1,13 +1,55 @@
 {
-  "date": "2026-05-10",
-  "generated_at": "2026-05-10T07:45:46.624Z",
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T08:14:09.655Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
-  "sources_failed": 2,
-  "items_found": 65,
+  "sources_failed": 1,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
+    {
+      "title": "New Fed chair, Base's Azul upgrade, corporate earnings: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting May 11.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Bored Ape NFTs are finally making a comeback as crypto traders rediscover their appetite for risk",
+      "summary": "BAYC floor prices have doubled in a month as traders rotate back into speculative crypto bets, reviving hopes of a broader NFT recovery.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+      "summary": "Ethereum’s ongoing downtrend against Bitcoin mirrors the bearish structure seen in 2024–2025, raising the risk of another 40% decline.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-10"
+    },
     {
       "title": " Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
       "summary": "The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived.",
@@ -65,22 +107,8 @@
       "date": "2026-05-09"
     },
     {
-      "title": "ECB's Lagarde’s digital euro warning: Why Europe shouldn’t just copy the U.S. stablecoin model",
-      "summary": "Lagarde warned that large stablecoins like Tether and USDC, which now dominate a $310 billion market, pose financial stability risks and could transmit stress to underlying asset markets during periods of turmoil.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 310000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/08/ecb-s-lagarde-warns-tether-and-circle-stablecoins-risk-digital-dollarisation-in-europe",
-      "date": "2026-05-08"
-    },
-    {
       "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
-      "summary": "Three companies reportedly pressed US senators for changes to a crypto bill, removing language that would require them to offer trading on tokens “not readily susceptible to manipulation.”",
+      "summary": "Coinbase, Kraken and Gemini reportedly pressed senators to remove language requiring listed tokens to be “not readily susceptible to manipulation.\"",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -94,49 +122,35 @@
     },
     {
       "title": "Estonia's FSA issues investor warning about Zondacrypto",
-      "summary": "The news follows an investigation into the crypto exchange by Polish law enforcement officials and reports of customer withdrawal issues.",
+      "summary": "The warning comes after Polish authorities reportedly opened an investigation into Zondacrypto amid customer complaints about withdrawals.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-05-08"
     },
     {
-      "title": "Bitcoin’s ‘overbought’ signal flashes price top warning with focus on $78K",
-      "summary": "Bitcoin’s 36% rally from $60,000 resulted in the relative strength index flashing a potential top signal not seen since early 2026.",
-      "type": "news",
+      "title": "Trailmark turns code into graphs",
+      "summary": "We’re open-sourcing Trailmark, a library that parses source code into a queryable call graph of functions, classes, call relationships, and semantic metadata, then exposes that graph through a Python API that Claude skills can call directly. Install it now: uv pip install trailma",
+      "type": "analysis",
       "severity": "medium",
       "tags": [
-        "defi"
+        "audit"
       ],
-      "chain": "Optimism",
-      "loss_usd": 78000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-overbought-signal-flashes-price-top-warning-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-08"
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs/",
+      "date": "2026-04-23"
     },
     {
-      "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
-      "summary": "The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 406000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
-      "summary": "Novig CEO Jacob Fortinsky said his company will transition to a federal Designated Contract Market framework this summer to launch in all 50 states, while 57 Maiden's Adam Mastrelli said he was banned from two major sportsbooks within two months for being “sharp.\"",
+      "title": "Bitcoin, Nasdaq investors are celebrating, while U.S. consumers turn gloomy",
+      "summary": "Bitcoin and Nasdaq have rallied sharply, but U.S. consumer sentiment has fallen to historic lows, highlighting a widening Wall Street–Main Street divide.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -145,138 +159,96 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
-      "date": "2026-05-09"
+      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-nasdaq-investors-are-celebrating-while-u-s-consumers-are-panicking",
+      "date": "2026-05-11"
     },
     {
-      "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
-      "summary": "The bill's progress follows talks on jurisdiction, consumer/developer protections, and stablecoin rewards, with crypto firms backing a yield compromise.",
+      "title": "Bitcoin mining pools with 75% of BTC hashrate join open standard for block construction",
+      "summary": "Foundry, AntPool, F2Pool, SpiderPool, and MARA Pool are among seven pools joining the Stratum V2 working group, putting nearly three-quarters of global bitcoin hashrate behind a protocol that returns block construction decisions to individual miners.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes",
-      "date": "2026-05-09"
+      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-standard-for-block-construction",
+      "date": "2026-05-11"
     },
     {
-      "title": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
-      "summary": "One point three billion adults lack financial services, 4.7 billion lack credit, and 1.4 billion savers in low-income nations earn no deposit interest, Binance said.",
+      "title": "XRP spikes 2.5%, beating bitcoin and ether, in breakout above $1.45 ",
+      "summary": "Sharp move through resistance came with one of the biggest volume spikes in weeks, though profit-taking quickly emerged near session highs.",
       "type": "news",
       "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/09/emerging-market-users-are-treating-crypto-exchanges-like-banking-apps-binance-says",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
-      "summary": "The initiative sought to amend Switzerland's constitution, requiring the Swiss National Bank (SNB) to hold BTC alongside gold and foreign-currency reserves.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "CME is set to let traders bet on bitcoin volatility, not just price",
-      "summary": "CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "How DeFi is changing the financial landscape for Latin Americans",
-      "summary": "DeFi is quietly shifting from niche crypto experiment to a legitimate financial tool across the region, explains Serrano.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "Crypto wallets are being rebuilt for AI agents, Trust Wallet and Mesh executives say at Consensus Miami",
-      "summary": "Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are creating a new role for crypto wallets.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "BlackRock deepens tokenization push with new onchain fund offerings",
-      "summary": "The world's largest asset manager filed paperwork to expand its tokenized fund lineup as real-world assets grow 200% year over year.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "LayerZero says it ‘made a mistake’ in $292 Million Kelp exploit",
-      "summary": "After initially framing the exploit as a developer configuration failure, LayerZero said it “owns” the decision to let its own verifier secure high-value transfers in a vulnerable setup.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 292000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
-      "summary": "Judge Margaret Garnett allowed frozen exploit funds on Arbitrum to move to Aave, but the legal freeze follows the assets as terrorism plaintiffs continue their claim.",
-      "type": "news",
-      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 71000000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
-      "date": "2026-05-09"
+      "url": "https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45",
+      "date": "2026-05-11"
     },
     {
-      "title": "Seven major Bitcoin mining pools join Stratum V2, working group",
-      "summary": "Individual miners in Bitcoin mining pools must rely on block templates provided by the mining pool operator.",
+      "title": "A bitcoin whale that went silent in 2013 moves $40 million in BTC",
+      "summary": "A long-dormant whale woke up Sunday, moving millions worth of bitcoin on-chain.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 40000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/11/a-bitcoin-whale-that-went-silent-in-2013-moves-usd40-million-in-btc",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Whitehat returns $190K to Renegade hours after hacking the protocol",
+      "summary": "The whitehat hacker said the decision to exploit Renegade’s dark pool was made to protect the funds and safety of DeFi users.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 190000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "England central banker says global stablecoin rules will ‘wrestle’ with US",
+      "summary": "Bank of England Governor Andrew Bailey says regulators will have to deal with the US when forming global stablecoin standards.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "SUI spikes 50% amid staking moves, zero-fee stablecoins, privacy push",
+      "summary": "Adeniyi Abiodun, co-founder of Mysten Labs, announced at an event in Miami plans for zero-fee stablecoin transfers on Sui and reiterated the ambition to add private transactions.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Privacy advocates slam reCAPTCHA update they say locks out de-Googled phones",
+      "summary": "Privacy-conscious internet users are being “demoted” from second to third-class netizens, said Bitcoiner Jameson Lopp.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,15 +257,39 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-09"
+      "url": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’",
+      "summary": "10x Research CEO Markus Thielen said Bitcoin’s strength above $80,000 could be supported by two favorable decisions in the US Senate this week.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 80000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Policy at Consensus Miami: State of Crypto ",
+      "summary": "This was a hectic week.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/10/policy-at-consensus-miami-state-of-crypto",
+      "date": "2026-05-10"
     }
   ],
   "errors": [
-    {
-      "source": "Trail of Bits",
-      "error": "Status code 530"
-    },
     {
       "source": "Halborn",
       "error": "Invalid character in entity name\nLine: 0\nColumn: 7583\nChar: &"
