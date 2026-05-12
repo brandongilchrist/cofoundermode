@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-11",
-  "generated_at": "2026-05-11T08:14:09.655Z",
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T08:00:15.038Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,78 +9,50 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "New Fed chair, Base's Azul upgrade, corporate earnings: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting May 11.",
+      "title": "Ethereum Foundation hits ‘Glamsterdam’ milestones, names new protocol leads",
+      "summary": "The Ethereum Foundation has finalized a new gas limit floor and improvement proposal for its “Glamsterdam” upgrade, which is likely to go live sometime in the third quarter of 2026.",
       "type": "news",
       "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Bored Ape NFTs are finally making a comeback as crypto traders rediscover their appetite for risk",
-      "summary": "BAYC floor prices have doubled in a month as traders rotate back into speculative crypto bets, reviving hopes of a broader NFT recovery.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk",
-      "date": "2026-05-10"
-    },
-    {
-      "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
-      "summary": "Ethereum’s ongoing downtrend against Bitcoin mirrors the bearish structure seen in 2024–2025, raising the risk of another 40% decline.",
-      "type": "news",
-      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-10"
+      "url": "https://cointelegraph.com/news/ethereum-foundation-hits-glamsterdam-milestones-names-new-protocol-leads?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-12"
     },
     {
-      "title": " Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
-      "summary": "The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived.",
+      "title": "The biggest consensus overhaul in Solana history is officially live for testing",
+      "summary": "The upgrade, known as Alpenglow, is live on a community test cluster, said Solana core developer Anza.",
       "type": "news",
-      "severity": "medium",
+      "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-10"
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+      "date": "2026-05-11"
     },
     {
-      "title": "CZ says crypto exchange rivals opposed his pardon bid",
-      "summary": "Binance co-founder Changpeng “CZ” Zhao said rival crypto exchanges were concerned a pardon could pave the way for Binance to return to the US market.",
+      "title": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you",
+      "summary": "xBubble allows users to complete specific tasks with simpler prompts by automatically building and dispatching task-specific AI agents.",
       "type": "news",
-      "severity": "medium",
+      "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "Polygon",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-10"
+      "url": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-11"
     },
     {
-      "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
-      "summary": "Quantum computing does not only pose a risk to up to $3 trillion in digital assets, it also threatens the security of banking systems, military communications, digital identities and more, Project Eleven’s report warns.",
+      "title": "Why the TradFi takeover of crypto might not be the death blow analysts expect",
+      "summary": "Gate’s CBO argues that Bloomberg’s warning of a TradFi takeover is \"oversimplified,\" noting that global exchanges evolved past fee-only models years ago.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -89,26 +61,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
-      "date": "2026-05-09"
+      "url": "https://www.coindesk.com/business/2026/05/11/why-the-tradfi-takeover-of-crypto-might-not-be-the-death-blow-analysts-expect",
+      "date": "2026-05-11"
     },
     {
-      "title": "Why a 2017 Linux bug is now a major concern for the crypto industry ",
-      "summary": "The “Copy Fail” Linux bug could impact crypto infrastructure that relies on Linux servers, highlighting growing cybersecurity risks in the digital asset industry. Format: Explained",
+      "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
+      "summary": "The American Bankers Association amplified warnings the Senate’s Clarity Act could push deposit flight into stablecoins unless lawmakers tighten yield limits.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
+      "summary": "BTC briefly topped $82,400 before slipping below $81,000 as traders repositioned around CME futures open and geopolitical risks rattled markets.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-09"
+      "loss_usd": 82400,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
+      "date": "2026-05-11"
     },
     {
-      "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
-      "summary": "Coinbase, Kraken and Gemini reportedly pressed senators to remove language requiring listed tokens to be “not readily susceptible to manipulation.\"",
+      "title": "Seven Democrats seen as ‘key’ to advancing CLARITY Act: Galaxy ",
+      "summary": "The CLARITY Act, introduced in July 2025, stalled in January after Coinbase withdrew its support for the legislation over concerns about legal protections and stablecoin yields.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -117,22 +103,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "Estonia's FSA issues investor warning about Zondacrypto",
-      "summary": "The warning comes after Polish authorities reportedly opened an investigation into Zondacrypto amid customer complaints about withdrawals.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-08"
+      "url": "https://cointelegraph.com/news/senate-banking-clarity-act-galaxy-digital-support-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-11"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -149,22 +121,22 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Bitcoin, Nasdaq investors are celebrating, while U.S. consumers turn gloomy",
-      "summary": "Bitcoin and Nasdaq have rallied sharply, but U.S. consumer sentiment has fallen to historic lows, highlighting a widening Wall Street–Main Street divide.",
+      "title": "Aave launches binding Arbitrum vote to move $71 million in disputed ETH",
+      "summary": "Arbitrum delegates begin the binding governance process to transfer disputed exploit funds to Aave, while North Korean terrorism creditors continue fighting for ownership in Manhattan court",
       "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 0,
+      "chain": "Ethereum",
+      "loss_usd": 71000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-nasdaq-investors-are-celebrating-while-u-s-consumers-are-panicking",
-      "date": "2026-05-11"
+      "url": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
+      "date": "2026-05-12"
     },
     {
-      "title": "Bitcoin mining pools with 75% of BTC hashrate join open standard for block construction",
-      "summary": "Foundry, AntPool, F2Pool, SpiderPool, and MARA Pool are among seven pools joining the Stratum V2 working group, putting nearly three-quarters of global bitcoin hashrate behind a protocol that returns block construction decisions to individual miners.",
+      "title": "'Bitcoin transactions can be monitored’: Ray Dalio explains why central banks won’t touch BTC",
+      "summary": "Ray Dalio joins the privacy debate, saying Bitcoin’s full transparency makes it less likely to be adopted by central banks.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -173,12 +145,82 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-standard-for-block-construction",
-      "date": "2026-05-11"
+      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-touch-btc",
+      "date": "2026-05-12"
     },
     {
-      "title": "XRP spikes 2.5%, beating bitcoin and ether, in breakout above $1.45 ",
-      "summary": "Sharp move through resistance came with one of the biggest volume spikes in weeks, though profit-taking quickly emerged near session highs.",
+      "title": "Ripple-linked XRP holds near $1.46 as breakout attempt fades",
+      "summary": "XRP briefly pushed toward $1.49 on heavy volume before stalling again near a resistance zone that has capped rallies for months.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/ripple-linked-xrp-holds-near-usd1-46-as-breakout-attempt-fades-despite-usd200-million-raise",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash",
+      "summary": "Bitcoin held above $81,000 after touching $82,026 overnight, while solana led the major altcoins on the week as The Big Short investor warned the Nasdaq 100 had reached dot-com bubble territory and oil zoomed past $105 on fresh Iran ceasefire doubts.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 82000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Clarity Act, in the flesh, unveiled by U.S. Senate Banking Committee before hearing",
+      "summary": "The crypto market structure bill had already been making the industry rounds behind closed doors, but the lawmakers have released the text before their vote.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Bitcoin’s floor looks firmer at $80,000, but traders still don’t trust the breakout",
+      "summary": "BTC has recovered from Friday’s jobs-driven dip, but Enflux says overhead resistance remains intact while Glassnode’s market structure data suggests traders are buying the rally while still positioning for downside.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 80000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-floor-looks-firmer-at-usd80-000-but-traders-still-don-t-trust-the-breakout",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "‘I failed them’: Goliath Ventures CEO charged with crypto Ponzi apologizes",
+      "summary": "Christopher Delgado, the former Goliath Ventures CEO charged with fraud and money laundering, has publicly apologized to investors of what US prosecutors allege is a Ponzi scheme.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/goliath-ventures-ceo-charged-over-alleged-crypto-ponzi-apologizes-to-investors-in-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Bitmine slows Ethereum buys, targets December to own 5% of supply",
+      "summary": "Tom Lee doubles down on the crypto spring, points to the Ether price rising in correlation with software stocks as further evidence.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -186,107 +228,65 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45",
-      "date": "2026-05-11"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitmine-slows-ether-buying-pace-5-percent-eth-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-12"
     },
     {
-      "title": "A bitcoin whale that went silent in 2013 moves $40 million in BTC",
-      "summary": "A long-dormant whale woke up Sunday, moving millions worth of bitcoin on-chain.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 40000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/11/a-bitcoin-whale-that-went-silent-in-2013-moves-usd40-million-in-btc",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Whitehat returns $190K to Renegade hours after hacking the protocol",
-      "summary": "The whitehat hacker said the decision to exploit Renegade’s dark pool was made to protect the funds and safety of DeFi users.",
+      "title": "Hackers used AI to craft zero-day attack to bypass 2FA: Google",
+      "summary": "Google’s Threat Intelligence Group says it has “high confidence” a threat actor used an AI model to help discover and weaponize a vulnerability in a popular system admin tool.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 190000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "England central banker says global stablecoin rules will ‘wrestle’ with US",
-      "summary": "Bank of England Governor Andrew Bailey says regulators will have to deal with the US when forming global stablecoin standards.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-11"
+      "url": "https://cointelegraph.com/news/hackers-used-ai-craft-zero-day-attack-bypass-2fa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-12"
     },
     {
-      "title": "SUI spikes 50% amid staking moves, zero-fee stablecoins, privacy push",
-      "summary": "Adeniyi Abiodun, co-founder of Mysten Labs, announced at an event in Miami plans for zero-fee stablecoin transfers on Sui and reiterated the ambition to add private transactions.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Privacy advocates slam reCAPTCHA update they say locks out de-Googled phones",
-      "summary": "Privacy-conscious internet users are being “demoted” from second to third-class netizens, said Bitcoiner Jameson Lopp.",
+      "title": "MARA shares sink on first-quarter revenue miss, $1.3B loss",
+      "summary": "MARA Holdings says Bitcoin mining remains the company’s “operational foundation” while it moves to expand into AI.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 0,
+      "loss_usd": 1300000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-11"
+      "url": "https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-12"
     },
     {
-      "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’",
-      "summary": "10x Research CEO Markus Thielen said Bitcoin’s strength above $80,000 could be supported by two favorable decisions in the US Senate this week.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 80000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Policy at Consensus Miami: State of Crypto ",
-      "summary": "This was a hectic week.",
+      "title": "Bitcoin funding rates turn positive: Is BTC rally to $85K next?",
+      "summary": "Bitcoin’s funding rate turned positive as the cryptocurrency held the $80,000 level. Will an uptick in spot ETF inflows trigger a rally to $85,000?",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
+      "loss_usd": 85000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
+      "summary": "Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/10/policy-at-consensus-miami-state-of-crypto",
-      "date": "2026-05-10"
+      "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
+      "date": "2026-05-11"
     }
   ],
   "errors": [
