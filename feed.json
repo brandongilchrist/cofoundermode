@@ -1,16 +1,16 @@
 {
-  "date": "2026-05-12",
-  "generated_at": "2026-05-12T08:00:15.038Z",
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T08:02:46.538Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 68,
+  "items_found": 69,
   "items_curated": 20,
   "items": [
     {
-      "title": "Ethereum Foundation hits ‘Glamsterdam’ milestones, names new protocol leads",
-      "summary": "The Ethereum Foundation has finalized a new gas limit floor and improvement proposal for its “Glamsterdam” upgrade, which is likely to go live sometime in the third quarter of 2026.",
+      "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
+      "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand.",
       "type": "news",
       "severity": "high",
       "tags": [
@@ -18,83 +18,27 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-hits-glamsterdam-milestones-names-new-protocol-leads?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
       "date": "2026-05-12"
     },
     {
-      "title": "The biggest consensus overhaul in Solana history is officially live for testing",
-      "summary": "The upgrade, known as Alpenglow, is live on a community test cluster, said Solana core developer Anza.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you",
-      "summary": "xBubble allows users to complete specific tasks with simpler prompts by automatically building and dispatching task-specific AI agents.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Polygon",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Why the TradFi takeover of crypto might not be the death blow analysts expect",
-      "summary": "Gate’s CBO argues that Bloomberg’s warning of a TradFi takeover is \"oversimplified,\" noting that global exchanges evolved past fee-only models years ago.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/11/why-the-tradfi-takeover-of-crypto-might-not-be-the-death-blow-analysts-expect",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
-      "summary": "The American Bankers Association amplified warnings the Senate’s Clarity Act could push deposit flight into stablecoins unless lawmakers tighten yield limits.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
-      "date": "2026-05-11"
-    },
-    {
-      "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
-      "summary": "BTC briefly topped $82,400 before slipping below $81,000 as traders repositioned around CME futures open and geopolitical risks rattled markets.",
+      "title": "Bitcoin will 'explode' past $90,000 and hit $126,000, Arthur Hayes says",
+      "summary": "Arthur Hayes, the BitMEX co-founder who now runs Maelstrom, said bitcoin's return to its October high is a \"foregone conclusion,\" and he is taking his fund to maximum risk, with HYPE, ZEC, and NEAR as his top altcoin picks.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 82400,
+      "loss_usd": 90000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
-      "date": "2026-05-11"
+      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-will-explode-past-usd90-000-on-way-back-to-usd126-000-arthur-hayes-says",
+      "date": "2026-05-12"
     },
     {
-      "title": "Seven Democrats seen as ‘key’ to advancing CLARITY Act: Galaxy ",
-      "summary": "The CLARITY Act, introduced in July 2025, stalled in January after Coinbase withdrew its support for the legislation over concerns about legal protections and stablecoin yields.",
+      "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+      "summary": "The US Senate voted largely along partisan lines to confirm Kevin Warsh as a member of the Fed's Board of Governors, despite many Democrats’ concerns about the central bank’s independence.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -103,8 +47,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/senate-banking-clarity-act-galaxy-digital-support-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-11"
+      "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-12"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -121,36 +65,36 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Aave launches binding Arbitrum vote to move $71 million in disputed ETH",
-      "summary": "Arbitrum delegates begin the binding governance process to transfer disputed exploit funds to Aave, while North Korean terrorism creditors continue fighting for ownership in Manhattan court",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 71000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
-      "date": "2026-05-12"
-    },
-    {
-      "title": "'Bitcoin transactions can be monitored’: Ray Dalio explains why central banks won’t touch BTC",
-      "summary": "Ray Dalio joins the privacy debate, saying Bitcoin’s full transparency makes it less likely to be adopted by central banks.",
+      "title": "XRP tops bitcoin, ether volumes on major South Korean exchanges",
+      "summary": "XRP/KRW was the most traded pair on Upbit and second on Bithumb, a familiar Korean market signal that has often preceded sharper moves in the token.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-touch-btc",
-      "date": "2026-05-12"
+      "url": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
+      "date": "2026-05-13"
     },
     {
-      "title": "Ripple-linked XRP holds near $1.46 as breakout attempt fades",
-      "summary": "XRP briefly pushed toward $1.49 on heavy volume before stalling again near a resistance zone that has capped rallies for months.",
+      "title": "Bitcoin back above $81,000 after hot CPI print, BNB, DOGE lead majors gains",
+      "summary": "Bitcoin rolled back to $81,200 after dipping to $79,800 on Tuesday's hotter-than-expected U.S. inflation reading, while BNB zoomed 2.5% over 24 hours and dogecoin added 1.3% as crypto funds saw their strongest weekly inflows in months.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "BSC",
+      "loss_usd": 81000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-back-above-usd81-000-after-hot-cpi-print-bnb-doge-lead-majors-gains",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Nevada regulators push back after prediction market conference blames them for move",
+      "summary": "Spokesperson for regulator denies that it put pressure on ARIA Resort & Casino for hosting Predict 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,68 +103,54 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/12/ripple-linked-xrp-holds-near-usd1-46-as-breakout-attempt-fades-despite-usd200-million-raise",
-      "date": "2026-05-12"
+      "url": "https://www.coindesk.com/policy/2026/05/13/nevada-gaming-regulator-says-prediction-market-conferences-are-welcome-in-las-vegas",
+      "date": "2026-05-13"
     },
     {
-      "title": "Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash",
-      "summary": "Bitcoin held above $81,000 after touching $82,026 overnight, while solana led the major altcoins on the week as The Big Short investor warned the Nasdaq 100 had reached dot-com bubble territory and oil zoomed past $105 on fresh Iran ceasefire doubts.",
+      "title": "Legend becomes latest DeFi app to throw in towel",
+      "summary": "“The product that wins isn’t the one that explains crypto better, it’s the one that hides it completely,” said CEO Jayson Hobby.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/legend-defi-app-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Hyperliquid ETF attracts $1.2M inflows in 'very solid' US debut",
+      "summary": "21Shares’ Hyperliquid ETF debuted in the US to a “very solid day” of trading, despite volumes being below comparatively buzzy crypto ETF debuts.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 82000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
-      "date": "2026-05-12"
+      "loss_usd": 1200000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-first-hyperliquid-etf-clocks-1m-net-inflow-in-very-solid-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
     },
     {
-      "title": "Clarity Act, in the flesh, unveiled by U.S. Senate Banking Committee before hearing",
-      "summary": "The crypto market structure bill had already been making the industry rounds behind closed doors, but the lawmakers have released the text before their vote.",
+      "title": "CFTC backs prediction market Kalshi in appeals court fight against Ohio",
+      "summary": "The Commodity Futures Trading Commission has urged the Sixth Circuit Court of Appeals to rule that the agency has jurisdiction over prediction markets.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing",
-      "date": "2026-05-12"
-    },
-    {
-      "title": "Bitcoin’s floor looks firmer at $80,000, but traders still don’t trust the breakout",
-      "summary": "BTC has recovered from Friday’s jobs-driven dip, but Enflux says overhead resistance remains intact while Glassnode’s market structure data suggests traders are buying the rally while still positioning for downside.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-floor-looks-firmer-at-usd80-000-but-traders-still-don-t-trust-the-breakout",
-      "date": "2026-05-12"
-    },
-    {
-      "title": "‘I failed them’: Goliath Ventures CEO charged with crypto Ponzi apologizes",
-      "summary": "Christopher Delgado, the former Goliath Ventures CEO charged with fraud and money laundering, has publicly apologized to investors of what US prosecutors allege is a Ponzi scheme.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/goliath-ventures-ceo-charged-over-alleged-crypto-ponzi-apologizes-to-investors-in-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-12"
+      "url": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
     },
     {
-      "title": "Bitmine slows Ethereum buys, targets December to own 5% of supply",
-      "summary": "Tom Lee doubles down on the crypto spring, points to the Ether price rising in correlation with software stocks as further evidence.",
+      "title": "Ethereum community launches security feature to end blind signing",
+      "summary": "Crypto platforms Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot and Fireblocks are among the earliest adopters and contributors to Clear Signing, aimed at ending “blind signing.”",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,64 +159,134 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmine-slows-ether-buying-pace-5-percent-eth-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-12"
+      "url": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
     },
     {
-      "title": "Hackers used AI to craft zero-day attack to bypass 2FA: Google",
-      "summary": "Google’s Threat Intelligence Group says it has “high confidence” a threat actor used an AI model to help discover and weaponize a vulnerability in a popular system admin tool.",
+      "title": "Kelp DAO eyes reopening withdrawals after rsETH burn",
+      "summary": "Kelp DAO has burned the exploiter’s tokens and outlined a two-week plan to refill rsETH through Aave’s Recovery Guardian multisig wallet.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hackers-used-ai-craft-zero-day-attack-bypass-2fa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-12"
+      "url": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
     },
     {
-      "title": "MARA shares sink on first-quarter revenue miss, $1.3B loss",
-      "summary": "MARA Holdings says Bitcoin mining remains the company’s “operational foundation” while it moves to expand into AI.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 1300000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-12"
-    },
-    {
-      "title": "Bitcoin funding rates turn positive: Is BTC rally to $85K next?",
-      "summary": "Bitcoin’s funding rate turned positive as the cryptocurrency held the $80,000 level. Will an uptick in spot ETF inflows trigger a rally to $85,000?",
+      "title": " Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
+      "summary": "Arthur Hayes said military spending and the possible prioritization of infrastructure investment by US allies over trading US Treasurys and equities will lead to further fiat printing and benefit crypto.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 85000,
+      "loss_usd": 126000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "US senators file over 100 amendments to crypto bill ahead of markup",
+      "summary": "A leaked list shows Senate Banking Committee members have filed more than 100 amendments to a crypto bill, highlighting the issues likely to be debated at a markup on Thursday.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/senators-file-over-100-amendments-to-crypto-bill-ahead-of-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
+      "summary": "JPMorgan’s filing comes nearly three weeks after rival investment bank Morgan Stanley launched its own money market fund, the Stablecoin Reserves Portfolio.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Go fuzzing was missing half the toolkit. We forked the toolchain to fix it.",
+      "summary": "Go’s native fuzzing is useful, but it stands far behind state-of-the-art tooling that the Rust, C, and C++ ecosystems offer with LibAFL and AFL++. Path constraints are hard to solve. Structured inputs usually need handmade parsing. It doesn’t even detect several common bug classe",
+      "type": "analysis",
+      "severity": "low",
+      "tags": [
+        "audit"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./",
       "date": "2026-05-12"
     },
     {
-      "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
-      "summary": "Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.",
+      "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
+      "summary": "The global banking giant is expanding its tokenized money market lineup, following BlackRock's similar move just a few days ago.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
+      "summary": "Warsh’s confirmation to the Fed board positions the crypto-linked investor to replace Jerome Powell as chair amid inflation and digital asset policy debates.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
+      "summary": "Osero is coming with three products: Earn, App, and Foundry.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 13500000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Privacy emerges as crypto’s next 'killer app,' with Arc, Canton and Tempo topping $1 billion in funding",
+      "summary": "New fundraising rounds for three institution-focused blockchains show how regulation, privacy and corporate competition are reshaping crypto infrastructure, according to Bitwise CIO Matt Hougan.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 0,
+      "loss_usd": 1000000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
-      "date": "2026-05-11"
+      "url": "https://www.coindesk.com/business/2026/05/12/privacy-emerges-as-crypto-s-next-killer-app-with-arc-canton-and-tempo-topping-usd1-billion-in-funding",
+      "date": "2026-05-12"
     }
   ],
   "errors": [
