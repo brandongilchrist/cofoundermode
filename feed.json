@@ -1,30 +1,44 @@
 {
-  "date": "2026-05-14",
-  "generated_at": "2026-05-14T07:59:43.430Z",
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T08:26:21.946Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 69,
+  "items_found": 67,
   "items_curated": 20,
   "items": [
     {
-      "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
-      "summary": "Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’",
+      "title": "Crypto traders betting on a rally lose $563 million in liquidations. Ether and bitcoin suffer the most",
+      "summary": "Ether and bitcoin led liquidations, as their prices dropped on macroeconomic concerns.",
       "type": "news",
-      "severity": "high",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 0,
+      "chain": "Ethereum",
+      "loss_usd": 563000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
-      "date": "2026-05-13"
+      "url": "https://www.coindesk.com/markets/2026/05/18/crypto-traders-betting-on-a-rally-lose-usd563-million-in-liquidations-ether-and-bitcoin-suffer-the-most",
+      "date": "2026-05-18"
     },
     {
-      "title": "Bitcoin risks slump after hitting ‘major bear market resistance’: CryptoQuant",
-      "summary": "Bitcoin’s rally may reverse as its price has hit a historic resistance level and traders appear to already be taking profits, said CryptoQuant in a note on Wednesday.",
+      "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
+      "summary": "Long-term holders are still sitting tight and exchange balances remain near six-year lows, Binance Research data shows, but underwater short-term holders leave BTC vulnerable to macro shocks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 77000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Senate crypto bill at risk beyond midterms if not passed by August: NYDIG",
+      "summary": "NYDIG’s Greg Cipolaro says the Senate’s crypto market structure bill is at risk of failing if it cannot clear a floor vote by August.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -33,12 +47,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-14"
+      "url": "https://cointelegraph.com/news/senate-crypto-bill-august-advance-in-lame-duck-session-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
     },
     {
-      "title": "AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase",
-      "summary": "The crypto investor had Claude search through two Macs, two external hard drives, an Apple Notes export, iCloud Mail, Gmail inbox and X messages to help retrieve the Bitcoin.",
+      "title": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst",
+      "summary": "Potential liquidity contractions in secondary markets and surging government bond yields could spell trouble for preferred perpetual stockholders.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -47,12 +61,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-14"
+      "url": "https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-16"
     },
     {
-      "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Dovile Silenskyte provides an alternative to the “bitcoin as a risk asset” narrative. Then, Joshua de Vos shares insights and analysis on global exchanges.",
+      "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
+      "summary": "CME Group and ICE have reportedly warned the CFTC and Capitol Hill officials that Hyperliquid’s decentralized perpetual futures platform could enable market manipulation and sanctions evasion.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,50 +75,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
-      "date": "2026-05-13"
-    },
-    {
-      "title": "Live markets: Bitcoin dips below $80,000 as producer price inflation surges to 6%",
-      "summary": "U.S. PPI surged well above forecasts in April, reviving concerns that rising oil prices and Iran-related supply risks may feed another inflation wave.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/13/live-markets-bitcoin-dips-below-usd80-000-as-producer-price-inflation-surges-to-6",
-      "date": "2026-05-13"
-    },
-    {
-      "title": "Tokenized Treasuries hit $15 billion as bitcoin stalls, Fed rate-rise concerns build",
-      "summary": "Your day-ahead look for May 13, 2026",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 15000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/05/13/tokenized-treasuries-hit-usd15-billion-as-bitcoin-stalls-fed-rate-rise-concerns-build",
-      "date": "2026-05-13"
-    },
-    {
-      "title": "Senate confirms Kevin Warsh to lead Federal Reserve",
-      "summary": "The US Senate voted largely along party lines to confirm Kevin Warsh to lead the Fed’s Board of Governors, despite many Democrats’ concerns about the central bank’s independence.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-13"
+      "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
+      "date": "2026-05-15"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -121,36 +93,8 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Bitcoin investors yanked $635 million from spot ETFs in a day. Here's what it means for price",
-      "summary": "The single-largest outflow since late January comes as bitcoin turns lower from the 200-day moving average.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 635000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-investors-yanked-usd635-million-from-spot-etfs-in-a-day-here-s-what-it-means-for-price",
-      "date": "2026-05-14"
-    },
-    {
-      "title": "Claude helps recover $395,000 in bitcoin trapped on a computer for years",
-      "summary": "The owner had been trying for eight weeks to brute-force the password on their current Blockchain.com wallet, testing roughly 3.5 trillion combinations using the btcrecover service on a rented computing chip.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 395000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years",
-      "date": "2026-05-14"
-    },
-    {
-      "title": "TRUMP token down 5% as namesake handset begins shipping next week",
-      "summary": "Trump Mobile's T1 handset appears to be a re-skinned HTC U24 with assembly done in the U.S.",
+      "title": "Crypto security is turning into an AI arms race as agents may overwhelm compliance teams",
+      "summary": "AI agents and automated payments could reach a scale that crypto monitoring systems built for human-paced markets cannot handle, Elliptic CEO Simone Maini warned.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,40 +103,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
-      "date": "2026-05-14"
+      "url": "https://www.coindesk.com/tech/2026/05/18/crypto-security-is-turning-into-an-ai-arms-race-as-agents-may-overwhelm-compliance-teams",
+      "date": "2026-05-18"
     },
     {
-      "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
-      "summary": "Chinese President Xi Jinping warned Donald Trump of potential conflict over Taiwan during the first U.S. presidential visit to China in nearly a decade.",
+      "title": "Aave restores ether borrowing limits after $230 million exploit",
+      "summary": "The DeFi lending protocol reversed restrictions imposed after April’s $292 million exploit, restoring borrowing capacity across six networks as contagion fears ease.",
       "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 80000,
+      "chain": "Ethereum",
+      "loss_usd": 230000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
-      "date": "2026-05-14"
+      "url": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
+      "date": "2026-05-18"
     },
     {
-      "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
-      "summary": "Nakamoto CEO David Bailey said the company is focused on scaling its Bitcoin treasury, services and trading strategies for the remainder of 2026.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-14"
-    },
-    {
-      "title": "US banks expect ‘slow, then fast’ shift to digitized finance: Moody's ",
-      "summary": "Traditional financial institutions are actively preparing for a surge in adoption to avoid being caught flat-footed by a sudden shift in market demand, according to Moody’s.",
+      "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
+      "summary": "Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -200,13 +130,55 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-14"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+      "date": "2026-05-18"
     },
     {
-      "title": "Only 4% of US voters consider crypto in candidate choice: Poll",
-      "summary": "US adults are largely wary of crypto and consider it the least important policy issue when picking who to vote for, according to a poll by Politico.",
+      "title": "Iran may be turning the Strait of Hormuz into a bitcoin-based insurance market, local reports say",
+      "summary": "State-linked Fars News reported that Iran’s economy ministry has been working on a plan to manage shipping through the Strait with payments in bitcoin.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/18/iran-may-be-turning-the-strait-of-hormuz-into-a-bitcoin-insurance-market-local-reports-say",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
+      "summary": "Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Yet another crypto bridge falls victim to an $11 million hack",
+      "summary": "The latest attack adds to growing string of cross-chain infrastructure exploits.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Multi-chain",
+      "loss_usd": 11000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/18/yet-another-crypto-bridge-falls-victim-to-an-usd11-million-hack",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Kraken cuts 150 staff amid AI efficiencies, potentially delaying IPO: Report",
+      "summary": "Kraken has cut 150 staff due to the rising use of AI, adding to more than 5,000 layoffs across the crypto sector so far this year, Bloomberg reports.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -215,12 +187,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-14"
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-cuts-150-staff-potentially-delaying-ipo-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
     },
     {
-      "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
-      "summary": "The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.",
+      "title": "Verus Ethereum bridge reportedly exploited for $11.6M in latest DeFi attack",
+      "summary": "Two security companies have flagged the address where the stolen funds are allegedly being held, showing the cryptocurrencies have been converted into 5,402 Ether.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 11600000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/verus-ethereum-bridge-reportedly-exploited-for-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Surging oil prices have been driving Ether selling pressure: Tom Lee",
+      "summary": "Fundstrat's Tom Lee pointed out an inverse correlation between crude and Ether as oil surged back to around $110 on Monday.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -228,13 +214,69 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall",
-      "date": "2026-05-13"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/surging-oil-prices-key-driver-of-eth-selling-pressure-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
     },
     {
-      "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
-      "summary": "CEO Simon Gerovich says regulatory and infrastructure challenges are slowing the launch of Metaplanet's perpetual preferred share.",
+      "title": "Reports suggest Iran is mulling Hormuz ‘insurance’ scheme, paid in Bitcoin",
+      "summary": "Screenshots of a website called “Hormuz Safe” have been circulating on social media, which offers “digital insurance” for ships passing through the Strait of Hormuz.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/iran-mulls-platform-for-ships-transiting-strait-of-hormuz-to-pay-in-bitcoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Analysts debate whether Bitcoin is in ‘sell in May’ bear market setup",
+      "summary": "Some analysts argue that a comparatively broadened, institutionalized buyer base for crypto today may prevent a repeat of the drawdowns seen in May 2018 and May 2022.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sell-in-may-historical-pattern-could-see-btc-back-at-33k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "WETH markets return to normal operations on Aave amid rsETH recovery progress",
+      "summary": "Aave applied a temporary freeze to WETH as a precautionary safety measure in response to the Kelp DAO exploit, alongside freezes on the rsETH and wrsETH reserves.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/aave-restores-weth-borrowing-after-kelp-dao-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to potential launch",
+      "summary": "The US securities regulator approved 21Shares’ Hyperliquid ETF last week, adding to a growing number of cryptocurrencies converted into ETF wrappers in the US.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "BSC",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "The Clarity Act took a step forward: State of Crypto ",
+      "summary": "Unpacking Thursday's at-times contentious markup hearing.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,50 +285,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
-      "date": "2026-05-13"
-    },
-    {
-      "title": "UK parliament to probe Nigel Farage’s $6.8 million donation from crypto billionaire",
-      "summary": "If found guilty of violating the Parliamentary code of conduct, the Reform UK party leader could be suspended from the House of Commons.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 6800000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
-      "date": "2026-05-13"
-    },
-    {
-      "title": "Bitcoin buyers with long-term 'conviction' surges 300% with most recent buyers sitting on profits",
-      "summary": "Bitcoin held by so-called conviction buyers has surged to nearly 4 million BTC, a roughly 300% increase since late 2025.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-s-available-supply-is-shrinking-as-long-term-hoarding-hits-record-4-million-btc",
-      "date": "2026-05-13"
-    },
-    {
-      "title": "Telecom giant KDDI to acquire 14.9% stake in Coincheck Group in $65 million deal",
-      "summary": "The companies signed a business alliance for revenue sharing, referral fees and customer referrals to expand crypto access in Japan.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 65000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal",
-      "date": "2026-05-13"
+      "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
+      "date": "2026-05-17"
     }
   ],
   "errors": [
