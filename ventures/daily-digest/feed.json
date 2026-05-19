@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-18",
-  "generated_at": "2026-05-18T08:26:21.946Z",
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T08:14:09.758Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,36 +9,78 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Crypto traders betting on a rally lose $563 million in liquidations. Ether and bitcoin suffer the most",
-      "summary": "Ether and bitcoin led liquidations, as their prices dropped on macroeconomic concerns.",
+      "title": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year ",
+      "summary": "The former Alt5 Sigma marked its 7.28 billion WLFI tokens at $706 million, down from a roughly $1.46 billion cost basis, while disclosing that the holdings remain locked amid liquidity concerns.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1460000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "SEC to make ‘innovation exemption’ for tokenized stock trading: Report",
+      "summary": "Several SEC officials reportedly didn’t support the decision, while tokenization platform Securitize flagged risks with enabling third-party platforms to issue tokenized stocks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sec-to-make-innovation-exemption-for-tokenized-stock-trading-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Bitcoin faces outsized quantum threat as computing breakthroughs accelerate, Citi says ",
+      "summary": "The bank said accelerating advances in quantum computing are compressing the timeline for risks to crypto and broader internet infrastructure, with Bitcoin seen as particularly exposed.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/18/bitcoin-faces-outsized-quantum-threat-as-computing-breakthroughs-accelerate-citi-says",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "The three risks that could overwhelm bitcoin's regulatory tailwind",
+      "summary": "Your day-ahead look for May 18, 2026",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/05/18/the-three-risks-that-could-overwhelm-bitcoin-s-regulatory-tailwind",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Bitcoin slides below $77,000 as Trump’s Iran warning rattles risk assets",
+      "summary": "Bitcoin and ether sank after the U.S. president told Iran the “clock is ticking,” sending oil higher and triggering broad crypto liquidations.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 563000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/18/crypto-traders-betting-on-a-rally-lose-usd563-million-in-liquidations-ether-and-bitcoin-suffer-the-most",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
-      "summary": "Long-term holders are still sitting tight and exchange balances remain near six-year lows, Binance Research data shows, but underwater short-term holders leave BTC vulnerable to macro shocks.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
       "loss_usd": 77000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-below-usd77-000-as-trump-s-iran-warning-rattles-risk-assets",
       "date": "2026-05-18"
     },
     {
-      "title": "Senate crypto bill at risk beyond midterms if not passed by August: NYDIG",
-      "summary": "NYDIG’s Greg Cipolaro says the Senate’s crypto market structure bill is at risk of failing if it cannot clear a floor vote by August.",
+      "title": "Odds against rate cuts high as new US Fed chair set for swearing in",
+      "summary": "Many experts voiced concerns that the confirmation of Kevin Warsh as Federal Reserve chair would lead to uncertainty about the central bank’s independence, particularly in setting interest rates.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -47,36 +89,22 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/senate-crypto-bill-august-advance-in-lame-duck-session-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-05-18"
     },
     {
-      "title": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst",
-      "summary": "Potential liquidity contractions in secondary markets and surging government bond yields could spell trouble for preferred perpetual stockholders.",
+      "title": "XRP price may explode to $15 amid 'quiet accumulation,' analyst claims",
+      "summary": "XRP still faces short-term downside risk, with a symmetrical triangle breakdown pointing to a possible drop toward $1.00–$1.10.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
-      "summary": "CME Group and ICE have reportedly warned the CFTC and Capitol Hill officials that Hyperliquid’s decentralized perpetual futures platform could enable market manipulation and sanctions evasion.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
-      "date": "2026-05-15"
+      "url": "https://cointelegraph.com/markets/xrp-price-may-explode-15-dollars-quiet-accumulation-analyst-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-18"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -93,8 +121,22 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Crypto security is turning into an AI arms race as agents may overwhelm compliance teams",
-      "summary": "AI agents and automated payments could reach a scale that crypto monitoring systems built for human-paced markets cannot handle, Elliptic CEO Simone Maini warned.",
+      "title": "Bitcoin has shed $5,000 within days. ETF flows, derivatives say the selloff could worsen",
+      "summary": "Bitcoin has fallen about 6% from $82,000 to $76,800, and underlying data point to the drop being more than a routine pullback.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 5000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/19/bitcoin-has-shed-usd5-000-within-days-the-data-says-this-selloff-could-worsen",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Republican lawmakers call for permanent CBDC ban as House vote approaches  ",
+      "summary": "Tom Emmer, the House majority whip, is also advocating for his Anti-CBDC Surveillance State Act, which has passed the House but has yet to pass the Senate.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -102,27 +144,69 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/18/crypto-security-is-turning-into-an-ai-arms-race-as-agents-may-overwhelm-compliance-teams",
-      "date": "2026-05-18"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-lawmakers-permanent-cbdc-ban-housing-bill-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-19"
     },
     {
-      "title": "Aave restores ether borrowing limits after $230 million exploit",
-      "summary": "The DeFi lending protocol reversed restrictions imposed after April’s $292 million exploit, restoring borrowing capacity across six networks as contagion fears ease.",
+      "title": "Ethereum Foundation sees 2 more high-profile departures",
+      "summary": "Ethereum Foundation researchers Julian Ma and Carl Beek have resigned, bringing the total number of major departures from the nonprofit to at least eight in 2026.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-sees-2-more-high-profile-departures-amid-wave-of-resignations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed",
+      "summary": "Among those who used crypto for payments, over 25% said they did so because the business preferred crypto, citing speed, privacy and lower cost advantages.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/10-percent-of-americans-invested-or-used-crypto-in-2025-federal-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Echo Protocol's eBTC exploited for $77M in admin key compromise",
+      "summary": "The hacker has already laundered nearly 5% of the loot through Tornado Cash and is still holding the remaining 955 eBTC.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 230000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
-      "date": "2026-05-18"
+      "chain": "",
+      "loss_usd": 77000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/echo-protocols-ebtc-exploited-for-76m-in-admin-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-19"
     },
     {
-      "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
-      "summary": "Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy.",
+      "title": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee",
+      "summary": "Bitmine chairman Tom Lee said the company is expected to have accumulated 5% of Ether's total supply before the end of the year.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+      "summary": "The U.S. Securities and Exchange Commission is reportedly poised to release a major crypto proposal as it seeks to institute its digital assets agenda.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,12 +215,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+      "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
       "date": "2026-05-18"
     },
     {
-      "title": "Iran may be turning the Strait of Hormuz into a bitcoin-based insurance market, local reports say",
-      "summary": "State-linked Fars News reported that Iran’s economy ministry has been working on a plan to manage shipping through the Strait with payments in bitcoin.",
+      "title": "Minnesotan banks and credit unions set to provide crypto custody Aug. 1",
+      "summary": "Minnesota established the midwest’s first unified digital asset safety net for banks and credit unions.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -145,12 +229,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/18/iran-may-be-turning-the-strait-of-hormuz-into-a-bitcoin-insurance-market-local-reports-say",
+      "url": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
       "date": "2026-05-18"
     },
     {
-      "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
-      "summary": "Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
+      "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+      "summary": "The revenue share deal could shift an estimated $160 million in revenue from Coinbase and Circle into Hyperliquid's ecosystem, Compass Point analysts said.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 160000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Revolut wants to take Dogecoin mainstream with its new physical payment card",
+      "summary": "The European fintech giant is launching a physical debit card that lets users spend the popular meme coin anywhere Visa and Mastercard are accepted with zero extra exchange fees.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,134 +257,36 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
+      "url": "https://www.coindesk.com/markets/2026/05/18/revolut-wants-to-take-dogecoin-mainstream-with-its-new-physical-payment-card",
       "date": "2026-05-18"
     },
     {
-      "title": "Yet another crypto bridge falls victim to an $11 million hack",
-      "summary": "The latest attack adds to growing string of cross-chain infrastructure exploits.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Multi-chain",
-      "loss_usd": 11000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/18/yet-another-crypto-bridge-falls-victim-to-an-usd11-million-hack",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Kraken cuts 150 staff amid AI efficiencies, potentially delaying IPO: Report",
-      "summary": "Kraken has cut 150 staff due to the rising use of AI, adding to more than 5,000 layoffs across the crypto sector so far this year, Bloomberg reports.",
+      "title": "Solana is shedding its memecoin reputation as big banks move billions into its ecosystem",
+      "summary": "Wall Street and payment giants are quietly taking over Solana, moving billions onto the network for tokenized funds and global payments even as the broader crypto market cools down, according to a new report by Messari.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-cuts-150-staff-potentially-delaying-ipo-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Verus Ethereum bridge reportedly exploited for $11.6M in latest DeFi attack",
-      "summary": "Two security companies have flagged the address where the stolen funds are allegedly being held, showing the cryptocurrencies have been converted into 5,402 Ether.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 11600000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/verus-ethereum-bridge-reportedly-exploited-for-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Surging oil prices have been driving Ether selling pressure: Tom Lee",
-      "summary": "Fundstrat's Tom Lee pointed out an inverse correlation between crude and Ether as oil surged back to around $110 on Monday.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/surging-oil-prices-key-driver-of-eth-selling-pressure-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Reports suggest Iran is mulling Hormuz ‘insurance’ scheme, paid in Bitcoin",
-      "summary": "Screenshots of a website called “Hormuz Safe” have been circulating on social media, which offers “digital insurance” for ships passing through the Strait of Hormuz.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/iran-mulls-platform-for-ships-transiting-strait-of-hormuz-to-pay-in-bitcoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Analysts debate whether Bitcoin is in ‘sell in May’ bear market setup",
-      "summary": "Some analysts argue that a comparatively broadened, institutionalized buyer base for crypto today may prevent a repeat of the drawdowns seen in May 2018 and May 2022.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sell-in-may-historical-pattern-could-see-btc-back-at-33k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "WETH markets return to normal operations on Aave amid rsETH recovery progress",
-      "summary": "Aave applied a temporary freeze to WETH as a precautionary safety measure in response to the Kelp DAO exploit, alongside freezes on the rsETH and wrsETH reserves.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aave-restores-weth-borrowing-after-kelp-dao-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to potential launch",
-      "summary": "The US securities regulator approved 21Shares’ Hyperliquid ETF last week, adding to a growing number of cryptocurrencies converted into ETF wrappers in the US.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "BSC",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "The Clarity Act took a step forward: State of Crypto ",
-      "summary": "Unpacking Thursday's at-times contentious markup hearing.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
+      "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
-      "date": "2026-05-17"
+      "url": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "The Ethereum Foundation is facing a wave of high-profile departures as its internal shakeup deepens",
+      "summary": "The turnover comes as the foundation undergoes an internal transition tied to a new organizational mandate aimed at redefining its role within Ethereum.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/18/the-ethereum-foundation-is-facing-a-wave-of-high-profile-departures-as-its-internal-shakeup-deepens",
+      "date": "2026-05-18"
     }
   ],
   "errors": [
