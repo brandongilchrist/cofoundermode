@@ -1,16 +1,44 @@
 {
-  "date": "2026-05-21",
-  "generated_at": "2026-05-21T08:17:03.945Z",
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T07:51:12.638Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 69,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
     {
-      "title": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
-      "summary": "Nvidia's stronger-than-expected results and bullish AI outlook lifted crypto mining stocks tied to data center and high-performance computing demand, even as the chipmaker's shares fell due to growth concerns.",
+      "title": "NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next?",
+      "summary": "NEAR price surges 50% in a week as AI token momentum, Nvidia optimism and network upgrades fuel bullish sentiment.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/near-protocol-leads-ai-token-rally-with-a-50-pump-is-5-near-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Tom Emmer brushes off law enforcement concerns over Clarity Act",
+      "summary": "House Majority Whip Tom Emmer said concerns from law enforcement groups about crypto developer protections are being overstated.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/22/tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+      "summary": "Rep. James Comer is demanding internal records from the prediction market CEOs, warning that government employees could be using classified information to make “huge profits”.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -19,26 +47,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook",
-      "date": "2026-05-20"
+      "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+      "date": "2026-05-22"
     },
     {
-      "title": "Ethereum traders warn of a ‘nasty’ ETH price drop if $2K support breaks",
-      "summary": "Ethereum is flashing a warning of a familiar bearish pattern that preceded a 41% drop in January, raising risks of a fresh breakdown.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 2000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/ethereum-traders-warn-of-a-nasty-eth-price-drop-if-2k-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "EU opens consultation on MiCA stablecoin rules and DeFi gaps",
-      "summary": "EU opens MiCA review as consultation probes stablecoin interest rules, DeFi risks and classification gaps ahead of July's crypto authorization deadline.",
+      "title": "Bitcoin implied volatility drops to 7 month low despite macro risks",
+      "summary": "BTC's implied volatility is a picture of calm even as financial headlines warn of macro risks.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -46,9 +60,37 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Bitcoin trades near $77,700 as analysts eye $75,000 support after liquidation wave",
+      "summary": "Open interest held steady and funding stayed subdued during the recent liquidation wave, suggesting traders were de-risking rather than capitulating, according to HashKey Research's Tim Sun.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 77700,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-trades-near-usd77-700-as-analysts-eye-usd75-000-support-after-liquidation-wave",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Tokenized stocks risk liquidity and revenue fragmentation: Research",
+      "summary": "TradFi views the breakup of its previously consolidated, centralized liquidity as a “serious structural threat,” said Tiger Research director Ryan Yoon.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-mica-crypto-rules-review-updates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-20"
+      "url": "https://cointelegraph.com/news/tokenized-stocks-risk-liquidity-and-revenue-fragmentation-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-22"
     },
     {
       "title": "Trailmark turns code into graphs",
@@ -65,50 +107,22 @@
       "date": "2026-04-23"
     },
     {
-      "title": "Binance launches SpaceX pre-IPO perps amid $2 trillion valuation bets",
-      "summary": "Binance looks to democratize pre-IPO markets, starting with SpaceX perpetual futures.",
+      "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
+      "summary": "Ongoing Bitcoin ETF outflows have historically “correlated with conditions favorable for patient accumulation rather than panic,\" according to Santiment.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/21/binance-launches-spacex-pre-ipo-perps",
-      "date": "2026-05-21"
+      "loss_usd": 1260000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
     },
     {
-      "title": "Don't call us just a WLFI treasury company, says AI Financial ",
-      "summary": "The company says it is building a broader fintech, tokenization and digital infrastructure business, but its latest SEC filing shows WLFI still dominates the balance sheet.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/21/don-t-call-us-just-a-wlfi-treasury-company-says-ai-financial",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "Here's why bitcoin turned lower from the 200-day average",
-      "summary": "BTC recently turned lower from the 200-day average, a barometer of long-term trends. CryptoQuant explains why.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-rebound-has-a-buyer-problem-as-etf-coinbase-and-korea-demand-fade",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "Silvergate’s Fraher breaks silence on settlement with Gensler’s SEC",
-      "summary": "Former Silvergate executive Kate Fraher said the rule that prevented her from sharing her side of the story was unconstitutional. It was finally lifted by the SEC this week.",
+      "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
+      "summary": "Strategy chairman Michael Saylor said the goal is to maximize Strategy’s Bitcoin per share by 2033.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -117,26 +131,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/silvergates-fraher-breaks-silence-on-settlement-with-genslers-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
+      "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
     },
     {
-      "title": "Tax evaders are trying ‘novel digital assets’ to dodge authorities: Chainalysis",
-      "summary": "Italian authorities uncovered a tax evasion scheme in which an individual allegedly used Bitcoin Ordinals and the BRC-20 token standard to generate and conceal $1.1 million.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1100000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/criminals-attempt-to-use-bitcoin-ordinals-to-evade-authorities-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
-      "summary": "The Ethereum rollup market is dominated by Arbitrum and Base, which have a combined 68% market share, according to L2Beat.",
+      "title": "Ethereum is still a good long-term buy, according data: Analyst",
+      "summary": "Ethereum’s dominance in DeFi, stablecoins and staking is strengthening the long-term ETH accumulation thesis, despite it’s 28% price decline in 2026.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -145,68 +145,26 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
+      "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
     },
     {
-      "title": "SEC seeks public comment as it weighs prediction market ETFs",
-      "summary": "Bitwise, Roundhill Investments and GraniteShares had their prediction market ETF applications put on hold by the SEC earlier this month.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-seeks-public-comment-as-it-weighs-prediction-market-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "Hyperliquid ETFs surprise with 50% volume jump after slow launch",
-      "summary": "ETF analyst Eric Balchunas says crypto and traditional assets are trading down while Hyperliquid is up, leading to a boon for ETFs tied to the token.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hyperliquid-etfs-see-50-volume-jump-with-perfectly-timed-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "Map Protocol token plummets 96% after a quadrillion token mint exploit",
-      "summary": "The attacker tricked the Butter Network cross-chain bridge into minting millions more tokens than the legitimate supply of MAPO.",
-      "type": "news",
+      "title": "We hardened zizmor's GitHub Actions static analyzer",
+      "summary": "In March 2026, attackers exploited a pull_request_target misconfiguration in the aquasecurity/trivy-action GitHub Action to exfiltrate organization and repository secrets, then used those credentials to backdoor LiteLLM on PyPI (see Trivy’s post-mortem for the full timeline). ziz",
+      "type": "analysis",
       "severity": "critical",
       "tags": [
-        "defi"
+        "audit"
       ],
-      "chain": "Multi-chain",
+      "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/map-protocol-loses-96-of-its-value-after-quadrillion-token-mint-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/05/22/we-hardened-zizmors-github-actions-static-analyzer/",
+      "date": "2026-05-22"
     },
     {
-      "title": "Bitcoin treasury Nakamoto plans reverse stock split to save ailing share price ",
-      "summary": "Shares in Nakamoto closed Wednesday at 16 cents. They are down more than 99% from May last year, when the stock traded above $25.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nakamoto-1-for-40-reverse-stock-split-nasdaq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "SpaceX reveals larger-than-expected Bitcoin holdings in IPO filing",
-      "summary": "SpaceX is expected to go public next month, which would make its 18,712 Bitcoin holdings rank seventh among public companies.",
+      "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
+      "summary": "Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -214,27 +172,27 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-21"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
+      "date": "2026-05-22"
     },
     {
-      "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
-      "summary": "The \"combinatorial outcome contracts\" would resolve if every part of an underlying contract resolved, according to a filing.",
+      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+      "summary": "Robinhood Crypto COO Tanya Denisova is leaving the firm after more than five years, as the trading platform navigates a sharp decline in crypto revenue and works to lessen its dependence on digital asset market cycles.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
-      "date": "2026-05-20"
+      "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
+      "date": "2026-05-22"
     },
     {
-      "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
-      "summary": "The U.S. Fed issued a revised proposal on the structure of payment accounts, taking the next step to build on an earlier pitch for so-called skinny accounts.",
+      "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
+      "summary": "Hester Peirce, the commissioner behind the SEC's Crypto Task Force, made statements on the now-delayed proposal, perhaps tamping down mistaken beliefs.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,26 +201,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms",
-      "date": "2026-05-20"
+      "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
+      "date": "2026-05-22"
     },
     {
-      "title": "Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows",
-      "summary": "The rocket and satellite company is looking to go public at a valuation of more than $1.5 trillion.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1290000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/20/elon-musk-s-spacex-holds-18-712-bitcoin-at-fair-value-of-usd1-29-billion-ipo-filing-shows",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "Securitize posts record revenue in the first quarter as it gears up for public listing",
-      "summary": "The tokenization platform reported record quarterly revenue but continued to post losses as it invested in growth and public-company preparations tied to its merger with Cantor Equity Partners II.",
+      "title": "Why Minnesota is empowering local banks to fight Wall Street for crypto revenue",
+      "summary": "A local banker told CoinDesk that in light of Wall Street’s aggressive push into the crypto industry, Minnesota's financial institutions could not afford to remain on the sidelines.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -271,12 +215,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/20/securitize-remains-in-the-red-even-as-record-quarter-fuels-public-listing-plans",
-      "date": "2026-05-20"
+      "url": "https://www.coindesk.com/business/2026/05/22/why-minnesota-is-empowering-local-banks-to-fight-wall-street-for-crypto-revenue",
+      "date": "2026-05-22"
     },
     {
-      "title": "Latest Congressional swing at crypto tax reform would direct IRS to review de minimis exemptions",
-      "summary": "The newest version of the Parity Act updates language around payment stablecoins and directs the IRS to report on how a de minimis exemption might work.",
+      "title": "The agentic CFO in your pocket",
+      "summary": "Chalom explains that retail investors have never had the opportunity to access and manage their own digital treasury desk. Until now.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/05/22/the-agentic-cfo-in-your-pocket",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
+      "summary": "Kevin Warsh was sworn in as Fed chairman in a White House ceremony early Friday afternoon.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +243,50 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/20/latest-congressional-swing-at-crypto-tax-reform-would-direct-irs-to-review-de-minimis-exemptions",
-      "date": "2026-05-20"
+      "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "IREN co-founder says AI’s biggest bottleneck is infrastructure, not chips",
+      "summary": "Dan Roberts outlines IREN’s strategy to build a vertically integrated AI platform spanning power, data centers, GPUs and enterprise software.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+      "summary": "Internet Computer (ICP), up 4.3% from Thursday, joined NEAR Protocol (NEAR) as a top performer.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets",
+      "summary": "DJT’s bitcoin strategy remains under pressure as the company sits on hundreds of millions in unrealized crypto losses and widening quarterly deficits.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 205000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
+      "date": "2026-05-22"
     }
   ],
   "errors": [
