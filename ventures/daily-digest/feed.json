@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-23",
-  "generated_at": "2026-05-23T07:51:12.638Z",
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T07:57:37.435Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 70,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
     {
@@ -21,6 +21,48 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/markets/near-protocol-leads-ai-token-rally-with-a-50-pump-is-5-near-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-05-22"
+    },
+    {
+      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+      "summary": "Former Credit Suisse global head of portfolio and Risk Dimensions CIO Mark Connors says bitcoin has broken out of its longest stretch of underperformance in history and is ready to beat stocks, bonds, and gold as inflation stubbornly sticks around.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+      "summary": "Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
+      "summary": "The ECB warned EU finance ministers that expanding euro stablecoin issuance could weaken bank lending and complicate monetary policy.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
     },
     {
       "title": "Tom Emmer brushes off law enforcement concerns over Clarity Act",
@@ -65,46 +107,144 @@
       "date": "2026-05-22"
     },
     {
-      "title": "Bitcoin trades near $77,700 as analysts eye $75,000 support after liquidation wave",
-      "summary": "Open interest held steady and funding stayed subdued during the recent liquidation wave, suggesting traders were de-risking rather than capitulating, according to HashKey Research's Tim Sun.",
+      "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+      "summary": "The suspected cause is a private key compromise of one owner in the minting multisig account, said Blockaid.",
       "type": "news",
-      "severity": "medium",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 2800000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+      "summary": "\"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,\" wrote President Trump late Saturday afternoon.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+      "summary": "The bill’s restrictions on yield-bearing crypto products may push the industry away from passive \"hold-to-earn\" models and toward AI-driven, compliant yield infrastructure, according to STBL Chief Commercial Officer Joe Vollono.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+      "summary": "U.S.-listed spot bitcoin exchange-traded funds have seen more than $2.26 billion in outflows over the past two weeks.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 2260000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "70% of all crypto wrench attacks happen in France: Report",
+      "summary": "Centralized data collection is a honeypot for hackers and organized criminals looking to target crypto holders and their families, according to Bitcoiners.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
+      "summary": "The price of Bitcoin is about $75,800 at the time of publication, a nearly 40% decrease from the all-time high of about $126,000 reached in October 2025.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 60000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
+      "summary": "The current Federal Funds target rate is between 350 and 375 basis points, which traders project to rise by at least 25 basis points in December 2026.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
+      "summary": "Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-linked transactions flowed through the exchange to the IRGC.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 850000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
+    },
+    {
+      "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
+      "summary": "The cash-settled, European-style contracts will trade under the ticker QBTC on Phlx, but still require CFTC approval before trading can begin.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 77700,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-trades-near-usd77-700-as-analysts-eye-usd75-000-support-after-liquidation-wave",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Tokenized stocks risk liquidity and revenue fragmentation: Research",
-      "summary": "TradFi views the breakup of its previously consolidated, centralized liquidity as a “serious structural threat,” said Tiger Research director Ryan Yoon.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-risk-liquidity-and-revenue-fragmentation-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Trailmark turns code into graphs",
-      "summary": "We’re open-sourcing Trailmark, a library that parses source code into a queryable call graph of functions, classes, call relationships, and semantic metadata, then exposes that graph through a Python API that Claude skills can call directly. Install it now: uv pip install trailma",
-      "type": "analysis",
-      "severity": "medium",
-      "tags": [
-        "audit"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "Trail of Bits",
-      "url": "https://blog.trailofbits.com/2026/04/23/trailmark-turns-code-into-graphs/",
-      "date": "2026-04-23"
+      "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-23"
     },
     {
       "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
@@ -147,146 +287,6 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-05-23"
-    },
-    {
-      "title": "We hardened zizmor's GitHub Actions static analyzer",
-      "summary": "In March 2026, attackers exploited a pull_request_target misconfiguration in the aquasecurity/trivy-action GitHub Action to exfiltrate organization and repository secrets, then used those credentials to backdoor LiteLLM on PyPI (see Trivy’s post-mortem for the full timeline). ziz",
-      "type": "analysis",
-      "severity": "critical",
-      "tags": [
-        "audit"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "Trail of Bits",
-      "url": "https://blog.trailofbits.com/2026/05/22/we-hardened-zizmors-github-actions-static-analyzer/",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
-      "summary": "Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
-      "summary": "Robinhood Crypto COO Tanya Denisova is leaving the firm after more than five years, as the trading platform navigates a sharp decline in crypto revenue and works to lessen its dependence on digital asset market cycles.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-      "summary": "Hester Peirce, the commissioner behind the SEC's Crypto Task Force, made statements on the now-delayed proposal, perhaps tamping down mistaken beliefs.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Why Minnesota is empowering local banks to fight Wall Street for crypto revenue",
-      "summary": "A local banker told CoinDesk that in light of Wall Street’s aggressive push into the crypto industry, Minnesota's financial institutions could not afford to remain on the sidelines.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/22/why-minnesota-is-empowering-local-banks-to-fight-wall-street-for-crypto-revenue",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "The agentic CFO in your pocket",
-      "summary": "Chalom explains that retail investors have never had the opportunity to access and manage their own digital treasury desk. Until now.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/05/22/the-agentic-cfo-in-your-pocket",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
-      "summary": "Kevin Warsh was sworn in as Fed chairman in a White House ceremony early Friday afternoon.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "IREN co-founder says AI’s biggest bottleneck is infrastructure, not chips",
-      "summary": "Dan Roberts outlines IREN’s strategy to build a vertically integrated AI platform spanning power, data centers, GPUs and enterprise software.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
-      "summary": "Internet Computer (ICP), up 4.3% from Thursday, joined NEAR Protocol (NEAR) as a top performer.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets",
-      "summary": "DJT’s bitcoin strategy remains under pressure as the company sits on hundreds of millions in unrealized crypto losses and widening quarterly deficits.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 205000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
-      "date": "2026-05-22"
     }
   ],
   "errors": [
