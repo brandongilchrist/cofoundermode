@@ -1,13 +1,27 @@
 {
-  "date": "2026-05-24",
-  "generated_at": "2026-05-24T07:57:37.435Z",
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T08:35:27.972Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 68,
+  "items_found": 66,
   "items_curated": 20,
   "items": [
+    {
+      "title": "‘TrapDoor’ malware targets crypto dev tools in supply chain attack",
+      "summary": "Socket says a campaign of malicious packages is aiming to steal crypto and is injecting hidden instructions that hijack popular AI coding assistants.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coordinated-crypto-stealer-campaign-trapdoor-detected-targeting-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-25"
+    },
     {
       "title": "NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next?",
       "summary": "NEAR price surges 50% in a week as AI token momentum, Nvidia optimism and network upgrades fuel bullish sentiment.",
@@ -21,6 +35,76 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/markets/near-protocol-leads-ai-token-rally-with-a-50-pump-is-5-near-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-05-22"
+    },
+    {
+      "title": "Bitcoin options are coming to Nasdaq. Here's what it means for you. ",
+      "summary": "The new offering, pending CFTC approval, aims to democratize seamless crypto risk management",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
+      "summary": "The SEC has reportedly delayed releasing a proposal permitting tokenized stock trading after receiving industry concerns.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Soaring bond prices signal 'structural' shift and Bitcoin 'supercycle': Analyst",
+      "summary": "Fixed-income investors are in a \"panic\" as government securities, once seen as low-risk, begin to crack, according to BitMEX researcher Shang Wu.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+      "summary": "ETH’s bearish chart setup points to a 25% drop toward $1,600, risking over $10 billion in paper losses for BitMine in the coming weeks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 7350000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "CFTC officials who questioned prediction markets were suspended: NYT",
+      "summary": "A New York Times investigation found that senior CFTC officials who raised concerns about Polymarket, Crypto.com and Gemini were suspended and pushed out.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-24"
     },
     {
       "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
@@ -93,36 +177,106 @@
       "date": "2026-05-22"
     },
     {
-      "title": "Bitcoin implied volatility drops to 7 month low despite macro risks",
-      "summary": "BTC's implied volatility is a picture of calm even as financial headlines warn of macro risks.",
+      "title": "Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX",
+      "summary": "A new report shows Hyperliquid is rapidly expanding beyond crypto into pre-IPO markets, prediction contracts, and 24/7 asset trading, putting Wall Street giants on high alert.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/25/hyperliquid-is-emerging-as-a-challenger-to-traditional-exchanges-and-prediction-markets-says-falconx",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Bitcoin trades above $77,000 as oil's 5% slide pushes Asian equities higher",
+      "summary": "Oil’s 5% drop on potential Strait of Hormuz reopening boosted Asian equities and supported crypto sentiment.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 77000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-trades-above-usd77-000-as-oil-s-5-slide-pushes-asian-equities-higher",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
+      "summary": "Chun Wang, who bankrolled and led a SpaceX flight over Earth’s poles, says he will head to Mars on SpaceX’s first manned mission to the red planet.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026",
+      "summary": "Dek: US Bitcoin ETF net inflows have shrunk to $536 million so far in 2026, after recording a six-day run of net outflows totalling $1.55 billion.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1550000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-outflow-streak-pushes-market-closer-to-net-negative-flows-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-25"
+    },
+    {
+      "title": " ‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report",
+      "summary": "Stablecoins became the default settlement layer for AI agents as crypto payment rails can handle sub-dollar transactions more efficiently, says a report from Keyrock.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks",
-      "date": "2026-05-22"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ai-agents-using-stablecoins-as-default-settlement-layer-keyrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-25"
     },
     {
-      "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
-      "summary": "The suspected cause is a private key compromise of one owner in the minting multisig account, said Blockaid.",
+      "title": "Kalshi backs prediction markets lobby group with former Trump official",
+      "summary": "\"We’re not going to be outspent or out-organized by entrenched interests protecting their monopolies,\" said John Bivona, head of government relations at Kalshi.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kalshi-launches-advocacy-group-to-counter-anti-prediction-market-lobbying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "Coinbase does not fear competition from Wall Street, says exchange executive ",
+      "summary": "A Coinbase executive called on regulators to implement sensible crypto regulation, while announcing the Stand With Crypto event taking place in over 500 locations worldwide.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 2800000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive",
       "date": "2026-05-24"
     },
     {
-      "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
-      "summary": "\"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,\" wrote President Trump late Saturday afternoon.",
+      "title": "Crypto and the Fed: State of Crypto ",
+      "summary": "This past week saw incremental, but potentially important steps.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,162 +285,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
-      "summary": "The bill’s restrictions on yield-bearing crypto products may push the industry away from passive \"hold-to-earn\" models and toward AI-driven, compliant yield infrastructure, according to STBL Chief Commercial Officer Joe Vollono.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
-      "summary": "U.S.-listed spot bitcoin exchange-traded funds have seen more than $2.26 billion in outflows over the past two weeks.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 2260000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "70% of all crypto wrench attacks happen in France: Report",
-      "summary": "Centralized data collection is a honeypot for hackers and organized criminals looking to target crypto holders and their families, according to Bitcoiners.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
-      "summary": "The price of Bitcoin is about $75,800 at the time of publication, a nearly 40% decrease from the all-time high of about $126,000 reached in October 2025.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 60000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
-      "summary": "The current Federal Funds target rate is between 350 and 375 basis points, which traders project to rise by at least 25 basis points in December 2026.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
-      "summary": "Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-linked transactions flowed through the exchange to the IRGC.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 850000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
-      "summary": "The cash-settled, European-style contracts will trade under the ticker QBTC on Phlx, but still require CFTC approval before trading can begin.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
-      "summary": "Ongoing Bitcoin ETF outflows have historically “correlated with conditions favorable for patient accumulation rather than panic,\" according to Santiment.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1260000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
-      "summary": "Strategy chairman Michael Saylor said the goal is to maximize Strategy’s Bitcoin per share by 2033.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
-    },
-    {
-      "title": "Ethereum is still a good long-term buy, according data: Analyst",
-      "summary": "Ethereum’s dominance in DeFi, stablecoins and staking is strengthening the long-term ETH accumulation thesis, despite it’s 28% price decline in 2026.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-23"
+      "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+      "date": "2026-05-24"
     }
   ],
   "errors": [
