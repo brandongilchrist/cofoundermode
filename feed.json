@@ -1,100 +1,30 @@
 {
-  "date": "2026-05-26",
-  "generated_at": "2026-05-26T08:16:48.499Z",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T08:22:46.478Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 66,
+  "items_found": 67,
   "items_curated": 20,
   "items": [
     {
-      "title": "Scammers make $400K through fake Uniswap ads on Google",
-      "summary": "A blockchain analyst has warned that malicious phishing advertisements impersonating Uniswap have appeared on Google Search, which has netted attackers at least $400,000.",
+      "title": "XRP Ledger to delete NFT junk and patch key bugs in a new upgrade",
+      "summary": "The XRP Ledger is rolling out the fixCleanup3_1_3 upgrade on Wednesday,  to clean up expired NFTs.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 400000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/scammers-make-400k-through-fake-uniswap-ads-on-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock",
-      "summary": "This steady drip of ETF outflow continues to add to the supply side without a visible demand offset, said Glassnode.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-slides-into-high-risk-zone-as-etf-outflows-signal-institutional-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Bitcoin options are coming to Nasdaq. Here's what it means for you",
-      "summary": "The new offering, pending CFTC approval, aims to democratize seamless crypto risk management.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
-      "date": "2026-05-25"
+      "url": "https://www.coindesk.com/markets/2026/05/26/xrp-ledger-amendment-to-delete-nft-junk-and-patch-key-bugs-goes-live-tomorrow",
+      "date": "2026-05-26"
     },
     {
-      "title": "Bitcoin risks drop to $72K as demand metric hits 2026 lows",
-      "summary": "Bitcoin’s weakening demand failed to absorb increased selling pressure, raising risks of a further BTC price drop toward $72,000.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 72000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-drop-to-72k-as-demand-metric-hits-2026-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-25"
-    },
-    {
-      "title": "Indonesia blocks Polymarket after bets on president’s exit",
-      "summary": "Indonesia blocked Polymarket after users bet on President Prabowo Subianto leaving office early, citing gambling concerns and expanding global scrutiny of prediction markets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/indonesia-blocks-polymarket-bets-presidents-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-25"
-    },
-    {
-      "title": "BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week",
-      "summary": "Bitcoin traders predicted a short squeeze to $80,000, but a lack of overall demand and the return of leverage sparked warnings of more liquidation events to come.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/btc-price-tipped-to-attack-80k-shorts-on-iran-peace-deal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-25"
-    },
-    {
-      "title": "Tether, Georgia plan lari-backed stablecoin GELT under new rules",
-      "summary": "Georgia’s central bank released stablecoin rules in March covering reserve backing, issuer documents and external auditor verification.",
+      "title": "Bitcoin risks another lower high as stocks rally, AI tokens outperform",
+      "summary": "The bitcoin price chart is forming a potential lower high while ether languishes in a months-old range even as S&P 500 and Nasdaq 100 index futures push higher.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -102,13 +32,13 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tether-georgia-government-plan-lari-backed-stablecoin-gelt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-25"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/26/bitcoin-risks-another-lower-high-as-stocks-rally-ai-tokens-outperform",
+      "date": "2026-05-26"
     },
     {
-      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
-      "summary": "Former Credit Suisse global head of portfolio and Risk Dimensions CIO Mark Connors says bitcoin has broken out of its longest stretch of underperformance in history and is ready to beat stocks, bonds, and gold as inflation stubbornly sticks around.",
+      "title": "Spanish authorities block Polymarket and Kalshi over gambling laws",
+      "summary": "Spain joined a growing list of national authorities restricting or banning prediction market platforms amid concerns over unlicensed gambling activities.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -116,13 +46,13 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
-      "date": "2026-05-23"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/spain-blocks-polymarket-kalshi-gambling-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-26"
     },
     {
-      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
-      "summary": "Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.",
+      "title": "AI guardrail removals raise questions over limits of open-source model regulation",
+      "summary": "Financial Times testing found safety controls on open AI models from Meta and Google could be stripped in minutes, raising governance concerns.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -130,13 +60,167 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
-      "date": "2026-05-23"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ai-guardrail-removals-raise-questions-over-limits-of-open-source-model-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-26"
     },
     {
-      "title": "Hyperliquid takes a swing at Polymarket with macro outcome bets",
-      "summary": "The decentralized exchange’s new HIP-4 product lets traders bet on offchain events like inflation and interest-rate decisions, using validators rather than UMA-style external dispute resolution.",
+      "title": "Binance eyes Philippines return through SEC sandbox partnership",
+      "summary": "Binance remains blocked in the Philippines after a 2024 NTC directive tied to SEC concerns over licensing and registration.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/binance-philippines-return-sec-sandbox-blockshoals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Crypto funds bleed $1.47B as risk-off sentiment deepens",
+      "summary": "Crypto ETPs logged $1.47 billion of outflows last week as Bitcoin funds led losses, while nine altcoin ETPs still attracted inflows of more than $1 million.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1470000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-etps-147-billion-outflows-risk-off-broadens-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Crypto PACs spend $9 million in Texas and score wins in both parties",
+      "summary": "Industry-backed PACs supported Democratic and Republican candidates alike, underscoring digital assets’ growing role as a cross-party electoral force.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 9000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/27/crypto-pacs-spend-usd9-million-in-texas-and-score-wins-in-both-parties",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Bitcoin vs gold: BTC's three-month uptrend has snapped",
+      "summary": "BTC's three-month uptrend against gold has broken down amid strong inflows into gold and precious metals ETFs.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/27/bitcoin-vs-gold-btc-s-three-month-uptrend-has-snapped",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "XRP steadies near $1.32 as failed breakout keeps focus on narrowing trading range",
+      "summary": "XRP stayed trapped inside the same consolidation structure after another rejection near $1.36, with traders watching whether months of compression finally resolve into a larger move.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/27/xrp-steadies-near-usd1-32-as-failed-breakout-keeps-focus-on-narrowing-trading-range",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Traders watch bitcoin 'golden cross' as BTC slides to near $75,000, ZEC dives 9%",
+      "summary": "A technical setup brewing on the bitcoin chart could decide which way the market breaks next, with the largest cryptocurrency sliding even as global equities hit record highs.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 75000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/27/traders-watch-bitcoin-golden-cross-as-btc-slides-to-near-usd75-000-zec-dives-9",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Ethereum bull David Hoffman explains why he sold his ETH",
+      "summary": "“Ethereum got the ETH price it deserves, and I don’t see ETH being rerated as an asset, higher or lower,” says David Hoffman.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-evangelist-hoffman-explains-why-he-sold-his-eth-stash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Sharplink, Forward Industries among crypto firms considered for Russell indexes",
+      "summary": "Bitmine and Galaxy Digital may also be eligible for the Russell 1000, an index tracking the largest 1,000 US companies that includes Nvidia, Microsoft and Apple.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sharplink-forward-industries-among-crypto-firms-considered-for-russell-indexes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Bitcoin’s recent drop coincides with $1.3B ‘dark pool’ ETF sale: Analyst",
+      "summary": "Galaxy Digital’s Alex Thorn says a $1.3 billion sale of BlackRock’s Bitcoin ETF was the largest he has seen on a dark pool, or private trading platform.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 1300000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-fall-coincides-billion-dollar-ibit-sale-dark-pool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Base launches new tool to connect crypto wallets to AI agents",
+      "summary": "AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Tom Lee predicts supercycle amid Bitmine’s largest Ethereum buy in 2026",
+      "summary": "Bitmine purchased 111,942 Ether last week, its biggest buy so far in 2026, after the token dropped below $2,200.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 2200,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitmine-buys-111k-ethereum-as-tom-lee-predicts-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Trump backs CFTC authority over prediction markets",
+      "summary": "US President Donald Trump says it is “critically important” that the CFTC has sole authority over prediction markets, and took aim at several state officials.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -144,41 +228,27 @@
       ],
       "chain": "Solana",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/26/hyperliquid-takes-aim-at-polymarket-with-launch-of-offchain-event-contracts",
-      "date": "2026-05-26"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-demands-cftc-maintains-authority-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-27"
     },
     {
-      "title": "At $322 billion, the stablecoin market value exceeds the FX reserves of 95 nations",
-      "summary": "The amount of dollars and other fiat currencies held by users outside traditional banking channels now exceeds the official FX reserves of 95 nations.",
-      "type": "news",
+      "title": "U.K. Sanctions 18 Entities and Persons for Evading Russian Trade Blockades",
+      "summary": "Summary The U.K.’s Foreign, Commonwealth and Development Office (FCDO) sanctioned 18 cryptocurrency exchanges, payment providers, and individuals for helping Russia… The post U.K. Sanctions 18 Entities and Persons for Evading Russian Trade Blockades appeared first on Chainalysis.",
+      "type": "analysis",
       "severity": "low",
       "tags": [
-        "defi"
+        "exploit"
       ],
-      "chain": "",
-      "loss_usd": 322000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/26/at-usd318-billion-the-stablecoin-market-value-exceeds-the-fx-reserves-of-95-nations",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Ondo Finance founder Nathan Allman dies unexpectedly",
-      "summary": "Tokenized real-world assets firm Ondo Finance announced the unexpected death of founder Nathan Allman on Tuesday, with longtime president Ian De Bode stepping in as CEO.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/26/ondo-finance-founder-nathan-allman-passes-away",
-      "date": "2026-05-26"
+      "source": "Chainalysis",
+      "url": "https://www.chainalysis.com/blog/uk-sanctions-crypto-entities-russian-trade-blockade-evasion-may-2026/",
+      "date": "2026-05-27"
     },
     {
-      "title": "XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support",
-      "summary": "XRP lost a key support zone after another failed breakout attempt, with traders now watching whether the months-long compression pattern resolves lower.",
+      "title": "Trump praises prediction markets, defends CFTC as court cases compound",
+      "summary": "U.S. President Donald Trump said it was \"critically important\" that the CFTC keep \"exclusive authority\" over prediction markets, echoing CFTC Chair Michael Selig.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -187,105 +257,35 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/26/xrp-slips-below-usd1-35-after-triangle-breakdown-puts-focus-on-usd1-30-support",
+      "url": "https://www.coindesk.com/policy/2026/05/26/trump-praises-prediction-markets-defends-cftc-as-court-cases-compound",
       "date": "2026-05-26"
     },
     {
-      "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
-      "summary": "ZEC and XMR dropped 5% in a session that saw most major tokens pull back after weeks of gains, with the move tracking renewed Middle East tension and a rebound in oil prices.",
+      "title": "Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel  indexes",
+      "summary": "The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.",
       "type": "news",
       "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see",
-      "summary": "Enflux says “the bid is there” but no one is adding size, while Glassnode data shows easing selling pressure alongside weaker market activity.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 76500,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/26/bitcoin-stalls-near-usd76-500-as-muted-trading-points-to-macro-wait-and-see",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "AI agents must be treated as untrusted systems: Researchers",
-      "summary": "AI agents are becoming increasingly popular among crypto users, with Circle CEO Jeremy Allaire predicting that billions of AI agents will be operating within five years.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/google-meta-researchers-ai-agents-untrusted-system-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
-      "summary": "Bitmine's Tom Lee says the firm could be considered for the Russell 1000, and its stock may get a boost from active and passive fund managers.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Ondo Finance founder Nathan Allman dies aged 32",
-      "summary": "Ondo Finance says its founder, Nathan Allman, died unexpectedly, with company president Ian De Bode to serve as CEO.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Kelp DAO says rsETH restored 5 weeks after $293M protocol hack ",
-      "summary": "Kelp DAO says that sETH mints, redemptions and rewards operations have been running smoothly since it opened withdrawals for the token earlier this month.",
-      "type": "news",
-      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 293000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes",
       "date": "2026-05-26"
     },
     {
-      "title": "Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?",
-      "summary": "Bitcoin’s 8-month low volatility can’t predict BTC’s price prediction but derivatives data does suggest that a rally to $82,000 would cause a large short squeeze.",
+      "title": "UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks",
+      "summary": "Britain applied banking-style sanctions to crypto exchanges for the first time, requiring U.K. financial firms to freeze funds and trace transactions.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 82000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/26/uk-sanctions-huobi-and-ruble-stablecoin-issuer-in-crackdown-on-russia-crypto-networks",
       "date": "2026-05-26"
     }
   ],
