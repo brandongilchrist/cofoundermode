@@ -1,16 +1,16 @@
 {
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T08:21:39.183Z",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T07:55:56.722Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 66,
+  "items_found": 65,
   "items_curated": 20,
   "items": [
     {
-      "title": "Trump claims he can ‘future proof’ crypto regulation with CLARITY Act",
-      "summary": "The future of a digital asset market structure bill in Congress is still uncertain amid concerns over ethics provisions, with the president, whose crypto ties are under scrutiny, weighing in on social media.",
+      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "summary": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -18,41 +18,69 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/donald-trump-future-proof-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "OKX Ventures buys $53 million stake in Korea's Coinone exchange ",
-      "summary": "The crypto exchange's investment arm and Korea Investment & Securities will each invest 80 billion won ($53 million) as Coinone pushes into stablecoins and tokenized securities.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 53000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/29/okx-ventures-buys-usd53-million-stake-in-korea-s-coinone-exchange",
-      "date": "2026-05-29"
+      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+      "date": "2026-05-30"
     },
     {
-      "title": "XRP rebounds above $1.30 after volume surge, but bears still control the bigger picture",
-      "summary": "XRP snapped a streak of lower lows on heavy buying, though the token remains stuck below major resistance levels that have capped every rally this year.",
+      "title": "Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says",
+      "summary": "As Congress weighs crypto legislation, Aaron Klein says the CFTC needs more resources, independence and coordination to oversee digital markets.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/29/xrp-rebounds-above-usd1-30-after-volume-surge-but-bears-still-control-the-bigger-picture",
+      "url": "https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
       "date": "2026-05-29"
     },
     {
-      "title": "Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears",
-      "summary": "Global stocks hit records and oil cracked on a tentative US-Iran ceasefire extension. Crypto stayed on the sidelines, with some analysts saying the next catalyst is regulatory, not geopolitical.",
+      "title": "Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand",
+      "summary": "Your day-ahead look for May 29, 2026",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key",
+      "summary": "Analysts warn Ether’s downside risks remain elevated as traders closely watch the $1,800 support zone for stability.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 1800,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Why is Stellar's XLM up by over 50% this week?",
+      "summary": "XLM rallied after US financial giant DTCC announced a partnership with the Stellar Network, but it still risks a sharp downside in the coming weeks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/why-is-stellars-xlm-up-by-over-50-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+      "summary": "The S&P 500 posted its longest weekly winning streak since 2023 and Brent oil stabilized near $92 on US-Iran ceasefire hopes. The biggest cryptocurrencies still drifted lower, with Hyperliquid's HYPE the only major name to rally.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -61,26 +89,12 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-ether-little-changed-despite-record-stocks-falling-oil-and-easing-war-fears",
-      "date": "2026-05-29"
+      "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+      "date": "2026-05-30"
     },
     {
-      "title": "Bitcoin's record holder supply hides a buyer drought, CryptoQuant says",
-      "summary": "A record high in long-term holder supply typically signals conviction. CryptoQuant says it reflects a shortage of new buyers, a view echoed by weakening ETF demand and bearish prediction market odds.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-s-record-holder-supply-hides-a-buyer-drought-cryptoquant-says",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "SEC approves Paxos as ‘blockchain-native’ clearing agency",
-      "summary": "Paxos says its approval as a blockchain-focused clearing agency represents a “critical piece of financial market infrastructure” as Wall Street becomes more interested in crypto.",
+      "title": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO",
+      "summary": "Swan Bitcoin CEO Cory Klippsten said it is important to pay attention to retail sentiment around Bitcoin, as ownership is still far from concentrated and “it’s not like Blackrock owns the Bitcoin.”",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -89,110 +103,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/paxos-becomes-first-crypto-firm-to-win-sec-clearing-agency-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
+      "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-05-30"
     },
     {
-      "title": "Bitcoin’s major holders halt buys as demand slows: CryptoQuant",
-      "summary": "CryptoQuant says that the holding structure for large Bitcoin holders is deteriorating, a trend that has historically preceded “sustained price weakness.”",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-hodling-structure-weakening-across-major-investor-cohorts-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Sui Network back online after ‘crash bug’ causes 6-hour outage",
-      "summary": "The Sui mainnet has resumed after a bug in a network update took it offline for 5 hours and 55 minutes.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sui-network-back-online-after-crash-bug-six-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?",
-      "summary": "Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoin under pressure amid heavy ETF outflows and corporate selling",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 9000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Buy $72K dip, or jump ship: What will Bitcoin bulls do?",
-      "summary": "Investors selling across spot, futures and ETF markets pushed Bitcoin into its monthly range lows near $72,000 but data shows retail investors buying the dip and opening longs.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 72000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/buy-the-72k-dip-or-jump-ship-what-will-bitcoin-bulls-do?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Gemini taps Grok for personalized AI-powered prediction market feeds ",
-      "summary": "Gemini is leaning into AI features for its prediction market, following other crypto exchanges in moving beyond crypto trading amid a market slump.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/gemini-taps-grok-personalized-ai-powered-prediction-market-feeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-      "summary": "As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
-      "summary": "FalconX has hired Cantor and other bankers to advise on a potential IPO and confidentially filed draft paperwork with the SEC, though the listing is not expected until later this year amid volatile market conditions.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war",
-      "summary": "In this week's edition of The Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.",
+      "title": "‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
+      "summary": "JPMorgan CEO Jamie Dimon criticized Coinbase CEO Brian Armstrong and warned the current CLARITY Act framework could ultimately fail, as banks and crypto firms clash over whether stablecoin issuers should be allowed to offer yield-bearing rewards that resemble bank deposits.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -201,26 +117,12 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war",
-      "date": "2026-05-28"
+      "url": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
+      "date": "2026-05-29"
     },
     {
-      "title": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
-      "summary": "USAT's market cap jumped above $140 million in April, though it remains well behind Circle's USDC, PayPal's PYUSD and Ripple's RLUSD tokens.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 140000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Bitwise bets Hyperliquid could power future finance as HYPE ETFs gain traction",
-      "summary": "Bitwise says investor demand for Hyperliquid exposure is surging as new HYPE ETFs launch.",
+      "title": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
+      "summary": "As the CFTC issued landmark approvals for crypto perpetual futures contracts, it explained in a related advisory that round-the-clock activity isn't right for all.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,26 +131,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-news/2026/05/28/bitwise-bets-hyperliquid-could-power-future-finance-as-hype-etfs-gain-traction",
-      "date": "2026-05-28"
+      "url": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors",
+      "date": "2026-05-29"
     },
     {
-      "title": "Hyperliquid's pre-IPO SpaceX contracts suffer 45% flash crash, liquidating $1.5 million",
-      "summary": "A massive selloff in a SpaceX crypto token wiped out hundreds of retail traders in 30 minutes because the market lacked enough cash to absorb the shock.",
+      "title": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
+      "summary": "Ronghui Gu shares tips on how to isolate AI agents while testing them so they do not have access to critical personal information or digital assets.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 1500000,
+      "chain": "Solana",
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
-      "date": "2026-05-28"
+      "url": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
+      "date": "2026-05-29"
     },
     {
-      "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
-      "summary": "EU deposit insurance (up to €100,000) may not absorb stress from large stablecoin reserve accounts, unlike the full protection offered by U.S. regulators.",
+      "title": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
+      "summary": "A hopeful posting on Iran from President Trump helped erase morning losses.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,26 +159,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules",
-      "date": "2026-05-28"
+      "url": "https://www.coindesk.com/markets/2026/05/29/live-markets-bitcoin-slides-further-putting-two-month-winning-streak-in-jeopardy",
+      "date": "2026-05-29"
     },
     {
-      "title": "Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test",
-      "summary": "DeFi Technologies president Andrew Forson says the stablecoin layer is thriving, with more than $150 billion in U.S. Treasuries backing coins like USDT and USDC.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 20000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Sui blockchain suffers another network outage as transactions grind to a halt",
-      "summary": "This is the second time this year that the Sui network has suffered an outage.",
+      "title": "What American crypto asset perpetuals mean for the future of crypto",
+      "summary": "For years, one of the most significant crypto asset markets has existed entirely outside the United States. Today, that changes, explains CFTC Chairman Selig.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +173,120 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/28/sui-blockchain-suffers-another-network-outage-as-transactions-grind-to-a-halt",
-      "date": "2026-05-28"
+      "url": "https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "U.S. CFTC opens crypto 'perp' door with first approvals at Kalshi, Coinbase",
+      "summary": "The Commodity Futures Trading Commission has now established a stance on how regulated U.S. firms can engage in crypto perpetual futures contracts.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/28/u-s-cftc-opens-crypto-perp-door-with-approval-of-first-regulated-firm",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower ",
+      "summary": "Internet Computer (ICP), down 3.8%, was also an underperformer.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/05/29/coindesk-20-performance-update-bittensor-tao-drops-4-leading-index-lower",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Paxos wins SEC approval to clear U.S. stocks on blockchain",
+      "summary": "Paxos new license positions it alongside legacy giants such as DTCC and makes it a compelling, more efficient alternative for traditional finance giants than legacy competitors.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/29/paxos-is-first-blockchain-firm-to-provide-settlement-and-clearing-services-following-sec-approval",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Hyperliquid bigger than NASDAQ, says ICE CEO Jeffrey Sprecher",
+      "summary": "Sprecher saluted Hyperliquid's team, signaling deeper engagement between Wall Street incumbents and crypto-native rails.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/29/ice-ceo-calls-hyperliquid-bigger-than-nasdaq-says-he-s-met-its-founders",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
+      "summary": "The longest run of withdrawals since U.S. spot bitcoin ETFs listed in January 2024 comes as bitcoin underperforms high-flying AI and semiconductor stocks.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 2800000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
+      "summary": "Bitcoin's failed breakout above $83,000 is looking increasingly like a bear market signal, even as S&P 500 and Nasdaq futures notch gains and approach all-time highs.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 83000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
+      "summary": "The Governor of Minnesota signed into law a measure that, starting Aug. 1, makes it a crime to advertise and operate prediction market platforms across the state.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Strategy's STRC slips below $99 as Strive captures investor attention",
+      "summary": "STRC has struggled to maintain its $100 target price, while Strategy's reduced cash reserves and dividend obligations are drawing increased investor attention.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/29/strategy-s-strc-slips-below-usd99-as-strive-captures-investor-attention",
+      "date": "2026-05-29"
     }
   ],
   "errors": [
