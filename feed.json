@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-31",
-  "generated_at": "2026-05-31T08:06:19.628Z",
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T08:35:15.730Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,22 +9,78 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst",
-      "summary": "While Bitcoin is hovering around $73,000, a crypto trader says the current setup is “different from the previous breakdown in February.”",
+      "title": "Sui Foundation says ‘major upgrade’ fixed bugs behind three outages ",
+      "summary": "The Sui Network's first two outages were caused by bugs introduced in its 1.72 update, while an interim fix deployed to restore the blockchain triggered the third.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sui-major-upgrade-fixes-outage-bugs-restores-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "Bitcoin's biggest ETF selloff yet hits $3.4 billion as AI stocks keep climbing",
+      "summary": "U.S. spot bitcoin funds bled cash for 11 straight sessions through Monday, the longest redemption streak since their 2024 launch, as risk dollars rotated toward an AI-led equities rally.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 65000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-31"
+      "loss_usd": 3400000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-s-biggest-etf-selloff-yet-hits-usd3-4-billion-as-ai-stocks-keep-climbing",
+      "date": "2026-06-02"
     },
     {
-      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
-      "summary": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
+      "title": "Strategy’s Bitcoin sale causes clash for $80M in Polymarket bets",
+      "summary": "A clash has erupted among Polymarket users over the timing and disclosure of a recent Bitcoin sale by Strategy, with more than $80 million traded on the disputed outcome.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 80000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/strategys-bitcoin-sale-causes-clash-on-80m-in-polymarket-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Strategy’s bitcoin sale sparks a $14 million betting chaos on Polymarket",
+      "summary": "The 8-K filing by Strategy Monday disclosed sales for the period May 26 to May 31, but the disclosure was issued on June 1. Polymarket's May 31 contract is sitting at 81% Yes and in review, while bettors argue over whether the onchain transactions or the filing date controls.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 14000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/01/strategy-s-bitcoin-sale-sparks-a-usd14-million-crypto-betting-chaos-on-a-major-prediction-market",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "Live markets: Bitcoin retreats under $72,000 as Strategy unloads BTC for first time in four years",
+      "summary": "Crypto markets continue to struggle even as risk markets across the globe surge higher.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 72000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/01/live-markets-bitcoin-retreats-under-usd72-000-as-strategy-unloads-btc-for-first-time-in-four-years",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain",
+      "summary": "Bitcoin and ether fell Monday after dropping in May, a month that usually sees them post positive returns. U.S. equity index futures rose.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -33,54 +89,26 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
-      "date": "2026-05-30"
+      "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+      "date": "2026-06-01"
     },
     {
-      "title": "Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says",
-      "summary": "As Congress weighs crypto legislation, Aaron Klein says the CFTC needs more resources, independence and coordination to oversee digital markets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Bitcoin underperforms risk assets as record 9th day of ETF outflows signal waning demand",
-      "summary": "Your day-ahead look for May 29, 2026",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key",
-      "summary": "Analysts warn Ether’s downside risks remain elevated as traders closely watch the $1,800 support zone for stability.",
+      "title": "Are Ethereum OGs jumping ship? Here's what the data says",
+      "summary": "Long-term whales have cashed out millions of dollars from Ethereum following the recent sell-off, potentially putting ETH at risk of further losses.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 1800,
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
+      "url": "https://cointelegraph.com/markets/are-ethereum-ogs-jumping-ship-heres-what-the-data-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-01"
     },
     {
-      "title": "Why is Stellar's XLM up by over 50% this week?",
-      "summary": "XLM rallied after US financial giant DTCC announced a partnership with the Stellar Network, but it still risks a sharp downside in the coming weeks.",
+      "title": "ECB official says stablecoins risk importing old market flaws",
+      "summary": "ECB board member Isabel Schnabel warned that stablecoins could bring money-market risks into tokenized finance and reinforce US dollar dominance.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -89,194 +117,166 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/why-is-stellars-xlm-up-by-over-50-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-29"
+      "url": "https://cointelegraph.com/news/ecb-stablecoins-public-money-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-01"
     },
     {
-      "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
-      "summary": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.",
+      "title": "Anchorage rolls out platform to reduce crypto trading counterparty risk",
+      "summary": "The crypto bank's new CMS platform lets institutions trade on crypto venues while keeping assets in regulated custody and reducing pre-funded accounts.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/anchorage-launches-settlement-network-for-institutional-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "XRP falls 4% below $1.30 as bitcoin-led market weakness pulls down majors",
+      "summary": "XRP hit fresh 15-week lows after losing a key support zone, with exchange outflows failing to offset persistent selling pressure.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/02/xrp-falls-4-below-usd1-30-as-bitcoin-led-market-weakness-pulls-down-majors",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Mt. Gox moves 10,422 bitcoin worth $739 million to a new wallet as deadline nears ",
+      "summary": "The 04:47 UTC Bitcoin block 952,072 transaction moved coins from Mt. Gox cold storage into a freshly generated address, with a smaller 116-bitcoin slice routed to the defunct exchange's hot wallet.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 739000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Bitcoin drops below $70,000 as stocks pause and Strategy's BTC sale weighs on crypto",
+      "summary": "BTC fell 3.8% in 24 hours to below $69,960 , the lowest level in weeks, as Monday's 8-K filing disclosing Strategy's first publicized bitcoin sale continued to weigh.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 70000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-slide-to-usd70-000-as-stocks-pause-and-strategy-s-btc-sale-weighs-on-crypto",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Strategy sold bitcoin in late May, and told the market in June. Here's how Polymarket bettors are fighting over when it counts.",
+      "summary": "A $79 million market hinges not on whether Michael Saylor's firm sold bitcoin, but on whether a sale disclosed June 1 can count toward a deadline that passed May 31.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 79000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/02/strategy-sold-bitcoin-in-late-may-and-told-the-market-in-june-here-s-how-polymarket-bettors-are-fighting-over-when-it-counts",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Robinhood enters Canada after $180 million WonderFi acquisition",
+      "summary": "Robinhood will enter Canada after its WonderFi acquisition brought local crypto exchanges Bitbuy and Coinsquare under its control.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 180000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/robinhood-enters-canada-crypto-market-wonderfi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Bitcoin falls to 2-month low as divergence from equities widens",
+      "summary": "Santiment says that “the gap between traditional equities and crypto has become increasingly difficult for traders to ignore.”",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/btc-falls-to-70k-but-divergence-from-stocks-is-temporary-say-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Grayscale HYPE ETF ‘likely imminent’ as new update shows competitive fee: Analyst ",
+      "summary": "Grayscale proposed a fee of 0.29% on its Hyperliquid ETF, which “slightly undercuts” rivals 21Shares and Bitwise that carry respective fees of 0.3% and 0.34%, says analyst James Seyffart.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/grayscale-hype-etf-likely-imminent-as-new-update-shows-competitive-fee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "TON jumps 15% as The Open Network plans rebrand to Gram",
+      "summary": "Telegram founder Pavel Durov says it is “returning to our roots — and starting a new chapter” by rebranding Toncoin to Gram.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/the-open-network-ton-native-currency-plans-to-rebrand-to-gram?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum’s strength",
+      "summary": "Bitmine is aiming to hold 5% of the total circulating supply of 120.6 million Ether tokens and is about 90% of the way to its target after its latest purchase.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 52000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "DeFi protocol Radiant to wind down after failing to recover from 2024 hack",
+      "summary": "Radiant says its frontend and smart contracts will remain accessible and users will still be able to withdraw, repay, and manage their positions.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
-      "date": "2026-05-31"
-    },
-    {
-      "title": "Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment",
-      "summary": "Crypto sentiment platform Santiment warned that the two biggest spikes in social media bullishness around Bitcoin have previously been followed by short-term price pullbacks.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-31"
-    },
-    {
-      "title": "Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness",
-      "summary": "Bitcoin dip buyers are present near range lows, and new leveraged longs opened in the zone but the volumes lack the size needed to reverse the downtrend.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-31"
-    },
-    {
-      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
-      "summary": "Fuller allegedly diverted $6.2 million for personal use and $5.5M for Ponzi-like payments; only 3% of funds went to crypto trading.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 12300000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
-      "summary": "The seizure, falling under \"Operation Economic Fury,\" aims to restrict Iran's access to overseas revenue, banking networks, and crypto infrastructure.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 1000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
-      "summary": "CertiK CEO and co-founder Ronghui Gu says April was the worst month for DeFi in four years with exploits on 27 out of 30 days.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "When the market is bad, we build: Inside Binance’s bold 2030 master plan",
-      "summary": "Established crypto firms will merge with traditional finance, but neither Wall Street bankers nor corporate giants will take over the crypto industry, said Binance’s Head of VIP and Institutional, Catherine Chen.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/26/when-the-market-is-bad-we-build-inside-binance-s-bold-2030-master-plan",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "Hyperliquid could become a ‘financial services juggernaut’ as DeFi expands, says Grayscale",
-      "summary": "The digital asset manager says Hyperliquid is emerging as a blockchain-based financial infrastructure platform with the potential to expand beyond crypto trading and challenge parts of traditional derivatives and exchange markets.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/30/hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-grayscale",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May",
-      "summary": "From May 20 to May 29, XRP funds took in $35 million while bitcoin and ether ETFs lost roughly $2 billion combined, with Ripple’s earlier reported XRP treasury plan still awaiting confirmation.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 2000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
-      "summary": "The S&P 500 posted its longest weekly winning streak since 2023 and Brent oil stabilized near $92 on US-Iran ceasefire hopes. The biggest cryptocurrencies still drifted lower, with Hyperliquid's HYPE the only major name to rally.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails",
-      "summary": "The Senate Banking Committee voted to advance the CLARITY Act in May, but it must still pass both chambers of Congress before heading to the president's desk.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/senator-lummis-says-china-will-beat-the-us-to-the-punch-if-clarity-is-not-passed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-30"
+      "url": "https://cointelegraph.com/news/defi-protocol-radiant-to-wind-down-after-failing-to-recover-from-2024-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-02"
     },
     {
-      "title": "Circle freezes $12.6M of USDC linked to privacy protocol Zama",
-      "summary": "The $12.6 million in USDC was likely frozen in connection with an ongoing but unrelated civil court case, according to onchain sleuth ZachXBT.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 12600000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "SEC charges Texas man with $12.3M crypto fraud using fake AI trading bots",
-      "summary": "The SEC charged Texas man Nathan Fuller with raising $12.3 million from 150 investors through a crypto fraud scheme built around fake AI trading bots.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 12300000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-charges-texas-man-with-123m-crypto-fraud-fake-ai-trading-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Crypto investment firm Keyrock is acquiring bankrupt lender Blockfills",
+      "summary": "The Brussels-based digital asset services firm plans to purchase BlockFills months after the Chicago-based company filed for Chapter 11 bankruptcy, if a court approves.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -284,9 +284,9 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-05-30"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/01/crypto-investment-firm-keyrock-is-acquiring-bankrupt-lender-blockfills",
+      "date": "2026-06-01"
     }
   ],
   "errors": [
