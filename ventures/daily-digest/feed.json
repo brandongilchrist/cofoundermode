@@ -1,15 +1,29 @@
 {
-  "date": "2026-06-06",
-  "generated_at": "2026-06-06T07:58:28.970Z",
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T08:16:33.609Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 67,
+  "items_found": 66,
   "items_curated": 20,
   "items": [
     {
-      "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
+      "title": "Zcash bounces 45% as developers propose new 'Ironwood' upgrade",
+      "summary": "The plan would let anyone verify that no counterfeit coins are circulating, addressing the patched bug that triggered last week's crash. ZEC is still down about 22% on the week.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/08/zcash-bounces-45-as-developers-propose-new-ironwood-upgrade",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "ETH falls to 13-month low on Zcash bug, Bitcoin below $60K: Is $1.4K next?",
       "summary": "ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months.",
       "type": "news",
       "severity": "high",
@@ -23,64 +37,162 @@
       "date": "2026-06-05"
     },
     {
-      "title": "ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug",
-      "summary": "ZEC market capitalization fell by almost $3 billion over the past 24 hours following the disclosure of a critical vulnerability, despite it being patched already.",
+      "title": "Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk",
+      "summary": "Bitcoin's recovery highlights investors' belief that BTC is discounted, but weak futures market activity could slow the rebound.",
       "type": "news",
-      "severity": "high",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 3000000000,
+      "chain": "",
+      "loss_usd": 162000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zec-tanks-30-after-ai-security-review-discovers-critical-zcash-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-05"
+      "url": "https://cointelegraph.com/markets/bitcoin-rallies-to-64k-but-162m-in-buy-orders-builds-below-price-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-09"
     },
     {
-      "title": "Memecoins dogecoin, shiba inu dive 9% as bitcoin nears $60,000",
-      "summary": "Dogecoin and Shiba Inu led losses among major tokens as heavy volume and liquidations overwhelmed support levels, extending a broader risk-off move across crypto markets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 60000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/memecoins-dogecoin-shiba-inu-dive-9-as-bitcoin-nears-usd60-000",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "Alsobrooks says Clarity Act needs ethics deal before Senate vote",
-      "summary": "The Maryland Democrat says bipartisan crypto legislation is close, but ethics and illicit finance concerns remain unresolved.",
+      "title": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
+      "summary": "The founder of the largest DeFi platform blamed \"third-party” entities for decentralized finance’s vulnerabilities, while independent data highlights severe gaps in Aave’s own risk architecture.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 0,
+      "loss_usd": 8449999999.999999,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-news/2026/06/05/alsobrooks-says-clarity-act-needs-ethics-deal-before-senate-vote",
-      "date": "2026-06-05"
+      "url": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+      "date": "2026-06-08"
     },
     {
-      "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
-      "summary": "Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.",
+      "title": "Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls",
+      "summary": "Gold falls into bear market territory, while a stronger U.S. dollar and rising rate expectations pressure risk assets.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/08/gold-slips-below-200-day-moving-average-offering-glimmer-of-hope-for-bitcoin-bulls",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
+      "summary": "Record-low Bitcoin RSI readings and whale accumulation highlight a generational buying opportunity, even as analysts still expect BTC to fall below $60,000.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 60000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/best-thesis-for-bitcoin-accumulation-surfaces-despite-downside-risk-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "What happens to Bitcoin if Nasdaq falls further?",
+      "summary": "Bitcoin eyes a rally toward $92,630 as BTC defends key long-term support while the Nasdaq flashes deeper correction risks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 92630,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "Bitcoin risks new purge with bear-market losses still $35B below 2022 total",
+      "summary": "Bitcoin realized losses remained below the $211 billion tally from 2022, leading to a prediction that the next bear-market bottom was not yet in.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 35000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-07"
+    },
+    {
+      "title": "Coinbase and Cardless unveil credit card backed by stablecoins",
+      "summary": "The stablecoin-secured card is for situations where a credit card cannot be approved on an unsecured basis.",
       "type": "news",
       "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense",
+      "summary": "Arca is blaming Strategy's sale of 32 BTC for last week's BTC crash, not AI capital rotation, as Strategy's Saylor claimed.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/09/saylor-blamed-ai-for-bitcoin-crash-arca-has-one-word-for-that-nonsense",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Live markets: Bitcoin above $63,000 as some traders peg SpaceX's IPO as 'next catalyst'",
+      "summary": "Stocks recovered through SpaceX's oversubscribed IPO, an Nvidia and SK Hynix chip pact, and Apple's AI reboot, while crypto trailed.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "BSC",
+      "loss_usd": 63000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
+      "summary": "Jiang Zhuoer of BTC.TOP called the week's selloff speculation overblown, arguing Strategy's small debt and the design of its preferred shares let it keep buying.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 30000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/08/chinese-mining-ceo-says-strategy-can-survive-a-usd30-000-bitcoin-without-selling",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack",
+      "summary": "The decentralized identity project said attackers compromised the keys of a foundation member and are dumping the stolen H tokens for ether.",
+      "type": "news",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 1600000000,
+      "loss_usd": 32000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
-      "date": "2026-06-06"
+      "url": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
+      "date": "2026-06-09"
     },
     {
-      "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
-      "summary": "Santiment data show active addresses at a four-month high and social dominance near a 2026 peak after Charles Hoskinson warned of a \"wave of failures\" in the ecosystem.",
+      "title": "Over 200 crypto firms push Senate to pass CLARITY Act",
+      "summary": "Crypto lobby groups representing hundreds of organizations urged Senate leaders in a letter to schedule a vote on a key crypto bill ahead of the midterms.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -88,27 +200,13 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
-      "date": "2026-06-06"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/over-200-crypto-firms-push-senate-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-09"
     },
     {
-      "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
-      "summary": "Mati Greenspan, Michael Saylor and Jameson Lopp blamed the AI boom for draining capital from bitcoin. Meanwhile, Jack Mallers refrained from sharing an outlook but recommended buying the dip.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 200000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
-      "summary": "After an AI model helped uncover a four-year-old flaw in Zcash, security researchers warn that similar bugs may be hiding across crypto and traditional financial systems.",
+      "title": "AI agents with crypto could escape and become ‘unstoppable,’ experts warn",
+      "summary": "Autonomous AI and crypto could have “far-reaching consequences for users and the financial system,” IC3 researchers said.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -116,13 +214,13 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
-      "date": "2026-06-05"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/autonomous-ai-agents-with-crypto-access-could-become-unstoppable-warn-experts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-09"
     },
     {
-      "title": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
-      "summary": "The tokenization specialist behind BlackRock's BUIDL fund could begin trading on the NYSE as SEC approves merger registration.",
+      "title": "UK financial regulator floats allowing 10% crypto allocations for retail funds",
+      "summary": "The Financial Conduct Authority floated the idea of allowing limited exposure to crypto for retail-focused funds if it aligns with “disclosed investment objectives.”",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -130,125 +228,27 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
-      "date": "2026-06-05"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/uk-fca-floats-allowing-10-crypto-allocations-for-retail-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-09"
     },
     {
-      "title": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
-      "summary": "Seven draft bills are being circulated by the House Ways and Means Committee ahead of a hearing next week, including proposals to ease small-gain, mining and staking burdens.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "Bitcoin loses $60,000, falls to weakest price since October 2024",
-      "summary": "Several headwinds converged over bitcoin recently as its largest buyer turned seller, ETF investors headed for the exits, and rate-hike fears rose.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 60000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "XRP falls toward $1.10 as liquidation-driven selloff pushes token to multi-month lows",
-      "summary": "XRP lost another 5% after a high-volume breakdown overwhelmed support near $1.20, leaving traders focused on whether the latest washout marks capitulation or the start of a deeper slide.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/xrp-falls-toward-usd1-10-as-liquidation-driven-selloff-pushes-token-to-multi-month-lows",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines",
-      "summary": "All twenty constituents in the CoinDesk 20 index were trading lower since yesterday.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "U.S. job growth blows past forecasts, setting stage for Fed rate hikes",
-      "summary": "Bitcoin is now facing another headwind — the prospect of higher interest rates.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/u-s-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "Bearish zcash bets hit record high as privacy token's price crashes",
-      "summary": "Liquidations were small relative to the size of the decline, pointing to spot selling rather than a leverage cascade, while open interest in ZEC futures climbed to a record high in token terms as traders crowded into the slide from the short side.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/bearish-zcash-bets-hit-record-high-as-privacy-token-s-price-crashes",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto",
-      "summary": "Zcash plummeted 40% after Shielded Labs revealed a major bug that went undetected for 4 years.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 60000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed",
-      "summary": "Hayes said he would reconsider his stance if his assumptions that an exploit is still possible prove to be incorrect.",
+      "title": "Humanity Protocol token falls 85% amid $30M private key exploit",
+      "summary": "The compromise of private keys belonging to a member of the Humanity Foundation has reportedly resulted in the theft of at least $30 million worth of its native token.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/arthur-hayes-dumps-zcash-holdings-after-orchard-pool-vulnerability-revealed",
-      "date": "2026-06-05"
+      "loss_usd": 30000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/humanity-h-token-tanks-85-following-30m-private-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-09"
     },
     {
-      "title": "Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops",
-      "summary": "Your day-ahead look for June 5, 2026",
+      "title": "OpenAI confidentially files to go public in the US",
+      "summary": "OpenAI says it filed for an initial public offering in the US, but has not yet decided when it will launch.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -256,13 +256,13 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/04/bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops",
-      "date": "2026-06-05"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/openai-confidentially-files-to-go-public-in-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-09"
     },
     {
-      "title": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
-      "summary": "Crypto is on course for its worst week since July 2024, with the ether price approaching a critical support as a zcash exploit and AI capital rotation pile on the pressure.",
+      "title": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
+      "summary": "Users are being paid to shave their heads, chug liquor and interview homeless people on camera, raising questions about whether Pump.fun's latest product rewards creativity or exploitation.",
       "type": "news",
       "severity": "critical",
       "tags": [
@@ -271,12 +271,12 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels",
-      "date": "2026-06-05"
+      "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze",
+      "date": "2026-06-08"
     },
     {
-      "title": "JPMorgan, Bank of America, Citi to start blockchain offensive with shared tokenized network",
-      "summary": "American's biggest banks plan to introduce a shared tokenized network next year to tackle the potential threat of stablecoins eating into their deposits.",
+      "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
+      "summary": "Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +285,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/05/jpmorgan-bank-of-america-and-citi-are-going-on-the-blockchain-offensive-with-a-shared-tokenized-network",
-      "date": "2026-06-05"
+      "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
+      "date": "2026-06-08"
     }
   ],
   "errors": [
