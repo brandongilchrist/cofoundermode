@@ -1,282 +1,128 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-09T08:16:33.609Z",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T08:36:09.326Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 66,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
     {
-      "title": "Zcash bounces 45% as developers propose new 'Ironwood' upgrade",
-      "summary": "The plan would let anyone verify that no counterfeit coins are circulating, addressing the patched bug that triggered last week's crash. ZEC is still down about 22% on the week.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/08/zcash-bounces-45-as-developers-propose-new-ironwood-upgrade",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "ETH falls to 13-month low on Zcash bug, Bitcoin below $60K: Is $1.4K next?",
-      "summary": "ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 60000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk",
-      "summary": "Bitcoin's recovery highlights investors' belief that BTC is discounted, but weak futures market activity could slow the rebound.",
+      "title": "AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails",
+      "summary": "“Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 162000000,
+      "chain": "Optimism",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-rallies-to-64k-but-162m-in-buy-orders-builds-below-price-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-09"
+      "url": "https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-11"
     },
     {
-      "title": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
-      "summary": "The founder of the largest DeFi platform blamed \"third-party” entities for decentralized finance’s vulnerabilities, while independent data highlights severe gaps in Aave’s own risk architecture.",
+      "title": "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+      "summary": "A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 8449999999.999999,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls",
-      "summary": "Gold falls into bear market territory, while a stronger U.S. dollar and rising rate expectations pressure risk assets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/08/gold-slips-below-200-day-moving-average-offering-glimmer-of-hope-for-bitcoin-bulls",
-      "date": "2026-06-08"
+      "url": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
+      "date": "2026-06-10"
     },
     {
-      "title": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
-      "summary": "Record-low Bitcoin RSI readings and whale accumulation highlight a generational buying opportunity, even as analysts still expect BTC to fall below $60,000.",
+      "title": "Kalshi now requires users to reveal employers as it fights insider trading and market manipulation",
+      "summary": "The prediction markets platform introduced new measures on Tuesday that it said will apply to markets it considers are likely to face higher risks of insider trading and abuse.",
       "type": "news",
       "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 60000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/best-thesis-for-bitcoin-accumulation-surfaces-despite-downside-risk-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "What happens to Bitcoin if Nasdaq falls further?",
-      "summary": "Bitcoin eyes a rally toward $92,630 as BTC defends key long-term support while the Nasdaq flashes deeper correction risks.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 92630,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "Bitcoin risks new purge with bear-market losses still $35B below 2022 total",
-      "summary": "Bitcoin realized losses remained below the $211 billion tally from 2022, leading to a prediction that the next bear-market bottom was not yet in.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 35000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "Coinbase and Cardless unveil credit card backed by stablecoins",
-      "summary": "The stablecoin-secured card is for situations where a credit card cannot be approved on an unsecured basis.",
-      "type": "news",
-      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
-      "date": "2026-06-09"
+      "url": "https://www.coindesk.com/markets/2026/06/10/kalshi-now-requires-users-to-reveal-employers-as-it-fights-insider-trading-and-market-manipulation",
+      "date": "2026-06-10"
     },
     {
-      "title": "Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense",
-      "summary": "Arca is blaming Strategy's sale of 32 BTC for last week's BTC crash, not AI capital rotation, as Strategy's Saylor claimed.",
+      "title": "Anchorage backs Treasury’s GENIUS AML rules, seeks secondary-market sanctions clarity",
+      "summary": "A public comment letter argues that regulated stablecoin issuers need clearer compliance standards to avoid sanctions risks tied to secondary-market activity.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/09/saylor-blamed-ai-for-bitcoin-crash-arca-has-one-word-for-that-nonsense",
-      "date": "2026-06-09"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/anchorage-backs-treasurys-genius-aml-rules-seeks-secondary-market-sanctions-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-10"
     },
     {
-      "title": "Live markets: Bitcoin above $63,000 as some traders peg SpaceX's IPO as 'next catalyst'",
-      "summary": "Stocks recovered through SpaceX's oversubscribed IPO, an Nvidia and SK Hynix chip pact, and Apple's AI reboot, while crypto trailed.",
+      "title": "AI deepfake election ad in Minnesota raises transparency concerns",
+      "summary": "A deepfake campaign attack ad in the US state of Minnesota has raised questions around the ethics of using AI in political ads and the regulations surround AI use.",
       "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "BSC",
-      "loss_usd": 63000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
-      "summary": "Jiang Zhuoer of BTC.TOP called the week's selloff speculation overblown, arguing Strategy's small debt and the design of its preferred shares let it keep buying.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 30000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/08/chinese-mining-ceo-says-strategy-can-survive-a-usd30-000-bitcoin-without-selling",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack",
-      "summary": "The decentralized identity project said attackers compromised the keys of a foundation member and are dumping the stolen H tokens for ether.",
-      "type": "news",
-      "severity": "critical",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 32000000,
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/features/ai-deepfake-election-ad-in-minnesota-raises-transparency-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Singapore bank DBS to offer tokenized gold to retail customers",
+      "summary": "Each token is backed by one gram of physical gold held by DBS in a dedicated vault in Singapore.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
-      "date": "2026-06-09"
+      "url": "https://www.coindesk.com/business/2026/06/11/singapore-bank-dbs-to-offer-tokenized-gold-to-retail-customers",
+      "date": "2026-06-11"
     },
     {
-      "title": "Over 200 crypto firms push Senate to pass CLARITY Act",
-      "summary": "Crypto lobby groups representing hundreds of organizations urged Senate leaders in a letter to schedule a vote on a key crypto bill ahead of the midterms.",
+      "title": "Live updates: Softer core inflation gave crypto a bounce, but only bitcoin held up on the week",
+      "summary": "May CPI ran hot on energy and cooler underneath, lifting majors on Thursday, though ether and the large alts are still down 6% to 8% over seven days.",
       "type": "news",
       "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/over-200-crypto-firms-push-senate-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "AI agents with crypto could escape and become ‘unstoppable,’ experts warn",
-      "summary": "Autonomous AI and crypto could have “far-reaching consequences for users and the financial system,” IC3 researchers said.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/autonomous-ai-agents-with-crypto-access-could-become-unstoppable-warn-experts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "UK financial regulator floats allowing 10% crypto allocations for retail funds",
-      "summary": "The Financial Conduct Authority floated the idea of allowing limited exposure to crypto for retail-focused funds if it aligns with “disclosed investment objectives.”",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-fca-floats-allowing-10-crypto-allocations-for-retail-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "Humanity Protocol token falls 85% amid $30M private key exploit",
-      "summary": "The compromise of private keys belonging to a member of the Humanity Foundation has reportedly resulted in the theft of at least $30 million worth of its native token.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 30000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/humanity-h-token-tanks-85-following-30m-private-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "OpenAI confidentially files to go public in the US",
-      "summary": "OpenAI says it filed for an initial public offering in the US, but has not yet decided when it will launch.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/openai-confidentially-files-to-go-public-in-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
-      "summary": "Users are being paid to shave their heads, chug liquor and interview homeless people on camera, raising questions about whether Pump.fun's latest product rewards creativity or exploitation.",
-      "type": "news",
-      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze",
-      "date": "2026-06-08"
+      "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
+      "date": "2026-06-11"
     },
     {
-      "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
-      "summary": "Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research",
+      "title": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
+      "summary": "ETF outflows have dominated the narrative but corporate bitcoin treasuries have gone quiet too, compounding the demand-side weakness.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "XRP holds above $1.10 as ETF inflows rise, but traders remain cautious",
+      "summary": "XRP bounced from recent lows on a late volume surge, though the token continued to lag the broader crypto market as futures traders positioned around key support levels.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +131,162 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
-      "date": "2026-06-08"
+      "url": "https://www.coindesk.com/markets/2026/06/11/xrp-holds-above-usd1-10-as-etf-inflows-rise-but-traders-remain-cautious",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
+      "summary": "Two widely watched gauges show capitulation, but the analyst flagging them warns the slow grind comes next.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise",
+      "summary": "Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Teen crypto scammer stole $13M to splurge on private jets, Lambo",
+      "summary": "Trenton Richard Johnston was arrested in March during a traffic stop for speeding, but investigators soon found he was involved in a wider fraud scheme.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 13000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/teen-admits-to-scamming-13m-crypto-to-splurge-on-private-jets-lambo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%",
+      "summary": "“We continue to view the current macro environment as a headwind for Bitcoin,” 10x Research’s Markus Thielen said.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/pressure-on-bitcoin-and-gold-increases-as-us-inflation-tops-4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Delaware, New Jersey advance bills banning crypto ATMs",
+      "summary": "Lawmakers in Delaware and New Jersey have advanced laws that would completely ban crypto ATMs, a measure that has only been enacted in three US states.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/delaware-new-jersey-advance-bills-banning-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "XRP transaction demand falls 91.5% as traders focus on $0.65 support",
+      "summary": "XRP network activity and investor profitability fall to record lows, leading traders to focus on the $1 to $0.65 zone.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "Privacy returns to focus as Ethereum developers explore new token standards ",
+      "summary": "In this week's edition of The Protocol Newsletter, we're looking at where privacy is headed in the Ethereum ecosystem.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
+      "summary": "BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry's largest players.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Coinbase-backed Stand With Crypto calls on members to campaign against banks blocking digital asset transactions",
+      "summary": "Stand With Crypto UK is telling its members to file formal complaints with high-street banks over sector-wide transfer bans.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/10/over-280-000-uk-crypto-holders-kick-off-campaign-against-banks-blocking-transactions",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "Crypto Long & Short: Who answers the 3am call when DeFi breaks?",
+      "summary": "In this week's Crypto Long & Short, Ben Nadareski writes that to win over big investors, DeFi builders must act like accountable money managers, not just software developers. Then, Stephen Stonberg says that bitcoin holders can survive crashes and protect their assets by earning",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-long-and-short-who-answers-the-3am-call-when-defi-breaks",
+      "date": "2026-06-10"
     }
   ],
   "errors": [
