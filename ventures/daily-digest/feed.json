@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-15",
-  "generated_at": "2026-06-15T09:13:33.447Z",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T08:47:13.033Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,36 +9,22 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
-      "summary": "The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees.",
+      "title": "Ethereum’s biggest protocol overhaul in years moves into its final development stage",
+      "summary": "Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
-      "date": "2026-06-14"
+      "url": "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
+      "date": "2026-06-16"
     },
     {
-      "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
-      "summary": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further “serious bugs” in the privacy protocol following the patching of a previously discovered forgery bug.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high",
-      "summary": "A large build-up of speculative short positions in the yen raises the risk of a sharp short squeeze if the BOJ signals more aggressive tightening, potentially unwinding yen-funded carry trades that support risk assets.",
+      "title": "Forget the price charts. Here's how bitcoin and S&P 500 look like when adjusted for the money printer",
+      "summary": "Valuations shaped by M2 money supply growth paint reveal concerning trends for risk assets.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -47,82 +33,82 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high",
-      "date": "2026-06-15"
+      "url": "https://www.coindesk.com/markets/2026/06/17/forget-the-price-charts-here-s-how-bitcoin-and-s-and-p-500-look-like-when-adjusted-for-the-money-printer",
+      "date": "2026-06-17"
     },
     {
-      "title": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
-      "summary": "A peace agreement that reopens the Strait of Hormuz pulled the geopolitical premium out of oil and put back into risk assets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 65500,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
-      "summary": "Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-14"
-    },
-    {
-      "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
-      "summary": "Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-14"
-    },
-    {
-      "title": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
-      "summary": "A jailbreak report prompted Washington to pull Fable 5 and Mythos 5 from all users. Anthropic complied but pushed back hard, saying the finding sets a standard that would halt the entire AI industry.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-      "summary": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears, and a strong SpaceX debut helped risk assets recover.",
+      "title": "XRP gives back breakout gains, slipping below $1.23 on heavy selling",
+      "summary": "XRP briefly traded above key resistance before sellers stepped in, with rising volume suggesting traders used the rally to cut positions rather than add risk.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 63000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-      "date": "2026-06-13"
+      "url": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling",
+      "date": "2026-06-17"
     },
     {
-      "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-      "summary": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns.",
+      "title": "Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows",
+      "summary": "Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck",
+      "summary": "VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 50000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Tether Gold now has a dedicated options market on Bybit",
+      "summary": "These options, settled in USDT, let traders hedge risk, speculate on gold prices.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/16/tether-gold-now-has-a-dedicated-options-market-on-bybit",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
+      "summary": "Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
+      "summary": "Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -131,82 +117,54 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-13"
+      "url": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-16"
     },
     {
-      "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-      "summary": "New data from Galaxy Research suggests that Bitcoin's floor price may not drop as low as previous bear markets, but the bottom-finding process is still playing out.",
+      "title": "Binance says it considers EU license compliant amid reports of potential rejection",
+      "summary": "Without specifically calling out a report on Binance’s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could “weaken liquidity” and present other potential risks.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-13"
+      "url": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-16"
     },
     {
-      "title": "Trump-linked stablecoin used for bonus payouts at White House UFC contest",
-      "summary": "UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump-linked crypto venture World Liberty Financial, at a contest held at the White House.",
+      "title": "Why a ‘safe’ AI can turn dangerous in the wrong company",
+      "summary": "A 15-day AI agent simulation shows why short tests may miss long-term risks shaped by tools, rules and other agents.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
-      "date": "2026-06-15"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/learn/emergence-world-ai-agent-simulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-16"
     },
     {
-      "title": "Ark Invest bought more than $500 million worth of SpaceX shares on IPO day",
-      "summary": "The purchases were likely funded by selling other positions, data shows. ARK is also one of the loudest bitcoin bulls, with a million-dollar target for 2030.",
+      "title": "US government watchdog urges FDIC to coordinate on crypto oversight",
+      "summary": "The US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”",
       "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 500000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/15/ark-invest-bought-more-than-usd500-million-worth-of-spacex-shares-on-ipo-day",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "Live markets:  Bitcoin not fully out of danger as Trump warns of further Iran strikes",
-      "summary": "A ceasefire in April collapsed, and U.S. strikes broke a second truce on June 9 with bitcoin giving back the entire move both times.",
-      "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
-      "date": "2026-06-15"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-16"
     },
     {
-      "title": "XRP climbs 4% above $1.18 as traders test next resistance zone",
-      "summary": "XRP extended its rebound from recent lows on the strongest buying activity in weeks, with institutional flows and ETF demand supporting a push toward the $1.20 level.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
-      "summary": "The price of crude oil is tumbling, and U.S. stock futures are moving higher.",
+      "title": "BitGo offers Europe’s crypto firms a MiCA-compliance lifeline as license deadline looms",
+      "summary": "BaFin-regulated BitGo says its Crypto-as-a-Service platform can help eligible crypto players across Europe with an alternative way to navigate MiCA.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -215,26 +173,54 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
-      "date": "2026-06-15"
+      "url": "https://www.coindesk.com/business/2026/06/17/bitgo-offers-europe-s-crypto-firms-a-mica-compliance-lifeline-as-license-deadline-looms",
+      "date": "2026-06-17"
     },
     {
-      "title": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
-      "summary": "US President Donald Trump says the US and Iran have a deal for a “toll-free opening of the Strait of Hormuz,” sending Bitcoin to a two-week high.",
+      "title": "Crypto PAC's $12 million Senate candidate, Barry Moore, wins Alabama GOP primary ",
+      "summary": "The Trump loyalist drew more crypto dollars than any candidate so far in this year's midterms, and the result marks a big win for the industry's political arm.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
+      "loss_usd": 12000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/17/crypto-pac-s-usd12-million-senate-candidate-barry-moore-wins-alabama-gop-primary",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Live markets: Markets turn their focus to the Fed as oil returns to pre-war levels",
+      "summary": "Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
+      "summary": "UNI surged after Standard Chartered set a $100 long-term target, and HYPE and solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first time under Kevin Warsh.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
       "loss_usd": 66000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-closes-in-on-66k-as-trump-signals-deal-with-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-15"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
+      "date": "2026-06-17"
     },
     {
-      "title": "CFTC sues New Mexico over prediction market jurisdiction",
-      "summary": "New Mexico is the eighth state sued by the CFTC over prediction markets, as Gary Gensler doubted the regulators' claim of authority over sports event contracts.",
+      "title": "Congress reaches deal on housing bill with CBDC ban until 2030",
+      "summary": "The US could soon temporarily ban a central bank digital currency, as House and Senate leaders came to a deal on the 21st Century Road to Housing Act.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,26 +229,54 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-sues-new-mexico-over-prediction-market-jurisdiction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-15"
+      "url": "https://cointelegraph.com/news/congress-reaches-deal-on-housing-bill-inclusive-of-cbdc-ban-until-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-17"
     },
     {
-      "title": "Aztec Connect’s abandoned smart contract exploited for $2.1M",
-      "summary": "The Aztec Connect platform was deprecated in March 2023, but the immutable smart contract still held over $2 million in crypto assets.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 2100000,
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-15"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-17"
     },
     {
-      "title": "Bitcoin mining difficulty drops 10% in 11th largest downward adjustment",
-      "summary": "Bitcoin mining difficulty has undergone its second-largest downward difficulty adjustment this year, following February’s 11% shift.",
+      "title": "Strategy’s STRC falls to $91 as investors flinch at latest BTC buying",
+      "summary": "“It appears traders are seeing the latest BTC acquisition as an unsustainable path for STRC,” said 10x Research’s Markus Thielen.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/strc-hits-all-time-low-as-latest-btc-purchases-seen-as-unsustainable?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Illinois governor approves crypto transaction tax despite industry uproar",
+      "summary": "“There is effectively no comparable state financial transaction tax on stocks, bonds or derivatives anywhere in the country,” said a16z general counsel Miles Jennings.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Hyperliquid open interest surges 32% in week: Is $80 HYPE next?",
+      "summary": "Despite mixed HYPE derivatives market signals, Hyperliquid’s explosive TradFi perpetual growth makes a push toward $80 increasingly realistic.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -271,22 +285,8 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
-      "summary": "A pattern stretching back to bitcoin's earliest days has held through every market cycle. It has yet to be tested in the current one.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 48000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
-      "date": "2026-06-14"
+      "url": "https://cointelegraph.com/markets/hyperliquid-open-interest-gains-32-in-a-week-is-80-hype-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-17"
     }
   ],
   "errors": [
