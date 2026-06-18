@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-17T08:47:13.033Z",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T08:35:42.517Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,50 +9,36 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Ethereum’s biggest protocol overhaul in years moves into its final development stage",
-      "summary": "Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.",
-      "type": "news",
+      "title": "Approval Phishing: From Just One Case to Full-Scale Disruption",
+      "summary": "Chain of Thought is our new expert-hosted webinar series, taking you behind the scenes of real investigations, emerging typologies and… The post Approval Phishing: From Just One Case to Full-Scale Disruption appeared first on Chainalysis.",
+      "type": "analysis",
       "severity": "high",
       "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "Forget the price charts. Here's how bitcoin and S&P 500 look like when adjusted for the money printer",
-      "summary": "Valuations shaped by M2 money supply growth paint reveal concerning trends for risk assets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
+        "exploit"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/17/forget-the-price-charts-here-s-how-bitcoin-and-s-and-p-500-look-like-when-adjusted-for-the-money-printer",
+      "source": "Chainalysis",
+      "url": "https://www.chainalysis.com/blog/what-is-approval-phishing/",
       "date": "2026-06-17"
     },
     {
-      "title": "XRP gives back breakout gains, slipping below $1.23 on heavy selling",
-      "summary": "XRP briefly traded above key resistance before sellers stepped in, with rising volume suggesting traders used the rally to cut positions rather than add risk.",
+      "title": "Crypto’s security nightmare won’t be solved by ordinary audits",
+      "summary": "Without an update to the current auditing infrastructure, the crypto space will likely continue to suffer significant losses, explains Beyer.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling",
+      "url": "https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
       "date": "2026-06-17"
     },
     {
-      "title": "Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows",
-      "summary": "Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA.",
+      "title": "SpaceX's $2.6 trillion market cap nearly double that of bitcoin",
+      "summary": "Eight days after its IPO, SpaceX has surged past $2.5 trillion to become the world's sixth-largest company. And market watchers say it is pulling the risk capital crypto wants.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,54 +47,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
-      "date": "2026-06-16"
+      "url": "https://www.coindesk.com/markets/2026/06/17/spacex-s-usd2-6-trillion-valuation-is-now-worth-nearly-twice-all-of-bitcoin",
+      "date": "2026-06-17"
     },
     {
-      "title": "Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck",
-      "summary": "VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 50000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "Tether Gold now has a dedicated options market on Bybit",
-      "summary": "These options, settled in USDT, let traders hedge risk, speculate on gold prices.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/16/tether-gold-now-has-a-dedicated-options-market-on-bybit",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
-      "summary": "Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
-      "summary": "Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.",
+      "title": "BitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns",
+      "summary": "BitGo launches a MiCA-compliant crypto infrastructure platform in Europe as exchanges face pressure to meet July 1 licensing rules across the EU.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -117,82 +61,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "Binance says it considers EU license compliant amid reports of potential rejection",
-      "summary": "Without specifically calling out a report on Binance’s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could “weaken liquidity” and present other potential risks.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "Why a ‘safe’ AI can turn dangerous in the wrong company",
-      "summary": "A 15-day AI agent simulation shows why short tests may miss long-term risks shaped by tools, rules and other agents.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/emergence-world-ai-agent-simulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "US government watchdog urges FDIC to coordinate on crypto oversight",
-      "summary": "The US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "BitGo offers Europe’s crypto firms a MiCA-compliance lifeline as license deadline looms",
-      "summary": "BaFin-regulated BitGo says its Crypto-as-a-Service platform can help eligible crypto players across Europe with an alternative way to navigate MiCA.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/17/bitgo-offers-europe-s-crypto-firms-a-mica-compliance-lifeline-as-license-deadline-looms",
+      "url": "https://cointelegraph.com/news/bitgo-mica-vasp-workaround-binance-license-uncertainty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "date": "2026-06-17"
     },
     {
-      "title": "Crypto PAC's $12 million Senate candidate, Barry Moore, wins Alabama GOP primary ",
-      "summary": "The Trump loyalist drew more crypto dollars than any candidate so far in this year's midterms, and the result marks a big win for the industry's political arm.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 12000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/17/crypto-pac-s-usd12-million-senate-candidate-barry-moore-wins-alabama-gop-primary",
-      "date": "2026-06-17"
-    },
-    {
-      "title": "Live markets: Markets turn their focus to the Fed as oil returns to pre-war levels",
-      "summary": "Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.",
+      "title": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
+      "summary": "The bond market is sending a signal that complicates prospects of a near-term bitcoin bull run.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -201,26 +75,110 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
-      "date": "2026-06-17"
+      "url": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
+      "date": "2026-06-18"
     },
     {
-      "title": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
-      "summary": "UNI surged after Standard Chartered set a $100 long-term target, and HYPE and solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first time under Kevin Warsh.",
+      "title": "Live markets: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
+      "summary": "Total market value has held flat near $2.26 trillion since Tuesday, with the recovery losing momentum after the Fed killed rate-cut hopes and spot ETFs swung back to outflows.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 66000,
+      "loss_usd": 111000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
-      "date": "2026-06-17"
+      "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
+      "date": "2026-06-18"
     },
     {
-      "title": "Congress reaches deal on housing bill with CBDC ban until 2030",
-      "summary": "The US could soon temporarily ban a central bank digital currency, as House and Senate leaders came to a deal on the 21st Century Road to Housing Act.",
+      "title": "Strategy's STRC preferred stock hits a record low below par",
+      "summary": "The slide has paused the above-par share sales Strategy uses to fund bitcoin purchases, and it is the same stock whose dividends forced the company's first BTC sale this month.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/18/strategy-s-strc-preferred-stock-hits-a-record-low-below-par",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "XRP slips 4% below $1.20 after breakout rally stalls near key resistance",
+      "summary": "Heavy selling pushed XRP back through a closely watched support level, though buyers stepped in above $1.17 to prevent a deeper pullback.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/18/xrp-slips-4-below-usd1-20-after-breakout-rally-stalls-near-key-resistance",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
+      "summary": "Bitcoin briefly slipped below its 200-week moving average twice in the past two weeks, a rare event that Kraken says has historically marked strong entry points for buyers.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
+      "summary": "The Fed held rates but signaled it is more worried about inflation than growth in Chair Kevin Warsh's first meeting.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
+      "summary": "Long-time bitcoin bull Matt Hougan told CoinDesk that during this bear market and with ‘doubts swirling’, investors have found ‘it easier to reach for something more tangible:’ stablecoins and tokenization.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
+      "summary": "Kalshi's perpetual futures product did not meet the Dodd-Frank Act's definition of a \"swap\" and should not have been approved, Terrence Duffy said.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Ryan Salame’s wife to face charges over FTX-funded congressional run",
+      "summary": "A federal judge has denied a bid from Michelle Bond, the wife of former FTX executive Ryan Salame, to have campaign finance charges against her dismissed.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,8 +187,22 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/congress-reaches-deal-on-housing-bill-inclusive-of-cbdc-ban-until-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-17"
+      "url": "https://cointelegraph.com/news/ryan-salames-wife-to-face-charges-over-ftx-funded-congressional-run?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Florida man pleads guilty for promoting $1.8B ‘HyperFund’ crypto fraud",
+      "summary": "Rodney “Bitcoin Rodney” Burton faces a maximum sentence of five years in federal prison for conspiracy to operate an unlicensed money transmitting business.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 1800000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/florida-man-pleads-guilty-to-18b-crypto-fraud-scheme?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-18"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -244,11 +216,11 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
-      "title": "Strategy’s STRC falls to $91 as investors flinch at latest BTC buying",
-      "summary": "“It appears traders are seeing the latest BTC acquisition as an unsustainable path for STRC,” said 10x Research’s Markus Thielen.",
+      "title": "Dorsey’s Block says new AI tool handles 15% of code work",
+      "summary": "Builderbot is the “missing layer between AI coding tools and how engineering actually works at scale,” said Brad Axen, head of AI capabilities at Block.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,26 +229,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strc-hits-all-time-low-as-latest-btc-purchases-seen-as-unsustainable?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-17"
+      "url": "https://cointelegraph.com/news/dorseys-block-says-new-ai-tool-handles-15-of-code-work?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-18"
     },
     {
-      "title": "Illinois governor approves crypto transaction tax despite industry uproar",
-      "summary": "“There is effectively no comparable state financial transaction tax on stocks, bonds or derivatives anywhere in the country,” said a16z general counsel Miles Jennings.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-17"
-    },
-    {
-      "title": "Hyperliquid open interest surges 32% in week: Is $80 HYPE next?",
-      "summary": "Despite mixed HYPE derivatives market signals, Hyperliquid’s explosive TradFi perpetual growth makes a push toward $80 increasingly realistic.",
+      "title": "France to stop certifying products lacking quantum-resistant encryption",
+      "summary": "France’s cybersecurity agency plans to block certification of products without quantum-resistant encryption starting in 2027, with full adoption targeted for 2030.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,7 +243,49 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/hyperliquid-open-interest-gains-32-in-a-week-is-80-hype-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "url": "https://cointelegraph.com/news/france-to-stop-certifying-products-lacking-quantum-resistant-encryption?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Kentucky sues Kalshi, Polymarket, joining prediction market legal battle",
+      "summary": "Kentucky has sued Polymarket, Kalshi and Kalshi’s partners Coinbase, Robinhood and Webull, over offering sports event contracts in the state.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kentucky-sues-kalshi-polymarket-joining-prediction-market-legal-battle?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Tether winds down gold-backed derivative stablecoin aUSDT",
+      "summary": "Tether is focusing on stronger user demand, deeper liquidity, and broader long-term market opportunity for its leading products.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/tether-winds-down-gold-backed-derivative-stablecoin-ausdt?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Kentucky targets prediction markets, puts red state in potential clash with Trump team",
+      "summary": "President Donald Trump has taken the stance that states have no business with firms like Kalshi and Polymarket, and now a staunch GOP state is defying that view.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team",
       "date": "2026-06-17"
     }
   ],
