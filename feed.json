@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T08:50:26.692Z",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T08:12:05.868Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -51,6 +51,20 @@
       "date": "2026-06-17"
     },
     {
+      "title": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day",
+      "summary": "Concerns about STRC, the dividend-paying preferred stock from Strategy continue to dominate market sentiment.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day",
+      "date": "2026-06-19"
+    },
+    {
       "title": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades",
       "summary": "Crypto dropped across the board on Friday in holiday-thinned trading, giving back the week's gains. With oil down 9% and the Iran deal signed, the question turns to whether this cycle gets an altseason at all.",
       "type": "news",
@@ -62,6 +76,48 @@
       "loss_usd": 63000,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
+      "summary": "Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 13000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Aave survived $8.45B in withdrawals, but risk questions remain",
+      "summary": "Aave handled $8.45 billion in withdrawals without freezing funds, but the episode raised fresh questions about hidden risks in DeFi lending.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 8449999999.999999,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Ethereum faces core development funding crisis, former contributor warns",
+      "summary": "The warning comes as the Ethereum Foundation reduces spending, adjusts its treasury strategy and undergoes a wave of leadership departures.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/former-ethereum-foundation-contributor-claims-core-development-funding-crisis?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "date": "2026-06-19"
     },
     {
@@ -79,46 +135,102 @@
       "date": "2026-06-18"
     },
     {
-      "title": "Bitcoin’s deeply discounted versus AI-stocks, but hawkish Fed risk lingers: Bitwise",
-      "summary": "Bitwise analysts say Bitcoin trades in a historical value zone, but hawkish Federal Reserve signals and a competition for liquidity could sideline buyers.",
+      "title": "Philippine SEC signals readiness for RWA tokenization ",
+      "summary": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-flashes-a-discount-to-ai-stocks-but-hawkish-fed-risk-lingers-bitwise?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-18"
+      "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-20"
     },
     {
-      "title": "CME Group sues CFTC over crypto perpetual futures",
-      "summary": "The lawsuit targets the federal regulator and Chair Michael Selig, alleging that the Commodity Futures Trading Commissioin is treating cryptocurrency “futures” as “swaps,” posing risks to derivatives markets.",
+      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty ",
+      "summary": "Two Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 8000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-18"
+      "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-20"
     },
     {
-      "title": "What happens when ChatGPT becomes the front door to crypto",
-      "summary": "ChatGPT could become crypto’s new onboarding gateway, making Bitcoin and wallets easier to use while creating new trust risks.",
+      "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
+      "summary": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
+      "summary": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
+      "summary": "GoMining unveiled a software development kit and programmable access for its bitcoin payment protocol GoBTC Pay, allowing merchants to accept BTC for everyday purchases.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Franklin Templeton proposes new ETFs that turn corporate dividends into bitcoin",
+      "summary": "Your day-ahead look for June 19, 2026",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Digital credit market hit by huge selloff as Strive CEO blames leverage liquidations",
+      "summary": "Matt Cole says forced selling from leveraged investors pushed STRC and SATA sharply lower before both rebounded.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-18"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/19/digital-credit-market-hit-by-record-selloff-as-strive-ceo-blames-leverage-liquidations",
+      "date": "2026-06-19"
     },
     {
       "title": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
@@ -149,7 +261,7 @@
       "date": "2026-06-19"
     },
     {
-      "title": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
+      "title": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
       "summary": "About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.",
       "type": "news",
       "severity": "low",
@@ -175,118 +287,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000",
       "date": "2026-06-19"
-    },
-    {
-      "title": "Goldman Sachs cuts year-end gold target by $500, doubting rate cuts",
-      "summary": "Goldman Sachs revised its year-end forecast for gold to $4,900, indicating an increase from current levels, but less than previously expected.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 4900,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin",
-      "summary": "AllUnity launches Swedish krona-backed stablecoin SEKAU with multi-chain support, expanding its stablecoin portfolio regulated under the EU’s MiCA framework.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Multi-chain",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "Algorand plans ‘broad quantum resilience’ by 2027",
-      "summary": "Algorand is planning new accounts and consensus mechanisms designed to be resistant to the cryptography-breaking threat of quantum computers.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/algorand-plans-broad-quantum-resilience-by-2027?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "US crypto ETFs are pulling Bitcoiners into TradFi: BlackRock's Jay Jacobs",
-      "summary": "The merger of crypto, decentralized finance and traditional finance is being referred to as the “Great Convergence” at BlackRock.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/blackrocks-ibit-is-pulling-bitcoiners-into-traditional-finance-exec-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "Celsius’ Mashinsky gets permanent trading ban in CFTC settlement",
-      "summary": "The US commodities watchdog has settled with Celsius founder Alex Mashinsky, ending the agency’s first-ever case against a crypto lending platform.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "Ether analysts predict another ‘selling wave’ as ETH struggles to overcome $1.7K",
-      "summary": "Exchange inflows, slumping demand and a 31% drop in Ether futures open interest may signal that another wave of selling could hit ETH.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 1700,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/ether-below-17k-gains-interest-as-analysts-warn-of-another-selling-wave?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-19"
-    },
-    {
-      "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
-      "summary": "Alexander Mashinsky, the founder of failed crypto lender Celsius, had earlier been imprisoned for fraud and is now formally banned from CFTC registration.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
-      "date": "2026-06-18"
     }
   ],
   "errors": [
