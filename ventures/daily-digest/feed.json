@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-25",
-  "generated_at": "2026-06-25T08:11:39.505Z",
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T07:59:44.639Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,20 +8,6 @@
   "items_found": 68,
   "items_curated": 20,
   "items": [
-    {
-      "title": "Abracadabra takes emergency action as MIM stablecoin depeg worsens",
-      "summary": "The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-25"
-    },
     {
       "title": "Approval Phishing: From Just One Case to Full-Scale Disruption",
       "summary": "Chain of Thought is our new expert-hosted webinar series, taking you behind the scenes of real investigations, emerging typologies and… The post Approval Phishing: From Just One Case to Full-Scale Disruption appeared first on Chainalysis.",
@@ -37,148 +23,92 @@
       "date": "2026-06-17"
     },
     {
-      "title": "Bitcoin could fall to $55,000 before finding a bottom, 10x Research says",
-      "summary": "A strengthening U.S. dollar and the Fed's hawkish turn under new chair Kevin Warsh may keep pressure on crypto through the summer.",
+      "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
+      "summary": "Senators John Curtis and Adam Schiff are concerned about the CFTC’s enforcement ability after a “troubling” report on Polymarket’s advertising.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 55000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
-      "date": "2026-06-24"
-    },
-    {
-      "title": "Strategy's MSTR may plunge 80% if it repeats this dot-com-era fractal",
-      "summary": "Strategy’s cash reserve is down 38% as dividend obligations near $1.2 billion, raising dilution risk for MSTR shareholders.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1200000000,
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/strategys-mstr-may-plunge-80-if-it-repeats-this-dot-com-era-fractal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-24"
+      "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-27"
     },
     {
-      "title": "Forget max pain theory. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry",
-      "summary": "The popular max pain theory isn’t working out as bitcoin trades far from the $72K level a day ahead of a $10 billion quarterly options settlement.",
+      "title": "Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens",
+      "summary": "Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.",
       "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 10000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/25/forget-max-pain-bitcoin-is-well-below-the-usd72-000-magnet-ahead-of-usd10-billion-options-expiry",
-      "date": "2026-06-25"
-    },
-    {
-      "title": "Live markets: Bitcoin, ether lead $1 billion liquidation losses as AI trade keeps going",
-      "summary": "A liquidation flush took bitcoin to its lowest since early June before Micron's blowout earnings and SK Hynix's U.S. listing plans steadied the AI trade that crypto had been sliding alongside.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 1000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
-      "date": "2026-06-25"
-    },
-    {
-      "title": "MemeCore's M token suddenly crashes 80% with no clear trigger",
-      "summary": "The token fell from nearly $3 to about $0.50 in hours, wiping out close to $3 billion in market value, with no exploit or announcement to explain it. Onchain investigator ZachXBT warned in April that M's price had been propped up by insiders.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 3000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger",
-      "date": "2026-06-25"
-    },
-    {
-      "title": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
-      "summary": "Japan's financial regulator cleared the U.S. dollar-backed token as a new category of payment instrument, letting SBI VC Trade offer it to institutions and retail. RLUSD remains small, at about $1.7 billion.",
-      "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 1700000000,
+      "loss_usd": 13000000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
-      "date": "2026-06-25"
+      "url": "https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens",
+      "date": "2026-06-26"
     },
     {
-      "title": "Bitcoin has a new line in the sand. Thursday’s core PCE could stress test it.",
-      "summary": "The market has found a new support level and it could be tested following Thursday's U.S. inflation data.",
+      "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
+      "summary": "The regulatory agencies are seeking public feedback on cross-margining, collateral and risk management as cryptocurrency derivatives and multi-asset trading continue to expand.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-has-a-new-line-in-the-sand-thursday-s-core-pce-could-stress-test-it",
-      "date": "2026-06-25"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-26"
     },
     {
-      "title": "XRP slides 2.8% as weak bounce keeps $1 support in focus",
-      "summary": "Sellers broke another support level on heavy volume, while the recovery failed to reclaim the zone that would ease downside pressure.",
+      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
+      "summary": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/25/xrp-slides-2-8-as-weak-bounce-keeps-usd1-support-in-focus",
-      "date": "2026-06-25"
-    },
-    {
-      "title": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
-      "summary": "The token fell to about $59,000 before buyers stepped in, but the week's losses are steep across the board. A blowout Micron forecast lifted stocks and oil kept sliding, yet crypto did not follow.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
       "loss_usd": 60000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
-      "date": "2026-06-25"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-26"
     },
     {
-      "title": "US arbitration giant rolls out ‘legal layer’ for agentic commerce",
-      "summary": "As agentic AI transactions increase, “we need to know there’s a clear answer to what happens if something goes wrong,” said Mance Harmon, co-founder of Hedera.",
+      "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache",
+      "summary": "The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ai-is-getting-a-legal-layer-as-agentic-commerce-accelerates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "chain": "Solana",
+      "loss_usd": 140000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
       "date": "2026-06-25"
     },
     {
-      "title": "House Democrats seek SEC answers on AI investment advisers",
-      "summary": "House Democrats have questioned the SEC over trading platforms offering AI agent advisers making “consequential investment decisions on behalf of retail investors.”",
+      "title": "XRP risks drop below $1, but onchain data highlights silver lining",
+      "summary": "XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+      "summary": "Ripple's Brad Garlinghouse called Strategy's preferred-stock funding model \"financial engineering\" that distracted the market, pointing to STRC's slide to a record low as the evidence. He runs the company behind XRP, a bitcoin rival.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -186,9 +116,37 @@
       ],
       "chain": "",
       "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
+      "summary": "A rotation out of chipmakers lifted much of the stock market, with the equal-weight S&P 500 at a record. Crypto was not part of it. Ether fell 8% on the week and the memecoins dropped harder.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Securitize expects to raise $400M ahead of public debut",
+      "summary": "Securitize says less than 30% of shareholders in the acquisition firm taking it public elected to redeem, giving it an expected $400 million on its upcoming debut.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 400000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/dems-want-secs-answers-on-ai-investment-advisors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-25"
+      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-27"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -201,26 +159,54 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-25"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-27"
     },
     {
-      "title": "Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT",
-      "summary": "Kalshi is reportedly in talks to raise new capital at a $40 billion valuation, reflecting growing investor confidence in regulated prediction markets.",
+      "title": "SOL reclaims $72, but onchain data flags weakening momentum",
+      "summary": "Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 40000000000,
+      "chain": "Solana",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "date": "2026-06-25"
+      "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-27"
     },
     {
-      "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
-      "summary": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.",
+      "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+      "summary": "Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 60000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "summary": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+      "summary": "A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,64 +215,78 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
-      "date": "2026-06-24"
+      "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
+      "date": "2026-06-26"
     },
     {
-      "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-      "summary": "The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report.",
+      "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
+      "summary": "An anti-human trafficking advocate said a Clarity Act provision could weaken accountability despite existing criminal laws.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 40000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
-      "date": "2026-06-24"
-    },
-    {
-      "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
-      "summary": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
-      "date": "2026-06-24"
+      "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
+      "date": "2026-06-26"
     },
     {
-      "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
-      "summary": "South Korean memory chip giant on Wednesday filed to raise nearly $30 billion in a U.S. offering.",
+      "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
+      "summary": "The next phase of AI agents may be less about chat and more about earning, spending and coordinating.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 30000000000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
-      "date": "2026-06-24"
+      "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
+      "date": "2026-06-26"
     },
     {
-      "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
-      "summary": "In this week's Crypto Long & Short, Nonco’s Caue Teixeira makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced",
+      "title": "Securitize expects to raise $400 million as tokenization firm nears public debut",
+      "summary": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 68000,
+      "loss_usd": 400000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-      "date": "2026-06-24"
+      "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
+      "summary": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
+      "summary": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
+      "date": "2026-06-26"
     }
   ],
   "errors": [
