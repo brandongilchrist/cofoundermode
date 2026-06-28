@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T07:59:44.639Z",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T08:10:42.690Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -23,6 +23,20 @@
       "date": "2026-06-17"
     },
     {
+      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+      "summary": "Nearly 50,000 BTC shifted to exchanges at a loss while short-term Bitcoin holders' stress level reached 2-year highs. Is BTC headed toward new lows?",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-27"
+    },
+    {
       "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
       "summary": "Senators John Curtis and Adam Schiff are concerned about the CFTC’s enforcement ability after a “troubling” report on Polymarket’s advertising.",
       "type": "news",
@@ -35,20 +49,6 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-06-27"
-    },
-    {
-      "title": "Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens",
-      "summary": "Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 13000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens",
-      "date": "2026-06-26"
     },
     {
       "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
@@ -79,32 +79,144 @@
       "date": "2026-06-26"
     },
     {
-      "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache",
-      "summary": "The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.",
+      "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
+      "summary": "The token is down nearly 7% on the week with the altcoins falling harder. Bitcoin and ether are both ending the second quarter in the red, a back-to-back losing first half that runs against the usual pattern.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 140000000,
+      "chain": "Ethereum",
+      "loss_usd": 60000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
-      "date": "2026-06-25"
+      "url": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
+      "date": "2026-06-28"
     },
     {
-      "title": "XRP risks drop below $1, but onchain data highlights silver lining",
-      "summary": "XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.",
+      "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+      "summary": "A “race condition” after the system was reset prevented the sequencers from catching up, causing the second outage.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-25"
+      "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "Bitcoin unspent transaction outputs signal capitulation underway: analyst",
+      "summary": "“These periods have always been profitable for long-term investors,” said CryptoQuant analyst Darkfost.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "Why a selloff in gold and silver is dragging bitcoin down",
+      "summary": "Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
+      "summary": "Despite the trading platform’s restructuring and the wave of crypto companies making cuts, signaling a late bear market, Altcoin Pro’s Horst, Anderson and Zhuleku explain there’s no reason to panic.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+      "summary": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against their bullion, mirroring bitcoin-backed lending without selling the underlying asset.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 23000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
+      "summary": "The prediction markets giant is under investigation in connection with false or deceptive marketing practices, according to news reports.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 3100000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
+      "summary": "Brian Armstrong of Coinbase and Star Xu of OKX offered new users sign up bonuses of up to 8% of their deposits or transfers from other accounts.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
+      "summary": "There is no single cause for the crypto market's 50% decline over the past year, the Binance founder told CoinDesk.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
+      "summary": "For years, investors had valued the firm well above its bitcoin holdings, giving Strategy massive flexibility to raise capital as needed — a situation Michael Saylor and team took full advantage of.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
+      "date": "2026-06-27"
     },
     {
       "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
@@ -135,17 +247,17 @@
       "date": "2026-06-27"
     },
     {
-      "title": "Securitize expects to raise $400M ahead of public debut",
-      "summary": "Securitize says less than 30% of shareholders in the acquisition firm taking it public elected to redeem, giving it an expected $400 million on its upcoming debut.",
+      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+      "summary": "The asset manager argues Bitcoin's fixed supply schedule does not undermine network security, even as miners face shrinking block rewards after each halving.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 400000000,
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-06-27"
     },
     {
@@ -163,36 +275,8 @@
       "date": "2026-06-27"
     },
     {
-      "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-      "summary": "Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
-      "summary": "Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 60000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "summary": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets.",
+      "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+      "summary": "The new investment vehicle arrives as asset managers expand TAO offerings and decentralized AI gains momentum following recent restrictions on Anthropic's models.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -200,93 +284,9 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
-      "summary": "A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
-      "summary": "An anti-human trafficking advocate said a Clarity Act provision could weaken accountability despite existing criminal laws.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
-      "summary": "The next phase of AI agents may be less about chat and more about earning, spending and coordinating.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "Securitize expects to raise $400 million as tokenization firm nears public debut",
-      "summary": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 400000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
-      "summary": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
-      "summary": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
-      "date": "2026-06-26"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-27"
     }
   ],
   "errors": [
