@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T08:10:42.690Z",
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T08:15:39.654Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -23,8 +23,8 @@
       "date": "2026-06-17"
     },
     {
-      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
-      "summary": "Nearly 50,000 BTC shifted to exchanges at a loss while short-term Bitcoin holders' stress level reached 2-year highs. Is BTC headed toward new lows?",
+      "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer license: Asia Express ",
+      "summary": "Hyperliquid follows Bybit onto Singapore's \"naughty\" list, Indonesia's new scheme to certify social media influencers promoting crypto: Asia Express.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -33,12 +33,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-27"
+      "url": "https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-30"
     },
     {
-      "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
-      "summary": "Senators John Curtis and Adam Schiff are concerned about the CFTC’s enforcement ability after a “troubling” report on Polymarket’s advertising.",
+      "title": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
+      "summary": "The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%",
+      "summary": "The deal adds Ethena's yield-generating token to BlackRock's risk management platform and create a $100 million liquidity facility for BlackRock's tokenized money market fund.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 100000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "Can AI drain DeFi? Separating Claude Mythos hype from reality",
+      "summary": "Claude Mythos has raised concerns about AI-driven attacks on DeFi protocols. However, the same AI tools are also available to security teams, not just attackers.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -47,12 +75,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-27"
+      "url": "https://cointelegraph.com/learn/claude-mythos-defi-hacks-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-29"
     },
     {
-      "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
-      "summary": "The regulatory agencies are seeking public feedback on cross-margining, collateral and risk management as cryptocurrency derivatives and multi-asset trading continue to expand.",
+      "title": "Prediction-market operational consolidation could spur M&A wave: Bernstein ",
+      "summary": "Bernstein says platforms are bringing exchange, clearing and brokerage infrastructure in-house, setting up potential deals while increasing antitrust and regulatory risks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/prediction-market-consolidation-ma-wave-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "Galaxy cuts CLARITY Act odds to 50% as Senate floor time narrows",
+      "summary": "Galaxy cut its 2026 CLARITY Act odds to 50%, warning that Senate floor time is running out before the August recess.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,26 +103,82 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-26"
+      "url": "https://cointelegraph.com/news/galaxy-cuts-2026-clarity-act-odds-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-29"
     },
     {
-      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
-      "summary": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.",
+      "title": "Excessive AI spending risks global financial consequences, BIS warns",
+      "summary": "The AI investment surge is a potential flashpoint for systemic risk, “as financing has relied on enormous debt and highly leveraged nonbank structures that can rapidly unwind,” one analyst said in response to the report.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 60000,
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-26"
+      "url": "https://cointelegraph.com/news/bis-sounds-alarm-on-ai-exuberance-as-debt-fueled-boom-risks-bust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-29"
     },
     {
-      "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
-      "summary": "The token is down nearly 7% on the week with the altcoins falling harder. Bitcoin and ether are both ending the second quarter in the red, a back-to-back losing first half that runs against the usual pattern.",
+      "title": "Bitcoin's 52-week correlation with USD/JPY hits -0.90, undercutting 'carry trade' theory",
+      "summary": "Bitcoin’s price has shown an unusually strong negative 52-week correlation with the dollar-yen exchange rate.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles",
+      "summary": "IBIT alone shed $300 million while smaller funds absorbed some of the outflow. The selloff lands as the same AI trade that crashed Korea a week ago now powers a record quarterly rally there.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 300000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe ",
+      "summary": "Dubai lawyer Irina Heaver says European founders are flocking to the UAE for faster licensing, a dedicated crypto regulator and access to markets beyond Europe.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "XRP holds $1 support as network activity rises and leverage clears out",
+      "summary": "Active addresses jumped 72% in two weeks while open interest fell to its lowest level since July 2025, giving traders a cleaner setup even as price remains trapped below resistance.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/30/xrp-holds-usd1-support-as-network-activity-rises-and-leverage-clears-out",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+      "summary": "Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain demand stayed quiet through the week's losses, and Strategy's plan to possibly sell bitcoin added to the caution.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -89,152 +187,12 @@
       "chain": "Ethereum",
       "loss_usd": 60000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
-      "date": "2026-06-28"
+      "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+      "date": "2026-06-30"
     },
     {
-      "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
-      "summary": "A “race condition” after the system was reset prevented the sequencers from catching up, causing the second outage.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-28"
-    },
-    {
-      "title": "Bitcoin unspent transaction outputs signal capitulation underway: analyst",
-      "summary": "“These periods have always been profitable for long-term investors,” said CryptoQuant analyst Darkfost.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-28"
-    },
-    {
-      "title": "Why a selloff in gold and silver is dragging bitcoin down",
-      "summary": "Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
-      "summary": "Despite the trading platform’s restructuring and the wave of crypto companies making cuts, signaling a late bear market, Altcoin Pro’s Horst, Anderson and Zhuleku explain there’s no reason to panic.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-      "summary": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against their bullion, mirroring bitcoin-backed lending without selling the underlying asset.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 23000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
-      "summary": "The prediction markets giant is under investigation in connection with false or deceptive marketing practices, according to news reports.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 3100000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-      "summary": "Brian Armstrong of Coinbase and Star Xu of OKX offered new users sign up bonuses of up to 8% of their deposits or transfers from other accounts.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-      "summary": "There is no single cause for the crypto market's 50% decline over the past year, the Binance founder told CoinDesk.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-      "summary": "For years, investors had valued the firm well above its bitcoin holdings, giving Strategy massive flexibility to raise capital as needed — a situation Michael Saylor and team took full advantage of.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
-      "summary": "Ripple's Brad Garlinghouse called Strategy's preferred-stock funding model \"financial engineering\" that distracted the market, pointing to STRC's slide to a record low as the evidence. He runs the company behind XRP, a bitcoin rival.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
-      "date": "2026-06-27"
-    },
-    {
-      "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
-      "summary": "A rotation out of chipmakers lifted much of the stock market, with the equal-weight S&P 500 at a record. Crypto was not part of it. Ether fell 8% on the week and the memecoins dropped harder.",
+      "title": "Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand",
+      "summary": "Executives at major platforms CoinDCX and CoinSwitch say the premium reflects a demand-supply imbalance and thin local liquidity.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,22 +201,36 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
-      "date": "2026-06-27"
+      "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
+      "date": "2026-06-30"
     },
     {
-      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
-      "summary": "The asset manager argues Bitcoin's fixed supply schedule does not undermine network security, even as miners face shrinking block rewards after each halving.",
+      "title": "Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar",
+      "summary": "BTC fell in Asia as the Japanese yen tanked to four-decade lows, lifting the dollar higher across the board.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
+      "loss_usd": 60000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Australia’s crypto travel rule is coming into effect: Here’s what's changing",
+      "summary": "From July, crypto exchanges operating in Australia will prompt for additional information on all outgoing and incoming transfers.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-27"
+      "url": "https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-30"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -272,21 +244,49 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-27"
+      "date": "2026-06-30"
     },
     {
-      "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
-      "summary": "The new investment vehicle arrives as asset managers expand TAO offerings and decentralized AI gains momentum following recent restrictions on Anthropic's models.",
+      "title": "Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip",
+      "summary": "ARK Invest's biggest crypto stock purchases over the past three trading days were Coinbase and Circle, whose shares have fallen 17% and 27.6%, respectively, over the past month.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
+      "loss_usd": 43500000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
+      "summary": "Bitmine purchased about $43 million worth of Ether last week as it entered the Russell 1000 Index, bringing it closer to its goal of owning 5% of ETH’s supply.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 43000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Sovereign funds see Bitcoin discount as entry point: MidChains CEO",
+      "summary": "It sends “a very clear signal” to other institutions that may be sitting on the sidelines and looking at these larger funds as leaders, said MidChains CEO Basil Al Askari.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-06-27"
+      "url": "https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-06-30"
     }
   ],
   "errors": [
