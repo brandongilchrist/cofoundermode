@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "generated_at": "2026-07-05T09:43:32.672Z",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:27:07.979Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,22 +9,22 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Belgian police arrest suspected phishing gang leader tied to $572K theft",
-      "summary": "Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency.",
+      "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
+      "summary": "The approval means Ripple is now fully MiCA-compliant for payments, financial institutions, corporates and businesses across all 30 European Economic Area countries.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 572000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-03"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
+      "date": "2026-07-06"
     },
     {
-      "title": "Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness ",
-      "summary": "Shielded Labs said exchanges, mining pools and wallets may need more time to complete Zcash’s Z3 software migration and safely prepare for Ironwood.",
+      "title": "Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect",
+      "summary": "Thousands of crypto wallets across multiple blockchains could be vulnerable due to weak recovery phrase generation.",
       "type": "news",
       "severity": "high",
       "tags": [
@@ -33,8 +33,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-03"
+      "url": "https://cointelegraph.com/news/thousands-of-crypto-wallets-at-risk-from-ill-bloom-vulnerability-coinspect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-06"
     },
     {
       "title": "GPT-5.5-Cyber built a zlib fuzzing lab in a day",
@@ -51,22 +51,8 @@
       "date": "2026-07-02"
     },
     {
-      "title": "Approval Phishing: From Just One Case to Full-Scale Disruption",
-      "summary": "Chain of Thought is our new expert-hosted webinar series, taking you behind the scenes of real investigations, emerging typologies and… The post Approval Phishing: From Just One Case to Full-Scale Disruption appeared first on Chainalysis.",
-      "type": "analysis",
-      "severity": "high",
-      "tags": [
-        "exploit"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "Chainalysis",
-      "url": "https://www.chainalysis.com/blog/what-is-approval-phishing/",
-      "date": "2026-06-17"
-    },
-    {
-      "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-      "summary": "The token's 30-day and 365-day MVRV, a measure of how far holders are underwater, sit near -45% and -47%, lows Santiment says XRP has never reached before. Some traders read stretched losses as a contrarian signal.",
+      "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
+      "summary": "Japanese bond yields continue to rise, lifting their U.S. counterparts and posing a potential headwind for risk assets.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -75,26 +61,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
-      "date": "2026-07-04"
+      "url": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
+      "date": "2026-07-07"
     },
     {
-      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
-      "summary": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically converted into users’ base currency.",
+      "title": "SpaceX's Nasdaq 100 inclusion comes with a historical warning",
+      "summary": "The largest IPO ever enters the Nasdaq 100. Previous additions like Palantir and Strategy saw volatility after the index inclusion rather than the start of new rallies.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Polygon",
+      "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-04"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning",
+      "date": "2026-07-06"
     },
     {
-      "title": "Crypto bulls on firmer footing as U.S. rate-hike risk recedes ",
-      "summary": "Crypto ended the week in a more buoyant state after weak U.S. jobs data reduced the chances of a Fed interest-rate increase and Uniswap gained on a link-up with Robinhood.",
+      "title": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
+      "summary": "A reading that negative means investors would have been better off in risk-free assets like 10-year U.S. Treasuries.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "South Korea weighs action against Polymarket over gambling concerns ",
+      "summary": "South Korea’s media and communications review body will hear from Polymarket before deciding whether to issue a corrective request against the prediction market platform.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -102,37 +102,121 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/03/crypto-bulls-on-firmer-footing-as-u-s-rate-hike-risk-recedes",
-      "date": "2026-07-03"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-06"
     },
     {
-      "title": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
-      "summary": "Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.",
+      "title": "Binance taps into Bitcoin holders’ hunger for yield with new covered call yield play",
+      "summary": "The product, called BTC Yield, is designed exclusively for people who already hold bitcoin.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 100000,
+      "chain": "Optimism",
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
-      "date": "2026-07-05"
+      "url": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play",
+      "date": "2026-07-07"
     },
     {
-      "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
-      "summary": "Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous week, as Ethereum withdrawals surged to a three-year high.",
+      "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
+      "summary": "Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 1200000000,
+      "loss_usd": 526600000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "summary": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 20000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
+      "summary": "Buyers defended the session lows and pushed XRP back toward resistance, but muted overall volume left traders waiting for confirmation above $1.13-$1.14.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
+      "summary": "The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 213000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis",
+      "summary": "Bitcoin NUPL metric data suggested that BTC price action should make new cycle lows in order to preserve historical patterns.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 58000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-05"
+      "url": "https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets",
+      "summary": "The Digital Chamber filed an amicus brief urging the dismissal of the New York lawsuit seeking ownership of 39,069 dormant Bitcoin wallets, arguing it would set a dangerous precedent for self-custodial wallets.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 673900000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-07"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -146,95 +230,25 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-05"
+      "date": "2026-07-07"
     },
     {
-      "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap ",
-      "summary": "Part of the Ethereum Foundation’s plan to make Ethereum more private and scalable is to introduce a new virtual machine, with leanISA and RISC-V among the top candidates.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-      "summary": "Moonbeam didn’t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Multi-chain",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "summary": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-      "date": "2026-07-04"
-    },
-    {
-      "title": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "summary": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 63000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
-      "date": "2026-07-04"
-    },
-    {
-      "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-      "summary": "Binance founder Changpeng Zhao said Satoshi Nakamoto's bitcoin should be frozen before quantum computers can steal it. Not everyone agrees.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
-      "date": "2026-07-04"
-    },
-    {
-      "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
-      "summary": "A critical flaw in the Aptos blockchain, which was patched, gave researchers a near-90% success rate at breaking a core security guarantee, with attack costs of just hundreds of dollars.",
+      "title": "Trader loses $2M in ‘same-block backrun extraction’ exploit",
+      "summary": "One crypto trader noted the $2 million loss could have been prevented had the victim read the transaction route before signing the transaction.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 70000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
-      "date": "2026-07-04"
+      "chain": "",
+      "loss_usd": 2000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-07"
     },
     {
-      "title": "Why bitcoin's disconnect from record-high stocks won't last",
-      "summary": "Researchers at Schwab and Hashdex said AI has diverted capital from digital assets while bitcoin continues to follow a familiar post-halving recovery pattern.",
+      "title": "Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI",
+      "summary": "Yield Guild Games said tough crypto and video game market conditions mean its YGG Play business is no longer commercially sustainable.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -242,41 +256,13 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
-      "date": "2026-07-04"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/yield-guild-games-cuts-35-staff-shuts-game-publisher-to-focus-on-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-07"
     },
     {
-      "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
-      "summary": "The TRUMP token is down 96% from its peak, and 85% of secondary market wallets for WLFI are underwater, reflecting a broader downturn in the sector.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 3800000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
-      "date": "2026-07-04"
-    },
-    {
-      "title": "Europe led on crypto regulation. Now implementation must match ambition",
-      "summary": "No summary available.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
-      "date": "2026-07-04"
-    },
-    {
-      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-      "summary": "The region's regulators emphasized that a product's actual function as a derivative matters more than its commercial name or labeling when assessing compliance.",
+      "title": "Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says",
+      "summary": "“Investors are now more confident about the instrument,” said Grayscale’s Zach Pandl regarding STRC, which reclaimed $90 for the first time in three weeks.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -284,9 +270,23 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-      "date": "2026-07-04"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/strategys-bitcoin-sale-may-give-btc-a-durable-bottom-says-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "Trump says he became ‘a big crypto guy’ partly for politics",
+      "summary": "US President Donald Trump once called Bitcoin “a scam,” but admitted on Monday that he got involved in crypto “a little bit for politics.”",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-says-he-became-a-big-crypto-guy-for-the-politics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-07"
     }
   ],
   "errors": [
