@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "generated_at": "2026-07-10T10:24:53.261Z",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:04:00.825Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,20 +8,6 @@
   "items_found": 70,
   "items_curated": 20,
   "items": [
-    {
-      "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
-      "summary": "Hong Kong’s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-09"
-    },
     {
       "title": "GPT-5.5-Cyber built a zlib fuzzing lab in a day",
       "summary": "We’re running Patch the Planet, an ongoing collaboration with OpenAI that pairs Trail of Bits engineers directly with more than 30 open-source projects. Its goal is to front-run a serious problem facing open-source maintainers: highly capable models like GPT-5.5-Cyber will soon c",
@@ -37,32 +23,32 @@
       "date": "2026-07-02"
     },
     {
-      "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
-      "summary": "Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.",
+      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+      "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 15600000000,
+      "chain": "Arbitrum",
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
-      "date": "2026-07-09"
+      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+      "date": "2026-07-12"
     },
     {
-      "title": "Crypto remains resilient in face of renewed Middle East tensions",
-      "summary": "BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly unconcerned by U.S. airstrikes on Iran. Bitcoin is now up 9% since the end of June.",
+      "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+      "summary": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 63000,
+      "chain": "Ethereum",
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions",
-      "date": "2026-07-09"
+      "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+      "date": "2026-07-11"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -79,78 +65,8 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
-      "summary": "Polymarket's application to allow users to take positions that are not fully collateralized follows authorization granted to rival Kalshi in March.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Bitcoin's $60,000-$70,000 range becomes third longest consolidation in history",
-      "summary": "Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 60000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
-      "summary": "The bitcoin treasury company is working with JPYC and Progmat to explore tokenized credit products backed by bitcoin, aiming to create efficient, 24/7 credit markets in Japan.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch",
-      "summary": "A smoother long-term MACD just flipped bullish, pointing to more upside. Here are key levels that will decide if the ongoing bounce turns into a full blown uptrend.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Live markets: Bitcoin tops $64,000 as selling pressure on Coinbase eases",
-      "summary": "Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 95000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "XRP up 2% as buyers push through $1.10 resistance",
-      "summary": "A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support.",
+      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+      "summary": "The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,54 +75,54 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
-      "date": "2026-07-10"
+      "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
+      "date": "2026-07-12"
     },
     {
-      "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
-      "summary": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
-      "summary": "Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.",
+      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+      "summary": "Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered winding the company down and handing its XRP to shareholders before deciding to fight the 2020 lawsuit.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 64000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
-      "date": "2026-07-10"
+      "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+      "date": "2026-07-12"
     },
     {
-      "title": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report",
-      "summary": "Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led by Morgan Stanley for its Kentucky data center campus leased by AI company Anthropic.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+      "summary": "The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 3500000000,
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-10"
+      "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-12"
     },
     {
-      "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
-      "summary": "Metaplanet said it is studying Bitcoin-backed digital credit products in Japan with JPYC and Progmat, but no product has been launched.",
+      "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
+      "summary": "The sales come months after a major Empery shareholder demanded the firm ditch its Bitcoin treasury strategy and force the resignation of its CEO and board.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -215,78 +131,162 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-10"
+      "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-12"
     },
     {
-      "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
-      "summary": "Bitcoin bulls faced \"crucial resistance\" at $65,000 next as BTC price action diverged from oil and US dollar strength.",
+      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 9000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "summary": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 64300,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
-      "summary": "EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-10"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "date": "2026-07-11"
     },
     {
-      "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
-      "summary": "Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun.",
+      "title": "The UK has finally shown it’s serious about crypto ",
+      "summary": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "summary": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+      "summary": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 300000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+      "summary": "Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+      "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 70000000,
+      "loss_usd": 1800,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-10"
+      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-11"
     },
     {
-      "title": "Zcash targets July 28 launch for Ironwood network upgrade",
-      "summary": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.",
+      "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+      "summary": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s onchain oracle verifier.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
+      "chain": "",
+      "loss_usd": 9000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-10"
+      "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-11"
     },
     {
-      "title": "Hackers tried to backdoor Injective npm package to steal wallet keys ",
-      "summary": "The incident is significant for developers and applications that handle Injective wallet workflows, Socket researchers said.",
+      "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+      "summary": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-10"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+      "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
+      "summary": "More than 70,000 agentic accounts have already been created by Robinhood equities and options traders since late May, when Robinhood launched a beta version of the product.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-11"
     }
   ],
   "errors": [
