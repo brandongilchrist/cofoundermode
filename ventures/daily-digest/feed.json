@@ -1,13 +1,27 @@
 {
-  "date": "2026-07-13",
-  "generated_at": "2026-07-13T10:29:25.191Z",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:05:42.817Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 69,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Rust-proof your code with our new Testing Handbook chapter",
+      "summary": "We’ve added a new chapter to our Testing Handbook: a comprehensive guide to security testing Rust programs. This chapter covers the tools and techniques we use at Trail of Bits to validate the security of Rust programs and systems. fn main() {(|f:&dyn Fn(u128)->Box< dyn Iterator<",
+      "type": "analysis",
+      "severity": "high",
+      "tags": [
+        "audit"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/07/13/rust-proof-your-code-with-our-new-testing-handbook-chapter/",
+      "date": "2026-07-13"
+    },
     {
       "title": "GPT-5.5-Cyber built a zlib fuzzing lab in a day",
       "summary": "We’re running Patch the Planet, an ongoing collaboration with OpenAI that pairs Trail of Bits engineers directly with more than 30 open-source projects. Its goal is to front-run a serious problem facing open-source maintainers: highly capable models like GPT-5.5-Cyber will soon c",
@@ -23,32 +37,46 @@
       "date": "2026-07-02"
     },
     {
-      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
-      "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
+      "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
+      "summary": "Japanese investment bank Mizuho reiterated its neutral rating on Circle, saying OCC approval for a national trust bank doesn't address slowing USDC growth or rising competition.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Arbitrum",
+      "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-      "date": "2026-07-12"
+      "url": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
+      "date": "2026-07-13"
     },
     {
-      "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-      "summary": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
+      "title": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
+      "summary": "The Securities Transfer Association, an industry group for transfer agents, said company-authorized tokenization should receive preferential treatment under future rules.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-      "date": "2026-07-11"
+      "url": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' closed Hormuz Strait",
+      "summary": "Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric between the US and Iran.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 62000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-13"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -65,8 +93,50 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections",
-      "summary": "Structural change can create lasting opportunities, but explosive rallies in semiconductors, metals and bitcoin show how quickly strong narratives can become speculative excess.",
+      "title": " Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
+      "summary": "Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July. Today's inflation print is the next test.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 62600,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
+      "summary": "Coins from the Farace and BTC-e seizures moved through fresh wallets before landing on the exchange, despite president Donald Trump's previous no-sell reserve order.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 288000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Solo bitcoin miner makes $200,000 using $150 equipment",
+      "summary": "Solo Bitcoin mining has surged, with 24 blocks found in the past 12 months, a 41% increase year over year.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 200000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
+      "summary": "Major cryptocurrencies have dropped by 2% or more in 24 hours as traders boosted bets of a July Fed rate hike.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -75,54 +145,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections",
-      "date": "2026-07-13"
+      "url": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
+      "date": "2026-07-14"
     },
     {
-      "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting July 13.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush",
-      "summary": "The liquidations were minor, running at about a sixth of what the market saw at its worst over the past 30 days, per CoinGlass.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 63000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
-      "summary": "Gold, oil, stocks and bonds all moved sharply on the fourth round of U.S. strikes on Iran, but bitcoin is little-changed.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 63800,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/13/bitcoin-holds-near-usd63-800-as-war-driven-selloff-hits-everything-but-crypto",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
-      "summary": "Lawson will test yen stablecoin payments in Tokyo as Netstars launches a merchant service supporting USDC, USDT and JPYC.",
+      "title": "South Korea to test tokenized government bonds with CBDC in 2027",
+      "summary": "South Korea will test tokenized government bonds linked to the Bank of Korea’s wholesale CBDC system in 2027 as token securities rules take effect.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,8 +159,22 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-13"
+      "url": "https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "US spot Bitcoin ETFs post $425M outflow after brief rebound",
+      "summary": "US spot Bitcoin ETFs saw their largest single-day outflows in July, with $424.66 million leaving the funds, reversing a brief return to positive weekly flows.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 425000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-14"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -146,25 +188,11 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-13"
+      "date": "2026-07-14"
     },
     {
-      "title": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx",
-      "summary": "The AI-native cohort of the expanding gig economy could increasingly use stablecoins to avoid slow and expensive traditional payment rails, Australian crypto exchange Swyftx said.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 262000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ai-enabled-businesses-freelancers-could-add-262b-in-stablecoin-volumes-swyftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
-      "summary": "Thailand has been plagued by Chinese-affiliated scam centers, with illicit gains flowing through a “gray money” economy.",
+      "title": "White House crypto adviser Patrick Witt to report for military training: Report",
+      "summary": "Witt’s departure comes during a critical moment for the CLARITY Act, with deputy director Harry Jung expected to assume his responsibilities.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -173,110 +201,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-13"
+      "url": "https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-14"
     },
     {
-      "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
-      "summary": "Analysts are not yet ready to call it a recovery in institutional demand for Bitcoin.",
+      "title": "US government moves $297M in seized Bitcoin, Ether to Coinbase Prime",
+      "summary": "The transfers have raised questions over Trump’s Bitcoin reserve pledge, though deposits to Coinbase Prime do not confirm an impending sale.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 197000000,
+      "chain": "Ethereum",
+      "loss_usd": 297000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-13"
+      "url": "https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-14"
     },
     {
-      "title": "Signs of life?: State of Crypto ",
-      "summary": "Several sources told CoinDesk that a new draft of the Clarity Act may drop this week, but challenges remain.",
+      "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
+      "summary": "Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now, as Hyundai experiments with Avalanche for global stablecoin transfers. Asia Express",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "summary": "The market shrank by $7.7 billion in June alone, the largest dollar amount since May 2022's Terra-Luna crash, but stablecoins will likely resume their long-term growth, one analyst said.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 10000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-      "summary": "The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
-      "summary": "The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-      "summary": "Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered winding the company down and handing its XRP to shareholders before deciding to fight the 2020 lawsuit.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
-      "summary": "Even Ethereum's critics say Robinhood Chain is bullish for ETH. Nigel Farage and US President Donald Trump become embroiled in crypto related scandals, and more.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
+      "loss_usd": 122000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-12"
+      "url": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-14"
     },
     {
-      "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
-      "summary": "Standard Chartered sees communication challenges facing the biggest digital asset treasury company as \"muddying the waters\" for Bitcoin in the near term.",
+      "title": "CLARITY Act gains second law enforcement endorsement before Senate push",
+      "summary": "The Federal Law Enforcement Officers Association expressed support for the CLARITY Act but urged changes to the legislation’s language.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +243,50 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-12"
+      "url": "https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
+      "summary": "Binance.US is betting ultra-low fees, new regulated products and deeper liquidity will help it regain customers after two years of regulatory setbacks.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
+      "summary": "Institutional adoption of crypto is accelerating even as digital asset prices fail to reflect the industry's strongest fundamentals in years, Seth Ginns said.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
+      "summary": "TeraWulf says its $19 billion AI hosting agreement with Anthropic underscores its transformation from a Bitcoin miner into an AI infrastructure company.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 19000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race",
+      "date": "2026-07-13"
     }
   ],
   "errors": [
