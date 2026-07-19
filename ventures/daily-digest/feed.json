@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-17",
-  "generated_at": "2026-07-17T09:10:57.347Z",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:05:47.283Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,6 +8,20 @@
   "items_found": 70,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Kaspersky identifies malware framework targeting crypto investors",
+      "summary": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-18"
+    },
     {
       "title": "Rust-proof your code with our new Testing Handbook chapter",
       "summary": "We’ve added a new chapter to our Testing Handbook: a comprehensive guide to security testing Rust programs. This chapter covers the tools and techniques we use at Trail of Bits to validate the security of Rust programs and systems. fn main() {(|f:&dyn Fn(u128)->Box< dyn Iterator<",
@@ -37,6 +51,62 @@
       "date": "2026-07-02"
     },
     {
+      "title": "France orders country's internet service providers to block Polymarket",
+      "summary": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "French gambling regulator orders ISPs to block Polymarket",
+      "summary": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
+      "summary": "A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 63000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
+      "summary": "Crypto fell as AI stock fatigue and U.S.-Iran tensions weighed on sentiment, though a technical measure hints at oversold conditions heading into the weekend.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 63000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
+      "date": "2026-07-17"
+    },
+    {
       "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
       "summary": "Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
       "type": "news",
@@ -51,18 +121,18 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
-      "summary": "A former CFTC commissioner urged lawmakers not to “kill all the hard work that we put in the rest of the bill” by making ethics a make-or-break issue on crypto market structure.",
+      "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
+      "summary": "With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump’s earnings between January and July ahead of a 2027 deadline.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 0,
+      "loss_usd": 1400000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-16"
+      "url": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-17"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -79,50 +149,22 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
-      "summary": "Brian Chesky regained control of his account and told any new crypto followers he would be a \"disappointing follow\".",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "BSC",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
-      "summary": "Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.",
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "summary": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
-      "date": "2026-07-17"
+      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "date": "2026-07-19"
     },
     {
-      "title": "This $28 million ether market bet aims to profit from pure market chaos",
-      "summary": "The mega trade aims to profit from a potential surge in ether price turbulence.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 28000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Bitcoin Ordinals leader proposes a way to bypass data restriction efforts",
-      "summary": "While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
+      "title": "Crypto executives say digital native generations may never need a bank account",
+      "summary": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,12 +173,26 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
-      "date": "2026-07-17"
+      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "date": "2026-07-18"
     },
     {
-      "title": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
-      "summary": "A macOS malware steals credentials to hijack Telegram sessions, decrypt cryptocurrency wallets or trick users into entering their wallet recovery phrases through fake applications.",
+      "title": "DOG Mode explains Bitcoin's next governance fight",
+      "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "summary": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -144,23 +200,51 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-17"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "date": "2026-07-18"
     },
     {
-      "title": "Bitcoin ETFs add $368M in three-day buying streak",
-      "summary": "US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-day inflow total to about $368 million as Bitcoin attempted a price recovery.",
+      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+      "summary": "About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 368000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-17"
+      "loss_usd": 1600000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "summary": "Large traders are betting on a BTC price rise to $72,000 by the end of the month, latest options market flow suggests.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 72000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Tokenization has become a strategic priority for 84% of financial firms",
+      "summary": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "date": "2026-07-18"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -174,81 +258,25 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-17"
+      "date": "2026-07-18"
     },
     {
-      "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
-      "summary": "“Over time the economic incentives will drive $DOG Mode’s adoption and force Bitcoin Core to stop gatekeeping and allow these completely valid transactions,” said Leonidas.",
+      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "summary": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
       "date": "2026-07-17"
     },
     {
-      "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
-      "summary": "The launch gives Bybit a locally operated platform in one of Asia’s largest crypto markets, home to more than 21 million crypto exchange users.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump Media sells Wall Street low-latency access to Trump posts",
-      "summary": "The paid Truth API is aimed at high-frequency trading firms seeking “the fastest” access to market-moving Truth Social posts, including those from US President Donald Trump.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
-      "summary": "“If we are not welcome, there are many other countries that would welcome us,” said Network School founder Balaji Srinivasan in a message to the Malaysian prime minister.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
-      "summary": "Bitcoin futures traders are propping up the current market move, while liquidation heatmap data provides hints on where BTC price may go next.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "summary": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets.",
+      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
+      "summary": "Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,36 +285,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
-      "summary": "The exchange's first institutional funding round values it at $20 billion and will fund expansion into tokenized securities and derivatives.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 20000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-      "summary": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 53000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
-      "date": "2026-07-16"
+      "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
+      "date": "2026-07-17"
     }
   ],
   "errors": [
