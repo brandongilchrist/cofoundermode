@@ -1,41 +1,13 @@
 {
-  "date": "2026-07-21",
-  "generated_at": "2026-07-21T09:28:26.809Z",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T09:25:17.342Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 70,
+  "items_found": 69,
   "items_curated": 20,
   "items": [
-    {
-      "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-      "summary": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
-      "summary": "Permissionless prediction markets will become available first on testnet and later on mainnet, Hyperliquid said.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
-      "date": "2026-07-20"
-    },
     {
       "title": "Rust-proof your code with our new Testing Handbook chapter",
       "summary": "We’ve added a new chapter to our Testing Handbook: a comprehensive guide to security testing Rust programs. This chapter covers the tools and techniques we use at Trail of Bits to validate the security of Rust programs and systems. fn main() {(|f:&dyn Fn(u128)->Box< dyn Iterator<",
@@ -65,6 +37,34 @@
       "date": "2026-07-02"
     },
     {
+      "title": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
+      "summary": "Geopolitical risks, rising rates, and fresh regulatory setbacks send crypto lower as key Democrats demand stronger safeguards in the market structure bill.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
+      "summary": "BTC retreated from a one-month high as WTI crude topped $85 for the first time since June, reigniting inflation concerns and pushing investors toward gold, silver and the safety of bitcoin over altcoins.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Mutation testing comes to DAML",
       "summary": "In April we released Mewt, our open-source mutation-testing engine that finds the gaps in your test suite. Today we’re expanding it with support for DAML, the language Canton Network applications are written in. Mewt now reads DAML, generates several classes of mutants (including",
       "type": "analysis",
@@ -79,8 +79,22 @@
       "date": "2026-07-08"
     },
     {
-      "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-      "summary": "XRP pushed higher over 24 hours and tested short-term resistance, but the larger chart still needs a clean break above the $1.24-$1.28 supply zone to confirm a stronger reversal.",
+      "title": "Live markets: Bitcoin trades above $65,000 as Alphabet's bigger AI bill props up the chip trade",
+      "summary": "Alphabet beat on revenue but raised its AI spending forecast again, sending its stock lower after hours. For the chip complex bitcoin tracks, more spending is the bullish read.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 65000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "BitMEX, the exchange that invented perps, is shutting down",
+      "summary": "BitMEX, co-founded by Arthur Hayes in 2014, redefined the global crypto market by introducing the 100x leverage perpetual swap.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -89,26 +103,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-      "date": "2026-07-21"
+      "url": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
+      "date": "2026-07-23"
     },
     {
-      "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
-      "summary": "The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 727000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-      "summary": "The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions.",
+      "title": "24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries",
+      "summary": "The bank will begin testing tokenized Treasuries on a private blockchain by year-end and expand its settlement network to cover more international trading hours.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -117,26 +117,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-      "date": "2026-07-21"
+      "url": "https://www.coindesk.com/business/2026/07/23/24-7-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-u-s-treasuries",
+      "date": "2026-07-23"
     },
     {
-      "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
-      "summary": "Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 600000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "UK parliamentary group probes banking barriers for crypto firms",
-      "summary": "A UK parliamentary group launched an inquiry into banking restrictions on crypto firms and consumers, including their impact on investment and competition.",
+      "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
+      "summary": "Korbit, South Korea's first cryptocurrency exchange, has joined the Mirae Asset Group family, marking the first time a traditional Korean financial group's affiliate has taken a controlling stake in a domestic crypto exchange.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -144,37 +130,135 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
+      "date": "2026-07-23"
     },
     {
-      "title": "Bitcoin ETFs post five-day inflow streak, longest since May",
-      "summary": "US spot Bitcoin ETFs recorded $227 million in inflows as BTC climbed above $65,000, extending their longest winning streak since early May.",
+      "title": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
+      "summary": "The attacks hit Verus, B² Network and other cross-chain systems, showing how compromised keys, upgrade powers and validation checks can empty protocols without breaking the underlying cryptography.",
       "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 227000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-      "summary": "The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-first strategy.",
-      "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
+      "loss_usd": 35000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
+      "summary": "Security firms said the attacker used enough hot-validator signatures to approve a 24.15 million USDC withdrawal, while Arbitrum said its native bridge was not affected.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Arbitrum",
+      "loss_usd": 24000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "XRP whales accumulate as small holders capitulate ",
+      "summary": "XRP whales accumulate 2.8% more tokens over five weeks as small holders capitulate, sending the price back above $1.16.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Bitcoin may have bottomed before its traditional cycle low: Grayscale’s Pandl",
+      "summary": "Grayscale’s head of research said that Bitcoin may have bottomed, arguing that macro factors, such as interest rate decisions as increasingly driving the price action of this maturing asset class.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
+      "url": "https://cointelegraph.com/markets/grayscale-bitcoins-price-bottomed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Home invasions became most common crypto wrench attack in H1 2026: CertiK",
+      "summary": "Crypto home invasions rose to 20 in H1 2026 from one a year earlier, while France accounted for 33 of 52 verified wrench attacks, according to CertiK.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-home-invasions-wrench-attacks-certik-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "BitMEX to shut down after 11 years in crypto derivatives",
+      "summary": "BitMEX announced it will shut down operations on Sept. 23, 2026, after owner HDR Global Trading Limited decided to close the crypto exchange.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitmex-crypto-derivatives-exchange-shut-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Mirae Asset completes Korbit acquisition, becomes largest shareholder",
+      "summary": "Mirae Asset Consulting has become Korbit’s largest shareholder after completing its acquisition, with the exchange saying trading and customer asset protections are unchanged.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/mirae-asset-korbit-acquisition-largest-shareholder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Bitcoin ETFs approach $1B in 7-session inflow run",
+      "summary": "US spot Bitcoin ETFs recorded $69 million in inflows on Wednesday, extending their inflow streak to seven sessions and bringing total inflows during the period to nearly $1 billion",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-1-billion-7-session-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Kakao taps Circle to explore won stablecoin payment infrastructure",
+      "summary": "Kakao Group and Circle signed an MOU to explore won stablecoin payments, remittances, merchant settlement and tokenized financial services.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-23"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -188,53 +272,11 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
+      "date": "2026-07-23"
     },
     {
-      "title": "Grayscale files S-1 for first US Worldcoin ETF",
-      "summary": "The filing expands Grayscale’s growing lineup of crypto-related exchange-traded products outside of Bitcoin and Ether.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/grayscale-files-s-1-for-worldcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Celsius co-founders Leon, Goldstein to pay FTC over $6M ",
-      "summary": "The settlements add to former Celsius CEO Alex Mashinsky’s $10 million FTC settlement in April.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 6000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express",
-      "summary": "Retail users in Vietnam who trade on offshore crypto exchanges like Binance or OKX face heavy penalties. Network School controversy in Malaysia over Israeli citizen ban.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1900,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/binance-users-face-1900-fines-in-vietnam-coinbase-in-china-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "London Stock Exchange eyes overnight trading launch in 2027: FT ",
-      "summary": "The move comes as traditional exchanges face growing competition from crypto markets and tokenized equity platforms that offer around-the-clock trading.",
+      "title": "Swiss bank BancaStato launches regulated crypto trading with Sygnum",
+      "summary": "Swiss cantonal bank BancaStato integrated Sygnum’s crypto trading and custody services into its Avaloq-powered digital banking apps for Bitcoin and other assets.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,50 +285,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/london-stock-exchange-plans-round-the-clock-trading-in-2027-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Patrick Witt defers military training as CLARITY heads to Senate ",
-      "summary": "The decision keeps the administration’s chief crypto policy negotiator in place during what could be a decisive few weeks for the CLARITY Act.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Exodus to cut 25% of global workforce in payments shift",
-      "summary": "This restructuring is part of a strategy to build a full-stack payments platform following the company's acquisitions of Monavate and Baanx.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
-      "summary": "The deals sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
-      "date": "2026-07-20"
+      "url": "https://cointelegraph.com/news/bancastato-regulated-crypto-trading-sygnum-avaloq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-23"
     }
   ],
   "errors": [
