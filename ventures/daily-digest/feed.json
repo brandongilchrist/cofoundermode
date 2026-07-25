@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T09:22:16.925Z",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:02:09.147Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,7 +9,7 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "title": "Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
       "summary": "The Bitcoin donation can be used to support Donald Trump as a New York court considers whether to reverse a $5 million settlement between the CFTC and Gemini.",
       "type": "news",
       "severity": "high",
@@ -51,8 +51,8 @@
       "date": "2026-07-02"
     },
     {
-      "title": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
-      "summary": "The Goldman Sachs CEO said the crypto market structure bill would create a more stable regulatory framework, breaking with other major bank leaders who oppose key stablecoin provisions.",
+      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
+      "summary": "A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -60,37 +60,23 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules",
-      "date": "2026-07-23"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-24"
     },
     {
-      "title": "Polymarket to challenge France’s nationwide website block",
-      "summary": "France’s regulator has said the platform still promoted illegal gambling and cited loss, identity-check and market-manipulation risks.",
+      "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
+      "summary": "Thailand’s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/23/polymarket-to-challenge-france-s-nationwide-website-block",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern",
-      "summary": "Chipmaker Intel's revenue beat helped ease sentiment after a bruising session for tech stocks, with bitcoin holding near $65,000.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 65000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade",
-      "date": "2026-07-23"
+      "loss_usd": 50000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-24"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -107,8 +93,8 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
-      "summary": "Dogecoin dropped 4.5% and ether 2.5%, leading a broad but shallow retreat across the majors, though most remain higher on the week ahead of next week's Fed meeting.",
+      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -116,55 +102,13 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
-      "date": "2026-07-24"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-25"
     },
     {
-      "title": "Ripple’s RLUSD gets two boosts as transfer volume drops 25%",
-      "summary": "Ripple launched an institutional minting platform and added RLUSD to Notabene’s compliance network as holder growth rose but monthly transfer volume fell to $10.95 billion.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 10950000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
-      "summary": "The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting point for a broader ecosystem that connects RWAs, stablecoins and digital assets.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
-      "summary": "The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 800000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
-      "summary": "Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub for tokenized assets, stablecoins and digital finance.",
+      "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+      "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -172,83 +116,27 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
       "date": "2026-07-24"
     },
     {
-      "title": "Ripple launches Mint to expand institutional access to RLUSD",
-      "summary": "Ripple launches Mint to expand RLUSD access for institutions as the stablecoin’s market cap approaches $1.6 billion.",
+      "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
+      "summary": "The project is moving away from basic network expansion to focus entirely on integrating its biometric screening devices across enterprise software suites.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 1600000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "loss_usd": 52500000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
       "date": "2026-07-24"
     },
     {
-      "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-      "summary": "Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million sale of its two West Texas mining sites as part of its future creditor recovery program.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 52000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "EU widens Belarus ownership ban to all crypto service providers ",
-      "summary": "The EU will bar Belarusian nationals and residents from owning, controlling or managing exchanges and other MiCA-regulated crypto firms from Aug. 25.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Bitcoin ETFs snap seven-day inflow streak with $225M in outflows",
-      "summary": "After attracting nearly $1 billion over seven trading sessions, US-listed spot Bitcoin ETFs recorded their first daily net outflow since July 13.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown ",
-      "summary": "The proposed class action alleges BitMEX used privileged trading access and server freezes to profit from forced liquidations.",
+      "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
+      "summary": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -256,27 +144,13 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
       "date": "2026-07-24"
     },
     {
-      "title": "Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico",
-      "summary": "On Wednesday, Senate Republicans released the proposed text for the CLARITY Act, which has been met with pushback from Democrats regarding ethics provisions.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown",
-      "summary": "BitMEX will have removed 65 derivative contracts and trading pairs in July, compared with just 19 across the first six months of the year.",
+      "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
+      "summary": "New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -284,8 +158,134 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+      "summary": "Smart collars monitor herd health in real time to prevent fraud, allowing local agricultural businesses to secure thousands in funding backed by livestock.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
+      "summary": "The EU is considering a ban on third-country crypto services providers for the first time and is targeting 14 crypto companies, which it has not named yet.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 120000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
+      "summary": "The SBI-owned crypto trading firm is said to have attracted takeover interest from a number of suitors over the past 18 months, but valuation has been a sticking point.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Crypto's institutional influx has killed the memecoin craze",
+      "summary": "Your day-ahead look for July 24, 2026",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "A $5 billion cluster has formed in bitcoin options. It tells a bullish story",
+      "summary": "Bitcoin's $70,000 and $72,000 call strikes on Deribit have accumulated nearly $5 billion in open interest, with calls outnumbering puts by a significant margin.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 5000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
+      "summary": "BTC held just under $65,000 and crypto broadly rose on Friday even as Brent crude surged to $97.66, its highest since May, as the Iran conflict persists and traditional markets stay muted.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 65000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy",
+      "summary": "The Singapore-based company once controlled nearly a fifth of Bitcoin's global hashrate. Now it owes $173 million and is selling off what's left.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 173000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse",
+      "summary": "Falling share prices, debt obligations and difficult market conditions are forcing former bitcoin accumulators to sell their holdings and restructure operations.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat",
+      "summary": "The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
       "date": "2026-07-24"
     }
   ],
