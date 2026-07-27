@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-26",
-  "generated_at": "2026-07-26T09:15:13.536Z",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T10:44:27.059Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -37,6 +37,34 @@
       "date": "2026-07-02"
     },
     {
+      "title": "Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets",
+      "summary": "Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, lifting equities and DeFi tokens while bitcoin held near $65,000 ahead of a pivotal Fed decision Wednesday.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 65000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
+      "summary": "For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-26"
+    },
+    {
       "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
       "summary": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
       "type": "news",
@@ -51,7 +79,7 @@
       "date": "2026-07-25"
     },
     {
-      "title": " Wise to resubmit US charter application under GENIUS Act",
+      "title": " Wise to resubmit US bank charter application under GENIUS Act",
       "summary": "The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
       "type": "news",
       "severity": "medium",
@@ -63,34 +91,6 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-07-25"
-    },
-    {
-      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
-      "summary": "A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
-      "summary": "Thailand’s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 50000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-24"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -107,8 +107,8 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
-      "summary": "The rally has no announcement behind it, other dog tokens haven't matched it, and Korean venues are carrying the volume.",
+      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
+      "summary": "Armstrong said blockchain technology acts as a general-purpose infrastructure that will underpin future automation rather than competing with it.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -117,12 +117,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
-      "date": "2026-07-26"
+      "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
+      "date": "2026-07-27"
     },
     {
-      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
-      "summary": "Users have a month to close trades and six months to withdraw, and the exchange gave no specific reason for closing.",
+      "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting July 27.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,12 +131,82 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
-      "date": "2026-07-26"
+      "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
+      "date": "2026-07-27"
     },
     {
-      "title": "BitMart to wind down exchange, end trading by Aug. 26",
-      "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
+      "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
+      "summary": "The decentralized data storage company says operations continue and proposes that token holders take equity in the restructured business — an unusual arrangement in bankruptcy.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+      "summary": "CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 65000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+      "summary": "As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+      "summary": "ETH outperforms BTC, hinting at potential altcoin rally, as the U.S. and Iran hold fire and oil drops.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 65000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
+      "summary": "POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
+      "summary": "BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CASPs, including banks and crypto platforms, in the third post-deadline update.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -145,68 +215,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-26"
+      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-27"
     },
     {
-      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
-      "summary": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
-      "summary": "New regulations for crypto trading, custody, and settlement in Russia take effect Sept. 1, with requirements for licensed intermediaries applying from July 2027.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
-      "summary": "The group allegedly breached Central Bank systems, converted crypto to cash via Chinese brokers, and used small transfers to evade detection.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "summary": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 500000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
-      "summary": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
+      "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
+      "summary": "Brazilian police suspect the group of shipping around 6.5 metric tons of cocaine and laundering billions in Brazilian reals through crypto-enabled illicit money brokers.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -215,78 +229,64 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-25"
+      "url": "https://cointelegraph.com/news/brazilian-police-cracks-down-on-crypto-fueled-international-drug-traffickers-suspected-of-moving-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-27"
     },
     {
-      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-      "summary": "The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
+      "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+      "summary": "Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointing to Base, USDC and x402 as key pieces of agentic finance.",
       "type": "news",
       "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
-      "summary": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
-      "type": "news",
-      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-25"
+      "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-27"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M ",
+      "summary": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 11800000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "BitMart withdrawals appear to slow following wind-down announcement",
+      "summary": "Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 69000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-25"
+      "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-27"
     },
     {
-      "title": "Fidelity joins push for Senate passage of CLARITY Act",
-      "summary": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+      "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+      "summary": "Garden Finance said no user funds or smart contracts were affected after an attacker compromised an independent solver’s off-chain database and inserted fraudulent swap records.",
       "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 0,
+      "chain": "Solana",
+      "loss_usd": 450000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-25"
+      "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-27"
     }
   ],
   "errors": [
