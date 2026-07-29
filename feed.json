@@ -1,13 +1,41 @@
 {
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T10:44:27.059Z",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T09:39:04.307Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 1,
-  "items_found": 69,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
+      "summary": "The upgrade retires Orchard, where a counterfeiting bug sat undetected for four years. Every coin inside now has to leave through a gate that caps withdrawals at verified deposits.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1700000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
+      "summary": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-28"
+    },
     {
       "title": "Rust-proof your code with our new Testing Handbook chapter",
       "summary": "We’ve added a new chapter to our Testing Handbook: a comprehensive guide to security testing Rust programs. This chapter covers the tools and techniques we use at Trail of Bits to validate the security of Rust programs and systems. fn main() {(|f:&dyn Fn(u128)->Box< dyn Iterator<",
@@ -37,36 +65,22 @@
       "date": "2026-07-02"
     },
     {
-      "title": "Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets",
-      "summary": "Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, lifting equities and DeFi tokens while bitcoin held near $65,000 ahead of a pivotal Fed decision Wednesday.",
+      "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
+      "summary": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 65000,
+      "loss_usd": 64000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets",
-      "date": "2026-07-27"
+      "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
+      "date": "2026-07-29"
     },
     {
-      "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
-      "summary": "For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-26"
-    },
-    {
-      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
-      "summary": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
+      "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+      "summary": "DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gambling tools, and it’s time traditional markets and regulators start embracing them.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -75,22 +89,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
-      "date": "2026-07-25"
-    },
-    {
-      "title": " Wise to resubmit US bank charter application under GENIUS Act",
-      "summary": "The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-25"
+      "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
+      "date": "2026-07-28"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -107,8 +107,22 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
-      "summary": "Armstrong said blockchain technology acts as a general-purpose infrastructure that will underpin future automation rather than competing with it.",
+      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
+      "summary": "The bitcoin miner reached a market valuation of roughly $2.8 billion based on its 44.9 million shares outstanding.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 2800000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
+      "summary": "The charges could result in life imprisonment, escalating an investigation that has already led to over 100 million rubles in fines for the platform this year.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -117,176 +131,162 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
-      "date": "2026-07-27"
+      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
+      "date": "2026-07-29"
     },
     {
-      "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting July 27.",
+      "title": "SpaceX is a battleground Solana must win",
+      "summary": "Perps are a trojan horse to bring all of traditional finance onchain, argues Brian Smith, president of the Jito Foundation.",
       "type": "news",
       "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
-      "summary": "The decentralized data storage company says operations continue and proposes that token holders take equity in the restructured business — an unusual arrangement in bankruptcy.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
-      "summary": "CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 65000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
-      "summary": "As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
-      "summary": "ETH outperforms BTC, hinting at potential altcoin rally, as the U.S. and Iran hold fire and oil drops.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 65000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
-      "summary": "POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
-      "summary": "BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CASPs, including banks and crypto platforms, in the third post-deadline update.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
-      "summary": "Brazilian police suspect the group of shipping around 6.5 metric tons of cocaine and laundering billions in Brazilian reals through crypto-enabled illicit money brokers.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/brazilian-police-cracks-down-on-crypto-fueled-international-drug-traffickers-suspected-of-moving-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-      "summary": "Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointing to Base, USDC and x402 as key pieces of agentic finance.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M ",
-      "summary": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 11800000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "BitMart withdrawals appear to slow following wind-down announcement",
-      "summary": "Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 69000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
-      "summary": "Garden Finance said no user funds or smart contracts were affected after an attacker compromised an independent solver’s off-chain database and inserted fraudulent swap records.",
-      "type": "news",
-      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 450000,
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+      "summary": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 60000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
+      "summary": "Citadel's macro team says Wednesday's hike isn't about the data. It's about Warsh's best shot at making a surprise actually count before the market stops being surprised.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Bitcoin rises toward $64,000 as Korea's record chip crash leaves crypto untouched",
+      "summary": "SK Hynix fell 17% after profit rose 557% and still missed estimates. Bitcoin is up 1%, and the Fed decides rates today.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 64000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-rises-toward-usd64-000-as-korea-s-record-chip-crash-leaves-crypto-untouched",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Hungary repeals crypto checks as first MiCA license is granted",
+      "summary": "Hungary removed mandatory third-party checks for crypto conversions as CoinCash received authorization to provide digital asset services under MiCA.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-27"
+      "url": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
+      "summary": "Gabriel Perez, who was accused of profiting from Kalshi bets tied to President Donald Trump’s speeches, is no longer employed by the federal government.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+      "summary": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 526000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
+      "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
+      "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly ",
+      "summary": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
+      "summary": "Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol fees, rejecting claims the change reduces liquidity providers’ earnings.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-29"
     }
   ],
   "errors": [
