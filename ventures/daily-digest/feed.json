@@ -1,40 +1,26 @@
 {
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29T09:39:04.307Z",
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:10:07.358Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
-  "sources_failed": 1,
-  "items_found": 70,
+  "sources_failed": 2,
+  "items_found": 69,
   "items_curated": 20,
   "items": [
     {
-      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
-      "summary": "The upgrade retires Orchard, where a counterfeiting bug sat undetected for four years. Every coin inside now has to leave through a gate that caps withdrawals at verified deposits.",
+      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+      "summary": "The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 1700000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
-      "date": "2026-07-28"
-    },
-    {
-      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-      "summary": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-28"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+      "date": "2026-08-01"
     },
     {
       "title": "Rust-proof your code with our new Testing Handbook chapter",
@@ -51,46 +37,60 @@
       "date": "2026-07-13"
     },
     {
-      "title": "GPT-5.5-Cyber built a zlib fuzzing lab in a day",
-      "summary": "We’re running Patch the Planet, an ongoing collaboration with OpenAI that pairs Trail of Bits engineers directly with more than 30 open-source projects. Its goal is to front-run a serious problem facing open-source maintainers: highly capable models like GPT-5.5-Cyber will soon c",
-      "type": "analysis",
-      "severity": "high",
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "summary": "Michael Coates, the foundation’s new CISO, said that AI vulnerabilities and fake identities will drive the next wave of blockchain security concerns.",
+      "type": "news",
+      "severity": "medium",
       "tags": [
-        "audit"
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Russia expands crypto mining ban to Moscow through 2032",
+      "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+      "summary": "DeFi risk management service LlamaRisk recommended that Aave wind down every reserve on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, but action against most of those instances was already taken.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "Trail of Bits",
-      "url": "https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet/",
-      "date": "2026-07-02"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-31"
     },
     {
-      "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
-      "summary": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
+      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+      "summary": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 64000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
-      "summary": "DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gambling tools, and it’s time traditional markets and regulators start embracing them.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
-      "date": "2026-07-28"
+      "loss_usd": 38000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-07-31"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -107,22 +107,22 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "summary": "The bitcoin miner reached a market valuation of roughly $2.8 billion based on its 44.9 million shares outstanding.",
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "summary": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active.",
       "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 2800000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
-      "date": "2026-07-29"
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-02"
     },
     {
-      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "summary": "The charges could result in life imprisonment, escalating an investigation that has already led to over 100 million rubles in fines for the platform this year.",
+      "title": "Strategy holds STRC dividend at 12%",
+      "summary": "Customarily, Michael Saylor and team have lifted the STRC dividend when it trades sizably below par, but not this month.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,168 +131,172 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
-      "date": "2026-07-29"
+      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "date": "2026-08-01"
     },
     {
-      "title": "SpaceX is a battleground Solana must win",
-      "summary": "Perps are a trojan horse to bring all of traditional finance onchain, argues Brian Smith, president of the Jito Foundation.",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 89000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "summary": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June’s total.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 2029999999.9999998,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "summary": "A mystery-shopping experiment found that exchange fees, foreign exchange spreads and banking rails mean stablecoin remittances are often no cheaper than traditional transfer means.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "summary": "Difficulty falls as weak mining economics reduce capacity, while forward markets signal little relief through year-end.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "summary": "CME argues that because bitcoin is a commodity, options tied to its value fall under CFTC jurisdiction, not the SEC's authority.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Everyone has the perps convergence backwards",
+      "summary": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "summary": "Binance founder Changpeng Zhao says hardware wallets can still have bugs and suggests spreading funds across multiple wallets after the major Coldcard security failure.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 70000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "summary": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 70000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
-      "date": "2026-07-29"
+      "loss_usd": 35000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-01"
     },
     {
-      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-      "summary": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
+      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+      "summary": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 60000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-      "date": "2026-07-29"
+      "loss_usd": 1000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-01"
     },
     {
-      "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
-      "summary": "Citadel's macro team says Wednesday's hike isn't about the data. It's about Warsh's best shot at making a surprise actually count before the market stops being surprised.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Bitcoin rises toward $64,000 as Korea's record chip crash leaves crypto untouched",
-      "summary": "SK Hynix fell 17% after profit rose 557% and still missed estimates. Bitcoin is up 1%, and the Fed decides rates today.",
+      "title": "Crypto PAC pours another $1M into Michigan House race",
+      "summary": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 64000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-rises-toward-usd64-000-as-korea-s-record-chip-crash-leaves-crypto-untouched",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Hungary repeals crypto checks as first MiCA license is granted",
-      "summary": "Hungary removed mandatory third-party checks for crypto conversions as CoinCash received authorization to provide digital asset services under MiCA.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 1000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
-      "summary": "Gabriel Perez, who was accused of profiting from Kalshi bets tied to President Donald Trump’s speeches, is no longer employed by the federal government.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
-      "summary": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 526000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-      "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
-      "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly ",
-      "summary": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
-      "summary": "Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol fees, rejecting claims the change reduces liquidity providers’ earnings.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-29"
+      "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-01"
     }
   ],
   "errors": [
     {
+      "source": "samczsun",
+      "error": "Status code 404"
+    },
+    {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 7332\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7439\nChar: &"
     }
   ]
 }
