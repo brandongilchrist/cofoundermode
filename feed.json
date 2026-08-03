@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-02",
-  "generated_at": "2026-08-02T09:10:07.358Z",
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T10:44:19.292Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -37,6 +37,34 @@
       "date": "2026-07-13"
     },
     {
+      "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
+      "summary": "The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings were valued 91% below their recorded costs.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 82500000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+      "summary": "The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-03"
+    },
+    {
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
       "summary": "Michael Coates, the foundation’s new CISO, said that AI vulnerabilities and fake identities will drive the next wave of blockchain security concerns.",
       "type": "news",
@@ -65,34 +93,6 @@
       "date": "2026-08-01"
     },
     {
-      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
-      "summary": "DeFi risk management service LlamaRisk recommended that Aave wind down every reserve on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, but action against most of those instances was already taken.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
-      "summary": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 38000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-07-31"
-    },
-    {
       "title": "Mutation testing comes to DAML",
       "summary": "In April we released Mewt, our open-source mutation-testing engine that finds the gaps in your test suite. Today we’re expanding it with support for DAML, the language Canton Network applications are written in. Mewt now reads DAML, generates several classes of mutants (including",
       "type": "analysis",
@@ -107,22 +107,50 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-      "summary": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active.",
+      "title": "Bithumb now targets 2028 IP after major internal restructuring",
+      "summary": "The South Korean crypto trading platform plans to see a preliminary listing review in 2027, but did not identify a proposed listing venue yet.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-02"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
+      "date": "2026-08-03"
     },
     {
-      "title": "Strategy holds STRC dividend at 12%",
-      "summary": "Customarily, Michael Saylor and team have lifted the STRC dividend when it trades sizably below par, but not this month.",
+      "title": "Live updates: Traders say bitcoin sell-off from $65,000 points to thin volume, not panic selling",
+      "summary": "ARP Digital’s Yusuf Fakhro said bitcoin’s weakness reflects stalled participation more than forced selling, with ETF flows turning negative, CME open interest back at 2023 levels and Strategy idle for a fifth straight week.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 65000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes",
+      "summary": "Bitcoin futures’ once-rich carry has evaporated, with quarterly basis yields trailing two‑year U.S. Treasuries since February, a sign of shrinking arbitrage and a maturing market.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Arbitrum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
+      "summary": "Robinhood’s U.K. arm was added to the FCA's list of registered cryptoasset companies as of July 31.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,40 +159,96 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
-      "date": "2026-08-01"
+      "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
+      "date": "2026-08-03"
     },
     {
-      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
+      "title": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
+      "summary": "The pending transactions signal replace-by-fee, so anyone who spots their address in the mempool has minutes to pay a higher fee and move funds first.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
+      "loss_usd": 114000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Aug. 3",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
+      "summary": "Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, but bitcoin and ether failed to catch a bid as fresh Coldcard-linked sweeps pushed observed losses to nearly $89 million.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
       "loss_usd": 89000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-      "date": "2026-08-01"
+      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+      "date": "2026-08-03"
     },
     {
-      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "summary": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June’s total.",
+      "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
+      "summary": "Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 165000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
+      "summary": "Michael Saylor’s company, Strategy, is now closely monitoring bitcoin’s 200-week moving average, a key long-term support level that the cryptocurrency has historically respected.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 2029999999.9999998,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-      "date": "2026-08-01"
+      "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+      "date": "2026-08-03"
     },
     {
-      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "summary": "A mystery-shopping experiment found that exchange fees, foreign exchange spreads and banking rails mean stablecoin remittances are often no cheaper than traditional transfer means.",
+      "title": "Bitcoin may find bear market bottom in August: 10x Research",
+      "summary": "Bitcoin could confirm an August bear-market bottom, though rising Treasury yields could force the Fed to raise rates in September, according to 10x Research.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "HashKey receives JPMorgan approval to open client money account",
+      "summary": "HashKey Exchange said it received approval to open client money accounts with JPMorgan, weeks after it launched customer fund accounts with DBS Bank.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -172,13 +256,13 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-      "date": "2026-08-01"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-03"
     },
     {
-      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-      "summary": "Difficulty falls as weak mining economics reduce capacity, while forward markets signal little relief through year-end.",
+      "title": "Bitget to exit Japan, close remaining positions after Dec. 31",
+      "summary": "The crypto exchange stopped accepting new registrations from Japan residents and will begin progressively restricting existing accounts on Nov. 1.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -186,27 +270,13 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-      "date": "2026-08-01"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-03"
     },
     {
-      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-      "summary": "CME argues that because bitcoin is a commodity, options tied to its value fall under CFTC jurisdiction, not the SEC's authority.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Everyone has the perps convergence backwards",
-      "summary": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -214,79 +284,9 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-      "summary": "Binance founder Changpeng Zhao says hardware wallets can still have bugs and suggests spreading funds across multiple wallets after the major Coldcard security failure.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 70000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "summary": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 70000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Onchain, in court: What happened in crypto legal news this week",
-      "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 35000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "summary": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Crypto PAC pours another $1M into Michigan House race",
-      "summary": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-01"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-03"
     }
   ],
   "errors": [
