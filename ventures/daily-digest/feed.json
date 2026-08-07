@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-06",
-  "generated_at": "2026-08-06T09:40:54.589Z",
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:15:23.591Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -23,6 +23,20 @@
       "date": "2026-08-06"
     },
     {
+      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+      "summary": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-06"
+    },
+    {
       "title": "Rust-proof your code with our new Testing Handbook chapter",
       "summary": "We’ve added a new chapter to our Testing Handbook: a comprehensive guide to security testing Rust programs. This chapter covers the tools and techniques we use at Trail of Bits to validate the security of Rust programs and systems. fn main() {(|f:&dyn Fn(u128)->Box< dyn Iterator<",
       "type": "analysis",
@@ -37,36 +51,22 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Live updates: Coinbase lets UK users trade U.S. equities. BTC trades near $65,000",
-      "summary": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
+      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "summary": "The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 65000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Bitcoin Red Team reports 5K findings in sweeping security audit ",
-      "summary": "“There’s a lot of chaos right now in the ecosystem. We absolutely understand that many people are being bombarded with security issues right now,” said Bitcoin developer Calle.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+      "date": "2026-08-07"
     },
     {
-      "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
-      "summary": "In a follow-up to his essay on sizing crypto risk, Lionsoul Global's Gregory Mall backtests bitcoin in a 60/40 across bull, bear and sideways regimes, showing how a straight bitcoin position, a large-cap basket and a trend-managed sleeve part ways and why the way you hold bitcoin",
+      "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
+      "summary": "Your day-ahead look for Aug. 6, 2026",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -75,8 +75,50 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
-      "date": "2026-08-05"
+      "url": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Live updates: Bitcoin flatlines near $64,000 ahead of Friday's jobs report",
+      "summary": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 64000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning",
+      "summary": "Bitcoin price action stayed compressed in an ongoing divergence from stocks and gold while US PMI data sparked fresh talk of “stagflation.”",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 65000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
+      "summary": "While only 12 of 46 documented attempts resulted in payment, data leaks and attacks on relatives are widening the physical risks facing crypto holders.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 30000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-06"
     },
     {
       "title": "Mutation testing comes to DAML",
@@ -93,50 +135,64 @@
       "date": "2026-07-08"
     },
     {
-      "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
-      "summary": "Federal prosecutors say Taj Tarsha misled backers and used investor funds for personal expenses.",
+      "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+      "summary": "Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 10000000,
+      "loss_usd": 64300,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
-      "date": "2026-08-06"
+      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
+      "date": "2026-08-07"
     },
     {
-      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-      "summary": "The S&P 500 just added roughly the entire crypto market's value this month. Bitcoin has barely moved, and the reasons go beyond the obvious.",
+      "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+      "summary": "Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 1200000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
-      "date": "2026-08-06"
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+      "date": "2026-08-07"
     },
     {
-      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "summary": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
+      "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
+      "summary": "The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 3200000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
+      "summary": "Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch closely. But it isn't confirmed, and one key level will decide if it plays out.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 100000000000,
+      "loss_usd": 76000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-      "date": "2026-08-06"
+      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+      "date": "2026-08-07"
     },
     {
-      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-      "summary": "CryptoQuant said large XRP spot orders point to \"quiet accumulation\" rather than a breakout, while ether’s price below realized value leaves holders underwater and gives it the strongest valuation case among BTC, ETH and XRP.",
+      "title": "XRP leads majors losses as Clarity Act vote slips to September",
+      "summary": "Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -145,82 +201,40 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-      "date": "2026-08-06"
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+      "date": "2026-08-07"
     },
     {
-      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
-      "summary": "The memecoin that defined the chain's debut has recovered to an $86 million cap. Tokenized assets, the chain's stated purpose, sit at $27.6 million.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 774000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Here are the possible outcomes for Clarity right now",
-      "summary": "The Senate has not yet indicated if it will advance the Digital Asset Market Clarity Act, and with its summer recess looming, here are the possible outcomes.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Yen stablecoin issuer JPYC’s Series B reaches $38M ",
-      "summary": "JPYC said it plans to use the new capital to expand its financial and Web3 ecosystem and accelerate adoption of its yen-pegged token.",
+      "title": "Senate won't vote on crypto Clarity Act before its summer break",
+      "summary": "The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 38000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+      "date": "2026-08-07"
     },
     {
-      "title": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%",
-      "summary": "Nasdaq-listed PowerCompute refinanced $18 million of debt through a Bitcoin-backed facility carrying an initial interest rate of about 2%.",
+      "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
+      "summary": "The Coldcard exploit, which caused more than $100 million in losses, helped push July crypto thefts to $247 million, making it the second-worst month of 2026.",
       "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 18000000,
+      "loss_usd": 247000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
+      "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-07"
     },
     {
-      "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
-      "summary": "US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 244000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
-      "summary": "Criminals are reportedly using fake websites and falsified documents to target customers searching for licensed crypto providers.",
+      "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+      "summary": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,12 +243,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
+      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-07"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
+      "summary": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Bitget explores licensed crypto presence in Bhutan",
+      "summary": "Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,12 +271,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
+      "url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-07"
     },
     {
-      "title": "Fed’s Cook says she’d support rate hike if disinflation stalls",
-      "summary": "Federal Reserve Governor Lisa Cook said she is “prepared to act” if inflation remains too high above the Fed’s target rate.",
+      "title": "US Senate pushes CLARITY Act vote to September",
+      "summary": "Senate Majority Leader John Thune confirmed that the chamber was “punting” the vote until September.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,36 +285,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/feds-cook-warns-persistent-inflation-could-prompt-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "ElizaOS token sinks 19% to record low after founder declares it ‘dead’",
-      "summary": "Eliza Labs founder Shaw Walters said the project transferred its remaining treasury to settle a tokenholder lawsuit and will continue building Eliza without an associated cryptocurrency.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Meta latest AI firm to see model go rogue during testing",
-      "summary": "The incident reportedly stemmed from a misconfigured testing environment, adding Meta to a growing list of AI firms whose models have escaped evaluation sandboxes.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
+      "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-07"
     }
   ],
   "errors": [
