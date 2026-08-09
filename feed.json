@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-08",
-  "generated_at": "2026-08-08T07:51:08.448Z",
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T07:54:23.609Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -21,6 +21,20 @@
       "source": "Trail of Bits",
       "url": "https://blog.trailofbits.com/2026/07/13/rust-proof-your-code-with-our-new-testing-handbook-chapter/",
       "date": "2026-07-13"
+    },
+    {
+      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "summary": "The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 10000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "date": "2026-08-08"
     },
     {
       "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
@@ -93,34 +107,6 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-      "summary": "The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
-      "summary": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "date": "2026-08-07"
-    },
-    {
       "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
       "summary": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data.",
       "type": "news",
@@ -135,18 +121,102 @@
       "date": "2026-08-07"
     },
     {
-      "title": "Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning",
-      "summary": "Bitcoin price action stayed compressed in an ongoing divergence from stocks and gold while US PMI data sparked fresh talk of “stagflation.”",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "summary": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "summary": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "summary": "The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "summary": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 65000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-06"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "summary": "The digital asset manager's CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "summary": "The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "summary": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "date": "2026-08-08"
     },
     {
       "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
@@ -163,8 +233,22 @@
       "date": "2026-08-08"
     },
     {
-      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-      "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
+      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+      "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -173,54 +257,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-08-08"
     },
     {
-      "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack ",
-      "summary": "Expedited discovery allows the exchange to seek account identities, balances and transaction histories from platforms with US operations.",
+      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+      "summary": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 1500000000,
+      "chain": "",
+      "loss_usd": 1000000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-08-08"
     },
     {
-      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "summary": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "summary": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 2000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-      "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
+      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -228,65 +284,9 @@
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
-      "summary": "The exchange has secured a preliminary injunction freezing stolen assets.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1500000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
-      "summary": "The OKX executive says Democrats have little incentive to hand Republicans a crypto victory before the midterms.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
-      "summary": "When FTX collapsed, the parts of it bound by law survived. Mainstream finance is now converging with digital assets, and the law built to protect it the same way is the one the Senate did not pass this week, argues Bullish's Randi Abernethy.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-      "summary": "The FSB said at least 20 individuals were arrested in connection with a ring that scammed an undetermined number of Russian citizens.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
-      "date": "2026-08-07"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-08"
     }
   ],
   "errors": [
