@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "generated_at": "2026-08-14T08:17:37.119Z",
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T07:32:13.258Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,6 +8,20 @@
   "items_found": 69,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
+      "summary": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 63000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+      "date": "2026-08-14"
+    },
     {
       "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
       "summary": "According to Financial Times, JPMorgan ended its banking relationship with Polymarket in late 2025 over regulatory concerns.",
@@ -20,6 +34,20 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
+      "summary": "JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over regulatory concerns but remains open to an underwriting role if the platform goes public.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-08-14"
     },
     {
@@ -65,48 +93,6 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
-      "summary": "Your day-ahead look for Aug. 13, 2026",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
-      "summary": "The inaugural unsecured bonds offer annual interest of up to 4.3%, while exposing investors to metaplanet’s credit and bitcoin-linked balance-sheet risks",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1300000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
-      "summary": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 63500,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Tether completes first full financial audit, receives clean KPMG opinion",
       "summary": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
       "type": "news",
@@ -119,6 +105,132 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-08-13"
+    },
+    {
+      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+      "summary": "Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "summary": "The Office of the Comptroller of the Currency said it granted \"preliminary conditional approval\" to World Liberty Trust Co. on Friday.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "summary": "Bullish, Coinbase, and Circle were among the names lower on Friday after the regulatory setback.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "summary": "The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
+      "summary": "Bank Leumi customers will be able to trade bitcoin, ether and solana through the bank’s investment app from early 2027.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
+      "summary": "Your day-ahead look for Aug. 14, 2026",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
+      "summary": "The token’s sale has been pushed back due to the Iran war disrupting travel in the region.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
+      "summary": "Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
+      "summary": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
+      "date": "2026-08-14"
     },
     {
       "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
@@ -149,8 +261,22 @@
       "date": "2026-08-14"
     },
     {
-      "title": "SEC cancels key crypto regulatory meeting",
-      "summary": "The SEC canceled a meeting on proposed crypto offering rules after the Senate left for recess without voting on the CLARITY Act.",
+      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+      "summary": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Ireland plans industry standards for illicit crypto use",
+      "summary": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,134 +285,8 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
-      "summary": "Figure expects consumer loan marketplace volume to range from $4.8 billion to $5.2 billion in the third quarter.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 4300000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "summary": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-      "summary": "The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "summary": "The incident marks the first time Trezor customers' shipping addresses were exposed.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Crypto for Advisors: The crypto advice gap",
-      "summary": "You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "BSC",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
-      "summary": "The institutional crypto liquidity provider is bringing on the former Schroders Wealth Management Asia chairman as it targets family offices and asset managers across the region.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
-      "summary": "The prediction-market platform raised $1 billion at a $22 billion valuation in May and is now discussing a new round that could nearly double that figure.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 40000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
-      "summary": "The online bank cut full-year revenue and profit forecasts after first-half crypto trading levels slumped.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
-      "summary": "A South Korean court sentenced the head of centralized finance (CeFi) lender Delio to 15 years in prison for embezzling digital assets from more than 1,100 customers.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 50000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
-      "date": "2026-08-13"
     }
   ],
   "errors": [
