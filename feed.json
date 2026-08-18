@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T07:53:41.414Z",
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T07:39:36.589Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,6 +8,34 @@
   "items_found": 69,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "summary": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
+      "summary": "Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
+      "date": "2026-08-17"
+    },
     {
       "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
       "summary": "Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.",
@@ -51,8 +79,8 @@
       "date": "2026-08-16"
     },
     {
-      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
-      "summary": "JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over regulatory concerns but remains open to an underwriting role if the platform goes public.",
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "summary": "Payward will use Anthropic’s cybersecurity model to hunt vulnerabilities and share open-source findings.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -60,111 +88,41 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-14"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "date": "2026-08-17"
     },
     {
-      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
-      "summary": "The market may be facing a dangerous liquidity mismatch as futures open interest outpaces trading volume by a significant margin.",
+      "title": "Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case",
+      "summary": "The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
       "date": "2026-08-17"
     },
     {
-      "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
-      "summary": "Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.",
+      "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
+      "summary": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 2780000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
-      "summary": "Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
+      "chain": "",
       "loss_usd": 64000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
       "date": "2026-08-17"
     },
     {
-      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
-      "summary": "Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 70000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
-      "summary": "The sealed complaint leaves Chainalysis’ specific objections and requested remedy undisclosed as briefing continues.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 95000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "The SEC meeting that wasn't: State of Crypto ",
-      "summary": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-      "date": "2026-08-16"
-    },
-    {
-      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "summary": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "date": "2026-08-16"
-    },
-    {
-      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "summary": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
+      "title": "The bitcoin price level where leveraged bulls could get whacked",
+      "summary": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
       "type": "news",
       "severity": "critical",
       "tags": [
@@ -173,12 +131,152 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "date": "2026-08-16"
+      "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "date": "2026-08-18"
     },
     {
-      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "summary": "Fraudsters impersonating regulators and licensed crypto exchanges to steal funds from users forced to migrate their accounts after the EU's MiCA deadline are on the rise.",
+      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
+      "summary": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "summary": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 60000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Bitcoin climbs above $64,000 while most majors slip",
+      "summary": "Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 100000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "summary": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+      "summary": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 165000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+      "summary": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+      "summary": "Strategy is prioritizing STRC, cash reserves, and its credit business over stock buybacks, Executive Chairman Michael Saylor said Monday.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 4800000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "summary": "Sheldon Lee said a Chinese-language X account making the claims was hacked. Users want wallets, assets and liabilities disclosed.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "summary": "The protocol pioneered decentralized finance lending, but assets locked have tumbled from a peak five years ago. Now it's looking to attract institutions after retail traders lost interest.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 52000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "summary": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress completed last year.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -187,106 +285,8 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-      "date": "2026-08-16"
-    },
-    {
-      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "summary": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
-      "date": "2026-08-16"
-    },
-    {
-      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "summary": "Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-      "date": "2026-08-16"
-    },
-    {
-      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-      "summary": "Hyperliquid traders value Unitree at nearly $38 billion versus $9 billion at its IPO, leaving leveraged bets vulnerable when trading begins, Allium analysts said.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 38000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-      "summary": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-      "summary": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "summary": "Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,000.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "summary": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 11200000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "date": "2026-08-15"
+      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "date": "2026-08-17"
     }
   ],
   "errors": [
