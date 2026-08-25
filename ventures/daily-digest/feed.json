@@ -1,128 +1,100 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T07:34:36.381Z",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T07:45:46.672Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 68,
+  "items_found": 67,
   "items_curated": 20,
   "items": [
     {
-      "title": "Coldcard strengthens seed generation with firmware update",
-      "summary": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.",
+      "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+      "summary": "The Ethereum-compatible blockchain wants users to be able to replace the keys controlling an account without changing its address, opening the door to passkeys, recovery tools and post-quantum security.",
       "type": "news",
       "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
-      "summary": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "summary": "Fairmint CEO Joris Delanoue warns tokenized stocks risk recreating Wall Street’s 1960s paper crisis through fragmented systems and standards.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-      "summary": "Market watchers say sudden sharp price spikes and forced short liquidations are the classic signs of a bottom, though macro risks still remain.",
-      "type": "news",
-      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-      "date": "2026-08-21"
+      "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
+      "date": "2026-08-25"
     },
     {
-      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "summary": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+      "summary": "BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sparked a rally, while Solana led majors Tuesday as validators vote on proposals to slow new SOL creation and raise daily burns.",
       "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "summary": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
-      "type": "news",
-      "severity": "critical",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 0,
+      "loss_usd": 80000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-      "date": "2026-08-22"
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+      "date": "2026-08-25"
     },
     {
-      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "summary": "Washington state is cut off for Kalshi customers while the company combats the development in court and its federal regulator keeps pursuing new rules.",
+      "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
+      "summary": "The Bridgewater founder says recent Treasury-market stress fits his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Multi-chain",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
+      "summary": "Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "summary": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+      "summary": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 0,
+      "chain": "",
+      "loss_usd": 337560000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "date": "2026-08-22"
+      "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "date": "2026-08-25"
     },
     {
-      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-      "summary": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pushed deeper into stablecoins.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-      "summary": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
+      "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
+      "summary": "The billionaire investor argues the intervention removes a vital check on government borrowing and fiscal accountability while markets remain the better judge of prices.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,12 +103,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-      "date": "2026-08-22"
+      "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
+      "date": "2026-08-25"
     },
     {
-      "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-      "summary": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
+      "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+      "summary": "Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smaller animal-themed tokens have gained between 50% and 130% over the past week.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+      "summary": "Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 2900000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+      "summary": "BTC has now surged 38% following its June plunge as shifting U.S. Treasury policy helped bring buyers back to crypto, rejuvenating ETF demand.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -145,26 +145,12 @@
       "chain": "",
       "loss_usd": 80000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-      "date": "2026-08-22"
+      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+      "date": "2026-08-25"
     },
     {
-      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "summary": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "Crypto advocates join in suing Illinois over digital asset tax",
-      "summary": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -172,55 +158,41 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-      "date": "2026-08-21"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-25"
     },
     {
-      "title": "Pass the Clarity Act",
-      "summary": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "summary": "ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, though flat dominance shows this is no broad alt season.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 1000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
-      "summary": "Three weeks of review turned up problems unrelated to the flaw that cost users $114 million, but updating still does not make a compromised wallet safe.",
+      "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments ",
+      "summary": "The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 114000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
-      "date": "2026-08-21"
+      "loss_usd": 100000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-25"
     },
     {
-      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "summary": "After years of stalled bills, misguided enforcement, and catastrophic collapses, almost any comprehensive crypto legislation began to look like progress. But Clarity is turning that hunger for progress into a political trap, argues Berkeley Law lecturer Hermine Wong.",
+      "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+      "summary": "BNB Chain activates the Pasteur hard fork on BSC, closing bridge and validator security gaps while targeting greater transaction capacity.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "BSC",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+      "summary": "Asia’s biggest crypto hubs are locked in a tax-cut arms race, while Ripple will help Korea’s Jeonbuk Bank move money across borders.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -228,27 +200,27 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-      "date": "2026-08-21"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-25"
     },
     {
-      "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-      "summary": "Your day-ahead look for Aug. 21, 2026",
+      "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+      "summary": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Solana",
       "loss_usd": 80000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-      "date": "2026-08-21"
+      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+      "date": "2026-08-24"
     },
     {
-      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "summary": "Laser Digital Japan will offer liquidity to domestic crypto providers, with institutional trading services planned to follow as the appetite for crypto in Japan grows.",
+      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+      "summary": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,26 +229,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
-      "date": "2026-08-21"
+      "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+      "date": "2026-08-24"
     },
     {
-      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "summary": "BTC has gained 24% since Monday and reached the level implied by its inverse head-and-shoulders break, with shorts still taking a contrarian position.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 77000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-      "summary": "The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.",
+      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+      "summary": "The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +243,50 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-      "date": "2026-08-21"
+      "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+      "summary": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 81000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "summary": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 800000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+      "summary": "The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 2000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+      "date": "2026-08-24"
     }
   ],
   "errors": [
