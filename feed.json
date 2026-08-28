@@ -1,27 +1,13 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T18:08:37.686Z",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:18:40.095Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 70,
+  "items_found": 69,
   "items_curated": 20,
   "items": [
-    {
-      "title": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
-      "summary": "Developers are holding details for two weeks while fixes reach operators, in the second Lightning security emergency this month traced to AI work on Bitcoin code.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
-      "date": "2026-08-27"
-    },
     {
       "title": "Bitfinex Securities completes record $50M tokenized capital raise",
       "summary": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.",
@@ -37,36 +23,8 @@
       "date": "2026-08-27"
     },
     {
-      "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch ",
-      "summary": "A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here’s everything you need to know.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
-      "summary": "CTDG Dev Hub participant’s protocol upgrade decouples consensus from execution, allowing network nodes to reach agreement on blocks before transaction execution completes.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-26"
-    },
-    {
-      "title": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
-      "summary": "Your day-ahead look for Aug. 27, 2026",
+      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -74,9 +32,9 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
-      "date": "2026-08-27"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-28"
     },
     {
       "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
@@ -93,64 +51,92 @@
       "date": "2026-08-27"
     },
     {
-      "title": "77% of Americans see crypto in retirement plans as risky: Survey",
-      "summary": "A new survey finds broad skepticism toward crypto in workplace retirement plans as US policymakers move to expand access to alternative assets.",
+      "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
+      "summary": "Solana's first network-wide vote went down to the wire, with Kraken and Galaxy-linked validators switching sides before the disinflation proposal narrowly passed.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
+      "summary": "The deal to buy NYDIG IF Holdings comprises $7 million in cash and around $35.5 million in stock, as well as the $15 earnout.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 42500000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
+      "summary": "Warsh's highly anticipated remarks at the Kansas City Fed's annual symposium Friday morning leaned hawkish, prompting traders to quickly raise bets on a September rate hike.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-26"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
+      "date": "2026-08-28"
     },
     {
-      "title": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
-      "summary": "Bitcoin stayed away from challenging $80,000 after July US PCE inflation data came in slightly higher than anticipated, pressuring gold and risk assets.",
+      "title": "The Clarity Act slipped to September. Banks are building anyway",
+      "summary": "But every month without settled rules quietly rewards the walled garden, writes Matter Labs’ Vassilis Tziokas.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 78000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-26"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
+      "date": "2026-08-28"
     },
     {
-      "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
-      "summary": "The changes aim to cut investor selling pressure and channel protocol revenue to ENA as Ethena looks to revive USDe growth.",
+      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+      "summary": "The issuer of the $4 billion USDe token said it expects real-world asset perpetuals to eclipse crypto derivatives in its backing within 12 to 24 months.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 0,
+      "loss_usd": 4000000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
+      "date": "2026-08-28"
     },
     {
-      "title": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
-      "summary": "The token hit a $25 million market cap on the back of nine days of unreleased Grand Theft Auto VI footage. Its creator has now sold his stack — hours before Rockstar's first official gameplay reveal.",
+      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "summary": "The Japanese financial giant is acquiring a 20% stake in the Indonesian online brokerage to build a cross-border, blockchain-based settlement network.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 25000000,
+      "chain": "",
+      "loss_usd": 270000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
+      "date": "2026-08-28"
     },
     {
-      "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
-      "summary": "Prosecutors are probing allegations that Zondacrypto's CEO gave Radosław Piesiewicz a 40,000 euro watch for help with regulatory hurdles.",
+      "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
+      "summary": "Your day-ahead look for Aug. 28, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,68 +145,68 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
+      "date": "2026-08-28"
     },
     {
-      "title": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
-      "summary": "No summary available.",
+      "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
+      "summary": "Financials were not disclosed, though reports from earlier this year suggested Chelsea was targeting 65 million pounds a year ($88.3 million) for the sponsorship berth.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 88300000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
+      "summary": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 100000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
+      "summary": "BTC briefly touched $81,455 overnight, its highest since May 15 as Nasdaq futures slipped and gold extended gains heading into the weekend.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 0,
+      "loss_usd": 81455,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
+      "date": "2026-08-28"
     },
     {
-      "title": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025",
-      "summary": "For the first time, the U.K.'s tax office broke out crypto capital gains figures, showing 17,600 people reported $1.87 billion in profits during the 2024-2025 tax year.",
+      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
+      "summary": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 1870000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/27/240-uk-taxpayers-made-more-than-usd1-3-million-each-from-crypto-holdings-in-fiscal-2025",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
-      "summary": "No summary available.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
+      "date": "2026-08-28"
     },
     {
-      "title": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
-      "summary": "Bain Capital led the investment in the U.S. clearing and custody firm, which plans to expand its digital asset and tokenization infrastructure.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 74000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
-      "summary": "One analyst expects Warsh to take a tough line on inflation, but still sees the Fed holding off on rate hikes until at least after the November mid-term elections.",
+      "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
+      "summary": "The activity, appearing to spread sanctioned funds to trigger account restrictions, occurred between Aug. 17 and Aug. 24.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,12 +215,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
+      "date": "2026-08-28"
     },
     {
-      "title": "The Clarity Act will put Main Street banks at a disadvantage",
-      "summary": "The Blockchain Association’s Summer Mersinger dismisses the harm to community banks in defending the stablecoin rewards language in the Clarity Act, says community banker Nate Franzén.",
+      "title": "Live updates: Bitcoin slides below $78,000 as markets digest Warsh's hawkish remarks",
+      "summary": "\"We have work to do,\" on prices, said Warsh in his highly anticipated keynote address at the Kansas City Fed's annual symposium.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 78000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "IREN shares fall 8% as costly AI transition weighs on earnings",
+      "summary": "Weakening profitability overshadowed a major milestone in IREN’s transformation into an AI cloud provider.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,26 +243,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
+      "date": "2026-08-28"
     },
     {
-      "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
-      "summary": "Park Hyeon-joo, Mirae Asset Financial Group’s founder, outlined his ambitious stablecoin, RWAs, and STOs plan for Digital X, formerly known as Korbit, in an event for his employees.",
+      "title": "Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold",
+      "summary": "Warsh’s Jackson Hole speech could shape expectations for Fed support of Treasury buybacks, with implications for bitcoin, gold and long-term yields.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 109000000000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
+      "date": "2026-08-28"
     },
     {
-      "title": "Bitcoin tests its largest supply wall at $80,000, near ETF holders’ average price",
-      "summary": "Bitcoin is testing its largest supply cluster alongside the key 50-week moving average.",
+      "title": "Solana’s faster disinflation plan leads vote as $800K burn proposal trails",
+      "summary": "All three proposals have cleared quorum, but a plan to slow new SOL creation is only narrowly passing while a separate vote to sharply increase token burns remains below the two-thirds support needed.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 800000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
+      "summary": "The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -271,22 +285,8 @@
       "chain": "",
       "loss_usd": 80000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-tests-its-largest-supply-wall-at-usd80-000-near-etf-holders-average-price",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet",
-      "summary": "The abandoned bids would have cost over $2 million in base fees alone, leading the firm to prioritize financial viability over broader internet adoption.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 2000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
-      "date": "2026-08-27"
+      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
+      "date": "2026-08-28"
     }
   ],
   "errors": [
