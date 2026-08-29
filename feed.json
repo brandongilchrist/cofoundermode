@@ -1,27 +1,13 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T19:18:40.095Z",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:01:44.001Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 69,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
-    {
-      "title": "Bitfinex Securities completes record $50M tokenized capital raise",
-      "summary": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 50000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-27"
-    },
     {
       "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
       "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
@@ -49,6 +35,118 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-08-27"
+    },
+    {
+      "title": "Tokenized assets are busier than the data shows",
+      "summary": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew Fisher.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 40000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "summary": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this week.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "summary": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "summary": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 100000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+      "summary": "This latest U.S. appeals court ruling sets up a rift between federal courts on event contracts, suggesting the U.S. Supreme Court may need to settle the matter.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+      "date": "2026-08-28"
     },
     {
       "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
@@ -188,104 +286,6 @@
       "loss_usd": 81455,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
-      "summary": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
-      "summary": "The activity, appearing to spread sanctioned funds to trigger account restrictions, occurred between Aug. 17 and Aug. 24.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Live updates: Bitcoin slides below $78,000 as markets digest Warsh's hawkish remarks",
-      "summary": "\"We have work to do,\" on prices, said Warsh in his highly anticipated keynote address at the Kansas City Fed's annual symposium.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 78000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "IREN shares fall 8% as costly AI transition weighs on earnings",
-      "summary": "Weakening profitability overshadowed a major milestone in IREN’s transformation into an AI cloud provider.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold",
-      "summary": "Warsh’s Jackson Hole speech could shape expectations for Fed support of Treasury buybacks, with implications for bitcoin, gold and long-term yields.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Solana’s faster disinflation plan leads vote as $800K burn proposal trails",
-      "summary": "All three proposals have cleared quorum, but a plan to slow new SOL creation is only narrowly passing while a separate vote to sharply increase token burns remains below the two-thirds support needed.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 800000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
-      "summary": "The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
       "date": "2026-08-28"
     }
   ],
