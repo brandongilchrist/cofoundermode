@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T14:55:14.191Z",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:25:35.448Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -23,6 +23,20 @@
       "date": "2026-08-29"
     },
     {
+      "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+      "summary": "The magazine-cover indicator has a messy record, but TIME’s OpenAI cover checks the classic boxes: a mainstream publication, a widely understood theme and a multiyear run-up in investor enthusiasm.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
+      "date": "2026-09-01"
+    },
+    {
       "title": "U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024",
       "summary": "Bitcoin held steady despite a broader risk-off move after the first U.S. strikes against Iran for weeks sent oil higher and stocks lower. The cryptocurrency has gained 24% this month.",
       "type": "news",
@@ -37,8 +51,8 @@
       "date": "2026-08-31"
     },
     {
-      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
+      "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
+      "summary": "Ireland’s planned investment accounts will offer tax benefits for stocks, bonds and ETFs, while excluding crypto and derivatives as higher-risk products.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -47,12 +61,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-28"
+      "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-08-31"
     },
     {
-      "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
-      "summary": "The deal adds transfer-agent and settlement infrastructure to ICE's plans for an NYSE-affiliated market for tokenized stocks, tZERO said.",
+      "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
+      "summary": "The company's Texas campus has two long-term leases worth $19.6 billion, more than 260 times its latest quarterly revenue, as AI companies race to secure power and data-center capacity.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 35000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
+      "summary": "Your day-ahead look for Sept. 1, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -61,180 +89,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
-      "date": "2026-08-31"
+      "url": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
+      "date": "2026-09-01"
     },
     {
-      "title": "Ireland bars crypto from new tax-advantaged investment accounts",
-      "summary": "Eligible assets for the new accounts include listed stocks, bonds, and ETFs, with providers handling tax reporting to simplify investor compliance.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
-      "summary": "Company Chairman Lee said crypto’s recent outperformance could draw more institutional investors.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
-      "summary": "It's the first week of bitcoin purchases for the Michael Saylor-led company in about two months.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 370000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
-      "summary": "The two-month-old network processed a record 5.52 million transactions on Aug. 30 as users launched 22,600 tokens and memecoin trading tools drove most of the $2.66 million in revenue.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 2660000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
-      "summary": "The Bank of Russia recently included ETH and USDT in a draft list of cryptocurrencies approved for public trading on Russian exchanges.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever",
-      "summary": "Your day-ahead look for Aug. 31, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/31/here-s-1-metric-on-u-s-debt-that-makes-bitcoin-s-bull-case-look-stronger-than-ever",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting Aug. 31.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Live updates: Bitcoin trades near $78,000; Strategy buys BTC for first time since late June",
-      "summary": "The price of crude oil is surging higher after overnight military strikes in Iran, with Trump once again proclaiming victory.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 78000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future",
-      "summary": "The split was mutual, with both parties citing differing views on the future of Bitcoin mining and recent protocol developments.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
-      "summary": "Odds of a rate hike in September remain below 60% despite Warsh's hawkish speech on Friday. Observers downplay fears of tightening.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
-      "summary": "Zakura says a new cryptography stack makes mobile proof generation more than 14 times faster, removing one of the biggest delays users face when sending private ZEC.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
-      "summary": "An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 75000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
-      "summary": "BTC remains August's best-performing asset after the latest escalation in geopolitical tensions.",
+      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+      "summary": "The country’s financial watchdog says its proposed stablecoin rules are aligned with U.S. and EU frameworks and that it also paves the way for the recognition of foreign stablecoin.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,26 +103,138 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
-      "date": "2026-08-31"
+      "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+      "date": "2026-09-01"
     },
     {
-      "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
-      "summary": "The million dollar question is what prompted a Bitcoin OG to send 20 BTC to a custodian, retrieve it back, and then deliberately burn it?",
+      "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+      "summary": "BTC drifted lower after last week's rally to $81,428, while ARB led DeFi gains as Robinhood Chain's daily fees topped $2 million.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 2000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
+      "summary": "STRC trades at $97.34 despite Strategy’s growing repurchases, while SATA’s higher dividend rate has helped it hold its $100 par value.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 1000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-31"
+      "loss_usd": 635000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
+      "date": "2026-09-01"
     },
     {
-      "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
-      "summary": "Japan’s FSA requested to exempt trust-type stablecoins from mandatory tax filings starting in fiscal year 2027, arguing that it would improve their use as transaction tools.",
+      "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
+      "summary": "Bitcoin ETFs took in $217 million on Monday, one session after an outflow ended their nine-day run. Ether ETFs have not had net outflows since mid-August.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 217000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+      "summary": "The LSE is working with Kraken owner Payward, the developer of the xStocks tokenized equities framework, to bring top U.K.-listed stocks onchain.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "summary": "Ether, solana, tron and dogecoin all shed ground over 24 hours while HYPE added about 4%, leaving bitcoin flat on the week after August's 24% run.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 78000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "summary": "1789 Capital is putting in about $300 million, adding to a roughly $200 million stake, as the prediction market's valuation rises from $15 billion.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+      "summary": "Outstanding XRP futures positions outside CME fell by more than 500 million tokens in two weeks, while exposure on the regulated U.S. exchange climbed about 36% as XRP rallied toward $1.40.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
+      "summary": "Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in digital assets through Hyperliquid, weeks after regulators said they were working on a path to introduce the exchange into US markets.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 30000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+      "summary": "The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+      "summary": "Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -271,22 +243,50 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-31"
+      "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-01"
     },
     {
-      "title": "Metaplanet moves 4,800 BTC worth $377M to Coinbase",
-      "summary": "The Japanese Bitcoin treasury company has transferred 10,270 BTC to Coinbase Prime this week, an amount equal to more than 29% of its reported holdings.",
+      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+      "summary": "Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiting its earlier decision to restrict the framework to domestic issuance.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 377000000,
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-08-31"
+      "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
+      "summary": "Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below Kalshi’s $22 billion valuation.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-01"
     }
   ],
   "errors": [
