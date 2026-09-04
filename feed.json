@@ -1,44 +1,142 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T11:59:21.992Z",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:01:01.545Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 67,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
     {
-      "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
-      "summary": "The former prime minister said U.K. is among the worst examples of rising debt and warns the situation may have gone too far.",
+      "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+      "summary": "Your day-ahead look for Sept. 4, 2026",
       "type": "news",
-      "severity": "high",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts",
-      "date": "2026-09-02"
+      "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+      "date": "2026-09-04"
     },
     {
-      "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
-      "summary": "Core says the incident is contained and its planned forward upgrade will not roll back the network or reverse previously confirmed transactions.",
+      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "summary": "ZEC briefly traded above $1,020 as a sharp rally forced traders betting against the token out of leveraged positions.",
       "type": "news",
-      "severity": "high",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 34000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+      "summary": "BTC pushed through the level that capped it in late August, while zcash gained 16% and dash 19%.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 81000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
+      "summary": "The IMF confirmed that all bitcoin added to official holdings since June 2025 was sourced from private donations, with no public funds used for accumulation.",
+      "type": "news",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-02"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
+      "date": "2026-09-04"
     },
     {
-      "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-      "summary": "Your day-ahead look for Sept. 3, 2026",
+      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+      "summary": "Financial regulators unveiled a phased roadmap moving traditional capital markets onto distributed ledgers, concluding with onchain stablecoin settlement.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+      "summary": "Every fund in the complex rose almost 6% on Thursday and net assets crossed $103 billion for the first time. BlackRock's IBIT accounted for well over half the money.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 103000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+      "summary": "The company is subsidizing access to its Daybreak security platform after saying Astra can independently find previously unknown software flaws and turn them into working attacks.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 1000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
+      "summary": "Bitcoin is pulling ahead of gold even as both hard assets rally together, driven by fears that governments will inflate away their debt rather than by bond yields.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
+      "summary": "Every major token gained on Friday as traders cut bets on a September Federal Reserve rate increase to a coin flip, though most of the majors are barely changed on the week.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 81000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+      "summary": "The Office of the Comptroller of the Currency granted a provisional charter to the new full-service bank, adding it to the growing mix of crypto-native institutions.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -47,12 +145,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
-      "date": "2026-09-03"
+      "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
+      "date": "2026-09-04"
     },
     {
-      "title": "The yen is surging and it’s helping bitcoin, for now",
-      "summary": "Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower. BTC and gold are loving it, for now.",
+      "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+      "summary": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -61,68 +159,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
-      "date": "2026-09-03"
+      "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+      "date": "2026-09-04"
     },
     {
-      "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
-      "summary": "Bitcoin is back above $77,500 with every major green on the day, though the week still reads red. Global investors are carrying their lowest currency protection on U.S. assets in a decade.",
+      "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+      "summary": "Kalshi’s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 77500,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-      "date": "2026-09-03"
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-04"
     },
     {
-      "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-      "summary": "BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alongside crypto, while ARB and PONS pushed higher for a third session.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Arbitrum",
-      "loss_usd": 78000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-      "summary": "Firms that miss the deadline could breach financial services law from Oct. 1 and face civil or criminal penalties.",
+      "title": "Trezor says data breach affects another 67K US customers",
+      "summary": "Trezor said an additional 67,000 US users were affected by its shipping provider’s data breach, opening the path to potential phishing attacks and social engineering scams.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-      "date": "2026-09-03"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-04"
     },
     {
-      "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-      "summary": "The regulator claims the dispute is \"much ado about nothing,\" noting that the order allows any designated contract market, including CME, to list these products.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
-      "summary": "A law firm and a tokenization platform say their proposed structure would give investors legal ownership of cat bonds onchain and could lower the minimum investment.",
+      "title": "South Korean regulators introduce tokenized securities roadmap",
+      "summary": "South Korea’s financial regulator introduced a three-phase roadmap for the issuance of tokenized assets, as the country prepares to adopt its first tokenized securities framework in February 2027.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -130,97 +200,13 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
-      "summary": "BTC is nearing a bullish golden cross, a widely tracked signal with a mixed record of success in crypto markets. But this time, USDT is supporting the bullish read.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
-      "summary": "Remixpoint booked gains on ether, solana and XRP, but sold DOGE below its fiscal-year opening value as it concentrated its crypto holdings in bitcoin.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
-      "summary": "Every major token is green over 24 hours, though only zcash and hyperliquid are holding gains on the week.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 77500,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-      "summary": "Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 students in Southeast Asia who were underserved by traditional lenders.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 1000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-03"
+      "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-04"
     },
     {
-      "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-      "summary": "Standard Chartered said it is the first major global bank to offer institutional access to spot Bitcoin and Ether trading in the UAE region.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
-      "summary": "The third-wave Coldcard exploiter moved about 10% of stolen funds through THORChain as researchers traced the assets to a new Ethereum address.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
-      "summary": "Kalshi reportedly plans to file for approval of a WTI crude oil perpetual futures contract that would trade around the clock five days a week without an expiration date.",
+      "title": "AMC chief criticizes Robinhood’s tokenized stock plan",
+      "summary": "AMC’s CEO criticized Robinhood’s tokenized stock offerings for being unregulated in the US and said he will request an investigation from an external securities counsel.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,36 +215,22 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-03"
+      "url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-04"
     },
     {
-      "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
-      "summary": "ASIC has recorded more than 45 digital asset-related license applications as its temporary enforcement relief approaches Sept. 30 expiration.",
+      "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+      "summary": "US Bitcoin ETFs drew $730.9 million on Thursday as Bitcoin reclaimed $80,000, though CryptoQuant flagged weak fresh demand and a key $83,000 test.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 731000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
-      "summary": "Ether ETFs posted $48 million in outflows after attracting $1.62 billion over 12 trading days, while XRP funds ended an 11-session inflow run.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 1620000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-03"
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-04"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -272,20 +244,48 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-03"
+      "date": "2026-09-04"
     },
     {
-      "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
-      "summary": "Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.",
+      "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
+      "summary": "The IMF attributed Bitcoin added since June 2025 to private donations, addressing questions raised after El Salvador reported a $100 million acquisition.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
+      "loss_usd": 100000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "US, UK launch joint alliance targeting crypto scam centers",
+      "summary": "The agreement includes parallel investigations and information sharing, with US and UK authorities planning a private-sector disruption operation in London in October.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+      "summary": "The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
       "date": "2026-09-03"
     }
   ],
