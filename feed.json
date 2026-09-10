@@ -1,156 +1,142 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T12:01:13.479Z",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:06:22.904Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 65,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
     {
-      "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
-      "summary": "The firms say their combination of physical authentication, digital traceability and enterprise process design has no precedent in supply chains, and cocoa is just the start.",
+      "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
+      "summary": "US prosecutors said Lam organized an international network that targeted cryptocurrency holders through social engineering and home break-ins.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
       "chain": "",
+      "loss_usd": 245000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
+      "summary": "Pablo Hernandez cited historical railway and dot-com bubbles to caution that spending driven by hype over actual profits risks broad economic corrections.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system",
-      "date": "2026-09-08"
+      "url": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
+      "date": "2026-09-10"
     },
     {
-      "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-      "summary": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
+      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+      "summary": "Long-term yields moved higher despite a $6 billion Treasury buyback, as debt concerns and rising oil prices continue to pressure global bond markets.",
       "type": "news",
-      "severity": "high",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "",
+      "loss_usd": 6000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
+      "summary": "Bitcoin investors showed little sign of panic selling as BTC held most of its August gains and sell-side risk fell to rare lows, data showed.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 80000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
+      "summary": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
+      "summary": "Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
+      "summary": "Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst warned that BTC price “downside risk” remained in place.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
+      "summary": "Bybit has an electronic money institution license in Austria and is about to snag a MiFID license too, CEO Ben Zhou told Coindesk.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-      "date": "2026-09-07"
+      "url": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
+      "date": "2026-09-10"
     },
     {
-      "title": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
-      "summary": "Ethereum’s Hegotá upgrade will center on FOCIL and Frame Transactions as developers weigh dozens of other proposed changes for inclusion.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC ",
-      "summary": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 320000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
-      "summary": "Bitcoin, gold and technology stocks fall as the yen rallies, while oil prices and government bond yields climb globally.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/08/live-updates",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’",
-      "summary": "Ledger and Trezor said researchers have a responsibility to publish their findings if vendors fail to fix bugs within an agreed disclosure window.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
-      "summary": "Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 9000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-      "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-06"
-    },
-    {
-      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-      "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 7000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-06"
-    },
-    {
-      "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
-      "summary": "Your day-ahead look for Sept. 8, 2026",
+      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+      "summary": "The investment expands a strategic partnership to bring tokenized, voting-enabled equities to crypto exchange users.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 1000000000,
+      "loss_usd": 21000000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
-      "date": "2026-09-08"
+      "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
+      "date": "2026-09-10"
     },
     {
-      "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
-      "summary": "Data tracked by lending platform Curve data tracked 704 soft-liquidation instances lasting a median 14.5 days, showing how some DeFi loans can survive for weeks after entering the 'danger zone.'",
+      "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
+      "summary": "Your day-ahead look for Sept. 10, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,134 +145,148 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
-      "date": "2026-09-08"
+      "url": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
+      "date": "2026-09-10"
     },
     {
-      "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
-      "summary": "Validators rolled back nearly two hours of blockchain history to recover user assets. But the attackers still managed to get away with $9.19 million before Cronos halted the network.",
+      "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
+      "summary": "Bitcoin fell 2% over 24 hours to $78,111 as 95 of the 100 CoinDesk 100 constituents declined, with most of the damage done overnight.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 111000000,
+      "loss_usd": 78000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
-      "date": "2026-09-08"
+      "url": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
+      "date": "2026-09-10"
     },
     {
-      "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-      "summary": "Bitcoin fell 0.42% since midnight UTC to $78,874, but the CoinDesk 20 rose 0.2% and the memecoin index gained 0.41% as BNB Chain tokens rallied.",
+      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+      "summary": "Arya.ag is using Avalanche technology to tokenize grain deposits to help lenders verify crops backing agricultural loans.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 2000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+      "summary": "Bitcoin is trading around $78,000 ahead of what's expected to be an ECB rate hike today and more U.S. inflation data.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 78000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+      "summary": "The Singapore Exchange says U.S. institutions can now trade its bitcoin and ether perpetual futures, a milestone that bridges U.S. trading desks with Asian liquidity.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+      "summary": "The team said thin liquidity and automated traders distorted the launch, while Nansen data showed some early buyers sitting on six-figure losses after the memecoin’s debut.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+      "summary": "Dogecoin led the losses, BNB fell about 4% and XRP 3%, with oil pushing Treasury yields to their highest since late 2023.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "BSC",
-      "loss_usd": 78800,
+      "loss_usd": 78000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
-      "date": "2026-09-08"
+      "url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+      "date": "2026-09-10"
     },
     {
-      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
-      "summary": "South Korea’s budget office warned that stablecoin adoption could reduce banks' roles as credit intermediaries and potentially destabilize token pegs during mass redemptions.",
+      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
+      "summary": "Coinbase CEO tells CNBC the crypto industry gets regulatory clarity whether or not the Senate passes the bill on Sept. 15.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 3800000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
-      "summary": "The unit formalizes past operations, building on 1.5 million euros in seized crypto the exchange processed in 2025 for agencies including Interpol and Europol.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
-      "date": "2026-09-08"
+      "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
+      "date": "2026-09-10"
     },
     {
-      "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
-      "summary": "Kraken deleted a promotional post after backlash, while a media group named in the token's distribution publicly distanced itself from the project.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Bitcoin’s golden cross is here",
-      "summary": "A golden cross has triggered on bitcoin's daily price chart, indicating a potential long-term bullish trend ahead.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-      "summary": "Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
+      "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+      "summary": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 47000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "summary": "Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 79000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
-      "summary": "Tazapay processes $25 billion in annualized volume and offers payout rails across 100-plus markets, extending Circle’s USDC payments reach.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 25000000000,
+      "loss_usd": 21000000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-08"
+      "url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+      "summary": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
+      "summary": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 117800,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-10"
     }
   ],
   "errors": [
