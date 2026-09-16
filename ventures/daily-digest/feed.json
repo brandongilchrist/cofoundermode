@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T12:30:50.895Z",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T12:28:51.883Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,20 +8,6 @@
   "items_found": 67,
   "items_curated": 20,
   "items": [
-    {
-      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
-      "summary": "Batch V1.1 would let users bundle up to eight linked transactions into one operation, with 27 of 35 trusted validators now backing the change.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
-      "date": "2026-09-15"
-    },
     {
       "title": "Solana more than triples transaction size limit with mainnet upgrade",
       "summary": "Solana raised its transaction size limit to 4,096 bytes, giving developers more room for zero-knowledge proofs and transactions with multiple signatures.",
@@ -37,22 +23,22 @@
       "date": "2026-09-15"
     },
     {
-      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
-      "summary": "Founder and CEO Haipo Yang cited mounting security and compliance risks and said he rejected a sale in favor of a “clean ending.”",
+      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+      "summary": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 0,
+      "chain": "",
+      "loss_usd": 80000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+      "date": "2026-09-16"
     },
     {
-      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
-      "summary": "The state AGs said they were concerned the crypto legislation might restrict their ability to bring securities and commodities cases tied to online scams.",
+      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+      "summary": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central bank’s inflation-fighting credibility.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,68 +47,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-      "date": "2026-09-14"
+      "url": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+      "date": "2026-09-16"
     },
     {
-      "title": "Why are AI’s biggest companies suddenly asking to slow down?",
-      "summary": "AI’s biggest labs are suddenly calling for a slower pace of development. Is it because AI risks are catching up with the technology, or because the economics of the race are getting harder to justify?",
+      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+      "summary": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 0,
+      "chain": "",
+      "loss_usd": 75600,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "King Charles to host AI chiefs amid industry call to slow development",
-      "summary": "The gathering comes days after Dario Amodei and Sam Altman called for greater restraint at the AI frontier, warning that rapidly improving systems could pose increasingly difficult-to-control risks.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Anthropic chief urges slowdown in AI development to safer pace",
-      "summary": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "1Password's AI patching benchmark is misleading",
-      "summary": "1Password’s FLAWED report, published on August 6, 2026, gives defenders a misleading picture of AI patching. Its headline says models produced clean fixes only 26% of the time. That figure includes experiments that deliberately instructed agents to apply the wrong fix, along with",
-      "type": "analysis",
-      "severity": "critical",
-      "tags": [
-        "audit"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "Trail of Bits",
-      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-09-15"
     },
     {
-      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
-      "summary": "Congress needs 60 Senators willing to put innovation first and provide critical relief to the digital asset industry, argues Rep. Shri Thanedar (D-Mich.)",
+      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
+      "summary": "The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,124 +75,54 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+      "date": "2026-09-16"
     },
     {
-      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-      "summary": "Your day-ahead look for Sept. 15, 2026",
+      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+      "summary": "Your day-ahead look for Sept. 16, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
+      "date": "2026-09-16"
     },
     {
-      "title": "Why banks should stop worrying and learn to love the Clarity Act",
-      "summary": "They could be the biggest winners from regulatory clarity, argues Alex Tapscott, CEO of CMCC Global Capital Markets.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
-      "summary": "The investment brings Velocity's Series A round to $48 million and values the London-based payments infrastructure firm at $200 million, CEO Eric Queathem said.",
+      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+      "summary": "Two Prime expands into onchain finance with a bitcoin lending vault built on Pareto for institutional investors.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 48000000,
+      "loss_usd": 10000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+      "date": "2026-09-16"
     },
     {
-      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
-      "summary": "Bitcoin fell 1.7% since midnight UTC to $76,862, unwinding a late Monday rally as Polymarket odds on the Clarity Act becoming law this year halved overnight.",
+      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+      "summary": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 76862,
+      "loss_usd": 450000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+      "date": "2026-09-16"
     },
     {
-      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
-      "summary": "Security firms traced the $7.8 million loss to a helper contract the wallet owner had authorized, not to Safe itself.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 7800000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
-      "summary": "The proposed acquisition would use cash flow from precious metals sales to build bitcoin holdings.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 16000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
-      "summary": "Senators take a procedural vote on the crypto market structure bill later Tuesday. Bitcoin has given back 3% since touching $79,530 overnight, with XRP and zcash the only majors gaining ground.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 77000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
-      "date": "2026-09-15"
-    },
-    {
-      "title": " U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
-      "summary": "Prosecutors have filed a civil forfeiture complaint against what they call Iran's illegal crypto proceeds that are used to fund its military.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 61000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
-      "summary": "Transaction V1 raises Solana’s limit to 4,096 bytes from 1,232, giving developers more room for multi-step trades, company-wallet approvals and privacy proofs.",
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "summary": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,26 +131,26 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "date": "2026-09-16"
     },
     {
-      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-      "summary": "Democratic Senators were said to be meeting late Monday to discuss the latest proposed draft text.",
+      "title": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
+      "summary": "Privacy token zcash, meanwhile, is up 130% over 30 days and trades near its all-time highs from 2016.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 0,
+      "chain": "",
+      "loss_usd": 76000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+      "date": "2026-09-16"
     },
     {
-      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-      "summary": "The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.",
+      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+      "summary": "The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment giants pile into the stablecoin market.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +159,134 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
-      "date": "2026-09-15"
+      "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+      "summary": "Weakening U.S. demand, a setback for the Clarity act and expectations of a fed rate hike weigh on bitcoin.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "summary": "U.S. prosecutors allege two engineers used confidential Robinhood token listing data to front-run announcements using Hyperliquid perpetual futures.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Ethereum, Base give up on common wallet standard after months of talks",
+      "summary": "Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130, leaving wallets and apps that span both networks facing different transaction systems.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+      "summary": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network’s existing halving schedule.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "summary": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 570000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "summary": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 76000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
+      "summary": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Circle launches Arc mainnet with USDC as native gas token",
+      "summary": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+      "summary": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-16"
     }
   ],
   "errors": [
