@@ -1,72 +1,184 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T12:28:51.883Z",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:07:06.122Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 67,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
     {
-      "title": "Solana more than triples transaction size limit with mainnet upgrade",
-      "summary": "Solana raised its transaction size limit to 4,096 bytes, giving developers more room for zero-knowledge proofs and transactions with multiple signatures.",
+      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+      "summary": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+      "summary": "The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
+      "summary": "Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+      "summary": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Auditing in the age of (good enough) AI",
+      "summary": "Security firms have published numerous blog posts describing how they pointed their agent harness at a codebase and found dozens of bugs (we’re one of them). However, these posts tend to focus on agentic code review, which is just one aspect of how we use AI in our security revie",
+      "type": "analysis",
+      "severity": "critical",
+      "tags": [
+        "audit"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+      "summary": "Your day-ahead look for Sept. 18, 2026",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "summary": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Arbitrum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+      "summary": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+      "summary": "Bitcoin recovered from $75,972 overnight to just below $78,000, a third straight day of gains.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 78000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "summary": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 25000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
+      "summary": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+      "summary": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
       "chain": "Solana",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
-      "summary": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
-      "date": "2026-09-16"
+      "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+      "date": "2026-09-18"
     },
     {
-      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-      "summary": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central bank’s inflation-fighting credibility.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-      "summary": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 75600,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-      "summary": "The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node.",
+      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+      "summary": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -75,54 +187,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-      "date": "2026-09-16"
+      "url": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+      "date": "2026-09-18"
     },
     {
-      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
-      "summary": "Your day-ahead look for Sept. 16, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
-      "summary": "Two Prime expands into onchain finance with a bitcoin lending vault built on Pareto for institutional investors.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 10000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-      "summary": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 450000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Deutsche Bank close to debuting crypto custody for institutions",
-      "summary": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.",
+      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+      "summary": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,68 +201,12 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-      "date": "2026-09-16"
+      "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+      "date": "2026-09-18"
     },
     {
-      "title": "Live updates: Bitcoin holds near $76,000 as spot ETFs outflows surged alongside Clarity Act failure",
-      "summary": "Privacy token zcash, meanwhile, is up 130% over 30 days and trades near its all-time highs from 2016.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 76000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
-      "summary": "The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment giants pile into the stablecoin market.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-      "summary": "Weakening U.S. demand, a setback for the Clarity act and expectations of a fed rate hike weigh on bitcoin.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "summary": "U.S. prosecutors allege two engineers used confidential Robinhood token listing data to front-run announcements using Hyperliquid perpetual futures.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Ethereum, Base give up on common wallet standard after months of talks",
-      "summary": "Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130, leaving wallets and apps that span both networks facing different transaction systems.",
+      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
+      "summary": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -201,92 +215,78 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
-      "date": "2026-09-16"
+      "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+      "date": "2026-09-18"
     },
     {
-      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-      "summary": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network’s existing halving schedule.",
+      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+      "summary": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "",
-      "loss_usd": 0,
+      "chain": "Optimism",
+      "loss_usd": 77000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
-      "date": "2026-09-16"
+      "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+      "date": "2026-09-18"
     },
     {
-      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
-      "summary": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "summary": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 570000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-      "summary": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 76000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
-      "summary": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-16"
+      "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-18"
     },
     {
-      "title": "Circle launches Arc mainnet with USDC as native gas token",
-      "summary": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
+      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+      "summary": "Industry watchers are debating the fate of the Zcash development fund after the ZEC token’s rally pushed its value above $95 million.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 95000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+      "summary": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "summary": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 25000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
-      "summary": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-16"
+      "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-18"
     }
   ],
   "errors": [
