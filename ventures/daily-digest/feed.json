@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T12:07:06.122Z",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T11:50:03.330Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,6 +8,20 @@
   "items_found": 70,
   "items_curated": 20,
   "items": [
+    {
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
+      "summary": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+      "date": "2026-09-18"
+    },
     {
       "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
       "summary": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
@@ -21,20 +35,6 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-09-18"
-    },
-    {
-      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
-      "summary": "The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
-      "date": "2026-09-17"
     },
     {
       "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
@@ -65,6 +65,20 @@
       "date": "2026-09-17"
     },
     {
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1600000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-19"
+    },
+    {
       "title": "Auditing in the age of (good enough) AI",
       "summary": "Security firms have published numerous blog posts describing how they pointed their agent harness at a codebase and found dozens of bugs (we’re one of them). However, these posts tend to focus on agentic code review, which is just one aspect of how we use AI in our security revie",
       "type": "analysis",
@@ -76,6 +90,62 @@
       "loss_usd": 0,
       "source": "Trail of Bits",
       "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+      "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+      "summary": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+      "summary": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+      "summary": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
       "date": "2026-09-18"
     },
     {
@@ -121,15 +191,15 @@
       "date": "2026-09-18"
     },
     {
-      "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
-      "summary": "Bitcoin recovered from $75,972 overnight to just below $78,000, a third straight day of gains.",
+      "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
+      "summary": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 78000,
+      "loss_usd": 80000,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "date": "2026-09-18"
@@ -216,76 +286,6 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
-      "summary": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 77000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-      "summary": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
-      "summary": "Industry watchers are debating the fate of the Zcash development fund after the ZEC token’s rally pushed its value above $95 million.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 95000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-      "summary": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-      "summary": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 25000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-09-18"
     }
   ],
