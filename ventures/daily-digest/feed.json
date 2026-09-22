@@ -1,58 +1,30 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T11:50:03.330Z",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:26:56.492Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 70,
+  "items_found": 71,
   "items_curated": 20,
   "items": [
     {
-      "title": "Zcash targets November upgrade to make private payments up to three times faster",
-      "summary": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
-      "summary": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-      "summary": "Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.",
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "summary": "Bitcoin traded near $86,000 as WTI crude dropped below $90 and strong stock markets supported risk appetite.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 0,
+      "loss_usd": 86000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-      "date": "2026-09-17"
+      "url": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "date": "2026-09-22"
     },
     {
-      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
-      "summary": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,54 +33,138 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-17"
+      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-22"
     },
     {
-      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
-      "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
+      "summary": "Bitcoin crossed the $86,000 mark for the first time since late January as falling oil prices and concerns over supply lifted US stocks.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 86000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+      "summary": "Reap is preparing to add a Mexican peso stablecoin and is exploring Hong Kong dollar, euro, won and yen tokens for foreign exchange outside banking hours.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 1600000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-19"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+      "date": "2026-09-22"
     },
     {
-      "title": "Auditing in the age of (good enough) AI",
-      "summary": "Security firms have published numerous blog posts describing how they pointed their agent harness at a codebase and found dozens of bugs (we’re one of them). However, these posts tend to focus on agentic code review, which is just one aspect of how we use AI in our security revie",
-      "type": "analysis",
-      "severity": "critical",
+      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
+      "summary": "Your day-ahead look for Sept. 22, 2026",
+      "type": "news",
+      "severity": "low",
       "tags": [
-        "audit"
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 3200000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "summary": "Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fee tied to USDC held through its wallet infrastructure.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 100000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Live updates: Oil falls as Iran signals possible Hormuz reopening, bitcoin holds near $86,000",
+      "summary": "WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 86000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+      "summary": "Federal prosecutors in Manhattan and the Justice Department are said to be investigating whether the crypto exchange knowingly permitted users to bypass U.S. sanctions on Iran.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "Trail of Bits",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "date": "2026-09-18"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+      "date": "2026-09-22"
     },
     {
-      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-      "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "summary": "Talks between the two kicked off late last year, with plans for the former to own 95% of the merged company.",
       "type": "news",
       "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+      "summary": "Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highest since January.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
+      "summary": "According to Galaxy Digital, the good guys have moved 52 BTC to an address carrying an OP_RETURN message reading \"claim:cryptorecoverytrust dot com.\"",
+      "type": "news",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-      "date": "2026-09-18"
+      "url": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+      "date": "2026-09-22"
     },
     {
-      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-      "summary": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "summary": "Elon Musk’s X lets U.S. users tap cashtags such as $BTC to view live charts and access Coinbase, Kraken and other trading platforms.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -117,124 +173,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-      "date": "2026-09-18"
+      "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "date": "2026-09-22"
     },
     {
-      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
-      "summary": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-      "summary": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
+      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "summary": "A wave of forced buying that cost short sellers $844 million has run its course, leaving the largest cryptocurrency flat over the past hour and ZEC the only major token in the red.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 844000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-      "date": "2026-09-18"
+      "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+      "date": "2026-09-22"
     },
     {
-      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-      "summary": "Your day-ahead look for Sept. 18, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-      "summary": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Arbitrum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-      "summary": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-      "summary": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-      "summary": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 25000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-      "summary": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-      "summary": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "summary": "The official x402 kit now includes Cardano tools for apps and AI agents to pay with ADA and other network tokens, though the facilitator has so far only been tested on pre-production.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,12 +201,12 @@
       "chain": "Solana",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "date": "2026-09-18"
+      "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "date": "2026-09-22"
     },
     {
-      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-      "summary": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
+      "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
+      "summary": "The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -256,37 +214,79 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-      "date": "2026-09-18"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-22"
     },
     {
-      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-      "summary": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
+      "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
+      "summary": "Glassnode’s Altcoin Cycle Signal printed a new altseason signal after a month of Bitcoin and altcoin market-cap gains.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-      "date": "2026-09-18"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-22"
     },
     {
-      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
-      "summary": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run.",
+      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
+      "summary": "Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives leverage pointed to growing speculative activity across crypto markets.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "",
+      "loss_usd": 86000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+      "summary": "White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s second wave, transferring it to a Wyoming trust for victims.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-      "date": "2026-09-18"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
+      "summary": "Solstice CEO Ben Nadareski says deeper liquidity and growing institutional participation could make future crypto bull runs less volatile than previous cycles.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+      "summary": "US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily inflow since October 2025, as Bitcoin briefly climbed above $87,000.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-22"
     }
   ],
   "errors": [
