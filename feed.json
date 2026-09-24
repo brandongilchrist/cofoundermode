@@ -1,41 +1,13 @@
 {
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T12:37:37.983Z",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T12:36:09.268Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 71,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
-    {
-      "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
-      "summary": "The upgrade could activate Oct. 5, letting businesses give another account limited powers such as making payments or approving customers without handing over full control.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "summary": "Alpenglow would let exchanges, bridges and merchants treat payments as irreversible almost immediately.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "date": "2026-09-23"
-    },
     {
       "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
       "summary": "The proposed NU7 change would disable version 4 transactions, leaving ZEC in Zcash’s legacy Sprout shielded pool unspendable.",
@@ -51,8 +23,22 @@
       "date": "2026-09-23"
     },
     {
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "summary": "The Commodity Futures Trading Commission issued a new advisory to flag the unique dangers of markets based on individuals' behavior.",
+      "title": "Live updates: Bitcoin falls to $83,000 as bond yields take center stage",
+      "summary": "U.S. bond yields are little changed early Thursday after yesterday's surge higher sent risk markets sharply lower.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 83000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+      "summary": "The warning brings renewed urgency to the debate over how bitcoin should deal with legacy addresses whose public keys are already exposed onchain.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -61,8 +47,8 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
-      "date": "2026-09-23"
+      "url": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+      "date": "2026-09-24"
     },
     {
       "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
@@ -79,78 +65,50 @@
       "date": "2026-09-23"
     },
     {
-      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-      "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the UN Security Council as it examines AI risks and global security.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
-      "summary": "The warning comes weeks after the CFTC fined a former White House teleprompter operator who made more than $107,000 trading prediction contracts tied to President Trump’s speeches.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 107000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-      "summary": "Bitcoin traded near $86,000 as WTI crude dropped below $90 and strong stock markets supported risk appetite.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 86000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
-      "summary": "Bitcoin matched Monday's high near $87,300 before running into selling, while citcoin cash surged 28% on a CME futures listing and ZEC added 9%.",
+      "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
+      "summary": "The $2 billion digital-asset investment firm rolls out an initiative to back, build and provide liquidity to projects bringing real-world yields into DeFi.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 86000,
+      "loss_usd": 2000000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-      "date": "2026-09-23"
+      "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+      "date": "2026-09-24"
     },
     {
-      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
-      "summary": "Your day-ahead look for Sept. 22, 2026",
+      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
+      "summary": "European regulators will map how financial firms use the technologies in client-facing products and begin checks on the most affected businesses.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "summary": "The fraudster managed to scam about 100 people across the United States, convincing them of transferring funds to him, claiming their accounts had been hacked.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 16000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Litecoin token has its moment as network activity booms",
+      "summary": "Your day-ahead look for Sept. 24, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,26 +117,124 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
-      "date": "2026-09-23"
+      "url": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
+      "date": "2026-09-24"
     },
     {
-      "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
-      "summary": "Thirty-eight of the 100 CoinDesk 100 constituents were lower on the day, with bitcoin cash up 32% over 24 hours on a CME futures listing.",
+      "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+      "summary": "The 10-year Treasury yield reached its highest since 2007, sending U.S. stocks and crypto lower before Asian and European traders bought the dip.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 86000,
+      "chain": "Optimism",
+      "loss_usd": 83300,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
-      "date": "2026-09-23"
+      "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+      "date": "2026-09-24"
     },
     {
-      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
-      "summary": "The exchange, co-founded by Arthur Hayes, stopped trading and deposits, but says users can still log in and withdraw funds as its wind-down continues.",
+      "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
+      "summary": "The four-hike path is the most likely outcome, while rising bond yields and a stronger dollar weigh on bitcoin and gold.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 83000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
+      "summary": "Long-term, BTC ignores rising bond yields. In the short term, however, surging bond volatility could easily dampen crypto's animal spirits.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "summary": "Washington is a mulling plan to actively promote USD-backed stablecoins worldwide in a bid to cement the greenback's global reserve status.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+      "summary": "StarkWare, which conducted the research, says contest participants using AI tools made the computation about five times faster, though the $66 figure has not yet been demonstrated in another transaction mined on Bitcoin.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+      "summary": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 84000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 37000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
+      "summary": "Bybit’s global campaign positions it as a broader financial platform, though its stock, gold and forex derivatives were already available.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "EU banking watchdog calls for crypto lending rules under MiCA",
+      "summary": "The EBA outlined potential rules for crypto lending and firms providing access to DeFi protocols as part of the European Commission’s MiCA review.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -186,107 +242,51 @@
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
-      "date": "2026-09-23"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-24"
     },
     {
-      "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-      "summary": "Onchain analysts PeckShield and EmberCN say the funds moved to a Wintermute wallet, but neither a sale nor the purpose of the transfer have been confirmed.",
+      "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
+      "summary": "Bitcoin traded near $83,200 as Fed hike odds reached about 75% and Treasury prepared a $6 billion buyback of long-dated bonds.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 6000000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+      "summary": "US spot Bitcoin ETF inflows slowed to $347 million on Wednesday as Bitcoin fell below $84,000, while five-day inflows reached $2.65 billion.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 2650000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+      "summary": "Every institution interviewed that owned crypto held Bitcoin, usually as its largest asset; some set exit conditions for Ether and Solana.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 75000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
-      "summary": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
-      "summary": "Coinbase now allows users to borrow the USDC stablecoin against their bitcoin at a fixed interest rate and repayment date.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Bitcoin's on a streak it hasn't hit since 2012",
-      "summary": "Bitcoin’s 10% September gain puts it on track for a rare three-month winning streak last seen in 2012.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "summary": "Falling oil eased inflation worries through the Asian session, while a bill to make the government's bitcoin stockpile permanent moved further through Congress than any before it.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 87000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
-      "summary": "EU supervisors warn quantum computing could weaken blockchain security as Bitcoin developers weigh a draft migration plan and Ethereum targets 2029.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-      "summary": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-23"
+      "url": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-24"
     }
   ],
   "errors": [
@@ -296,7 +296,7 @@
     },
     {
       "source": "Halborn",
-      "error": "Status code 429"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7653\nChar: &"
     }
   ]
 }
