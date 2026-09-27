@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26T12:06:30.265Z",
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T12:51:22.877Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -107,6 +107,90 @@
       "date": "2026-09-24"
     },
     {
+      "title": "How months of work on the Clarity Act all fell apart",
+      "summary": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "summary": "The Bitcoin miner has continued to expand its data-center business as well.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 200000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+      "summary": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "summary": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "summary": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "summary": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 83000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "date": "2026-09-26"
+    },
+    {
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
       "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
       "type": "news",
@@ -118,6 +202,34 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+      "summary": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-09-26"
     },
     {
@@ -174,118 +286,6 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-      "summary": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-      "summary": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 318000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Tokenization is moving faster than Washington",
-      "summary": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
-      "summary": "STRC has remained below $100 since May, despite a 12% dividend rate and roughly $1 billion in preferred share buybacks.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 1000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "summary": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "summary": "Your day-ahead look for Sept. 25, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "summary": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 84000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
       "date": "2026-09-25"
     }
   ],
