@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T13:51:03.158Z",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T13:24:54.699Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 69,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
     {
@@ -23,6 +23,76 @@
       "date": "2026-09-29"
     },
     {
+      "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
+      "summary": "Independent directors cite management’s financial risk and restructuring role, but leave questions about Gerovich’s exercised shares and MMXX Ventures unanswered.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+      "summary": "The ChatGPT maker is pursuing fresh funding after delaying its public listing, while expanding its AI tools despite mounting safety concerns.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 30000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+      "summary": "Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
+      "summary": "Robinhood users could soon get an AI agent that trades on their behalf, even at 2 a.m. But if a trade goes wrong, users' bear the risk, not Robinhood.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "summary": "The voluntary accord puts much of the responsibility for managing frontier AI risks on developers.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-30"
+    },
+    {
       "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
       "summary": "The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran’s shadow banking network.",
       "type": "news",
@@ -37,120 +107,8 @@
       "date": "2026-09-29"
     },
     {
-      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
-      "summary": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-      "summary": "The stablecoin payments company said the audit is part of its preparations to go public, disputing an August report that the listing had been put on hold.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
-      "summary": "The SFC and AFRC signed a new MoU extending financial reporting, audit and compliance cooperation to licensed virtual asset service providers.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Bitcoin beats gold, surge to $100,000 in play",
-      "summary": "Your day-ahead look for Sept. 29, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 100000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
-      "summary": "Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
-      "summary": "Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million",
-      "summary": "Ether led a modest recovery among major tokens, while ZEC extended its slide and its U.S. fund posted the only outflow among crypto ETFs on Monday.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 30000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
-      "summary": "The London-based crypto services company confidentially filed for an initial public offering with the Securities and Exchange Commission earlier this year.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 6000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
-      "summary": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
+      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+      "summary": "Petrobras is testing the blockchain in two research projects aimed at preventing emissions benefits from being counted twice and tracing fuel data across production and use.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,12 +117,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
-      "date": "2026-09-29"
+      "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+      "date": "2026-09-30"
     },
     {
-      "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
-      "summary": "Why yields are rising matters more for bitcoin than how high they go.",
+      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
+      "summary": "Your day-ahead look for Sept. 30, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -173,40 +131,68 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
-      "date": "2026-09-29"
+      "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+      "date": "2026-09-30"
     },
     {
-      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-      "summary": "The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.",
+      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
+      "summary": "Three transfers pushed about 15% of the stolen ZEC into Ironwood, where payments hide their senders, recipients and amounts.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 50000000,
+      "loss_usd": 4000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
-      "date": "2026-09-29"
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+      "date": "2026-09-30"
     },
     {
-      "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
-      "summary": "Anthropic's prospectus seen by Reuters shows big spending plans despite heavy losses. Still, pre-IPO perps barely moved on cryptocurrency exchanges.",
+      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
+      "summary": "If ownership data is split across a token wrapper, a special-purpose vehicle (SPV), a broker’s internal ledger and a transfer agent's off-chain database, we are setting the stage for a Paperwork Crisis for the blockchain age, argues Fairmint’s Joris Delanoue.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "summary": "Six companies signed a safety pact covering hacking and biological threats, with no penalties or deadline for putting the checks in place.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
+      "summary": "Core PCE prices rose just 0.2% in August versus the 0.3% forecast, and were higher by 3% year-over-year versus the 3.3% estimate.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 518000000000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
-      "date": "2026-09-29"
+      "url": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
+      "date": "2026-09-30"
     },
     {
-      "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
-      "summary": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.",
+      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+      "summary": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -215,26 +201,12 @@
       "chain": "Optimism",
       "loss_usd": 83000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
-      "date": "2026-09-29"
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
+      "date": "2026-09-30"
     },
     {
-      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
-      "summary": "An October pullback could offer a buying opportunity before Bitcoin’s next cycle peak, which Brandt expects between $300,000 and $600,000. He’s not sold on “fool coin” XRP.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 600000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+      "summary": "The new Zakura nodes caught up with the network in just over six hours in Gemini’s deployments. The crypto exchange’s previous software took close to a day.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -242,13 +214,13 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-29"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
+      "date": "2026-09-30"
     },
     {
-      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
-      "summary": "CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.",
+      "title": "Bitcoin bulls have one price level to defend",
+      "summary": "Here's the level analysts are watching and what a break below it could mean for the bulls.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -256,13 +228,27 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-29"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
+      "date": "2026-09-30"
     },
     {
-      "title": "ECB puts AI agent payments on the digital euro drawing board",
-      "summary": "The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.",
+      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+      "summary": "The regulated operator is mirroring ownership of selected investment funds on XRPL while keeping its existing database as the official record.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
+      "summary": "A trend guage tracked on onchain analysis firm CryptoQuant is near its ceiling. The buyers who drove BTC to an eight-month high are already pulling back.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -270,23 +256,37 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-29"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
+      "date": "2026-09-30"
     },
     {
-      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-      "summary": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
+      "title": "Singapore crypto activity grows 55% as broader region contracts",
+      "summary": "Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood out for small-value P2P transfers.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
-      "loss_usd": 3300000000,
+      "chain": "",
+      "loss_usd": 284000000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-09-29"
+      "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
+      "summary": "Crypto businesses should apply by Feb. 28, 2027, while existing money laundering registrations will not convert into FCA authorization.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-09-30"
     }
   ],
   "errors": [
