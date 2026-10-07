@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T15:39:50.959Z",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:17:59.727Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,32 +9,18 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
-      "summary": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "summary": "Sepolia marks one of the final major rehearsals before the final activation of Glamsterdam, aimed at bringing more efficiency and scalability to the Ethereum mainnet.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-      "summary": "A stronger dollar and rising bond yields could be headwinds as fiscal concerns in France and political uncertainty in Spain weigh on the euro.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-      "date": "2026-10-05"
+      "url": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-06"
     },
     {
       "title": "SequenceHash: multihashing for the rest of us",
@@ -51,148 +37,22 @@
       "date": "2026-10-02"
     },
     {
-      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "summary": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "summary": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers.",
       "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-      "summary": "Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded shell at nearly four times its roughly $10.50 trust value before merging with Evernorth, an XPR treasury company.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-      "summary": "Your day-ahead look for Oct. 5, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-      "summary": "The Treasury Department said the network raised more than $2 million through purported humanitarian charities, including hundreds of thousands of dollars sent in crypto.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 2000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "summary": "The Japanese firm sold 10,000 BTC before buying 11,000 BTC, demonstrating liquidity as it seeks recurring income from preferred securities.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Live updates: Bitcoin under pressure as rates continue to rise",
-      "summary": "Friday's soft employment report alone isn't likely to push the Fed off its rate-hike cycle.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Cardano's ADA leads gains in narrow range-bound market",
-      "summary": "In traditional markets, the U.S. Dollar Index jumped to 102.53 early today, the highest since April 2025, extending its rise from the Sept. 9 low of 98.60.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting Oct. 5.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "summary": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.",
-      "type": "news",
-      "severity": "low",
+      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-      "date": "2026-10-05"
+      "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+      "date": "2026-10-07"
     },
     {
-      "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-      "summary": "Key price averages are on the verge of confirming a major bullish configuration for the first time in over a year.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-      "summary": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.",
+      "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+      "summary": "Tom Lee said Bitmine will be “done stacking” once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -201,12 +61,26 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-      "date": "2026-10-05"
+      "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+      "date": "2026-10-07"
     },
     {
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "summary": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "summary": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves further onchain.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 100000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "summary": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift’s tokenized-deposit network, Taurus’s Lamine Brahimi said.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -215,26 +89,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-      "date": "2026-10-05"
+      "url": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+      "date": "2026-10-07"
     },
     {
-      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-      "summary": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-      "summary": "Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall.",
+      "title": "Here’s what bitcoin needs to break above $87,000",
+      "summary": "Your day-ahead look for Oct. 7, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -243,12 +103,110 @@
       "chain": "",
       "loss_usd": 87000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-      "date": "2026-10-05"
+      "url": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+      "date": "2026-10-07"
     },
     {
-      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
-      "summary": "Ether beat bitcoin in the third quarter, but its market liquidity got thinner, according to Coingecko.",
+      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
+      "summary": "Ether underperformed, losing 6% after Tom Lee said Bitmine would soon stop purchasing additional ETH.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 83000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
+      "summary": "Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 84000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "summary": "Bitcoin fell below $84,000 as oil climbed on Iranian tanker attacks, while smaller tokens fell harder and liquidations rose to $547 million.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 547000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "summary": "The stablecoin payments company’s proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Robinhood adds $25 million of bitcoin to its balance sheet",
+      "summary": "Robinhood has added bitcoin worth $25 million to its balance sheet, senior vice president and general manager of crypto and international, told the Starting Block Wednesday.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 25000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+      "summary": "Bitcoin dipped to around $84,200 on Wednesday but stayed inside its recent range, keeping the broader bullish stair-step trajectory intact.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 84200,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "summary": "Wallets linked to the U.S. government moved millions in crypto on Tuesday, according to data tracked by Arkham.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "BSC",
+      "loss_usd": 100000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+      "summary": "The consumer-focused blockchain will close Dec. 15 after Igloo spent tens of millions supporting it, days after Blast said its own network was no longer worth operating.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -257,12 +215,40 @@
       "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
-      "date": "2026-10-05"
+      "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+      "date": "2026-10-07"
     },
     {
-      "title": "Bitcoin price fails to break higher after best weekly close in eight months",
-      "summary": "Bitcoin’s highest weekly close in eight months formed low-timeframe resistance at the start of Monday’s US trading session.",
+      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+      "summary": "The new standard is aimed at regulated stablecoins, funds and bonds whose issuers need identity checks, sanctions controls and other transfer rules built into the asset itself.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "summary": "Bitcoin briefly broke under the level analysts flagged as the point where sellers take over. Oil and the dollar both climbed.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 84000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -271,12 +257,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-05"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-07"
     },
     {
-      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-      "summary": "Metaplanet revealed a revised capital allocation framework proposing to allocate as much as 15% of total assets to strategic investments to fund its Bitcoin accumulation.",
+      "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO ",
+      "summary": "Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to Polymarket’s Shayne Coplan.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +271,22 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-05"
+      "url": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Crypto card access doesn’t match global demand, Tangem says",
+      "summary": "Crypto card demand can be stronger where access is harder, Tangem says, as it expands its Visa payment offering, allowing users to spend from its self-custodial wallet.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-07"
     }
   ],
   "errors": [
@@ -296,7 +296,7 @@
     },
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 7653\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7760\nChar: &"
     }
   ]
 }
