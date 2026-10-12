@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T13:22:48.465Z",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:34:25.100Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,6 +8,48 @@
   "items_found": 69,
   "items_curated": 20,
   "items": [
+    {
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Oct. 12.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Coldcard says it’s investigating how phishing link appeared on its X account  ",
+      "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-11"
+    },
     {
       "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
       "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
@@ -23,32 +65,46 @@
       "date": "2026-10-10"
     },
     {
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "summary": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows.",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "summary": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
       "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner  ",
-      "summary": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos.",
-      "type": "news",
-      "severity": "high",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
+      "summary": "Bitcoin reversed early gains as oil bounced back to over $92. Analysts express concerns over large outflows from spot ETFs last week.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 600000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-09"
+      "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-12"
     },
     {
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
@@ -94,7 +150,7 @@
     },
     {
       "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "summary": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.",
+      "summary": "Recent incidents at OpenAI ‌and Anthropic stoke global concerns and fears that rogue AI agents may venture beyond human control.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -105,20 +161,6 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-10-10"
-    },
-    {
-      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-      "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-      "date": "2026-10-09"
     },
     {
       "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
@@ -135,48 +177,6 @@
       "date": "2026-10-09"
     },
     {
-      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-      "summary": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 6000000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "IMF warns tokenized markets could amplify financial risks",
-      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-08"
-    },
-    {
       "title": "SequenceHash: multihashing for the rest of us",
       "summary": "Multihashing is one of those cryptographic tasks that’s easy not to think about too much. This is unfortunate, because multihashing is a common stumbling point when cryptographers try to use hashes. As part of our goal to “fix software, not bugs,” Trail of Bits is introducing Seq",
       "type": "analysis",
@@ -191,8 +191,8 @@
       "date": "2026-10-02"
     },
     {
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -201,40 +201,68 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "date": "2026-10-10"
+      "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+      "date": "2026-10-12"
     },
     {
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "summary": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+      "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 150000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 93000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
+      "summary": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 0,
+      "loss_usd": 83000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "date": "2026-10-10"
+      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+      "date": "2026-10-12"
     },
     {
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "summary": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -242,51 +270,23 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-10"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+      "date": "2026-10-12"
     },
     {
-      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
+      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
+      "summary": "Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "date": "2026-10-09"
+      "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+      "date": "2026-10-12"
     }
   ],
   "errors": [
