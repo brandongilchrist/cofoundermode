@@ -1,72 +1,44 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T13:02:16.704Z",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T13:52:47.874Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 66,
+  "items_found": 67,
   "items_curated": 20,
   "items": [
     {
-      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
+      "title": "Cybersecurity’s Black October: How to protect yourself ",
+      "summary": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
-      "chain": "Ethereum",
+      "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+      "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 16000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-10-27"
     },
     {
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029 ",
-      "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week ",
-      "summary": "Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 80000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-      "summary": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030.",
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+      "summary": "A Euronext spokesperson told Cointelegraph the suspension was due to “operational settlement requirements” and remains in effect until settlement operations are supported by the CSD.",
       "type": "news",
       "severity": "medium",
       "tags": [
@@ -75,8 +47,22 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-26"
+      "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "summary": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-28"
     },
     {
       "title": "SequenceHash: multihashing for the rest of us",
@@ -93,8 +79,8 @@
       "date": "2026-10-02"
     },
     {
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "summary": "Your day-ahead look for Oct. 27, 2026",
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -103,26 +89,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-      "date": "2026-10-27"
+      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "date": "2026-10-28"
     },
     {
-      "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
-      "summary": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "summary": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 80000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-      "date": "2026-10-27"
+      "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+      "date": "2026-10-28"
     },
     {
-      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
-      "summary": "CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has slowed corporate adoption.",
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "summary": "Your day-ahead look for Oct. 28, 2026",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "summary": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,162 +131,162 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-      "date": "2026-10-27"
+      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "date": "2026-10-28"
     },
     {
-      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-      "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 81000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
+      "summary": "HYPE and ZEC led a broad bounce, with every top token in the green hours before the Federal Reserve’s rate call.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 80000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-      "date": "2026-10-27"
+      "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+      "date": "2026-10-28"
     },
     {
-      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach ",
-      "summary": "The breach exposed 25,964 buyer records, some kept past Keystone’s 180-day deletion policy after an automated tool failed without the firm noticing.",
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "summary": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "summary": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 45000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+      "summary": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+      "summary": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 92200000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
       "type": "news",
       "severity": "critical",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Ethereum",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-      "date": "2026-10-27"
+      "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "date": "2026-10-28"
     },
     {
-      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
-      "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 57000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Now is the time to accumulate bitcoin, Galaxy says",
-      "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin’s recovery towards its previous high.",
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 81000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "An AI label alone no longer wins lenders, JPMorgan says",
-      "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-      "summary": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "summary": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 125000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant ",
-      "summary": "A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
-      "summary": "Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 125000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn ",
-      "summary": "Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 953000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-27"
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "date": "2026-10-28"
     }
   ],
   "errors": [
