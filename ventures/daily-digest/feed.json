@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T13:52:47.874Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T13:59:02.431Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 67,
+  "items_found": 68,
   "items_curated": 20,
   "items": [
     {
@@ -23,18 +23,74 @@
       "date": "2026-10-28"
     },
     {
-      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-      "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
+      "title": "The chart bitcoin traders should be paying attention to",
+      "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
       "type": "news",
-      "severity": "high",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 16000000,
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+      "summary": "Bitcoin fell below $80,000 as Alphabet and Samsung-drove tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 356000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K ",
+      "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 85000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-27"
+      "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "date": "2026-10-28"
     },
     {
       "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
@@ -48,20 +104,6 @@
       "loss_usd": 0,
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Discord is making public chats searchable on Google: How to opt out",
-      "summary": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-10-28"
     },
     {
@@ -79,50 +121,8 @@
       "date": "2026-10-02"
     },
     {
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
-      "summary": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
-      "summary": "Your day-ahead look for Oct. 28, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-      "summary": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.",
+      "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+      "summary": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -131,26 +131,152 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-      "date": "2026-10-28"
+      "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
+      "date": "2026-10-29"
     },
     {
-      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
+      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+      "summary": "Five more companies have objected, bringing the total to 38 as a rival Canton venue prepares to launch with an issuer-sponsored stock under the SEC's innovation exemption.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 81000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-      "date": "2026-10-28"
+      "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
+      "date": "2026-10-29"
     },
     {
-      "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
-      "summary": "HYPE and ZEC led a broad bounce, with every top token in the green hours before the Federal Reserve’s rate call.",
+      "title": "A new framework for tokenized asset tracking",
+      "summary": "None of the numbers most commonly used to assess tokenized assets answer the question a chief investment officer would ask about those assets on her own balance sheet: what is it doing for me?",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
+      "summary": "The venue, called TSV LLC, plans to start trading shares Canton Strategic Holdings shares as early as Monday, using issuer-sponsored tokenization that avoids the 30-day company objection window.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+      "summary": "Russian nationals Ilya Boykov and Vitold Obertas allegedly converted about $3.5 million and nearly $2 million in crypto, respectively, for North Korea.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 3500000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+      "summary": "Your day-ahead look for Oct. 29, 2026",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 10000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+      "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed’s preferred inflation gauge is due later today.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 80000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+      "summary": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ].",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
+      "summary": "HOOD fell 3.3% on Wednesday, broadening its one-month decline to more than 23%.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+      "summary": "About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Solana",
+      "loss_usd": 160000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+      "summary": "Coming shortly is a key government inflation report; coming after the close on Thursday are quarterly earnings from the leading corporate bitcoin holder, Strategy.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 80000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+      "summary": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,134 +285,8 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Google to preview crypto custody security system as AI threats grow",
-      "summary": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "summary": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 45000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "summary": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-      "summary": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 92200000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 81000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-      "date": "2026-10-28"
+      "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+      "date": "2026-10-29"
     }
   ],
   "errors": [
