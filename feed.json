@@ -1,114 +1,254 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:13:11.892Z",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T14:50:33.966Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
   "sources_failed": 2,
-  "items_found": 69,
+  "items_found": 70,
   "items_curated": 20,
   "items": [
     {
-      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-      "summary": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10.",
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+      "summary": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.",
+      "type": "news",
+      "severity": "high",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 15000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "summary": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 264000,
+      "chain": "Ethereum",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-04"
+      "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-06"
     },
     {
-      "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater ",
-      "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
+      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+      "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
       "type": "news",
       "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 77700,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-03"
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+      "date": "2026-11-05"
     },
     {
-      "title": "The election changes Washington. The work on crypto continues",
-      "summary": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "summary": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
       "type": "news",
-      "severity": "low",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
-      "chain": "",
+      "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-      "date": "2026-11-04"
+      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+      "date": "2026-11-05"
     },
     {
-      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-      "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-      "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-      "summary": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
-      "type": "news",
+      "title": "After Binance, check what your signing systems can approve",
+      "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a valid signature grants an attacker wallet authority? If an organization only monitors transfers and ownership changes, it",
+      "type": "analysis",
       "severity": "critical",
       "tags": [
+        "audit"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "Trail of Bits",
+      "url": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "summary": "Your day-ahead look for Nov. 6, 2026",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+      "summary": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "summary": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 430000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
         "defi"
       ],
       "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-      "date": "2026-11-04"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-06"
     },
     {
-      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-      "summary": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 226000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Here's how analysts are reacting to the new blue Congress",
-      "summary": "Your day-ahead look for Nov. 4, 2026",
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -116,41 +256,13 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
-      "date": "2026-11-04"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-06"
     },
     {
-      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-      "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 75600,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
-      "summary": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 133000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-      "summary": "Texas election result raises fears of data centre restrictions, while Musk and Palihapitiya draw attention to the space economy.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -158,135 +270,23 @@
       ],
       "chain": "",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
-      "date": "2026-11-04"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-06"
     },
     {
-      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-      "summary": "The bank's announcement follows the launch of the Depository Trust & Clearing Corporation’s Tokenization Service, or DTS, on Oct. 28.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-      "summary": "The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-      "summary": "Crypto prices reversed overnight losses following the Blue Wave landslide for the Democratic Party.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 78300,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
+      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report ",
+      "summary": "Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Solana",
-      "loss_usd": 764000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-      "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
       "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
-      "summary": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-      "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 75700,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
-      "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-      "date": "2026-11-04"
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-06"
     }
   ],
   "errors": [
@@ -296,7 +296,7 @@
     },
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 7762\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 7543\nChar: &"
     }
   ]
 }
