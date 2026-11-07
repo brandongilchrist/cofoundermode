@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:50:33.966Z",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T13:46:51.404Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -79,6 +79,62 @@
       "date": "2026-11-05"
     },
     {
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "summary": "US  also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 20000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-07"
+    },
+    {
       "title": "After Binance, check what your signing systems can approve",
       "summary": "Binance’s October 2026 security incident raises an operational question for every organization holding user funds: Can your security controls recognize when a valid signature grants an attacker wallet authority? If an organization only monitors transfers and ownership changes, it",
       "type": "analysis",
@@ -90,6 +146,48 @@
       "loss_usd": 0,
       "source": "Trail of Bits",
       "url": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
       "date": "2026-11-06"
     },
     {
@@ -135,15 +233,15 @@
       "date": "2026-11-06"
     },
     {
-      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
-      "summary": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
+      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+      "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 76000,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
       "date": "2026-11-06"
@@ -188,104 +286,6 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report ",
-      "summary": "Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-11-06"
     }
   ],
