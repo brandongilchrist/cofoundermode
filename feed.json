@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T17:15:56.827Z",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:27:27.726Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -23,36 +23,36 @@
       "date": "2026-11-09"
     },
     {
-      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
-      "summary": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
       "type": "news",
-      "severity": "high",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 75000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
+      "type": "news",
+      "severity": "medium",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-09"
+      "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-10"
     },
     {
-      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
-      "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 120000000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "summary": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -61,96 +61,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "date": "2026-11-10"
     },
     {
-      "title": "Google’s AI chip push adds more pressure on Nvidia",
-      "summary": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
-      "type": "news",
-      "severity": "critical",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 6300000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "summary": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Avalanche",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "summary": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "Bitcoin bulls can't rely on ETF flows",
-      "summary": "Your day-ahead look for Nov. 9, 2026",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "Nvidia-led tech selloff weighs on crypto majors",
-      "summary": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.",
+      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "summary": "A December rate hike appears completely assured, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,12 +75,12 @@
       "chain": "Optimism",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+      "date": "2026-11-10"
     },
     {
-      "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
-      "summary": "The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues.",
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "summary": "Asch is stepping down as head of the institutional prime brokerage.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -173,12 +89,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+      "date": "2026-11-10"
     },
     {
-      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-      "summary": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "summary": "Your day-ahead look for Nov. 10, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -187,106 +103,190 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+      "date": "2026-11-10"
     },
     {
-      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
-      "summary": "Your look at what’s coming in the week starting Nov. 9.",
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "summary": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
+      "loss_usd": 201000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+      "date": "2026-11-10"
     },
     {
-      "title": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant",
-      "summary": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "summary": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 24000000000,
+      "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+      "date": "2026-11-10"
     },
     {
-      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-      "summary": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
+      "title": "Live news: Bitcoin trading near $74,000 after disappointing inflation data",
+      "summary": "A rate hike in December appears totally assured now, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
       "type": "news",
-      "severity": "critical",
+      "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Solana",
-      "loss_usd": 270000000,
+      "chain": "Optimism",
+      "loss_usd": 74000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+      "date": "2026-11-10"
     },
     {
-      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-      "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "summary": "The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual futures, all already available through Telegram.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+      "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "summary": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Ethereum",
-      "loss_usd": 0,
+      "loss_usd": 4600000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+      "date": "2026-11-10"
     },
     {
-      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-      "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
-      "loss_usd": 0,
+      "chain": "Solana",
+      "loss_usd": 1100000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
-      "date": "2026-11-09"
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+      "date": "2026-11-10"
     },
     {
-      "title": "Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "summary": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
       "type": "news",
       "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-      "summary": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.",
-      "type": "news",
-      "severity": "critical",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 6300000000,
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+      "summary": "The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland’s national sanctions list.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-09"
+      "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+      "summary": "Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+      "summary": "Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "summary": "Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whether US exchanges can list perpetual futures tied to individual stocks.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-10"
     }
   ],
   "errors": [
@@ -296,7 +296,7 @@
     },
     {
       "source": "Halborn",
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 7543\nChar: &"
+      "error": "Invalid character in entity name\nLine: 0\nColumn: 5936\nChar: &"
     }
   ]
 }
