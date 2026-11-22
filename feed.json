@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T15:09:03.422Z",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:06:31.835Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -8,20 +8,6 @@
   "items_found": 68,
   "items_curated": 20,
   "items": [
-    {
-      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "summary": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-      "date": "2026-11-20"
-    },
     {
       "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
       "summary": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.",
@@ -77,6 +63,118 @@
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "2026-11-20"
+    },
+    {
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "summary": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Multi-chain",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 17000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Ethereum",
+      "loss_usd": 0,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 12000000,
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 1800000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
+      "type": "news",
+      "severity": "critical",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Multi-chain",
+      "loss_usd": 4860000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "date": "2026-11-21"
     },
     {
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -135,20 +233,6 @@
       "date": "2026-11-21"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-21"
-    },
-    {
       "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
       "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
       "type": "news",
@@ -202,90 +286,6 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play ",
-      "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 59000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-      "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-      "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
-      "loss_usd": 541100000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-      "date": "2026-11-20"
-    },
-    {
-      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-      "summary": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
       "date": "2026-11-20"
     }
   ],
