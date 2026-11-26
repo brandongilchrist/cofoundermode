@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T17:51:14.078Z",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T17:35:21.537Z",
   "curated_by": "CSO Sentinel + CRO Horizon",
   "pipeline_version": "1.0.0",
   "sources_checked": 6,
@@ -9,32 +9,18 @@
   "items_curated": 20,
   "items": [
     {
-      "title": "Solana developers move to stop validators finishing work on blocks that already lost",
-      "summary": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.",
-      "type": "news",
-      "severity": "high",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
-      "summary": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.",
+      "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+      "summary": "Sky’s Core Facilitator invoked the protocol’s emergency response process to expedite a vote rather than wait until the next scheduled vote on Dec. 3.",
       "type": "news",
       "severity": "high",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 50000000,
+      "loss_usd": 25000000,
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-24"
+      "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "2026-11-26"
     },
     {
       "title": "PHP2Shell Explained: What CVE-2026-109618 and CVE-2026-109619 Mean for Digital Asset Organizations",
@@ -51,6 +37,20 @@
       "date": "2026-11-02"
     },
     {
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "summary": "The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open.",
+      "type": "news",
+      "severity": "medium",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "date": "2026-11-25"
+    },
+    {
       "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
       "summary": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat.",
       "type": "news",
@@ -62,20 +62,6 @@
       "loss_usd": 0,
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
-      "summary": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
       "date": "2026-11-25"
     },
     {
@@ -93,64 +79,36 @@
       "date": "2026-11-25"
     },
     {
-      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
-      "summary": "Senators also rejected stablecoin-swap and crypto exit-tax proposals, while the 2027 budget remains under parliamentary consideration.",
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
       "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-25"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "date": "2026-11-26"
     },
     {
-      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
-      "summary": "The president’s remarks come days before Jensen Huang is due to face congressional questioning over national security concerns and US chip export controls.",
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
       "type": "news",
-      "severity": "medium",
+      "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Solana",
-      "loss_usd": 0,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-      "summary": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
-      "type": "news",
-      "severity": "medium",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Optimism",
       "loss_usd": 60000,
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "2026-11-24"
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "date": "2026-11-26"
     },
     {
-      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-      "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.",
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "summary": "No summary available.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -159,54 +117,26 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
-      "date": "2026-11-25"
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+      "date": "2026-11-26"
     },
     {
-      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-      "summary": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols.",
+      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+      "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
-      "chain": "Optimism",
+      "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-      "date": "2026-11-25"
+      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+      "date": "2026-11-26"
     },
     {
-      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-      "summary": "Lawmaker Yaroslav Zhelezniak said he expects roughly $330 million (15 billion hryvnias) in added budget revenue, though the time frame remains unclear.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 330000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
-      "summary": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip Lord of Bitcoin Japan explains how yen funding conditions reach bitcoin, and the shareholder test Japanese companies' bitcoin tre",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 250000000000,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-      "summary": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams.",
+      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+      "summary": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian, which said no unauthorized transactions took place.",
       "type": "news",
       "severity": "critical",
       "tags": [
@@ -215,12 +145,12 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
-      "date": "2026-11-25"
+      "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+      "date": "2026-11-26"
     },
     {
-      "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-      "summary": "Your day-ahead look for Nov. 25, 2026",
+      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "summary": "Your day-ahead look for Nov. 26, 2026",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -229,54 +159,40 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-      "date": "2026-11-25"
+      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "date": "2026-11-26"
     },
     {
-      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-      "summary": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "Ethereum",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-      "summary": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital.",
-      "type": "news",
-      "severity": "low",
-      "tags": [
-        "defi"
-      ],
-      "chain": "",
-      "loss_usd": 0,
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
-      "summary": "Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found.",
+      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+      "summary": "The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse.",
       "type": "news",
       "severity": "low",
       "tags": [
         "defi"
       ],
       "chain": "Optimism",
-      "loss_usd": 54700000000,
+      "loss_usd": 17000000,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-      "date": "2026-11-25"
+      "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+      "date": "2026-11-26"
     },
     {
-      "title": "Live updates: Bitcoin climbs from lows as markets attempt midday bounce",
-      "summary": "The Nasdaq narrowed an early 4.5% decline by about 50% as Michael Burry announced he's closed all tech shorts and gone long.",
+      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+      "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 60800,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+      "summary": "U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review.",
       "type": "news",
       "severity": "low",
       "tags": [
@@ -285,8 +201,92 @@
       "chain": "",
       "loss_usd": 0,
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-      "date": "2026-11-25"
+      "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+      "summary": "AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 1400000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+      "summary": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 7000000000,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
+      "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+      "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+      "summary": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "Optimism",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
+      "type": "news",
+      "severity": "low",
+      "tags": [
+        "defi"
+      ],
+      "chain": "",
+      "loss_usd": 0,
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+      "date": "2026-11-26"
     }
   ],
   "errors": [
